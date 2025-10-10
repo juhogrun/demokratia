@@ -1,0 +1,14098 @@
+{
+  "c": [
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "GNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n\nCopyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>\n\nEveryone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.\n\nPreamble\nThe GNU General Public License is a free, copyleft license for software and other kinds of works.\n\nThe licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users. We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors. You can apply it to your programs, too.\n\nWhen we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.\n\nTo protect your rights, we need to prevent others from denying you these rights or asking you to surrender the rights. Therefore, you have certain responsibilities if you distribute copies of the software, or if you modify it: responsibilities to respect the freedom of others.\n\nFor example, if you distribute copies of such a program, whether gratis or for a fee, you must pass on to the recipients the same freedoms that you received. You must make sure that they, too, receive or can get the source code. And you must show them these terms so they know their rights.\n\nDevelopers that use the GNU GPL protect your rights with two steps: (1) assert copyright on the software, and (2) offer you this License giving you legal permission to copy, distribute and/or modify it.\n\nFor the developers' and authors' protection, the GPL clearly explains that there is no warranty for this free software. For both users' and authors' sake, the GPL requires that modified versions be marked as changed, so that their problems will not be attributed erroneously to authors of previous versions.\n\nSome devices are designed to deny users access to install or run modified versions of the software inside them, although the manufacturer can do so. This is fundamentally incompatible with the aim of protecting users' freedom to change the software. The systematic pattern of such abuse occurs in the area of products for individuals to use, which is precisely where it is most unacceptable. Therefore, we have designed this version of the GPL to prohibit the practice for those products. If such problems arise substantially in other domains, we stand ready to extend this provision to those domains in future versions of the GPL, as needed to protect the freedom of users.\n\nFinally, every program is threatened constantly by software patents. States should not allow patents to restrict development and use of software on general-purpose computers, but in those that do, we wish to avoid the special danger that patents applied to a free program could make it effectively proprietary. To prevent this, the GPL assures that patents cannot be used to render the program non-free.\n\nThe precise terms and conditions for copying, distribution and modification follow.\n\nTERMS AND CONDITIONS\n0. Definitions.\n“This License” refers to version 3 of the GNU General Public License.\n\n“Copyright” also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.\n\n“The Program” refers to any copyrightable work licensed under this License. Each licensee is addressed as “you”. “Licensees” and “recipients” may be individuals or organizations.\n\nTo “modify” a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy. The resulting work is called a “modified version” of the earlier work or a work “based on” the earlier work.\n\nA “covered work” means either the unmodified Program or a work based on the Program.\n\nTo “propagate” a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy. Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.\n\nTo “convey” a work means any kind of propagation that enables other parties to make or receive copies. Mere interaction with a user through a computer network, with no transfer of a copy, is not conveying.\n\nAn interactive user interface displays “Appropriate Legal Notices” to the extent that it includes a convenient and prominently visible feature that (1) displays an appropriate copyright notice, and (2) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License. If the interface presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.\n\n1. Source Code.\nThe “source code” for a work means the preferred form of the work for making modifications to it. “Object code” means any non-source form of a work.\n\nA “Standard Interface” means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces specified for a particular programming language, one that is widely used among developers working in that language.\n\nThe “System Libraries” of an executable work include anything, other than the work as a whole, that (a) is included in the normal form of packaging a Major Component, but which is not part of that Major Component, and (b) serves only to enable use of the work with that Major Component, or to implement a Standard Interface for which an implementation is available to the public in source code form. A “Major Component”, in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object code interpreter used to run it.\n\nThe “Corresponding Source” for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities. However, it does not include the work's System Libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the work. For example, Corresponding Source includes interface definition files associated with source files for the work, and the source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require, such as by intimate data communication or control flow between those subprograms and other parts of the work.\n\nThe Corresponding Source need not include anything that users can regenerate automatically from other parts of the Corresponding Source.\n\nThe Corresponding Source for a work in source code form is that same work.\n\n2. Basic Permissions.\nAll rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met. This License explicitly affirms your unlimited permission to run the unmodified Program. The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work. This License acknowledges your rights of fair use or other equivalent, as provided by copyright law.\n\nYou may make, run and propagate covered works that you do not convey, without conditions so long as your license otherwise remains in force. You may convey covered works to others for the sole purpose of having them make modifications exclusively for you, or provide you with facilities for running those works, provided that you comply with the terms of this License in conveying all material for which you do not control copyright. Those thus making or running the covered works for you must do so exclusively on your behalf, under your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.\n\nConveying under any other circumstances is permitted solely under the conditions stated below. Sublicensing is not allowed; section 10 makes it unnecessary.\n\n3. Protecting Users' Legal Rights From Anti-Circumvention Law.\nNo covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under article 11 of the WIPO copyright treaty adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention of such measures.\n\nWhen you convey a covered work, you waive any legal power to forbid circumvention of technological measures to the extent such circumvention is effected by exercising rights under this License with respect to the covered work, and you disclaim any intention to limit operation or modification of the work as a means of enforcing, against the work's users, your or third parties' legal rights to forbid circumvention of technological measures.\n\n4. Conveying Verbatim Copies.\nYou may convey verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License and any non-permissive terms added in accord with section 7 apply to the code; keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Program.\n\nYou may charge any price or no price for each copy that you convey, and you may offer support or warranty protection for a fee.\n\n5. Conveying Modified Source Versions.\nYou may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of section 4, provided that you also meet all of these conditions:\n\na) The work must carry prominent notices stating that you modified it, and giving a relevant date.\nb) The work must carry prominent notices stating that it is released under this License and any conditions added under section 7. This requirement modifies the requirement in section 4 to “keep intact all notices”.\nc) You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy. This License will therefore apply, along with any applicable section 7 additional terms, to the whole of the work, and all its parts, regardless of how they are packaged. This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.\nd) If the work has interactive user interfaces, each must display Appropriate Legal Notices; however, if the Program has interactive interfaces that do not display Appropriate Legal Notices, your work need not make them do so.\nA compilation of a covered work with other separate and independent works, which are not by their nature extensions of the covered work, and which are not combined with it such as to form a larger program, in or on a volume of a storage or distribution medium, is called an “aggregate” if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit. Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.\n\n6. Conveying Non-Source Forms.\nYou may convey a covered work in object code form under the terms of sections 4 and 5, provided that you also convey the machine-readable Corresponding Source under the terms of this License, in one of these ways:\n\na) Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by the Corresponding Source fixed on a durable physical medium customarily used for software interchange.\nb) Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid for as long as you offer spare parts or customer support for that product model, to give anyone who possesses the object code either (1) a copy of the Corresponding Source for all the software in the product that is covered by this License, on a durable physical medium customarily used for software interchange, for a price no more than your reasonable cost of physically performing this conveying of source, or (2) access to copy the Corresponding Source from a network server at no charge.\nc) Convey individual copies of the object code with a copy of the written offer to provide the Corresponding Source. This alternative is allowed only occasionally and noncommercially, and only if you received the object code with such an offer, in accord with subsection 6b.\nd) Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge. You need not require recipients to copy the Corresponding Source along with the object code. If the place to copy the object code is a network server, the Corresponding Source may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear directions next to the object code saying where to find the Corresponding Source. Regardless of what server hosts the Corresponding Source, you remain obligated to ensure that it is available for as long as needed to satisfy these requirements.\ne) Convey the object code using peer-to-peer transmission, provided you inform other peers where the object code and Corresponding Source of the work are being offered to the general public at no charge under subsection 6d.\nA separable portion of the object code, whose source code is excluded from the Corresponding Source as a System Library, need not be included in conveying the object code work.\n\nA “User Product” is either (1) a “consumer product”, which means any tangible personal property which is normally used for personal, family, or household purposes, or (2) anything designed or sold for incorporation into a dwelling. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. For a particular product received by a particular user, “normally used” refers to a typical or common use of that class of product, regardless of the status of the particular user or of the way in which the particular user actually uses, or expects or is expected to use, the product. A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.\n\n“Installation Information” for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source. The information must suffice to ensure that the continued functioning of the modified object code is in no case prevented or interfered with solely because modification has been made.\n\nIf you convey an object code work under this section in, or with, or specifically for use in, a User Product, and the conveying occurs as part of a transaction in which the right of possession and use of the User Product is transferred to the recipient in perpetuity or for a fixed term (regardless of how the transaction is characterized), the Corresponding Source conveyed under this section must be accompanied by the Installation Information. But this requirement does not apply if neither you nor any third party retains the ability to install modified object code on the User Product (for example, the work has been installed in ROM).\n\nThe requirement to provide Installation Information does not include a requirement to continue to provide support service, warranty, or updates for a work that has been modified or installed by the recipient, or for the User Product in which it has been modified or installed. Access to a network may be denied when the modification itself materially and adversely affects the operation of the network or violates the rules and protocols for communication across the network.\n\nCorresponding Source conveyed, and Installation Information provided, in accord with this section must be in a format that is publicly documented (and with an implementation available to the public in source code form), and must require no special password or key for unpacking, reading or copying.\n\n7. Additional Terms.\n“Additional permissions” are terms that supplement the terms of this License by making exceptions from one or more of its conditions. Additional permissions that are applicable to the entire Program shall be treated as though they were included in this License, to the extent that they are valid under applicable law. If additional permissions apply only to part of the Program, that part may be used separately under those permissions, but the entire Program remains governed by this License without regard to the additional permissions.\n\nWhen you convey a copy of a covered work, you may at your option remove any additional permissions from that copy, or from any part of it. (Additional permissions may be written to require their own removal in certain cases when you modify the work.) You may place additional permissions on material, added by you to a covered work, for which you have or can give appropriate copyright permission.\n\nNotwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms:\n\na) Disclaiming warranty or limiting liability differently from the terms of sections 15 and 16 of this License; or\nb) Requiring preservation of specified reasonable legal notices or author attributions in that material or in the Appropriate Legal Notices displayed by works containing it; or\nc) Prohibiting misrepresentation of the origin of that material, or requiring that modified versions of such material be marked in reasonable ways as different from the original version; or\nd) Limiting the use for publicity purposes of names of licensors or authors of the material; or\ne) Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks; or\nf) Requiring indemnification of licensors and authors of that material by anyone who conveys the material (or modified versions of it) with contractual assumptions of liability to the recipient, for any liability that these contractual assumptions directly impose on those licensors and authors.\nAll other non-permissive additional terms are considered “further restrictions” within the meaning of section 10. If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term. If a license document contains a further restriction but permits relicensing or conveying under this License, you may add to a covered work material governed by the terms of that license document, provided that the further restriction does not survive such relicensing or conveying.\n\nIf you add terms to a covered work in accord with this section, you must place, in the relevant source files, a statement of the additional terms that apply to those files, or a notice indicating where to find the applicable terms.\n\nAdditional terms, permissive or non-permissive, may be stated in the form of a separately written license, or stated as exceptions; the above requirements apply either way.\n\n8. Termination.\nYou may not propagate or modify a covered work except as expressly provided under this License. Any attempt otherwise to propagate or modify it is void, and will automatically terminate your rights under this License (including any patent licenses granted under the third paragraph of section 11).\n\nHowever, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.\n\nMoreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.\n\nTermination of your rights under this section does not terminate the licenses of parties who have received copies or rights from you under this License. If your rights have been terminated and not permanently reinstated, you do not qualify to receive new licenses for the same material under section 10.\n\n9. Acceptance Not Required for Having Copies.\nYou are not required to accept this License in order to receive or run a copy of the Program. Ancillary propagation of a covered work occurring solely as a consequence of using peer-to-peer transmission to receive a copy likewise does not require acceptance. However, nothing other than this License grants you permission to propagate or modify any covered work. These actions infringe copyright if you do not accept this License. Therefore, by modifying or propagating a covered work, you indicate your acceptance of this License to do so.\n\n10. Automatic Licensing of Downstream Recipients.\nEach time you convey a covered work, the recipient automatically receives a license from the original licensors, to run, modify and propagate that work, subject to this License. You are not responsible for enforcing compliance by third parties with this License.\n\nAn “entity transaction” is a transaction transferring control of an organization, or substantially all assets of one, or subdividing an organization, or merging organizations. If propagation of a covered work results from an entity transaction, each party to that transaction who receives a copy of the work also receives whatever licenses to the work the party's predecessor in interest had or could give under the previous paragraph, plus a right to possession of the Corresponding Source of the work from the predecessor in interest, if the predecessor has it or can get it with reasonable efforts.\n\nYou may not impose any further restrictions on the exercise of the rights granted or affirmed under this License. For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.\n\n11. Patents.\nA “contributor” is a copyright holder who authorizes use under this License of the Program or a work on which the Program is based. The work thus licensed is called the contributor's “contributor version”.\n\nA contributor's “essential patent claims” are all patent claims owned or controlled by the contributor, whether already acquired or hereafter acquired, that would be infringed by some manner, permitted by this License, of making, using, or selling its contributor version, but do not include claims that would be infringed only as a consequence of further modification of the contributor version. For purposes of this definition, “control” includes the right to grant patent sublicenses in a manner consistent with the requirements of this License.\n\nEach contributor grants you a non-exclusive, worldwide, royalty-free patent license under the contributor's essential patent claims, to make, use, sell, offer for sale, import and otherwise run, modify and propagate the contents of its contributor version.\n\nIn the following three paragraphs, a “patent license” is any express agreement or commitment, however denominated, not to enforce a patent (such as an express permission to practice a patent or covenant not to sue for patent infringement). To “grant” such a patent license to a party means to make such an agreement or commitment not to enforce a patent against the party.\n\nIf you convey a covered work, knowingly relying on a patent license, and the Corresponding Source of the work is not available for anyone to copy, free of charge and under the terms of this License, through a publicly available network server or other readily accessible means, then you must either (1) cause the Corresponding Source to be so available, or (2) arrange to deprive yourself of the benefit of the patent license for this particular work, or (3) arrange, in a manner consistent with the requirements of this License, to extend the patent license to downstream recipients. “Knowingly relying” means you have actual knowledge that, but for the patent license, your conveying the covered work in a country, or your recipient's use of the covered work in a country, would infringe one or more identifiable patents in that country that you have reason to believe are valid.\n\nIf, pursuant to or in connection with a single transaction or arrangement, you convey, or propagate by procuring conveyance of, a covered work, and grant a patent license to some of the parties receiving the covered work authorizing them to use, propagate, modify or convey a specific copy of the covered work, then the patent license you grant is automatically extended to all recipients of the covered work and works based on it.\n\nA patent license is “discriminatory” if it does not include within the scope of its coverage, prohibits the exercise of, or is conditioned on the non-exercise of one or more of the rights that are specifically granted under this License. You may not convey a covered work if you are a party to an arrangement with a third party that is in the business of distributing software, under which you make payment to the third party based on the extent of your activity of conveying the work, and under which the third party grants, to any of the parties who would receive the covered work from you, a discriminatory patent license (a) in connection with copies of the covered work conveyed by you (or copies made from those copies), or (b) primarily for and in connection with specific products or compilations that contain the covered work, unless you entered into that arrangement, or that patent license was granted, prior to 28 March 2007.\n\nNothing in this License shall be construed as excluding or limiting any implied license or other defenses to infringement that may otherwise be available to you under applicable patent law.\n\n12. No Surrender of Others' Freedom.\nIf conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License. If you cannot convey a covered work so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not convey it at all. For example, if you agree to terms that obligate you to collect a royalty for further conveying from those to whom you convey the Program, the only way you could satisfy both those terms and this License would be to refrain entirely from conveying the Program.\n\n13. Use with the GNU Affero General Public License.\nNotwithstanding any other provision of this License, you have permission to link or combine any covered work with a work licensed under version 3 of the GNU Affero General Public License into a single combined work, and to convey the resulting work. The terms of this License will continue to apply to the part which is the covered work, but the special requirements of the GNU Affero General Public License, section 13, concerning interaction through a network will apply to the combination as such.\n\n14. Revised Versions of this License.\nThe Free Software Foundation may publish revised and/or new versions of the GNU General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.\n\nEach version is given a distinguishing version number. If the Program specifies that a certain numbered version of the GNU General Public License “or any later version” applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version published by the Free Software Foundation. If the Program does not specify a version number of the GNU General Public License, you may choose any version ever published by the Free Software Foundation.\n\nIf the Program specifies that a proxy can decide which future versions of the GNU General Public License can be used, that proxy's public statement of acceptance of a version permanently authorizes you to choose that version for the Program.\n\nLater license versions may give you additional or different permissions. However, no additional obligations are imposed on any author or copyright holder as a result of your choosing to follow a later version.\n\n15. Disclaimer of Warranty.\nTHERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.\n\n16. Limitation of Liability.\nIN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\n17. Interpretation of Sections 15 and 16.\nIf the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.\n\nEND OF TERMS AND CONDITIONS\n\nHow to Apply These Terms to Your New Programs\nIf you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.\n\nTo do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the “copyright” line and a pointer to where the full notice is found.\n\n    <one line to give the program's name and a brief idea of what it does.>\n    Copyright (C) <year>  <name of author>\n\n    This program is free software: you can redistribute it and/or modify\n    it under the terms of the GNU General Public License as published by\n    the Free Software Foundation, either version 3 of the License, or\n    (at your option) any later version.\n\n    This program is distributed in the hope that it will be useful,\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n    GNU General Public License for more details.\n\n    You should have received a copy of the GNU General Public License\n    along with this program.  If not, see <https://www.gnu.org/licenses/>.\nAlso add information on how to contact you by electronic and paper mail.\n\nIf the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:\n\n    <program>  Copyright (C) <year>  <name of author>\n    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.\n    This is free software, and you are welcome to redistribute it\n    under certain conditions; type `show c' for details.\nThe hypothetical commands `show w' and `show c' should show the appropriate parts of the General Public License. Of course, your program's commands might be different; for a GUI interface, you would use an “about box”.\n\nYou should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see <https://www.gnu.org/licenses/>.\n\nThe GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <https://www.gnu.org/licenses/why-not-lgpl.html>.",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - LICENCE",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "(JouF38Ynd6",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal demokratiaObject = demokratia -- luacheck: ignore\nif not demokratiaObject then\n    demokratiaObject = {}\n    setglobal(\"demokratia\", demokratiaObject)\nend\n\nfunction demokratiaObject.registerClass(className)\n    demokratiaObject.classes = demokratiaObject.classes or {}\n    if className then\n        demokratiaObject.classes[className] = demokratiaObject.classes[className] or {}\n        return demokratiaObject.classes[className]\n    else\n        return nil\n    end\nend\n\nfunction demokratiaObject.init(className, ...)\n    demokratiaObject.classes = demokratiaObject.classes or {}\n    return demokratiaObject.classes[className] and demokratiaObject.classes[className].init and demokratiaObject.classes[className].init(...) or nil\nend\n\nfunction demokratiaObject.moduleDependencyGlobal(dependencyGlobalNameString)\n    return { tag = dependencyGlobalNameString, dependencyFunction =\n        function()\n            return _G[dependencyGlobalNameString] ~= nil or false, _G[dependencyGlobalNameString] or nil\n    end }\nend\n\nfunction demokratiaObject.moduleDependencyTable(dependencyTagString, dependencyTable)\n    return { tag = dependencyTagString, dependencyFunction =\n        function()\n            return dependencyTable ~= nil or false, dependencyTable or nil\n    end }\nend\n\nfunction demokratiaObject.moduleDependencyBoolean(dependencyTagString, dependencyBoolean)\n    return { tag = dependencyTagString, dependencyFunction =\n        function()\n            return dependencyBoolean or false, dependencyBoolean or nil\n    end }\nend\n\nfunction demokratiaObject.moduleDependencyClass(dependencyClassName)\n    demokratiaObject.classes = demokratiaObject.classes or {}\n    \n    return { tag = dependencyClassName, dependencyFunction =\n        function()\n            return (demokratiaObject.classes and (demokratiaObject.classes[dependencyClassName] ~= nil)) or false,\n            demokratiaObject.classes and demokratiaObject.classes[dependencyClassName] or nil\n    end }\nend\n\nfunction demokratiaObject.moduleDependencyFunction(dependencyTagString, dependencyFunction)\n    return { tag = dependencyTagString, dependencyFunction = dependencyFunction }\nend\n\nlocal function resolveDependencies(dependencyTable)\n    local resolvedDependencyData = {}\n    for _, d in ipairs(dependencyTable) do\n        local dependencyFunctionResult, callbackData = d.dependencyFunction()\n        if dependencyFunctionResult == true then\n            resolvedDependencyData[d.tag] = callbackData\n        else\n            return nil\n        end\n    end\n    \n    return resolvedDependencyData\nend\n\nlocal function tryRunPendingModule(moduleFunction, dependencyTable)\n    local resolvedDependencyData = resolveDependencies(dependencyTable)\n    if resolvedDependencyData then\n        moduleFunction(demokratiaObject, resolvedDependencyData)\n        return true\n    else\n        return false\n    end\nend\n\nlocal function tryRunOnePendingModule()\n    demokratiaObject.pendingModules = demokratiaObject.pendingModules or {}\n    for moduleFunction, dependencyTable in pairs(demokratiaObject.pendingModules) do\n        if tryRunPendingModule(moduleFunction, dependencyTable) then\n            demokratiaObject.pendingModules[moduleFunction] = nil\n            return true\n        end\n    end\n    return false\nend\n\nlocal function tryRunPendingModules()\n    while tryRunOnePendingModule() == true do end\nend\n\nfunction demokratiaObject.moduleRun(moduleFunction, ...)\n    local dependencyTable = {...}\n    demokratiaObject.pendingModules = demokratiaObject.pendingModules or {}\n    demokratiaObject.pendingModules[moduleFunction] = dependencyTable\n    \n    tryRunPendingModules()\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - base run-time library",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "vM9D(QlGkFd",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "aura_env.saved = aura_env.saved or {}\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local saved = moduleDependencies[\"saved\"]\n    \n    local object = demokratiaDatabase\n    if not object then\n        local environment = {\n            playerGUID = UnitGUID(\"player\"),\n            saved = saved\n        }\n        \n        local object = {}\n        object.environment = environment\n        \n        setglobal(\"demokratiaDatabase\", object)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyTable(\"saved\", aura_env.saved))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n\n\n",
+          "customOnLoad": "for creatureId,creatureSpells in pairs(EAS.spellInfo.zones[2660].enemySpells) do\n    local castsPerMinute = 0\n    for spellId,_ in pairs(creatureSpells) do\n        if EAS.spellInfo.zones[2660].interruptible[spellId] and EAS.spellInfo.zones[2660].timeBetweenCasts[spellId] then \n            castsPerMinute = castsPerMinute + 60 / EAS.spellInfo.zones[2660].timeBetweenCasts[spellId]\n        end\n    end\n    castsPerMinute = floor(castsPerMinute)\n    \n    print(creatureId, castsPerMinute)\nend\n\n\n",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - DB",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "disjunctive": "any"
+      },
+      "uid": "jDwpc3U8jRf",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - timer class",
+        "Demokratia - combatStatus class",
+        "Demokratia - eventHandler class",
+        "Demokratia - libORclient class",
+        "Demokratia - reloadUIPopUp class"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Generic Library",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "3YPYp5X0cdR",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n-- C_Timer timers started before system has fired the TIME_PLAYED_MSG event will trigger when that event is fired.\n-- I guess the timer system might not be completely initialized when the addon code can already be ran.\n-- TIME_PLAYED_MSG is somehow indirectly related to this timer system getting initialized.\n-- Workaround is to wrap the actual timer to a 0 second timer that triggers either instantly if the system is completely initialized,\n-- or after the TIME_PLAYED_MSG is fired if the system was not initialized yet.\n-- Regardless, this will guarantee the timer to run for at least the required amount of time.\n\nlocal function moduleFunction(demokratiaObject)\n    local timerClass = demokratiaObject.registerClass(\"timer\")\n    \n    function timerClass.init(timer)\n        timer.newTimer = function(seconds, callback)\n            local innerTimer = C_FunctionContainers.CreateCallback(callback)\n            C_Timer.NewTimer(0, function() C_Timer.NewTimer(seconds, innerTimer) end)\n            return innerTimer\n        end\n        \n        return true\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - timer class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - Generic Library",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "(p2B5zY0HQ8",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local combatStatusClass = demokratiaObject.registerClass(\"combatStatus\")\n    \n    function combatStatusClass.init(combatStatus)\n        combatStatus.groupInCombat = function()\n            local playerIsInCombat = PlayerIsInCombat()\n            \n            if playerIsInCombat then\n                return true\n            else\n                local numSubgroupMembers = GetNumSubgroupMembers() -- does not include player\n                for i=1,numSubgroupMembers,1 do\n                    local unitToken = \"party\"..i\n                    local unitAffectingCombat = UnitExists(unitToken) and UnitAffectingCombat(unitToken) or false\n                    if unitAffectingCombat then\n                        return true\n                    end\n                end\n            end\n            return false\n        end\n        return true\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - combatStatus class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - Generic Library",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "o))fQUepZYl",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local eventHandlerClass = demokratiaObject.registerClass(\"eventHandler\")\n    \n    function eventHandlerClass.init(eventHandler)\n        \n        local function eventCallbackSelect(self, event, ...)\n            if eventHandler.eventHandlers and eventHandler.eventHandlers[event]\n            and eventHandler.eventHandlers[event].callback then\n                eventHandler.eventHandlers[event].callback(event, ...);\n            end\n        end\n        eventHandler:SetScript(\"OnEvent\", eventCallbackSelect);\n        \n        function eventHandler.fakeEvent(event, ...)\n            eventHandler.eventHandlers = eventHandler.eventHandlers or {} \n            if eventHandler.eventHandlers[event] and eventHandler.eventHandlers[event].callback then\n                eventHandler.eventHandlers[event].callback(event,...)\n            end\n        end\n        \n        function eventHandler.start()\n            for n,d in pairs(eventHandler.eventHandlers) do\n                if not d.isFake then\n                    eventHandler:RegisterEvent(n)\n                end\n            end\n        end\n        \n        function eventHandler.stop()\n            for n,d in pairs(eventHandler.eventHandlers) do\n                if not d.isFake then\n                    eventHandler:UnregisterEvent(n)\n                end\n            end\n        end\n        \n        function eventHandler.registerEventList(eventString, eventCallback)\n            eventHandler.eventHandlers = eventHandler.eventHandlers or {} \n            eventString = string.gsub(eventString, \",\", \" \")\n            repeat\n                local _,_,fakeEvent,eventStringRemainder = string.find(eventString,\"%s-(%S+)(.*)\")\n                if fakeEvent then\n                    local _,_,fakeEventIndicator,event = string.find(fakeEvent,\"([:]*)(%S+)\")\n                    eventHandler.eventHandlers[event] = eventHandler.eventHandlers[event] or {}\n                    eventHandler.eventHandlers[event].callback = eventCallback\n                    if fakeEventIndicator and string.len(fakeEventIndicator) > 0 then\n                        eventHandler.eventHandlers[event].isFake = true\n                    end\n                end\n                eventString = eventStringRemainder\n            until not fakeEvent\n        end\n        \n        return true\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - eventHandler class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - Generic Library",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "jGhq)lroJHI",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local openRaidLib = LibStub:GetLibrary(\"LibOpenRaid-1.0\")\n    \n    local libORclientClass = demokratiaObject.registerClass(\"libORclient\")\n    \n    function libORclientClass.init(client, userCallbacks)\n        if openRaidLib and client and userCallbacks then\n            client.openRaidLib = openRaidLib\n            client.userCallbacks = userCallbacks\n            \n            client.OnReceiveCooldownListUpdate = function(unitId, unitCooldowns, allUnitsCooldowns)\n                --print(\"client.OnReceiveCooldownListUpdate\")\n                if client.userCallbacks then\n                    if client.userCallbacks.removeUnitCooldowns then\n                        local currentUnitCooldownSpells = {}\n                        for spellId, cooldownInfo in pairs(unitCooldowns) do\n                            currentUnitCooldownSpells[spellId] = true\n                        end\n                        \n                        client.userCallbacks.removeUnitCooldowns(unitId, currentUnitCooldownSpells)\n                    end\n                    \n                    if client.userCallbacks.updateTrackedCooldown then\n                        for spellId, cooldownInfo in pairs(unitCooldowns) do\n                            local isReady, percent, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration = openRaidLib.GetCooldownStatusFromCooldownInfo(cooldownInfo) -- luacheck: ignore\n                            client.userCallbacks.updateTrackedCooldown(unitId, spellId, isReady, percent, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration)\n                        end\n                    end\n                end\n            end\n            \n            client.OnReceiveCooldownUpdate = function(unitId, spellId, cooldownInfo, unitCooldowns, allUnitsCooldowns)\n                --print(\"client.OnReceiveCooldownUpdate\")\n                if client.userCallbacks and client.userCallbacks.updateTrackedCooldown then\n                    local isReady, percent, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration = openRaidLib.GetCooldownStatusFromCooldownInfo(cooldownInfo) -- luacheck: ignore\n                    client.userCallbacks.updateTrackedCooldown(unitId, spellId, isReady, percent, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration)\n                end\n            end\n            \n            client.OnUnitNewCooldown = function(unitId, spellId, cooldownInfo, unitCooldowns, allUnitsCooldowns)\n                --print(\"client.OnUnitNewCooldown\")\n                if client.userCallbacks and client.userCallbacks.updateTrackedCooldown then\n                    local isReady, percent, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration = openRaidLib.GetCooldownStatusFromCooldownInfo(cooldownInfo) -- luacheck: ignore\n                    client.userCallbacks.updateTrackedCooldown(unitId, spellId, isReady, percent, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration)\n                end\n            end\n            \n            client.OnUnitLostCooldown = function(unitId, spellId, unitCooldowns, allUnitsCooldowns)\n                --print(\"client.OnUnitLostCooldown\")\n                if client.userCallbacks and client.userCallbacks.removeTrackedCooldown then\n                    client.userCallbacks.removeTrackedCooldown(unitId, spellId)\n                end\n            end\n            \n            client.OnCooldownListWipe = function(allUnitsCooldowns)\n                --print(\"client.OnCooldownListWipe\")\n                if client.userCallbacks and client.userCallbacks.resetTrackedCooldowns then\n                    client.userCallbacks.resetTrackedCooldowns()\n                end\n            end\n            \n            client.stop = function()\n                if openRaidLib then\n                    openRaidLib.UnregisterCallback(client, \"CooldownListUpdate\", \"OnReceiveCooldownListUpdate\")\n                    openRaidLib.UnregisterCallback(client, \"CooldownUpdate\", \"OnReceiveCooldownUpdate\")\n                    openRaidLib.UnregisterCallback(client, \"CooldownAdded\", \"OnUnitNewCooldown\")\n                    openRaidLib.UnregisterCallback(client, \"CooldownRemoved\", \"OnUnitLostCooldown\")\n                    openRaidLib.UnregisterCallback(client, \"CooldownListWipe\", \"OnCooldownListWipe\")\n                end\n            end\n            \n            client.start = function()\n                if openRaidLib then\n                    openRaidLib.RegisterCallback(client, \"CooldownListUpdate\", \"OnReceiveCooldownListUpdate\")\n                    openRaidLib.RegisterCallback(client, \"CooldownUpdate\", \"OnReceiveCooldownUpdate\")\n                    openRaidLib.RegisterCallback(client, \"CooldownAdded\", \"OnUnitNewCooldown\")\n                    openRaidLib.RegisterCallback(client, \"CooldownRemoved\", \"OnUnitLostCooldown\")\n                    openRaidLib.RegisterCallback(client, \"CooldownListWipe\", \"OnCooldownListWipe\")\n                end\n            end\n            \n            return true\n        end\n        \n        if not openRaidLib then\n            print(\"LibOpenRaid required for Demokratia: Krunde says... it can be downloaded as a separate addon or as a part of Details! Damage Meter\")\n        end\n        \n        return false\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - libORclient class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - Generic Library",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "w5Mcd95a3Bt",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local reloadUIPopUpClass = demokratiaObject.registerClass(\"reloadUIPopUp\")\n    \n    StaticPopupDialogs[\"DEMOKRATIA_RELOADUI\"] = {\n        text = \"Demokratia has noticed a configuration change and requires UI to be reloaded.\",\n        button1 = \"Reload UI\",\n        OnAccept = function()\n            C_UI.Reload()\n        end,\n        timeout = 0,\n        whileDead = true,\n        hideOnEscape = false,\n    }\n    \n    function reloadUIPopUpClass.init()\n        StaticPopup_Show(\"DEMOKRATIA_RELOADUI\")\n        \n        return true\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - reloadUIPopUp class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - Generic Library",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "XBTno01E1pr",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - EAS class",
+        "Demokratia - EAS DB",
+        "Demokratia - EAS harvest enemy spells",
+        "Demokratia - EAS harvest interruptible casts",
+        "Demokratia - EAS harvest time between casts",
+        "Demokratia - EAS harvest time to cast",
+        "Demokratia - EAS nameplate spell cooldowns",
+        "Demokratia - EAS nameplate focused players marker GUI",
+        "Demokratia - EAS np castbar own interrupt available marker GUI",
+        "Demokratia - EAS nameplate color healthbar based on enemy rank"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - EAS",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "x9tqBsPVaqE",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local classObject = demokratiaObject.registerClass(\"EAS\")\n    \n    function classObject.init(object)\n        if object then\n            \n            function object.creatureIdFromGUID(guid)\n                if guid then\n                    local creatureId = select(6, strsplit(\"-\", guid or \"\"))\n                    if creatureId then\n                        return tonumber(creatureId)\n                    end\n                end\n                return nil\n            end\n        end\n        \n        return false\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "aDQivS8MWWa",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local demokratiaDatabaseObject = moduleDependencies[\"demokratiaDatabase\"]\n    \n    local object = EASDB\n    if not object then\n        demokratiaDatabaseObject.environment.saved.EASDB = demokratiaDatabaseObject.environment.saved.EASDB or {}\n\n        local object = demokratiaDatabaseObject.environment.saved.EASDB\n        \n        setglobal(\"EASDB\", object)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyGlobal(\"LibStub\"),\n        demokratiaObject.moduleDependencyGlobal(\"demokratiaDatabase\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS DB",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "vs5rNE)hxX1",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    \n    local environment = {}\n    demokratiaObject.init(\"EAS\", environment)\n    \n    local castCache = {}\n    \n    local inEncounter = false\n    local inCombat = false\n    \n    local f = EASHarvestEnemySpells or CreateFrame(\"Frame\", \"EASHarvestEnemySpells\")\n    f:RegisterEvent(\"COMBAT_LOG_EVENT_UNFILTERED\")\n    f:RegisterEvent(\"UNIT_THREAT_LIST_UPDATE\")\n    f:RegisterEvent(\"PLAYER_REGEN_DISABLED\")\n    f:RegisterEvent(\"PLAYER_REGEN_ENABLED\")\n    f:RegisterEvent(\"ENCOUNTER_START\")\n    f:RegisterEvent(\"ENCOUNTER_END\")\n    \n    f:SetScript(\"OnEvent\", function(self, event, arg)\n            if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n                local timestamp, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, destName, destFlags, destRaidFlags, spellId, spellName, spellSchool, extraSpellId, amount = CombatLogGetCurrentEventInfo()\n                if CombatLog_Object_IsA(sourceFlags, COMBATLOG_FILTER_HOSTILE_UNITS) then\n                    local creatureId = environment.creatureIdFromGUID(sourceGUID)\n                    local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n                    if creatureId and (subevent == \"SPELL_CAST_START\" or subevent == \"SPELL_CAST_SUCCESS\" or subevent == \"SPELL_CAST_FAILED\" --[[or subevent == \"SPELL_MISSED\"]] or subevent==\"SPELL_INTERRUPT\")\n                    and not (EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].enemySpells and EASDB.spellInfo.zones[instanceID].enemySpells[creatureId] and EASDB.spellInfo.zones[instanceID].enemySpells[creatureId][spellId]) then\n                        if sourceGUID and castCache[sourceGUID] and not castCache[sourceGUID][\"spells\"][spellId] then\n                            castCache[sourceGUID][\"spells\"][spellId] = timestamp\n                            local spellInfo = C_Spell.GetSpellInfo(spellId)\n                            local isKnownToBeInstantCast\n                            if spellInfo.castTime == 0 then\n                                isKnownToBeInstantCast = true\n                            else\n                                isKnownToBeInstantCast = false\n                            end\n                            \n                            EASDB.spellInfo = EASDB.spellInfo or {}\n                            EASDB.spellInfo.zones = EASDB.spellInfo.zones or {}\n                            EASDB.spellInfo.zones[instanceID] = EASDB.spellInfo.zones[instanceID] or {}\n                            EASDB.spellInfo.zones[instanceID].enemySpells = EASDB.spellInfo.zones[instanceID].enemySpells or {}\n                            EASDB.spellInfo.zones[instanceID].enemySpells[creatureId] = EASDB.spellInfo.zones[instanceID].enemySpells[creatureId] or {}\n                            EASDB.spellInfo.zones[instanceID].enemySpells[creatureId][spellId] = EASDB.spellInfo.zones[instanceID].enemySpells[creatureId][spellId] or {}\n                            EASDB.spellInfo.zones[instanceID].spellNames = EASDB.spellInfo.zones[instanceID].spellNames or {}\n                            EASDB.spellInfo.zones[instanceID].spellNames[spellId] = EASDB.spellInfo.zones[instanceID].spellNames[spellId] or {}\n                            EASDB.spellInfo.zones[instanceID].spellNames[spellId][1] = spellName\n                            \n                            EASDB.spellInfo.zones[instanceID].instantSpells = EASDB.spellInfo.zones[instanceID].instantSpells or {}\n                            if isKnownToBeInstantCast then\n                                EASDB.spellInfo.zones[instanceID].instantSpells[spellId] = EASDB.spellInfo.zones[instanceID].instantSpells[spellId] or {}\n                            end\n                            \n                            for sid, _ in pairs(EASDB.spellInfo.zones[instanceID].enemySpells[creatureId]) do\n                                if (sid ~= spellId) and (EASDB.spellInfo.zones[instanceID].spellNames[sid][1] == spellName) then\n                                    if not EASDB.spellInfo.zones[instanceID].instantSpells[sid] and EASDB.spellInfo.zones[instanceID].instantSpells[spellId] then\n                                        EASDB.spellInfo.zones[instanceID].enemySpells[creatureId][spellId][1] = sid\n                                    elseif EASDB.spellInfo.zones[instanceID].instantSpells[sid] and not EASDB.spellInfo.zones[instanceID].instantSpells[spellId] then\n                                        EASDB.spellInfo.zones[instanceID].enemySpells[creatureId][sid][1] = spellId\n                                    elseif EASDB.spellInfo.zones[instanceID].instantSpells[sid] and EASDB.spellInfo.zones[instanceID].instantSpells[spellId] then\n                                        EASDB.spellInfo.zones[instanceID].enemySpells[creatureId][spellId][1] = spellId\n                                    else\n                                        EASDB.spellInfo.zones[instanceID].enemySpells[creatureId][spellId][1] = sid\n                                    end\n                                end\n                            end\n                        end\n                    end\n                end\n            elseif event ==\"UNIT_THREAT_LIST_UPDATE\" then\n                local sourceGUID = UnitGUID(arg)\n                if sourceGUID and not castCache[sourceGUID] then\n                    castCache[sourceGUID] = {}\n                    castCache[sourceGUID][\"spells\"] = {}\n                end\n            elseif event == \"PLAYER_REGEN_DISABLED\" then\n                inCombat = true\n            elseif event == \"PLAYER_REGEN_ENABLED\" then\n                inCombat = false\n                if not inEncounter then\n                    castCache = {}\n                end\n            elseif event ==\"ENCOUNTER_START\" then\n                inEncounter = true\n            elseif event ==\"ENCOUNTER_END\" then\n                inEncounter = false\n                if not inCombat then\n                    castCache = {}\n                end\n            end\n    end)\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"EAS\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS harvest enemy spells",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "dPQBISsgZVf",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    \n    local environment = {}\n    demokratiaObject.init(\"EAS\", environment)\n    \n    local playerGUID = UnitGUID(\"player\")\n    local castCache = {}\n    \n    local inEncounter = false\n    local inCombat = false\n    local outOfCombatLockdownStartTime = nil\n    \n    local f = EASHarvestInterruptibleCasts or CreateFrame(\"Frame\", \"EASHarvestInterruptibleCasts\")\n    f:RegisterEvent(\"COMBAT_LOG_EVENT_UNFILTERED\")\n    f:RegisterEvent(\"UNIT_THREAT_LIST_UPDATE\")\n    f:RegisterEvent(\"PLAYER_REGEN_DISABLED\")\n    f:RegisterEvent(\"PLAYER_REGEN_ENABLED\")\n    f:RegisterEvent(\"ENCOUNTER_START\")\n    f:RegisterEvent(\"ENCOUNTER_END\")\n    \n    f:SetScript(\"OnEvent\", function(self, event, arg)\n            if outOfCombatLockdownStartTime and time() - outOfCombatLockdownStartTime > 3 then outOfCombatLockdownStartTime = nil end\n            if outOfCombatLockdownStartTime then return end\n            local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n            if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n                local timestamp, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, destName, destFlags, destRaidFlags, spellId, spellName, spellSchool, extraSpellId, amount = CombatLogGetCurrentEventInfo()\n                if CombatLog_Object_IsA(sourceFlags, COMBATLOG_FILTER_HOSTILE_UNITS) then\n                    if (subevent == \"SPELL_CAST_START\" or subevent == \"SPELL_CAST_SUCCESS\") then\n                        if EASDB and sourceGUID and castCache[sourceGUID] and not castCache[sourceGUID][\"spells\"][spellId] then\n                            local unitToken = UnitTokenFromGUID(sourceGUID)\n                            if unitToken then\n                                local _, _, _, _, _, _, _, notInterruptibleUCaI, spellIdUCaI = UnitCastingInfo(unitToken)\n                                local _, _, _, _, _, _, notInterruptibleUChI, spellIDUChI, _, _ = UnitChannelInfo(unitToken)\n                                if spellIdUCaI or spellIDUChI then\n                                    local spellId = spellIdUCaI or spellIDUChI\n                                    local notInterruptible = notInterruptibleUCaI or notInterruptibleUChI\n                                    castCache[sourceGUID][\"spells\"][spellId] = notInterruptible\n                                    EASDB.spellInfo = EASDB.spellInfo or {}\n                                    EASDB.spellInfo.zones = EASDB.spellInfo.zones or {}\n                                    EASDB.spellInfo.zones[instanceID] = EASDB.spellInfo.zones[instanceID] or {}\n                                    EASDB.spellInfo.zones[instanceID].interruptible = EASDB.spellInfo.zones[instanceID].interruptible or {}\n                                    EASDB.spellInfo.zones[instanceID].interruptible[spellId] = not castCache[sourceGUID][\"spells\"][spellId]\n                                end\n                            end\n                        end\n                    end\n                end\n            elseif event ==\"UNIT_THREAT_LIST_UPDATE\" then\n                local sourceGUID = UnitGUID(arg)\n                if sourceGUID and not castCache[sourceGUID] then\n                    castCache[sourceGUID] = {}\n                    castCache[sourceGUID][\"combatStart\"] = time()\n                    castCache[sourceGUID][\"spells\"] = {}\n                end\n            elseif event == \"PLAYER_REGEN_DISABLED\" then\n                inCombat = true\n            elseif event == \"PLAYER_REGEN_ENABLED\" then\n                inCombat = false\n                if not inEncounter then\n                    castCache = {}\n                    outOfCombatLockdownStartTime = time()\n                end\n            elseif event ==\"ENCOUNTER_START\" then\n                inEncounter = true\n            elseif event ==\"ENCOUNTER_END\" then\n                inEncounter = false\n                if not inCombat then\n                    castCache = {}\n                    outOfCombatLockdownStartTime = time()\n                end\n            end\n    end)\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"EAS\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS harvest interruptible casts",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "6BC)lk)tLu7",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    \n    local environment = {}\n    demokratiaObject.init(\"EAS\", environment)\n    \n    local playerGUID = UnitGUID(\"player\")\n    local castCache = {}\n    \n    local inEncounter = false\n    local inCombat = false\n    local outOfCombatLockdownStartTime = nil\n    \n    local f = EASHarvestTimeBetweenCasts or CreateFrame(\"Frame\", \"EASHarvestTimeBetweenCasts\")\n    f:RegisterEvent(\"COMBAT_LOG_EVENT_UNFILTERED\")\n    f:RegisterEvent(\"UNIT_THREAT_LIST_UPDATE\")\n    f:RegisterEvent(\"PLAYER_REGEN_DISABLED\")\n    f:RegisterEvent(\"PLAYER_REGEN_ENABLED\")\n    f:RegisterEvent(\"ENCOUNTER_START\")\n    f:RegisterEvent(\"ENCOUNTER_END\")\n    \n    local function storeData()\n        if EASDB then\n            local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n            EASDB.spellInfo = EASDB.spellInfo or {}\n            EASDB.spellInfo.zones = EASDB.spellInfo.zones or {}\n            EASDB.spellInfo.zones[instanceID] = EASDB.spellInfo.zones[instanceID] or {}\n            EASDB.spellInfo.zones[instanceID].timeBetweenCasts = EASDB.spellInfo.zones[instanceID].timeBetweenCasts or {}\n            for guid, unitData in pairs(castCache) do\n                for sid, spellData in pairs(unitData) do\n                    if  spellData.intervalsBetweenCasts > 0 then\n                        if EASDB.spellInfo.zones[instanceID].timeBetweenCasts[sid] then\n                            EASDB.spellInfo.zones[instanceID].timeBetweenCasts[sid] = 0.8*EASDB.spellInfo.zones[instanceID].timeBetweenCasts[sid] + 0.2*(spellData.accumulatedTimeBetweenCasts / spellData.intervalsBetweenCasts)\n                        else\n                            EASDB.spellInfo.zones[instanceID].timeBetweenCasts[sid] = spellData.accumulatedTimeBetweenCasts / spellData.intervalsBetweenCasts\n                        end\n                    end\n                end\n            end\n        end\n    end\n    \n    f:SetScript(\"OnEvent\", function(self, event, arg)\n            if outOfCombatLockdownStartTime and time() - outOfCombatLockdownStartTime > 3 then outOfCombatLockdownStartTime = nil end\n            if outOfCombatLockdownStartTime then return end\n            \n            if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n                local timestamp, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, destName, destFlags, destRaidFlags, spellId, spellName, spellSchool, extraSpellId, amount = CombatLogGetCurrentEventInfo()\n                if CombatLog_Object_IsA(sourceFlags, COMBATLOG_FILTER_HOSTILE_UNITS) then\n                    if subevent == \"SPELL_CAST_START\" then\n                        if sourceGUID and castCache[sourceGUID] then\n                            if not castCache[sourceGUID][spellId] then\n                                castCache[sourceGUID][spellId] = {}\n                                castCache[sourceGUID][spellId].intervalsBetweenCasts = 0\n                                castCache[sourceGUID][spellId].accumulatedTimeBetweenCasts = 0\n                                castCache[sourceGUID][spellId].timePrevCast = 0\n                                castCache[sourceGUID][spellId].isKnownToHaveCastTime = true\n                            end\n                            \n                            local timeCurrentCast = timestamp\n                            \n                            if castCache[sourceGUID][spellId].timePrevCast ~= 0 then\n                                castCache[sourceGUID][spellId].intervalsBetweenCasts = castCache[sourceGUID][spellId].intervalsBetweenCasts + 1\n                                castCache[sourceGUID][spellId].accumulatedTimeBetweenCasts = castCache[sourceGUID][spellId].accumulatedTimeBetweenCasts + (timeCurrentCast - castCache[sourceGUID][spellId].timePrevCast)\n                            end\n                            \n                            castCache[sourceGUID][spellId].timePrevCast = timeCurrentCast\n                        end\n                    elseif (subevent == \"SPELL_CAST_SUCCESS\" or subevent == \"SPELL_CAST_FAILED\" --[[or subevent == \"SPELL_MISSED\"]] or subevent==\"SPELL_INTERRUPT\") then\n                        if sourceGUID and castCache[sourceGUID] then\n                            if not castCache[sourceGUID][spellId] then\n                                local spellInfo = C_Spell.GetSpellInfo(spellId)\n                                castCache[sourceGUID][spellId] = {}\n                                castCache[sourceGUID][spellId].intervalsBetweenCasts = 0\n                                castCache[sourceGUID][spellId].accumulatedTimeBetweenCasts = 0\n                                castCache[sourceGUID][spellId].timePrevCast = 0\n                                \n                                if spellInfo.castTime > 0 then\n                                    castCache[sourceGUID][spellId].isKnownToHaveCastTime = true\n                                else\n                                    castCache[sourceGUID][spellId].isKnownToHaveCastTime = false\n                                end\n                            end\n                            \n                            if castCache[sourceGUID][spellId].isKnownToHaveCastTime == false then\n                                local spellInfo = C_Spell.GetSpellInfo(spellId)\n                                if spellInfo.castTime > 0 then\n                                    castCache[sourceGUID][spellId].isKnownToHaveCastTime = true\n                                end\n                            end\n                            \n                            if castCache[sourceGUID][spellId].isKnownToHaveCastTime == false then\n                                local timeCurrentCast = timestamp\n                                \n                                if castCache[sourceGUID][spellId].timePrevCast ~= 0 then\n                                    castCache[sourceGUID][spellId].intervalsBetweenCasts = castCache[sourceGUID][spellId].intervalsBetweenCasts+1\n                                    castCache[sourceGUID][spellId].accumulatedTimeBetweenCasts = castCache[sourceGUID][spellId].accumulatedTimeBetweenCasts + (timeCurrentCast - castCache[sourceGUID][spellId].timePrevCast)\n                                end\n                                \n                                castCache[sourceGUID][spellId].timePrevCast = timeCurrentCast\n                            end\n                        end\n                    end\n                end\n            elseif event ==\"UNIT_THREAT_LIST_UPDATE\" then\n                local sourceGUID = UnitGUID(arg)\n                if sourceGUID and not castCache[sourceGUID] then\n                    castCache[sourceGUID] = {}\n                end\n            elseif event == \"PLAYER_REGEN_DISABLED\" then\n                inCombat = true\n            elseif event == \"PLAYER_REGEN_ENABLED\" then\n                inCombat = false\n                if not inEncounter then\n                    storeData()\n                    \n                    castCache = {}\n                    outOfCombatLockdownStartTime = time()\n                end\n            elseif event ==\"ENCOUNTER_START\" then\n                inEncounter = true\n            elseif event ==\"ENCOUNTER_END\" then\n                inEncounter = false\n                if not inCombat then\n                    storeData()\n                    \n                    castCache = {}\n                    outOfCombatLockdownStartTime = time()\n                end\n            end\n    end)\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"EAS\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS harvest time between casts",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "iqysGSxoJee",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)    \n    local moduleDependencies = ...\n    \n    local environment = {}\n    demokratiaObject.init(\"EAS\", environment)\n    \n    local playerGUID = UnitGUID(\"player\")\n    local castCache = {}\n    \n    local inEncounter = false\n    local inCombat = false\n    local outOfCombatLockdownStartTime = nil\n    \n    local f = EASHarvestTimeToCast or CreateFrame(\"Frame\", \"EASHarvestTimeToCast\")\n    f:RegisterEvent(\"COMBAT_LOG_EVENT_UNFILTERED\")\n    f:RegisterEvent(\"UNIT_THREAT_LIST_UPDATE\")\n    f:RegisterEvent(\"PLAYER_REGEN_DISABLED\")\n    f:RegisterEvent(\"PLAYER_REGEN_ENABLED\")\n    f:RegisterEvent(\"ENCOUNTER_START\")\n    f:RegisterEvent(\"ENCOUNTER_END\")\n    \n    f:SetScript(\"OnEvent\", function(self, event, arg)\n            if outOfCombatLockdownStartTime and time() - outOfCombatLockdownStartTime > 3 then outOfCombatLockdownStartTime = nil end\n            if outOfCombatLockdownStartTime then return end\n            local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n            if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n                local timestamp, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, destName, destFlags, destRaidFlags, spellId, spellName, spellSchool, extraSpellId, amount = CombatLogGetCurrentEventInfo()\n                if CombatLog_Object_IsA(sourceFlags, COMBATLOG_FILTER_HOSTILE_UNITS) then\n                    if (subevent == \"SPELL_CAST_START\" or subevent == \"SPELL_CAST_SUCCESS\" or subevent == \"SPELL_CAST_FAILED\" --[[or subevent == \"SPELL_MISSED\"]] or subevent==\"SPELL_INTERRUPT\") then\n                        if EASDB and sourceGUID and castCache[sourceGUID] and not castCache[sourceGUID][\"spells\"][spellId] then\n                            castCache[sourceGUID][\"spells\"][spellId] = timestamp\n                            EASDB.spellInfo = EASDB.spellInfo or {}\n                            EASDB.spellInfo.zones = EASDB.spellInfo.zones or {}\n                            EASDB.spellInfo.zones[instanceID] = EASDB.spellInfo.zones[instanceID] or {}\n                            EASDB.spellInfo.zones[instanceID].timeToCast = EASDB.spellInfo.zones[instanceID].timeToCast or {}\n                            local timeToCast = castCache[sourceGUID][\"spells\"][spellId] - castCache[sourceGUID][\"combatStart\"]\n                            \n                            if timeToCast > 0 then\n                                if not EASDB.spellInfo.zones[instanceID].timeToCast[spellId] then\n                                    EASDB.spellInfo.zones[instanceID].timeToCast[spellId] = timeToCast\n                                else\n                                    EASDB.spellInfo.zones[instanceID].timeToCast[spellId] = 0.8*(EASDB.spellInfo.zones[instanceID].timeToCast[spellId]) + 0.2*(timeToCast)\n                                end\n                            end\n                        end\n                    end\n                end\n            elseif event ==\"UNIT_THREAT_LIST_UPDATE\" then\n                local sourceGUID = UnitGUID(arg)\n                if sourceGUID and not castCache[sourceGUID] then\n                    castCache[sourceGUID] = {}\n                    castCache[sourceGUID][\"combatStart\"] = time()\n                    castCache[sourceGUID][\"spells\"] = {}\n                end\n            elseif event == \"PLAYER_REGEN_DISABLED\" then\n                inCombat = true\n            elseif event == \"PLAYER_REGEN_ENABLED\" then\n                inCombat = false\n                if not inEncounter then\n                    castCache = {}\n                    outOfCombatLockdownStartTime = time()\n                end\n            elseif event ==\"ENCOUNTER_START\" then\n                inEncounter = true\n            elseif event ==\"ENCOUNTER_END\" then\n                inEncounter = false\n                if not inCombat then\n                    castCache = {}\n                    outOfCombatLockdownStartTime = time()\n                end\n            end\n    end)\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"EAS\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS harvest time to cast",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "X1XMUx9Jksf",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function setupSpellTriggers(environment, EAS_timerStartEAS, EAS_timerEndEAS)\n    local idleCache = {}\n    local castCache = {}\n    local inEncounter = false\n    local inCombat = false\n    \n    local blacklistSpell = {\n        [224729] = {}, -- bursting shot\n        [457880] = {}, -- ascension\n        [457448] = {}, -- shadow eruption\n    } \n    \n    local function EAS_TriggerMockTimer(sourceGUID)\n        local unitGUID = sourceGUID\n        local cid = environment.creatureIdFromGUID(unitGUID)\n        local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n        \n        if cid and EAS_timerStartEAS and EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].enemySpells and EASDB.spellInfo.zones[instanceID].enemySpells[cid] then\n            for sid in pairs(EASDB.spellInfo.zones[instanceID].enemySpells[cid]) do\n                if not blacklistSpell[sid] and not (EASDB.spellInfo.zones[instanceID].enemySpells[cid][sid][1]) then\n                    local duration = nil\n                    local timeBetweenCasts = EASDB.spellInfo.zones[instanceID].timeBetweenCasts and EASDB.spellInfo.zones[instanceID].timeBetweenCasts[sid] and floor(EASDB.spellInfo.zones[instanceID].timeBetweenCasts[sid]) or math.huge\n                    local timeToCastOoc = EASDB.spellInfo.zones[instanceID].timeToCast and EASDB.spellInfo.zones[instanceID].timeToCast[sid] or 0\n                    if environment.config.optionPreCombatNPCD then\n                        EAS_timerStartEAS(unitGUID..tostring(sid), nil, duration, nil, nil, sid, nil, nil, true, nil, timeBetweenCasts, unitGUID, 0, timeToCastOoc)\n                    else\n                        EAS_timerEndEAS(unitGUID..tostring(sid), unitGUID)\n                    end\n                end\n            end\n        end\n    end\n    \n    local function EAS_TriggerTimerFirstCast(sourceGUID)\n        local unitGUID = sourceGUID\n        local cid = environment.creatureIdFromGUID(unitGUID)\n        local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n        \n        if cid and EAS_timerStartEAS and EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].enemySpells and EASDB.spellInfo.zones[instanceID].enemySpells[cid] then\n            for sid in pairs(EASDB.spellInfo.zones[instanceID].enemySpells[cid]) do\n                if not blacklistSpell[sid] and not (EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].enemySpells and EASDB.spellInfo.zones[instanceID].enemySpells[cid] and EASDB.spellInfo.zones[instanceID].enemySpells[cid][sid] and EASDB.spellInfo.zones[instanceID].enemySpells[cid][sid][1]) then\n                    local timeToCastOoc = EASDB.spellInfo.zones[instanceID].timeToCast and EASDB.spellInfo.zones[instanceID].timeToCast[sid] or 0\n                    if environment.config.optionInCombatNPCD and (not inEncounter or environment.config.optionInCombatRaidBossNPCD) then\n                        EAS_timerStartEAS(unitGUID..tostring(sid), nil, timeToCastOoc, nil, nil, sid, nil, nil, true, nil, nil, unitGUID, 0)\n                    else\n                        EAS_timerEndEAS(unitGUID..tostring(sid), unitGUID)\n                    end \n                end\n            end\n        end\n    end\n    \n    local function EAS_TriggerTimerBetweenCasts(sourceGUID, spellId)\n        local unitGUID = sourceGUID\n        local cid = environment.creatureIdFromGUID(unitGUID)\n        local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n        \n        if cid and EAS_timerStartEAS and EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].enemySpells and EASDB.spellInfo.zones[instanceID].enemySpells[cid] then\n            local sid = spellId\n            if EASDB.spellInfo.zones[instanceID].enemySpells[cid][sid] then\n                if not blacklistSpell[sid] and not (EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].enemySpells and EASDB.spellInfo.zones[instanceID].enemySpells[cid] and EASDB.spellInfo.zones[instanceID].enemySpells[cid][sid] and EASDB.spellInfo.zones[instanceID].enemySpells[cid][sid][1]) then\n                    local timeBetweenCasts = EASDB.spellInfo.zones[instanceID].timeBetweenCasts and EASDB.spellInfo.zones[instanceID].timeBetweenCasts[sid] or math.huge\n                    if environment.config.optionInCombatNPCD and timeBetweenCasts < math.huge and (not inEncounter or environment.config.optionInCombatRaidBossNPCD) then\n                        EAS_timerStartEAS(unitGUID..tostring(sid), nil, timeBetweenCasts, nil, nil, sid, nil, nil, true, nil, nil, unitGUID, 0)\n                    else\n                        EAS_timerEndEAS(unitGUID..tostring(sid), unitGUID)\n                    end\n                end\n            end\n        end\n    end\n    \n    environment.EASNameplateSpellCooldownTriggers = environment.EASNameplateSpellCooldownTriggers or CreateFrame(\"Frame\", \"EASNameplateSpellCooldownTriggers\")\n    local f = environment.EASNameplateSpellCooldownTriggers\n    f:RegisterEvent(\"COMBAT_LOG_EVENT_UNFILTERED\")\n    f:RegisterEvent(\"UNIT_THREAT_LIST_UPDATE\")\n    f:RegisterEvent(\"PLAYER_REGEN_DISABLED\")\n    f:RegisterEvent(\"PLAYER_REGEN_ENABLED\")\n    f:RegisterEvent(\"ENCOUNTER_START\")\n    f:RegisterEvent(\"ENCOUNTER_END\")\n    f:RegisterEvent(\"NAME_PLATE_UNIT_ADDED\")\n    f:RegisterEvent(\"NAME_PLATE_UNIT_REMOVED\")\n    f:SetScript(\"OnEvent\", function(self, event, arg)\n            local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n            \n            if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n                local timestamp, subevent, _, sourceGUID, sourceName, sourceFlags, _, destGUID, destName, destFlags, destRaidFlags, spellId, spellName, spellSchool, extraSpellId, amount = CombatLogGetCurrentEventInfo()\n                if CombatLog_Object_IsA(sourceFlags, COMBATLOG_FILTER_HOSTILE_UNITS) then\n                    if (EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].spellNames and EASDB.spellInfo.zones[instanceID].spellNames[spellId]\n                        and not (EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].instantSpells and EASDB.spellInfo.zones[instanceID].instantSpells[spellId])) and (subevent == \"SPELL_CAST_START\")  then\n                        if sourceGUID and castCache[sourceGUID] then\n                            castCache[sourceGUID][\"spells\"][spellId] = timestamp\n                            local creatureId = environment.creatureIdFromGUID(sourceGUID)\n                            EAS_TriggerTimerBetweenCasts(sourceGUID, spellId)\n                        end\n                    elseif (EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].spellNames and EASDB.spellInfo.zones[instanceID].spellNames[spellId]\n                        and (EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID] and EASDB.spellInfo.zones[instanceID].instantSpells and EASDB.spellInfo.zones[instanceID].instantSpells[spellId] and not EASDB.spellInfo.zones[instanceID].instantSpells[spellId][1]))\n                    and (subevent == \"SPELL_CAST_SUCCESS\" or subevent == \"SPELL_CAST_FAILED\" --[[or subevent == \"SPELL_MISSED\"]] or subevent==\"SPELL_INTERRUPT\") then\n                        if sourceGUID and castCache[sourceGUID] then\n                            castCache[sourceGUID][\"spells\"][spellId] = timestamp\n                            local creatureId = environment.creatureIdFromGUID(sourceGUID)\n                            EAS_TriggerTimerBetweenCasts(sourceGUID, spellId)\n                        end\n                    end\n                end\n            elseif event ==\"UNIT_THREAT_LIST_UPDATE\" then\n                local sourceGUID = UnitGUID(arg)\n                if sourceGUID and not castCache[sourceGUID] then\n                    idleCache[sourceGUID] = nil\n                    castCache[sourceGUID] = {}\n                    castCache[sourceGUID][\"spells\"] = {}\n                    EAS_TriggerTimerFirstCast(sourceGUID)\n                end\n            elseif event == \"PLAYER_REGEN_DISABLED\" then\n                inCombat = true\n            elseif event == \"PLAYER_REGEN_ENABLED\" then\n                inCombat = false\n                if not inEncounter then\n                    table.wipe(idleCache)\n                    for n,_ in pairs(castCache) do\n                        local unitToken = UnitTokenFromGUID(n)\n                        if not unitToken and not idleCache[n] or not UnitAffectingCombat(unitToken) then\n                            idleCache[n] = {}\n                            castCache[n] = nil\n                            EAS_TriggerMockTimer(n)\n                        end\n                    end\n                end\n            elseif event ==\"ENCOUNTER_START\" then\n                inEncounter = true\n            elseif event ==\"ENCOUNTER_END\" then\n                inEncounter = false\n                if not inCombat then\n                    table.wipe(idleCache)\n                    for n,_ in pairs(castCache) do\n                        local unitToken = UnitTokenFromGUID(n)\n                        if not unitToken and not idleCache[n] or not UnitAffectingCombat(unitToken) then\n                            idleCache[n] = {}\n                            castCache[n] = nil\n                            EAS_TriggerMockTimer(n)\n                        end\n                    end\n                end\n            elseif event ==\"NAME_PLATE_UNIT_ADDED\" then\n                local sourceGUID = UnitGUID(arg)\n                if sourceGUID and not idleCache[sourceGUID] and not UnitAffectingCombat(arg) then\n                    idleCache[sourceGUID] = {}\n                    castCache[sourceGUID] = nil\n                    EAS_TriggerMockTimer(sourceGUID)\n                end\n            elseif event ==\"NAME_PLATE_UNIT_REMOVED\" then\n                local sourceGUID = UnitGUID(arg)\n                if not UnitAffectingCombat(arg) then\n                    castCache[sourceGUID] = nil\n                end\n            end\n    end)\n    \n    local function iterateNameplates()\n        local nameplates = C_NamePlate.GetNamePlates(false)\n        for n,d in pairs(nameplates) do\n            local namePlateUnitToken = d.namePlateUnitToken\n            local sourceGUID = UnitGUID(namePlateUnitToken)\n            local unitAffectingCombat = UnitAffectingCombat(namePlateUnitToken)\n            if sourceGUID and not idleCache[sourceGUID] and not unitAffectingCombat then\n                idleCache[sourceGUID] = {}\n                castCache[sourceGUID] = nil\n                EAS_TriggerMockTimer(sourceGUID)\n            elseif sourceGUID and not castCache[sourceGUID] and unitAffectingCombat then\n                idleCache[sourceGUID] = nil\n                castCache[sourceGUID] = {}\n                castCache[sourceGUID][\"spells\"] = {}\n                EAS_TriggerTimerFirstCast(sourceGUID)\n            end\n        end\n    end\n    \n    local timeElapsed = 0\n    f:SetScript(\"OnUpdate\", function(self, elapsed)\n            timeElapsed = timeElapsed + elapsed\n            if timeElapsed > 1.00 then\n                timeElapsed = 0\n                if not environment.groupInCombat() then\n                    table.wipe(castCache)\n                end\n                \n                iterateNameplates()\n            end\n    end)\nend\n\nlocal function setupDBMHooks(environment, EAS_timerStartDBM, EAS_timerEndDBM)\n    if DBM then\n        local function timerStartDBM(id, msg, duration, icon, barTypeSimple, spellId, colorId, modId, keep, fade, name, unitGUID, timerCount, isPriority, barType, lastTry)\n            if id and spellId and unitGUID then\n                EAS_timerStartDBM(id, msg, duration, icon, barTypeSimple, spellId, colorId, modId, keep, fade, name, unitGUID, timerCount, isPriority, barType)\n            elseif id and spellId and not unitGUID then\n                local retry_after\n                local unitGUID\n                local bossGUID\n                --race condition with encounter starting and timer firing, unable to resolve boss1 to a guid - we fix it by retrying\n                for i=8,1,-1 do\n                    bossGUID = UnitGUID(\"boss\"..i)\n                    if bossGUID then\n                        local cid = environment.creatureIdFromGUID(bossGUID)\n                        local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n                        if cid and EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID]\n                        and EASDB.spellInfo.zones[instanceID].enemySpells and EASDB.spellInfo.zones[instanceID].enemySpells[cid]\n                        and EASDB.spellInfo.zones[instanceID].enemySpells[cid][spellId] then\n                            unitGUID = bossGUID\n                        end\n                    end\n                end\n                \n                if bossGUID and not unitGUID and not lastTry then\n                    lastTry = true\n                elseif bossGUID and not unitGUID and lastTry then\n                    unitGUID = bossGUID\n                end\n                \n                if unitGUID then\n                    retry_after = 0\n                else\n                    retry_after = 2\n                end\n                \n                if duration - retry_after > 0 then\n                    C_Timer.After(tonumber(retry_after), function() timerStartDBM(id, msg, duration-retry_after, icon, barTypeSimple, spellId, colorId, modId, keep, fade, name, unitGUID, timerCount, isPriority, barType, lastTry) end)\n                end\n            end\n            \n        end\n        \n        local function EAS_DBM_TimerStart(event, id, msg, duration, icon, barTypeSimple, spellId, colorId, modId, keep, fade, name, unitGUID, timerCount, isPriority, barType)\n            if event == \"DBM_TimerStart\" or event == \"DBM_NameplateStart\" then\n                timerStartDBM(id, msg, duration, icon, barTypeSimple, spellId, colorId, modId, keep, fade, name, unitGUID, timerCount, isPriority, barType)\n            end\n            \n        end\n        \n        local function EAS_DBM_TimerStop(event, id)\n            if event == \"DBM_TimerStop\" or event == \"DBM_NameplateStop\" then\n                EAS_timerEndDBM(id)\n            end\n        end\n        \n        DBM:RegisterCallback(\"DBM_TimerStart\", EAS_DBM_TimerStart)\n        DBM:RegisterCallback(\"DBM_NameplateStart\", EAS_DBM_TimerStart)\n        DBM:RegisterCallback(\"DBM_TimerStop\", EAS_DBM_TimerStop)\n        DBM:RegisterCallback(\"DBM_NameplateStop\", EAS_DBM_TimerStop)\n    end\nend\n\nlocal function setupBWHooks(environment, EAS_timerStartBW, EAS_timerEndBW)\n    if BigWigsLoader and BigWigsLoader.RegisterMessage then\n        local function timerStartBW(mod, spellId, msg, seconds, icon, unitGUID, lastTry)\n            if mod and spellId and unitGUID then\n                local id = msg\n                local keep = false\n                local isPriority = false\n                EAS_timerStartBW(id, nil, seconds, nil, nil, spellId, nil, nil, keep, nil, nil, unitGUID, nil, isPriority, nil)\n            elseif mod and spellId and not unitGUID then\n                local retry_after\n                local unitGUID\n                local bossGUID\n                --race condition with encounter starting and timer firing, unable to resolve boss1 to a guid - we fix it by retrying\n                for i=8,1,-1 do\n                    bossGUID = UnitGUID(\"boss\"..i)\n                    if bossGUID then\n                        local cid = environment.creatureIdFromGUID(bossGUID)\n                        local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n                        if cid and EASDB and EASDB.spellInfo and EASDB.spellInfo.zones and EASDB.spellInfo.zones[instanceID]\n                        and EASDB.spellInfo.zones[instanceID].enemySpells and EASDB.spellInfo.zones[instanceID].enemySpells[cid]\n                        and EASDB.spellInfo.zones[instanceID].enemySpells[cid][spellId] then\n                            unitGUID = bossGUID\n                        end\n                    end\n                end\n                \n                if bossGUID and not unitGUID and not lastTry then\n                    lastTry = true\n                elseif bossGUID and not unitGUID and lastTry then\n                    unitGUID = bossGUID\n                end\n                \n                if unitGUID then\n                    retry_after = 0\n                else\n                    retry_after = 2\n                end\n                \n                if seconds - retry_after > 0 then\n                    C_Timer.After(tonumber(retry_after), function() timerStartBW(mod, spellId, msg, seconds-retry_after, icon, unitGUID, lastTry) end)\n                end\n            end\n            \n        end\n        \n        local function EAS_BigWigs_StartBar(event, mod, key, msg, time, icon, isApprox, maxTime)\n            local spellId = key\n            timerStartBW(mod, spellId, msg, time, icon, nil)\n        end\n        \n        local function EAS_BigWigs_StopBar(event, mod, msg)\n            for i=1,8 do\n                local unitGUID = UnitGUID(\"boss\"..i)\n                if msg and unitGUID then\n                    local id = msg\n                    EAS_timerEndBW(id, unitGUID)\n                end\n            end\n        end\n        \n        local function EAS_BigWigs_StartNameplate(event, mod, unitGUID, key, seconds, customIconOrText)\n            local spellId = key\n            local id = unitGUID..spellId\n            local keep = true\n            local isPriority = false\n            EAS_timerStartBW(id, nil, seconds, nil, nil, spellId, nil, nil, keep, nil, nil, unitGUID, nil, isPriority, nil)\n        end\n        \n        local function EAS_BigWigs_StopNameplate(event, mod, unitGUID, key, text)\n            local spellId = key\n            local id = unitGUID..spellId\n            EAS_timerEndBW(id, unitGUID)\n        end\n        \n        local function EAS_BigWigs_ClearNameplate(event, mod, unitGUID)\n            EAS_timerEndBW(nil, unitGUID)\n        end\n        \n        BigWigsLoader.RegisterMessage({}, \"BigWigs_StartBar\", EAS_BigWigs_StartBar)\n        BigWigsLoader.RegisterMessage({}, \"BigWigs_StopBar\", EAS_BigWigs_StopBar)\n        BigWigsLoader.RegisterMessage({}, \"BigWigs_StartNameplate\", EAS_BigWigs_StartNameplate)\n        BigWigsLoader.RegisterMessage({}, \"BigWigs_StopNameplate\", EAS_BigWigs_StopNameplate)\n        BigWigsLoader.RegisterMessage({}, \"BigWigs_ClearNameplate\", EAS_BigWigs_ClearNameplate)\n    end\n    \nend\n\nlocal function setupCooldownFrames(environment)\n    local DF = _G [\"DetailsFramework\"]\n    \n    environment.unitTimers = environment.unitTimers or {}\n    \n    local castCache = {}\n    local inEncounter = false\n    local inCombat = false\n    \n    local function EAS_timerEnd(id, unitGUID)\n        if unitGUID and environment.unitInfo and environment.unitInfo[unitGUID] and environment.unitInfo[unitGUID].timers then\n            if id then\n                environment.unitInfo[unitGUID].timers[id] = nil\n            else\n                for n,_ in pairs(environment.unitInfo[unitGUID].timers) do\n                    environment.unitInfo[unitGUID].timers[n] = nil\n                end\n            end\n            \n            environment.unitInfo[unitGUID].updateTime = GetTime()\n        end\n    end\n    \n    local function EAS_timerStart_internal(id, unitGUID, spellId, duration, timeToCastOoc, timeBetweenCastsOoc, placeholder, keep)\n        if (id and unitGUID) then\n            local currentTime =  GetTime()\n            \n            local barData = {\n                id = id,\n                unitGUID = unitGUID,\n                spellId = spellId,\n                start = currentTime,\n                duration = duration,\n                keep = keep,\n                placeholder = placeholder,\n                timeBetweenCastsOoc = timeBetweenCastsOoc,\n                timeToCastOoc = timeToCastOoc and ceil(timeToCastOoc) or nil\n            }\n            \n            if environment.unitInfo and environment.unitInfo[unitGUID] and environment.unitInfo[unitGUID].timers then\n                if placeholder then\n                    for _, d in pairs(environment.unitInfo[unitGUID].timers) do\n                        if d and d.spellId == spellId and not d.placeholder then\n                            return\n                        end\n                    end\n                else\n                    for id, d in pairs(environment.unitInfo[unitGUID].timers) do\n                        if d and d.spellId == spellId --[[and d.placeholder]] then\n                            EAS_timerEnd(id, unitGUID)\n                        end\n                    end\n                end\n            end\n            \n            environment.unitInfo = environment.unitInfo or {}\n            environment.unitInfo[unitGUID] = environment.unitInfo[unitGUID] or {}\n            environment.unitInfo[unitGUID].timers = environment.unitInfo[unitGUID].timers or {}\n            environment.unitInfo[unitGUID].timers[id] = barData\n            environment.unitInfo[unitGUID].updateTime = currentTime\n        end\n    end\n    \n    local function createSpellCDFrame(parentUnitFrame)\n        local options = {\n            surpress_tulla_omni_cc = true,\n            --grow_direction = 1,\n            \n            icon_width = environment.config.size,\n            icon_height = environment.config.size,\n            texcoord = {.1, .9, .1, .9},\n            \n            show_text = true,\n            text_font = \"Friz Quadrata TT\",\n            text_outline = \"OUTLINE\",\n            text_size = environment.config.size/3*1.6,\n            text_y_offset = 1,\n            text_anchor = \"bottom\",\n            text_rel_anchor = \"bottom\",\n            \n            \n            desc_text = true,\n            desc_text_font = \"Friz Quadrata TT\",\n            desc_text_outline = \"OUTLINE\",\n            desc_text_size = environment.config.size/3,\n            desc_text_y_offset = -1,\n            desc_text_anchor = \"top\",\n            desc_text_rel_anchor = \"top\",\n            \n            \n            stack_text = true,\n            stack_text_font = \"Friz Quadrata TT\",\n            stack_text_outline = \"OUTLINE\",\n            stack_text_size = environment.config.size/3*1.6,\n            stack_text_y_offset = 1,\n            stack_text_anchor = \"bottom\",\n            stack_text_rel_anchor = \"bottom\",\n        }\n        \n        local EasSpellCDIconFrame = DF:CreateIconRow (parentUnitFrame, \"EasSpellCDIconFrame$parent\", options)\n        EasSpellCDIconFrame:ClearIcons()\n        DF:SetAnchor(EasSpellCDIconFrame, {side = environment.config.anchorPoint, x = environment.config.xOffset, y = environment.config.yOffset})\n        \n        return EasSpellCDIconFrame\n    end\n    \n    \n    local function SpellCDSort(currentTime, a, b)\n        local aNoTimer = a.duration == nil or tonumber(a.duration) == 0\n        local bNoTimer = b.duration == nil or tonumber(b.duration) == 0\n        \n        if (aNoTimer and (not bNoTimer)) then\n            return true\n        elseif (bNoTimer and (not aNoTimer)) then\n            return false\n        elseif (aNoTimer and bNoTimer) then\n            if a.timeToCastOoc and (not b.timeToCastOoc) then\n                return true\n            elseif b.timeToCastOoc and (not a.timeToCastOoc) then\n                return false\n            elseif a.timeToCastOoc and b.timeToCastOoc then\n                if tonumber(a.timeToCastOoc) == 0 and tonumber(b.timeToCastOoc) == 0 then\n                    return tonumber(a.spellId) < tonumber(b.spellId)\n                elseif tonumber(a.timeToCastOoc) == 0 then\n                    return true\n                elseif tonumber(b.timeToCastOoc) == 0 then\n                    return false\n                else\n                    return tonumber(b.timeToCastOoc) < tonumber(a.timeToCastOoc)\n                end\n            else\n                return tonumber(a.spellId) < tonumber(b.spellId)\n            end\n        else\n            local aRemaining = a.duration and tonumber(a.duration) or 0 - (currentTime - tonumber(a.start))\n            local bRemaining = b.duration and tonumber(b.duration) or 0 - (currentTime - tonumber(b.start))\n            return tonumber(bRemaining) < tonumber(aRemaining)\n        end\n    end\n    \n    local function updateSpellCDFrame(unitFrame, unitGUID)\n        unitFrame.EasSpellCDIconFrame = unitFrame.EasSpellCDIconFrame or createSpellCDFrame(unitFrame.healthBar)\n        local iconFrame = unitFrame.EasSpellCDIconFrame\n        if iconFrame then\n            local currentTime = GetTime()\n            \n            if iconFrame.unitGUID == unitGUID and environment.unitInfo and environment.unitInfo[unitGUID]\n            and (not environment.unitInfo[unitGUID].updateTime or environment.unitInfo[unitGUID].updateTime > currentTime) then\n                return\n            end\n            \n            iconFrame.unitGUID = unitGUID\n            iconFrame:ClearIcons()\n            \n            environment.unitInfo = environment.unitInfo or {}\n            environment.unitInfo[unitGUID] = environment.unitInfo[unitGUID] or {}\n            environment.unitInfo[unitGUID].updateTime = math.huge\n            \n            if environment.unitInfo[unitGUID].timers then\n                local function cachedSpellCDSort(a,b)\n                    return SpellCDSort(currentTime, a, b)\n                end\n                \n                local sortedUnitTimers = {}\n                for _, d in pairs(environment.unitInfo[unitGUID].timers) do\n                    table.insert(sortedUnitTimers, d)\n                end\n                table.sort(sortedUnitTimers, cachedSpellCDSort)\n                \n                for _, d in ipairs(sortedUnitTimers) do\n                    local endTime = d.start and d.duration and d.duration > 0 and d.start + d.duration or math.huge\n                    if not d.keep and currentTime > endTime then\n                        EAS_timerEnd(d.id, unitGUID)\n                    else\n                        local showDuration = not ((math.huge == endTime) or (currentTime > endTime and d.keep))\n                        local icon = iconFrame:SetIcon(d.spellId, {0, 0, 0, 1}, showDuration and d.start, showDuration and d.duration, nil, {text = d.timeBetweenCastsOoc and d.timeBetweenCastsOoc < math.huge and d.timeBetweenCastsOoc or \"\"}, not showDuration and d.timeToCastOoc and floor(d.timeToCastOoc) or nil)\n                        \n                        if icon then\n                            icon.Cooldown:SetHideCountdownNumbers(true)\n                            icon:SetAttribute(\"spellId\", d.spellId)\n                            icon:SetScript(\"OnEnter\", function(self)\n                                    if not PlayerIsInCombat() or IsKeyDown(environment.config.keyShowInCombat) then\n                                        GameTooltip:SetOwner(self, \"ANCHOR_NONE\")\n                                        GameTooltip:SetPoint(\"TOPRIGHT\", self, \"BOTTOMLEFT\")\n                                        local spellId = self:GetAttribute(\"spellId\")\n                                        if spellId then\n                                            GameTooltip:SetSpellByID(spellId)\n                                        end\n                                    end\n                            end)\n                            icon:SetScript(\"OnLeave\", function(self, motion)\n                                    GameTooltip:Hide()\n                            end)\n                            icon:EnableMouse(true)\n                            icon:EnableMouseMotion(true)\n                        end\n                    end\n                    environment.unitInfo[unitGUID].updateTime = endTime < environment.unitInfo[unitGUID].updateTime and endTime or environment.unitInfo[unitGUID].updateTime\n                end\n            end\n        end\n    end\n    \n    environment.EASNameplateSpellCooldowns = environment.EASNameplateSpellCooldowns or CreateFrame(\"Frame\", \"EASNameplateSpellCooldowns\")\n    local f = environment.EASNameplateSpellCooldowns\n    f:RegisterEvent(\"COMBAT_LOG_EVENT_UNFILTERED\")\n    f:RegisterEvent(\"PLAYER_REGEN_DISABLED\")\n    f:RegisterEvent(\"PLAYER_REGEN_ENABLED\")\n    f:RegisterEvent(\"ENCOUNTER_START\")\n    f:RegisterEvent(\"ENCOUNTER_END\")\n    f:RegisterEvent(\"NAME_PLATE_UNIT_ADDED\")\n    f:SetScript(\"OnEvent\", function(self, event, ...)\n            if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n                local _, subevent, _, sourceGUID, _, _, _, destGUID, destName = CombatLogGetCurrentEventInfo()\n                if subevent == \"UNIT_DIED\" then\n                    if environment.unitTimers and environment.unitTimers[destGUID] then\n                        for id, data in pairs(environment.unitTimers[destGUID]) do\n                            EAS_timerEnd(id, destGUID)\n                        end\n                    end\n                end\n            elseif event == \"PLAYER_REGEN_DISABLED\" then\n                inCombat = true\n            elseif event == \"PLAYER_REGEN_ENABLED\" then\n                inCombat = false\n                if not inEncounter then\n                    if environment.unitTimers then\n                        for unitGUID, unitData in pairs(environment.unitTimers) do\n                            if unitGUID and unitData then\n                                local unitToken = UnitTokenFromGUID(unitGUID)\n                                if not unitToken or not UnitAffectingCombat(unitToken) then\n                                    for id, data in pairs(unitData) do\n                                        EAS_timerEnd(id, unitGUID)\n                                    end\n                                end\n                            end\n                        end\n                    end\n                end\n            elseif event ==\"ENCOUNTER_START\" then\n                inEncounter = true\n            elseif event ==\"ENCOUNTER_END\" then\n                inEncounter = false\n                if not inCombat then\n                    if environment.unitTimers then\n                        for unitGUID, unitData in pairs(environment.unitTimers) do\n                            if unitGUID and unitData then\n                                local unitToken = UnitTokenFromGUID(unitGUID)\n                                if not unitToken or not UnitAffectingCombat(unitToken) then\n                                    for id, data in pairs(unitData) do\n                                        EAS_timerEnd(id, unitGUID)\n                                    end\n                                end\n                            end\n                        end\n                    end\n                end\n            elseif event == \"NAME_PLATE_UNIT_ADDED\" then\n                local unitToken = ...\n                local namePlate = C_NamePlate.GetNamePlateForUnit(unitToken)\n                local namePlateUnitFrame = namePlate.unitFrame or namePlate.UnitFrame\n                local unitGUID = UnitGUID(unitToken) or nil\n                if namePlateUnitFrame and unitGUID then\n                    updateSpellCDFrame(namePlateUnitFrame, unitGUID)\n                end\n            end\n    end)\n    \n    local function iterateNameplates()\n        local nameplates = C_NamePlate.GetNamePlates(false)\n        for n,d in pairs(nameplates) do\n            local namePlateUnitFrame = d.unitFrame or d.UnitFrame\n            local unitGUID = UnitGUID(d.namePlateUnitToken) or nil\n            if namePlateUnitFrame and unitGUID then\n                updateSpellCDFrame(namePlateUnitFrame, unitGUID)\n            end\n            \n        end\n    end\n    \n    local timeElapsed = 0\n    f:SetScript(\"OnUpdate\", function(self, elapsed)\n            timeElapsed = timeElapsed + elapsed\n            if timeElapsed > 1.00 then\n                timeElapsed = 0\n                iterateNameplates()\n            end\n    end)\n    \n    local function EAS_timerStartEAS(id, msg, duration, icon, barTypeSimple, spellId, colorId, modId, keep, fade, timeBetweenCastsOoc, unitGUID, timerCount, timeToCastOoc)\n        local isPriority = false\n        local placeholder = true\n        EAS_timerStart_internal(id, unitGUID, spellId, duration, timeToCastOoc, timeBetweenCastsOoc, placeholder, keep)\n    end\n    \n    local function EAS_timerStartBM(id, msg, duration, icon, barTypeSimple, spellId, colorId, modId, keep, fade, name, unitGUID, timerCount, isPriority, barType)\n        local timeToCastOoc = nil\n        local placeholder = false\n        EAS_timerStart_internal(id, unitGUID, spellId, duration, timeToCastOoc, nil, placeholder, keep)\n    end\n    \n    local function EAS_timerEndDBM(id)\n        if environment.unitInfo then\n            for n,d in pairs(environment.unitInfo) do\n                if d.timers and d.timers[id] then\n                    EAS_timerEnd(id, n)\n                    break\n                end\n            end\n        end\n    end\n    \n    if environment.config.optionBWNPCD then\n        setupBWHooks(environment, EAS_timerStartBM, EAS_timerEnd)\n    end\n    \n    \n    if environment.config.optionDBMNPCD then\n        setupDBMHooks(environment, EAS_timerStartBM, EAS_timerEndDBM)\n    end\n    \n    if environment.config.optionPreCombatNPCD or environment.config.optionInCombatNPCD then\n        setupSpellTriggers(environment, EAS_timerStartEAS, EAS_timerEnd)\n    end\nend\n\nlocal function moduleFunction(demokratiaObject, ...)    \n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    \n    local EASNPCDObject = EASNPCD\n    if not EASNPCDObject then\n        local EASNPCDObject = {}\n        \n        local environment = {}\n        environment.config = config\n        environment.playerGUID = UnitGUID(\"player\")\n        \n        EASNPCDObject.environment = environment\n        \n        demokratiaObject.init(\"EAS\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        \n        if environment.config.optionPreCombatNPCD or environment.config.optionInCombatNPCD or environment.config.optionDBMNPCD or environment.config.optionBWNPCD then\n            setupCooldownFrames(environment)\n        end\n        \n        setglobal(\"EASNPCD\", EASNPCDObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\n    \nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"EAS\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Show spell cooldown information from the Demokratia database on the nameplate before the mob enters combat",
+          "key": "optionPreCombatNPCD",
+          "name": "Pre-combat ",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 0.45
+        },
+        {
+          "default": true,
+          "desc": "Show spell cooldown information from the Demokratia database on the nameplate after the mob enters combat. You could want to disable this if you have some other addon doing the same thing.",
+          "key": "optionInCombatNPCD",
+          "name": "In-combat Nameplate Cooldowns",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 1
+        },
+        {
+          "default": true,
+          "desc": "Show spell cooldown information from BigWigs on the nameplate after the mob enters combat. You can disable BigWigs own overlapping nameplate icons by selecting \"Boss mod nameplates 'opt-in' mode\" in BW nameplate icon advanced settings.",
+          "key": "optionBWNPCD",
+          "name": "BW",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 0.3
+        },
+        {
+          "default": true,
+          "desc": "Show spell cooldown information from DBM on the nameplate after the mob enters combat.",
+          "key": "optionDBMNPCD",
+          "name": "DBM",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 0.25
+        },
+        {
+          "default": false,
+          "desc": "Could be useful if boss mods are not yet up to date",
+          "key": "optionInCombatRaidBossNPCD",
+          "name": "Use Demokratia database in-combat cooldowns for bosses",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": "+",
+          "key": "keyShowInCombat",
+          "length": 10,
+          "multiline": false,
+          "name": "Key to press down to show tooltips in combat for nameplate cooldowns",
+          "type": "input",
+          "useDesc": false,
+          "useLength": false,
+          "width": 2
+        },
+        {
+          "default": 2,
+          "key": "anchorPoint",
+          "name": "CD icon position",
+          "type": "select",
+          "useDesc": false,
+          "values": [
+            "TOPLEFT",
+            "LEFT",
+            "BOTTOMLEFT",
+            "BOTTOM",
+            "BOTTOMRIGHT",
+            "RIGHT",
+            "TOPRIGHT",
+            "TOP",
+            "CENTER",
+            "INSIDELEFT",
+            "INSIDERIGHT",
+            "INSIDETOP",
+            "INSIDEBOTTOM",
+            "INSIDETOPLEFT",
+            "INSIDEBOTTOMLEFT",
+            "INSIDEBOTTOMRIGHT",
+            "INSIDETOPRIGHT"
+          ],
+          "width": 0.5
+        },
+        {
+          "default": -5,
+          "key": "xOffset",
+          "max": 100,
+          "min": -100,
+          "name": "x offset",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        },
+        {
+          "default": 0,
+          "key": "yOffset",
+          "max": 100,
+          "min": -100,
+          "name": "y offset",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        },
+        {
+          "default": 18,
+          "key": "size",
+          "max": 100,
+          "min": 0,
+          "name": "size",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        }
+      ],
+      "conditions": [],
+      "config": {
+        "anchorPoint": 2,
+        "keyShowInCombat": "+",
+        "optionBWNPCD": true,
+        "optionDBMNPCD": true,
+        "optionInCombatNPCD": true,
+        "optionInCombatRaidBossNPCD": false,
+        "optionPreCombatNPCD": true,
+        "size": 18,
+        "xOffset": -5,
+        "yOffset": 0
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS nameplate spell cooldowns",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "9n5Y90vYz63",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    \n    local krundeSaysNameplateObject = krundeSaysNameplate\n    if not krundeSaysNameplateObject then\n        local krundeSaysNameplateObject = {}\n        \n        local environment = {\n            playerGUID = UnitGUID(\"player\"),\n            config = config,\n        }\n        \n        krundeSaysNameplateObject.environment = environment\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        demokratiaObject.init(\"EAS\", environment)\n        \n        local function UnitShortenedGUID(unitGUID)\n            local _,_,creatureID,spawnID = string.find(unitGUID, \"%-(%x+)%-(%x+)$\")\n            if creatureID and spawnID then \n                return creatureID..\"-\"..spawnID\n            else\n                return nil\n            end\n        end\n        \n        local function NameplateUpdate(self, unitId, unitFrame, modTable, parentFrame, sampleText)\n            local function AnchorFrameNumericAnchor(numericAnchor)\n                local anchorRaw\n                \n                if numericAnchor % 3 == 1 then\n                    anchorRaw = 4\n                elseif numericAnchor % 3 == 0 then\n                    anchorRaw = 6\n                else\n                    if numericAnchor < 4 then\n                        anchorRaw = 2\n                    elseif numericAnchor > 6 then\n                        anchorRaw = 8\n                    else\n                        anchorRaw = 5\n                    end\n                end\n                \n                return anchorRaw\n            end\n            \n            local function IndicatorNumericAnchor(numericAnchor)\n                local anchorH = 2\n                local anchorV = 3\n                \n                if numericAnchor % 3 == 1 then\n                    anchorH = 3\n                elseif numericAnchor % 3 == 0 then\n                    anchorH = 1\n                else\n                    if numericAnchor < 4 then\n                        anchorV = 6\n                    elseif numericAnchor > 6 then\n                        anchorV = 0\n                    end\n                end\n                \n                return anchorH + anchorV\n            end\n            \n            local function StringAnchor(numericAnchor)\n                local verticality\n                if numericAnchor < 4 then\n                    verticality = \"TOP\"\n                elseif numericAnchor > 6 then\n                    verticality = \"BOTTOM\"\n                else\n                    verticality = \"\"\n                end\n                \n                local horizontality\n                if numericAnchor % 3 == 1 then\n                    horizontality = \"LEFT\"\n                elseif numericAnchor % 3 == 0 then\n                    horizontality = \"RIGHT\"\n                else\n                    horizontality = \"\"\n                end\n                \n                local anchorRaw = verticality..horizontality\n                local anchor = modTable.config.anchor == 5 and \"CENTER\" or anchorRaw\n                \n                return anchor\n            end\n            \n            local frameOverlay = parentFrame\n            frameOverlay.focusIndicatorAnchorFrame = frameOverlay.focusIndicatorAnchorFrame or CreateFrame(\"Frame\", nil, frameOverlay)\n            frameOverlay.casterIndicatorFrame = frameOverlay.casterIndicatorFrame or CreateFrame(\"Frame\", nil, frameOverlay.focusIndicatorAnchorFrame)\n            frameOverlay.focusIndicatorFrame = frameOverlay.focusIndicatorFrame or CreateFrame(\"Frame\", nil, frameOverlay.casterIndicatorFrame)\n            frameOverlay.casterIndicatorFrame.casterIndicator = frameOverlay.casterIndicatorFrame.casterIndicator or frameOverlay.casterIndicatorFrame:CreateTexture()\n            frameOverlay.focusIndicatorFrame.focusIndicator = frameOverlay.focusIndicatorFrame.focusIndicator or frameOverlay.focusIndicatorFrame:CreateTexture()\n            frameOverlay.focusIndicatorFrame.focusText = frameOverlay.focusIndicatorFrame.focusText or frameOverlay.focusIndicatorFrame:CreateFontString (nil, \"overlay\", \"GameFontNormal\")\n            frameOverlay.focusIndicatorFrame.castText = frameOverlay.focusIndicatorFrame.castText or frameOverlay.focusIndicatorFrame:CreateFontString (nil, \"overlay\", \"GameFontNormal\")\n            frameOverlay.ggeasBorder = frameOverlay.ggeasBorder or CreateFrame (\"frame\", nil, frameOverlay, \"NamePlateFullBorderTemplate\")\n            \n            local casterIndicator = frameOverlay.casterIndicatorFrame.casterIndicator\n            local indicator = frameOverlay.focusIndicatorFrame.focusIndicator\n            local focusText = frameOverlay.focusIndicatorFrame.focusText\n            local castText = frameOverlay.focusIndicatorFrame.castText\n            \n            local unitIsPlayerFocus = UnitIsUnit(\"focus\", unitId)\n            \n            local unitToken = unitId\n            local unitGUID = unitToken and UnitGUID(unitToken) or nil\n            local creatureId = unitGUID and environment.creatureIdFromGUID and environment.creatureIdFromGUID(unitGUID) or nil\n            \n            local _, _, _, _, _, _, _, instanceID, _, _ = GetInstanceInfo()\n            \n            local castsPerQuarterMinuteRounded = 0\n            \n            if creatureId and instanceID\n            and EASDB\n            and EASDB.spellInfo\n            and EASDB.spellInfo.zones\n            and EASDB.spellInfo.zones[instanceID]\n            and EASDB.spellInfo.zones[instanceID].enemySpells\n            and EASDB.spellInfo.zones[instanceID].enemySpells[creatureId] then\n                \n                local castsPerMinute = 0\n                for spellId,_ in pairs(EASDB.spellInfo.zones[instanceID].enemySpells[creatureId]) do\n                    if EASDB.spellInfo.zones[instanceID].interruptible and EASDB.spellInfo.zones[instanceID].interruptible[spellId]\n                    and EASDB.spellInfo.zones[instanceID].timeBetweenCasts and EASDB.spellInfo.zones[instanceID].timeBetweenCasts[spellId] then \n                        castsPerMinute = castsPerMinute + 60 / EASDB.spellInfo.zones[instanceID].timeBetweenCasts[spellId]\n                    end\n                end\n                \n                local castsPerQuarterMinute = castsPerMinute / 4\n                local castsPerQuarterMinuteFloored = floor(castsPerMinute / 4)\n                local remainder = castsPerQuarterMinute - castsPerQuarterMinuteFloored\n                castsPerQuarterMinuteRounded = (remainder > 0.7 or (castsPerQuarterMinute > 0 and castsPerQuarterMinute < 1)) and castsPerQuarterMinuteFloored + 1 or castsPerQuarterMinuteFloored\n            end\n            \n            local numFocusers = 0\n            if krundeSaysInterruptClient\n            and krundeSaysInterruptClient.environment.focusTargetList then\n                local unitGUID = UnitGUID(unitId)\n                local focusers = krundeSaysInterruptClient.environment.focusTargetList[unitGUID]\n                if unitGUID and focusers then\n                    for n,_ in pairs(focusers) do\n                        numFocusers = numFocusers + 1\n                    end\n                end\n            end\n            \n            if numFocusers == 0 and unitIsPlayerFocus then\n                numFocusers = 1\n            end\n            \n            local baseWidth = frameOverlay:GetWidth()\n            local baseHeight = frameOverlay:GetHeight()\n            local width = (modTable.config.width or 1) * baseWidth\n            local height = (modTable.config.height or 1) * baseHeight\n            local casterWidth = (modTable.config.casterWidth or 1) * baseWidth\n            local casterHeight = (modTable.config.casterHeight or 1) * baseHeight\n            \n            local startOffsetX\n            local endOffsetX\n            if modTable.config.anchor % 3 == 1  then\n                startOffsetX = 0\n                endOffsetX = -width\n            elseif modTable.config.anchor % 3 == 0 then\n                startOffsetX = 0 \n                endOffsetX = width\n            else\n                startOffsetX = -width/2\n                endOffsetX = width/2\n            end\n            \n            local startOffsetY\n            local endOffsetY\n            if modTable.config.anchor < 4 then\n                startOffsetY = -height/2\n                endOffsetY = -height/2\n            elseif modTable.config.anchor > 6 then\n                startOffsetY = height/2\n                endOffsetY = height/2\n            else\n                startOffsetY = 0\n                endOffsetY = 0\n            end\n            \n            local anchorNumericAnchor = AnchorFrameNumericAnchor(modTable.config.anchor)\n            local indicatorNumericAnchor = IndicatorNumericAnchor(modTable.config.anchor)\n            \n            local anchorAnchor = StringAnchor(anchorNumericAnchor)\n            local indicatorAnchor = StringAnchor(indicatorNumericAnchor)\n            \n            local fontPath, fontSize, fontFlags = sampleText:GetFont()\n            focusText:SetFont(fontPath, fontSize, fontFlags)\n            focusText:SetTextColor(1, 1, 1, 1)\n            castText:SetFont(fontPath, fontSize, fontFlags)\n            castText:SetTextColor(1, 1, 1, 1)\n            \n            if anchorAnchor == \"LEFT\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, -modTable.config.offset, 0)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, baseHeight)\n                focusText:SetPoint(\"TOPLEFT\")\n                castText:SetPoint(\"BOTTOMLEFT\")\n            elseif anchorAnchor == \"RIGHT\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, modTable.config.offset, 0)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, baseHeight)\n                focusText:SetPoint(\"TOPRIGHT\")\n                castText:SetPoint(\"BOTTOMRIGHT\")\n            elseif anchorAnchor == \"TOP\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, 0, modTable.config.offset)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(baseWidth, 1)\n                focusText:SetPoint(\"BOTTOMLEFT\")\n                castText:SetPoint(\"BOTTOMRIGHT\")\n            elseif anchorAnchor == \"BOTTOM\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, 0, -modTable.config.offset)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(baseWidth, 1)\n                focusText:SetPoint(\"TOPLEFT\")\n                castText:SetPoint(\"TOPRIGHT\")\n            else \n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, 1)\n                focusText:SetPoint(\"TOP\")\n                castText:SetPoint(\"BOTTOM\")\n            end\n            \n            frameOverlay.casterIndicatorFrame:SetPoint(indicatorAnchor)\n            frameOverlay.casterIndicatorFrame:SetSize(casterWidth, casterHeight)\n            \n            frameOverlay.focusIndicatorFrame:SetPoint(indicatorAnchor)\n            frameOverlay.focusIndicatorFrame:SetSize(width, height)\n            \n            casterIndicator:SetAllPoints(frameOverlay.casterIndicatorFrame)\n            casterIndicator:SetParent(frameOverlay.casterIndicatorFrame)\n            \n            indicator:SetAllPoints(frameOverlay.focusIndicatorFrame)\n            indicator:SetParent(frameOverlay.focusIndicatorFrame)\n            \n            focusText:SetText(tostring(numFocusers))\n            castText:SetText(tostring(castsPerQuarterMinuteRounded))\n            \n            if config.casterEnabled then\n                if castsPerQuarterMinuteRounded == 0 then\n                    casterIndicator:Hide()\n                elseif castsPerQuarterMinuteRounded == 1 then\n                    local r, g, b, a = 1, 1, 0, 1 --yellow\n                    casterIndicator:SetColorTexture(r,g,b,a)\n                    casterIndicator:Show()\n                elseif castsPerQuarterMinuteRounded >= 2 then\n                    local r, g, b, a = 1, 0, 0, 1 --red\n                    casterIndicator:SetColorTexture(r,g,b,a)\n                    casterIndicator:Show()\n                end\n                \n                frameOverlay.casterIndicatorFrame:Show()\n            else\n                casterIndicator:Hide()\n                frameOverlay.casterIndicatorFrame:Hide()\n            end\n            \n            if config.enabled then\n                if numFocusers > 0 then\n                    focusText:Show()\n                else\n                    focusText:Hide()\n                end\n                \n                if castsPerQuarterMinuteRounded > 0 then\n                    castText:Show()\n                else\n                    castText:Hide()\n                end\n                \n                if castsPerQuarterMinuteRounded == 0 and numFocusers == 0 then\n                    indicator:Hide()\n                elseif castsPerQuarterMinuteRounded <  numFocusers then\n                    local r, g, b, a = 0, 1, 1, 1 --cyan\n                    indicator:SetColorTexture(r,g,b,a)\n                    indicator:Show()\n                elseif castsPerQuarterMinuteRounded ==  numFocusers then\n                    local r, g, b, a = 0, 1, 0, 1 --green\n                    indicator:SetColorTexture(r,g,b,a)\n                    indicator:Show()\n                elseif castsPerQuarterMinuteRounded - numFocusers == 1  then\n                    local r, g, b, a = 1, 1, 0, 1 --yellow\n                    indicator:SetColorTexture(r,g,b,a)\n                    indicator:Show()\n                else\n                    local r, g, b, a = 1, 0, 0, 1 --red\n                    indicator:SetColorTexture(r,g,b,a)\n                    indicator:Show()\n                end\n                \n                local unitIsAssignedPlayerFocusTarget\n                local playerFocusMarkerIndex = krundeSaysMarkerClient and krundeSaysMarkerClient.environment.playerFocusMarkerIndex\n                \n                if unitGUID and krundeSaysFocusClient and krundeSaysFocusClient.environment.focusList then\n                    for _,d in ipairs(krundeSaysFocusClient.environment.focusList) do\n                        if UnitShortenedGUID(unitGUID) == d.caster then\n                            if d.unitIndex == playerFocusMarkerIndex then\n                                unitIsAssignedPlayerFocusTarget = true\n                            end\n                        end\n                    end \n                end\n                \n                if unitIsAssignedPlayerFocusTarget then\n                    if not unitIsPlayerFocus  then\n                        local r, g, b, a = 1, 0, 1, 1 --purple\n                        indicator:SetColorTexture(r,g,b,a)\n                        indicator:Show()\n                        \n                        if modTable.config.enabledHiVis then\n                            local borderSize = 4\n                            frameOverlay.ggeasBorder:SetVertexColor (r, g, b, a)\n                            frameOverlay.ggeasBorder:SetBorderSizes (borderSize, borderSize, borderSize, borderSize)\n                            frameOverlay.ggeasBorder:UpdateSizes()\n                            frameOverlay.ggeasBorder:Show()\n                        else\n                            frameOverlay.ggeasBorder:Hide()\n                        end\n                    else\n                        frameOverlay.ggeasBorder:Hide()\n                    end\n                    \n                    if not indicator:IsVisible() then\n                        local r, g, b, a = 0, 0, 0, 1 --black\n                        indicator:SetColorTexture(r,g,b,a)\n                        indicator:Show()\n                    end\n                else\n                    frameOverlay.ggeasBorder:Hide()\n                end\n                frameOverlay.casterIndicatorFrame:Show()\n                frameOverlay.focusIndicatorFrame:Show()\n            else\n                frameOverlay.focusIndicatorFrame:Hide()\n            end\n        end\n        \n        krundeSaysNameplateObject.frame = krundeSaysNameplateObject.frame or CreateFrame(\"FRAME\", \"krundeSaysNameplateFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysNameplateObject.frame)\n        \n        local function iterateNameplates()\n            local nameplates = C_NamePlate.GetNamePlates(false)\n            for n,d in pairs(nameplates) do\n                if d.Plater then\n                    NameplateUpdate(d, d.namePlateUnitToken, d.unitFrame, environment, d.unitFrame.healthBar.FrameOverlay, d.unitFrame.healthBar.lifePercent)\n                elseif d.UnitFrame then -- Blizzard\n                    NameplateUpdate(d, d.namePlateUnitToken, d.UnitFrame, environment, d.UnitFrame.healthBar, d.UnitFrame.name)\n                end\n            end\n        end\n        \n        if config.enabled or config.casterEnabled then\n            local timeElapsed = 0\n            krundeSaysNameplateObject.frame:SetScript(\"OnUpdate\", function(self, elapsed)\n                    timeElapsed = timeElapsed + elapsed\n                    if timeElapsed > 0.25 then\n                        timeElapsed = 0\n                        \n                        iterateNameplates()\n                    end\n            end)\n        end\n        \n        local demokratiaImportString = \"!PLATER:2!LU9PT8IwHJVw8SvIqd4lgc3981ZZN4dICIjhZmrbycLWX9N2BG/163ggfgQTv5gjeHiX9yfvvSMeb65T0cBOU1tRlAFrDcINtNKiQvKKUQs6tR9KpFuAHfY3D7i1W9B36FG3kgvkjbwADVE+X6OczMkSz9BifT8rJqgDma8IehHaVCCRf4O8BE1beQqNIuxlnh+G8RgHg+3P5Se+fcalht/vyorhqqttDKO1wFEPh1f9Pk4cjr8y21HSOvKuoVWOsJoa4/KGqteKG5dqqIUr1F79+1JNmXCElmV1cE9CstMzoc9mowRzk3WRLkeHMH7jcRAkPmc0Kb1oaoHtz8MHF73jgVDOQWaLmnbxHJTtBOP+AA==\"\n        \n        local function importPlaterMod(encodedString, enabled)\n            if Plater then\n                local decompressedData = encodedString and Plater.DecompressData(encodedString, \"print\") or false\n                if decompressedData ~= false then\n                    local indexScriptTable = decompressedData and Plater.MigrateScriptModImport(decompressedData) or nil\n                    local scriptType = indexScriptTable and Plater.GetDecodedScriptType(indexScriptTable) or nil\n                    local scriptObject = scriptType and Plater.BuildScriptObjectFromIndexTable(indexScriptTable, scriptType) or nil\n                    \n                    if scriptObject then\n                        scriptObject.Prio = 50\n                        scriptObject.Enabled = enabled\n                        \n                        Plater.AddScript(scriptObject, false) \n                    end\n                end\n            end\n        end\n        \n        importPlaterMod(demokratiaImportString, false)\n        \n        setglobal(\"krundeSaysNameplate\", krundeSaysNameplateObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "customOnLoad": "\n\n",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "",
+          "key": "enabled",
+          "name": "Show current focus status on the nameplate",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1.5
+        },
+        {
+          "default": 2,
+          "key": "offset",
+          "max": 100,
+          "min": 0,
+          "name": "Marker offset",
+          "step": 1,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        },
+        {
+          "default": 2,
+          "desc": "",
+          "key": "anchor",
+          "name": "Focus status position on nameplate",
+          "type": "select",
+          "useDesc": false,
+          "values": [
+            "TOPLEFT",
+            "TOP",
+            "TOPRIGHT",
+            "LEFT",
+            "CENTER",
+            "RIGHT",
+            "BOTTOMLEFT",
+            "BOTTOM",
+            "BOTTORIGHT"
+          ],
+          "width": 1
+        },
+        {
+          "default": 0.55,
+          "key": "width",
+          "max": 1,
+          "min": 0.05,
+          "name": "Marker width ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        },
+        {
+          "default": 0.35,
+          "key": "height",
+          "max": 1,
+          "min": 0.05,
+          "name": "Marker height ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        },
+        {
+          "default": true,
+          "desc": "Requires Plater",
+          "key": "enabledHiVis",
+          "name": "High Visibility mode for finding own assigned focus target",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": true,
+          "desc": "",
+          "key": "casterEnabled",
+          "name": "Show caster status on the np",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": 1,
+          "key": "casterWidth",
+          "max": 1,
+          "min": 0.05,
+          "name": "Caster marker width ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        },
+        {
+          "default": 0.15,
+          "key": "casterHeight",
+          "max": 1,
+          "min": 0.05,
+          "name": "Caster marker height ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        }
+      ],
+      "conditions": [],
+      "config": {
+        "anchor": 2,
+        "casterEnabled": true,
+        "casterHeight": 0.15,
+        "casterWidth": 1,
+        "enabled": true,
+        "enabledHiVis": true,
+        "height": 0.35,
+        "offset": 2,
+        "width": 0.55
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS nameplate focused players marker GUI",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "oEMHwVivo9f",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    \n    local krundeSaysCastbarObject = krundeSaysCastbar\n    if not krundeSaysCastbarObject then\n        local krundeSaysCastbarObject = {}\n        \n        local environment = {\n            playerGUID = UnitGUID(\"player\"),\n            playerClass = select(3, UnitClass(\"player\")),\n            config = config,\n        }\n        \n        krundeSaysCastbarObject.environment = environment\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        demokratiaObject.init(\"EAS\", environment)\n        \n        local function unitIsLieutenant(unitId)\n            local unitLevel = UnitLevel(unitId)\n            local playerLevel = UnitLevel(\"player\")\n            return UnitIsBossMob(unitId) or unitLevel > playerLevel\n        end\n        \n        local function unitIsNotLieutenant(unitId)\n            return not unitIsLieutenant(unitId)\n        end\n        \n        local classInterrupts = {\n            {\n                {spellId = 6552}, --Pummel (warrior)\n                {spellId = 386071, secondary=true, onGCD = true}, --Disrupting Shout (warrior [protection])\n            },\n            {\n                {spellId = 96231}, --Rebuke (paladin)\n                {spellId = 31935, secondary=true, onGCD = true}, --Avenger's Shield (paladin [protection])\n            },\n            {\n                \n                {spellId = 187707}, --Muzzle (hunter [survival])\n                {spellId = 147362}, --Counter Shot (hunter [beast mastery, marksmanship])\n            },\n            {\n                {spellId = 1766}, --Kick (rogue)\n            },\n            {\n                {spellId = 15487}, --Silence (priest [shadow])\n            },\n            {\n                {spellId = 47528}, --Mind Freeze (death knight)\n                {spellId = 108199, secondary=true, onGCD = true, talentId=206970, unitFilter=unitIsNotLieutenant}, -- Gorefiend's Grasp (death knight [blood])\n            },\n            {\n                {spellId = 57994}, --Wind Shear (shaman)\n            },\n            {\n                {spellId = 2139}, --Counterspell (mage)\n            },\n            {\n                {spellId = 19647}, --Spell Lock (warlock [felhunter])\n                {spellId = 89766}, --Axe Toss (warlock [felguard])\n            },\n            {\n                {spellId = 116705}, --Spear Hand Strike (monk)\n            },\n            {\n                {spellId = 106839}, --Skull Bash (druid [feral, guardian]))\n                {spellId = 78675}, --Solar Beam (druid [balance])\n            },\n            {\n                {spellId = 183752}, --Disrupt (demon hunter)\n                {spellId = 202137, secondary=true, onGCD = true}, --Sigil of Silence (demon hunter [vengeance])\n            },\n            {\n                {spellId = 351338}, --Quell (evoker)\n            },\n        }\n        \n        local function NameplateUpdate(self, unitId, unitFrame, modTable, parentFrame, castBarFrame)\n            local function AnchorFrameNumericAnchor(numericAnchor)\n                local anchorRaw\n                \n                if numericAnchor % 3 == 1 then\n                    anchorRaw = 4\n                elseif numericAnchor % 3 == 0 then\n                    anchorRaw = 6\n                else\n                    if numericAnchor < 4 then\n                        anchorRaw = 2\n                    elseif numericAnchor > 6 then\n                        anchorRaw = 8\n                    else\n                        anchorRaw = 5\n                    end\n                end\n                \n                return anchorRaw\n            end\n            \n            local function IndicatorNumericAnchor(numericAnchor)\n                local anchorH = 2\n                local anchorV = 3\n                \n                if numericAnchor % 3 == 1 then\n                    anchorH = 3\n                elseif numericAnchor % 3 == 0 then\n                    anchorH = 1\n                else\n                    if numericAnchor < 4 then\n                        anchorV = 6\n                    elseif numericAnchor > 6 then\n                        anchorV = 0\n                    end\n                end\n                \n                return anchorH + anchorV\n            end\n            \n            local function StringAnchor(numericAnchor)\n                local verticality\n                if numericAnchor < 4 then\n                    verticality = \"TOP\"\n                elseif numericAnchor > 6 then\n                    verticality = \"BOTTOM\"\n                else\n                    verticality = \"\"\n                end\n                \n                local horizontality\n                if numericAnchor % 3 == 1 then\n                    horizontality = \"LEFT\"\n                elseif numericAnchor % 3 == 0 then\n                    horizontality = \"RIGHT\"\n                else\n                    horizontality = \"\"\n                end\n                \n                local anchorRaw = verticality..horizontality\n                local anchor = modTable.config.anchor == 5 and \"CENTER\" or anchorRaw\n                \n                return anchor\n            end\n            \n            local frameOverlay = parentFrame\n            frameOverlay.focusIndicatorAnchorFrame = frameOverlay.focusIndicatorAnchorFrame or CreateFrame(\"Frame\", nil, frameOverlay)\n            frameOverlay.primaryIndicatorFrame = frameOverlay.primaryIndicatorFrame or CreateFrame(\"Frame\", nil, frameOverlay.focusIndicatorAnchorFrame)\n            frameOverlay.primaryIndicatorFrame.primaryIndicator = frameOverlay.primaryIndicatorFrame.primaryIndicator or frameOverlay.primaryIndicatorFrame:CreateTexture()\n            frameOverlay.secondaryIndicatorFrame = frameOverlay.secondaryIndicatorFrame or CreateFrame(\"Frame\", nil, frameOverlay.primaryIndicatorFrame)\n            frameOverlay.secondaryIndicatorFrame.secondaryIndicator = frameOverlay.secondaryIndicatorFrame.secondaryIndicator or frameOverlay.secondaryIndicatorFrame:CreateTexture()\n            frameOverlay.ggeasBorder = frameOverlay.ggeasBorder or CreateFrame (\"frame\", nil, frameOverlay, \"NamePlateFullBorderTemplate\")\n            frameOverlay.cdFinishMarker = frameOverlay.cdFinishMarker or frameOverlay:CreateTexture(nil, \"OVERLAY\")\n            \n            local primaryIndicator = frameOverlay.primaryIndicatorFrame.primaryIndicator\n            local secondaryIndicator = frameOverlay.secondaryIndicatorFrame.secondaryIndicator\n            \n            local baseWidth = frameOverlay:GetWidth()\n            local baseHeight = frameOverlay:GetHeight()\n            local width = (modTable.config.width or 1) * baseWidth\n            local height = (modTable.config.height or 1) * baseHeight\n            \n            local startOffsetX\n            local endOffsetX\n            if modTable.config.anchor % 3 == 1  then\n                startOffsetX = 0\n                endOffsetX = -width\n            elseif modTable.config.anchor % 3 == 0 then\n                startOffsetX = 0 \n                endOffsetX = width\n            else\n                startOffsetX = -width/2\n                endOffsetX = width/2\n            end\n            \n            local startOffsetY\n            local endOffsetY\n            if modTable.config.anchor < 4 then\n                startOffsetY = -height/2\n                endOffsetY = -height/2\n            elseif modTable.config.anchor > 6 then\n                startOffsetY = height/2\n                endOffsetY = height/2\n            else\n                startOffsetY = 0\n                endOffsetY = 0\n            end\n            \n            local anchorNumericAnchor = AnchorFrameNumericAnchor(modTable.config.anchor)\n            local indicatorNumericAnchor = IndicatorNumericAnchor(modTable.config.anchor)\n            \n            local anchorAnchor = StringAnchor(anchorNumericAnchor)\n            local indicatorAnchor = StringAnchor(indicatorNumericAnchor)\n            \n            local secondaryIndicatorHeightDivisor = 1\n            local secondaryIndicatorWidthDivisor = 1\n            \n            if anchorAnchor == \"LEFT\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, -modTable.config.offset, 0)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, baseHeight)\n                secondaryIndicatorHeightDivisor = 2\n            elseif anchorAnchor == \"RIGHT\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, modTable.config.offset, 0)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, baseHeight)\n                secondaryIndicatorHeightDivisor = 2\n            elseif anchorAnchor == \"TOP\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, 0, modTable.config.offset)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(baseWidth, 1)\n                secondaryIndicatorWidthDivisor = 2\n            elseif anchorAnchor == \"BOTTOM\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, 0, -modTable.config.offset)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(baseWidth, 1)\n                secondaryIndicatorWidthDivisor = 2\n            else \n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, 1)\n            end\n            \n            frameOverlay.primaryIndicatorFrame:SetPoint(indicatorAnchor)\n            frameOverlay.primaryIndicatorFrame:SetSize(width, height)\n            frameOverlay.secondaryIndicatorFrame:SetPoint(indicatorAnchor)\n            frameOverlay.secondaryIndicatorFrame:SetSize(width/secondaryIndicatorWidthDivisor, height/secondaryIndicatorHeightDivisor)\n            \n            primaryIndicator:SetAllPoints(frameOverlay.primaryIndicatorFrame)\n            primaryIndicator:SetParent(frameOverlay.primaryIndicatorFrame)\n            secondaryIndicator:SetAllPoints(frameOverlay.secondaryIndicatorFrame)\n            secondaryIndicator:SetParent(frameOverlay.secondaryIndicatorFrame)\n            \n            local nameCasting, textCasting, textureCasting, startTimeMSCasting, endTimeMSCasting, isTradeSkillCasting, castIDCasting, notInterruptibleCasting, spellIdCasting = UnitCastingInfo(unitId)\n            local nameChannel, textChannel, textureChannel, startTimeMSChannel, endTimeMSChannel, isTradeSkillChannel, notInterruptibleChannel, spellIdChannel = UnitChannelInfo(unitId)\n            local startTimeMS = startTimeMSCasting or startTimeMSChannel\n            local endTimeMS = endTimeMSCasting or endTimeMSChannel\n            local primaryInterruptExists, primaryInterruptReady, primaryInterruptWillBeReady\n            local primaryInterruptReadyTimeRatio\n            local secondaryInterruptExists, secondaryInterruptReady\n            local interruptList = classInterrupts and environment.playerClass and classInterrupts[environment.playerClass]\n            \n            if interruptList then\n                for i,d in pairs(interruptList) do\n                    if C_SpellBook.IsSpellKnown(d.spellId) and (not d.talentId or IsPlayerSpell(d.talentId)) and (not d.unitFilter or d.unitFilter(unitId))then\n                        local spellCooldownInfo = C_Spell.GetSpellCooldown(d.spellId)\n                        local gcdCooldownInfo = d.onGCD and C_Spell.GetSpellCooldown(61304) or nil\n                        \n                        if d.secondary then\n                            secondaryInterruptExists = true\n                            \n                            if spellCooldownInfo.duration == 0 or (d.onGCD and spellCooldownInfo.duration <= gcdCooldownInfo.duration) then\n                                secondaryInterruptReady = true\n                            end\n                        else\n                            primaryInterruptExists = true\n                            if spellCooldownInfo.duration == 0 or (d.onGCD and spellCooldownInfo.duration <= gcdCooldownInfo.duration) then\n                                primaryInterruptReady = true\n                            elseif endTimeMS and spellCooldownInfo.duration + spellCooldownInfo.startTime < endTimeMS/1000 - 0.05 then\n                                local interruptCDendTime = spellCooldownInfo.duration + spellCooldownInfo.startTime\n                                primaryInterruptWillBeReady = true\n                                primaryInterruptReadyTimeRatio = (interruptCDendTime*1000 - startTimeMS)/(endTimeMS - startTimeMS)\n                                if notInterruptibleChannel == false then\n                                    primaryInterruptReadyTimeRatio = 1 - primaryInterruptReadyTimeRatio\n                                end\n                            end\n                        end\n                    end\n                end\n            end\n            \n            frameOverlay.cdFinishMarker:Hide()\n            \n            if notInterruptibleCasting == false or notInterruptibleChannel == false then\n                if primaryInterruptReady == true or (not primaryInterruptExists and secondaryInterruptReady == true) then\n                    local r, g, b, a = 0, 1, 0, 1 --green\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                elseif primaryInterruptWillBeReady == true then\n                    local r, g, b, a = 1, 1, 0, 1 --yellow\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                    \n                    if config.enabledCDready then\n                        frameOverlay.cdFinishMarker:SetColorTexture(1,1,1,1)\n                        frameOverlay.cdFinishMarker:SetSize(2, baseHeight)\n                        frameOverlay.cdFinishMarker:SetPoint(\"CENTER\", frameOverlay, \"LEFT\", primaryInterruptReadyTimeRatio * baseWidth, 0)\n                        frameOverlay.cdFinishMarker:Show()\n                    end\n                elseif secondaryInterruptReady == true and primaryInterruptExists then\n                    local r, g, b, a = 1, 0, 1, 1 --purple\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                else \n                    local r, g, b, a = 1, 1, 1, 1 --white\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                end\n                \n                if secondaryInterruptReady == true and primaryInterruptExists then\n                    local r, g, b, a = 1, 0, 1, 1 --purple\n                    secondaryIndicator:SetColorTexture(r,g,b,a)\n                    secondaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        frameOverlay.ggeasBorder:SetVertexColor(r, g, b, a)\n                        frameOverlay.ggeasBorder:SetBorderSizes(1, 1, 1, 1)\n                        frameOverlay.ggeasBorder:UpdateSizes()\n                        frameOverlay.ggeasBorder:Show()\n                    end\n                else \n                    secondaryIndicator:Hide()\n                    frameOverlay.ggeasBorder:Hide()\n                end\n                \n                if config.enabled then\n                    frameOverlay.primaryIndicatorFrame:Show()\n                    frameOverlay.secondaryIndicatorFrame:Show()\n                else\n                    frameOverlay.primaryIndicatorFrame:Hide()\n                    frameOverlay.secondaryIndicatorFrame:Hide()\n                end\n            else\n                frameOverlay.primaryIndicatorFrame:Hide()\n                frameOverlay.secondaryIndicatorFrame:Hide()\n                frameOverlay.ggeasBorder:Hide()\n            end\n            \n        end\n        \n        krundeSaysCastbarObject.frame = krundeSaysCastbarObject.frame or CreateFrame(\"FRAME\", \"krundeSaysCastbarFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysCastbarObject.frame)\n        \n        \n        local function iterateNameplates()\n            local nameplates = C_NamePlate.GetNamePlates(false)\n            for n,d in pairs(nameplates) do\n                if d.Plater then\n                    NameplateUpdate(d, d.namePlateUnitToken, d.unitFrame, environment, d.unitFrame.castBar.FrameOverlay, d.unitFrame.castBar)\n                elseif d.UnitFrame then -- Blizzard\n                    NameplateUpdate(d, d.namePlateUnitToken, d.UnitFrame, environment, d.UnitFrame.castBar, d.UnitFrame.castBar)\n                end\n            end\n        end\n        \n        if config.enabled or config.enabledRecolor then\n            local timeElapsed = 0\n            krundeSaysCastbarObject.frame:SetScript(\"OnUpdate\", function(self, elapsed)\n                    timeElapsed = timeElapsed + elapsed\n                    if timeElapsed > 0.25 then\n                        timeElapsed = 0\n                        \n                        iterateNameplates()\n                    end\n            end)\n        end\n        \n        setglobal(\"krundeSaysCastbar\", krundeSaysCastbarObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "customOnLoad": "\n\n",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Green = interrupt available, Pink = secondary interrupt available (Sigil of Silence, Avenger's Shield, etc.)",
+          "key": "enabled",
+          "name": "Show interrupt CD status on the nameplate castbar",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 1.5
+        },
+        {
+          "default": false,
+          "desc": "Recolor the castbar according to your interrupt availability. Could conflict with other addons.",
+          "key": "enabledRecolor",
+          "name": "Color castbar",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 0.5
+        },
+        {
+          "default": true,
+          "desc": "White line on the castbar at the time when CD is ready",
+          "key": "enabledCDready",
+          "name": "Show then your interrupt comes out of cooldown during a cast",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": 8,
+          "desc": "",
+          "key": "anchor",
+          "name": "Interrupt status position on nameplate",
+          "type": "select",
+          "useDesc": false,
+          "values": [
+            "TOPLEFT",
+            "TOP",
+            "TOPRIGHT",
+            "LEFT",
+            "CENTER",
+            "RIGHT",
+            "BOTTOMLEFT",
+            "BOTTOM",
+            "BOTTORIGHT"
+          ],
+          "width": 1
+        },
+        {
+          "default": 0,
+          "key": "offset",
+          "max": 100,
+          "min": 0,
+          "name": "Marker offset",
+          "step": 1,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.4
+        },
+        {
+          "default": 1,
+          "key": "width",
+          "max": 1,
+          "min": 0.05,
+          "name": "width ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.3
+        },
+        {
+          "default": 0.35,
+          "key": "height",
+          "max": 1,
+          "min": 0.05,
+          "name": "height ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.3
+        }
+      ],
+      "conditions": [],
+      "config": {
+        "anchor": 8,
+        "enabled": true,
+        "enabledCDready": true,
+        "enabledRecolor": false,
+        "height": 0.35,
+        "offset": 0,
+        "width": 1
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS np castbar own interrupt available marker GUI",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "73I5qiQnxrB",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    \n    local krundeSaysHealthbarObject = krundeSaysHealthbar\n    if not krundeSaysHealthbarObject then\n        local krundeSaysHealthbarObject = {}\n        \n        local environment = {\n            playerGUID = UnitGUID(\"player\"),\n            playerClass = select(3, UnitClass(\"player\")),\n            config = config,\n        }\n        \n        krundeSaysHealthbarObject.environment = environment\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        demokratiaObject.init(\"EAS\", environment)\n        \n        krundeSaysHealthbarObject.frame = krundeSaysHealthbarObject.frame or CreateFrame(\"FRAME\", \"krundeSaysHealthbarFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysHealthbarObject.frame)\n        \n        local function setPlaterHealthBarColor(healthBar, r, g, b, a)\n            healthBar:SetVertexColor(r, g, b, a)\n        end\n        \n        local function setBlizzardHealthBarColor(healthBar, r, g, b, a)\n            healthBar:SetStatusBarColor(r, g, b, a)\n        end\n        \n        local function updateHealthBarColor(unitFrame,setHealthBarColor)\n            local unitId = unitFrame.unit and UnitIsEnemy(\"player\", unitFrame.unit) and unitFrame.unit or nil\n            if unitId then\n                local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n                local isInRaid = instanceType == \"raid\"\n                \n                if UnitLevel(unitId) > UnitLevel(\"player\") + (isInRaid and 2 or 1) or UnitLevel(unitId)  < 1  then\n                    setHealthBarColor(unitFrame.healthBar, 0.50196081399918, 0, 0.50196081399918, 1)\n                elseif UnitLevel(unitId) > UnitLevel(\"player\") + (isInRaid and 1 or 0) then\n                    setHealthBarColor(unitFrame.healthBar, 0.8666667342186, 0.62745100259781, 0.8666667342186, 1)\n                end\n            end\n        end\n        \n        local function NameplateUpdate(self, unitId, unitFrame, modTable, setHealthBarColor)\n            updateHealthBarColor(unitFrame, setHealthBarColor)\n        end\n        \n        local function iterateNameplates()\n            local nameplates = C_NamePlate.GetNamePlates(false)\n            for n,d in pairs(nameplates) do\n                if d.Plater then\n                    NameplateUpdate(d, d.namePlateUnitToken, d.unitFrame, environment, setPlaterHealthBarColor)\n                else\n                    NameplateUpdate(d, d.namePlateUnitToken, d.UnitFrame, environment, setBlizzardHealthBarColor)\n                end\n            end\n        end\n        \n        if config.enabled then\n            local f = krundeSaysHealthbarObject.frame\n            f:RegisterEvent(\"NAME_PLATE_UNIT_ADDED\")\n            f:SetScript(\"OnEvent\", function(self, event, ...)\n                    if event == \"NAME_PLATE_UNIT_ADDED\" then\n                        local unitToken = ...\n                        local namePlate = C_NamePlate.GetNamePlateForUnit(unitToken)\n                        local namePlateUnitFrame = namePlate.unitFrame or namePlate.UnitFrame\n                        if namePlateUnitFrame then\n                            if Plater then\n                                updateHealthBarColor(namePlateUnitFrame, setPlaterHealthBarColor)\n                            else\n                                updateHealthBarColor(namePlateUnitFrame, setBlizzardHealthBarColor)\n                            end\n                        end\n                    end\n            end)\n            \n            local timeElapsed = 0\n            krundeSaysHealthbarObject.frame:SetScript(\"OnUpdate\", function(self, elapsed)\n                    timeElapsed = timeElapsed + elapsed\n                    if timeElapsed > 1.00 then\n                        timeElapsed = 0\n                        \n                        iterateNameplates()\n                    end\n            end)\n            \n            if not Plater then\n                hooksecurefunc(\"CompactUnitFrame_UpdateHealthColor\", function(unitFrame)\n                        updateHealthBarColor(unitFrame, setBlizzardHealthBarColor)\n                end)\n            end\n        end\n        \n        setglobal(\"krundeSaysHealthbar\", krundeSaysHealthbarObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "customOnLoad": "\n\n",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Lieutenants cannot be CC'd, neither can be bosses. Lieutenant = \"plum\", Boss = \"purple\". If you cannot see the colors, other addons are probably overriding the colors. Works with Plater and Blizzard nameplates.",
+          "key": "enabled",
+          "name": "Color enemy NPC healthbars based on their rank (normal, lieutenant, boss)",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "conditions": [],
+      "config": {
+        "enabled": false
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - EAS nameplate color healthbar based on enemy rank",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "parent": "Demokratia - EAS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "S(PXnyjZQ1f",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - GG - Dispel"
+      ],
+      "frameStrata": 1,
+      "id": "Demokratia - GG",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "LONBsxkVhjZ",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "align": "CENTER",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPerUnit": "UNITFRAME",
+      "anchorPoint": "CENTER",
+      "animate": false,
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "arcLength": 360,
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "centerType": "LR",
+      "columnSpace": 1,
+      "conditions": [],
+      "config": [],
+      "constantFactor": "RADIUS",
+      "controlledChildren": [
+        "Demokratia - GG - Dispel - PartyUnit"
+      ],
+      "frameStrata": 1,
+      "fullCircle": true,
+      "gridType": "RD",
+      "gridWidth": 5,
+      "grow": "DOWN",
+      "id": "Demokratia - GG - Dispel",
+      "information": [],
+      "internalVersion": 86,
+      "limit": 1,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG",
+      "radius": 200,
+      "regionType": "dynamicgroup",
+      "rotation": 0,
+      "rowSpace": 1,
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "sort": "none",
+      "space": 2,
+      "stagger": 0,
+      "stepAngle": 15,
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "Zj1iUZ828nY",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAnchorPerUnit": true,
+      "useLimit": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function IsPlayerSpellCallback(spellId)\n    if not IsPlayerSpell(spellId) then\n        return nil\n    else\n        return function ()\n            return true\n        end\n    end\nend\n\nlocal function spellsKnown(spellId, extraSpells)\n    if extraSpells then\n        for _, spell in pairs(extraSpells) do\n            if not IsPlayerSpell(spell) then return false end\n        end\n    end\n    return IsPlayerSpell(spellId)\nend\n\nlocal function IsPlayerSpellNotOnCooldownCallback(spellId, extraSpells)\n    if not spellsKnown(spellId, extraSpells) then\n        return nil\n    else\n        return function ()\n            local gcdInfo = C_Spell.GetSpellCooldown(61304) -- GCD\n            local gcdStart, gcdDuration = gcdInfo.startTime, gcdInfo.duration\n            local gcdEndTime = gcdStart + gcdDuration\n            local cdInfo = C_Spell.GetSpellCooldown(spellId)\n            local cdStart, cdDuration  = cdInfo.startTime, cdInfo.duration\n            local cdEndTime = cdStart + cdDuration        \n            if cdEndTime <= gcdEndTime then\n                return true\n            else\n                return false\n            end\n        end\n    end\nend\n\nlocal class = UnitClassBase(\"player\")\nlocal dispel = {}\nlocal updateFunc = nil\n\n-- inspired by similar function in GridUtils of Grid2 (GPLv3)\nif class == 'DRUID' then\n    updateFunc = function()\n        dispel.Magic  = IsPlayerSpellNotOnCooldownCallback(88423)\n        dispel.Curse  = IsPlayerSpellNotOnCooldownCallback(88423, {392378}) or IsPlayerSpellNotOnCooldownCallback(2782)\n        dispel.Poison = IsPlayerSpellNotOnCooldownCallback(88423, {392378}) or IsPlayerSpellNotOnCooldownCallback(2782)\n    end\nelseif class == 'PALADIN' then\n    updateFunc = function()\n        dispel.Magic   = IsPlayerSpellNotOnCooldownCallback(4987)\n        dispel.Disease = IsPlayerSpellNotOnCooldownCallback(4987, {393024}) or IsPlayerSpellNotOnCooldownCallback(213644)\n        dispel.Poison  = IsPlayerSpellNotOnCooldownCallback(4987, {393024}) or IsPlayerSpellNotOnCooldownCallback(213644)\n    end\nelseif class == 'PRIEST' then\n    updateFunc = function()\n        dispel.Magic   = IsPlayerSpellNotOnCooldownCallback(527) or IsPlayerSpellNotOnCooldownCallback(32375)\n        dispel.Disease = IsPlayerSpellNotOnCooldownCallback(527, {390632}) or IsPlayerSpellNotOnCooldownCallback(213634)\n    end\nelseif class == 'SHAMAN' then\n    updateFunc = function(self, event)\n        dispel.Magic = IsPlayerSpellNotOnCooldownCallback(77130)\n        dispel.Curse = IsPlayerSpellNotOnCooldownCallback(77130, {383016}) or IsPlayerSpellNotOnCooldownCallback(51886)\n        dispel.Poison = IsPlayerSpellNotOnCooldownCallback(383013)\n    end\nelseif class == 'MAGE' then\n    updateFunc = function()\n        dispel.Curse = IsPlayerSpellNotOnCooldownCallback(475)\n    end\nelseif class == 'WARLOCK' then\n    updateFunc = function()\n        dispel.Magic = IsPlayerSpellNotOnCooldownCallback(115276) or IsPlayerSpellNotOnCooldownCallback(89808)\n    end\nelseif class == 'MONK' then\n    updateFunc = function()\n        dispel.Magic   = IsPlayerSpellNotOnCooldownCallback(115450)\n        dispel.Disease = IsPlayerSpellNotOnCooldownCallback(115450, {388874}) or IsPlayerSpellNotOnCooldownCallback(218164)\n        dispel.Poison  = IsPlayerSpellNotOnCooldownCallback(115450, {388874}) or IsPlayerSpellNotOnCooldownCallback(218164)\n    end\nelseif class == 'EVOKER' then\n    updateFunc = function()\n        dispel.Magic   = IsPlayerSpellNotOnCooldownCallback(360823)\n        dispel.Curse   = IsPlayerSpellNotOnCooldownCallback(374251)\n        dispel.Poison  = IsPlayerSpellNotOnCooldownCallback(360823) or IsPlayerSpellNotOnCooldownCallback(365585)\n        dispel.Disease = IsPlayerSpellNotOnCooldownCallback(374251)\n        dispel.Bleed   = IsPlayerSpellNotOnCooldownCallback(374251)\n    end\nelse\n    updateFunc = function() end\nend\n\naura_env.dispel = dispel\naura_env.updateDispels = updateFunc\naura_env.updateDispels()\naura_env.bleedList = LibStub(\"LibDispel-1.0\", true):GetBleedList() or {}\n\naura_env.LGF = LibStub(\"LibGetFrame-1.0\")\naura_env.LGF:ScanForUnitFrames()\n\naura_env.pointString = {\n    \"TOPLEFT\",\n    \"TOP\",\n    \"TOPRIGHT\",\n    \"LEFT\",\n    \"CENTER\",\n    \"RIGHT\",\n    \"BOTTOMLEFT\",\n    \"BOTTOM\",\n    \"BOTTOMRIGHT\"\n}\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "UNITFRAME",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Shows an indicator when a dispellable debuff exists on the unit and your dispel is not on cooldown. Grid2 with grid2-dispellablerealtime plugin is recommended for the same functionality. Alternatively you can use this option if you are using non-free unit frames without proper modding support.",
+          "key": "dispelEnabled",
+          "name": "Show indicator on Unit Frames when dispel is available",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": 0.25,
+          "key": "dispelWidthRatio",
+          "max": 2,
+          "min": 0,
+          "name": "Dispel marker width ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": 0.25,
+          "key": "dispelHeightRatio",
+          "max": 2,
+          "min": 0,
+          "name": "Dispel marker height ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": [
+            1,
+            0.20000001788139,
+            0.60000002384186,
+            1
+          ],
+          "key": "colorBleed",
+          "name": "Bleed",
+          "type": "color",
+          "useDesc": false,
+          "width": 0.4
+        },
+        {
+          "default": [
+            0.60000002384186,
+            0,
+            1,
+            1
+          ],
+          "key": "colorCurse",
+          "name": "Curse",
+          "type": "color",
+          "useDesc": false,
+          "width": 0.4
+        },
+        {
+          "default": [
+            1,
+            0.66666668653488,
+            0,
+            1
+          ],
+          "key": "colorDisease",
+          "name": "Disease",
+          "type": "color",
+          "useDesc": false,
+          "width": 0.4
+        },
+        {
+          "default": [
+            0.20000001788139,
+            0.60000002384186,
+            1,
+            1
+          ],
+          "key": "colorMagic",
+          "name": "Magic",
+          "type": "color",
+          "useDesc": false,
+          "width": 0.4
+        },
+        {
+          "default": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "key": "colorPoison",
+          "name": "Poison",
+          "type": "color",
+          "useDesc": false,
+          "width": 0.4
+        },
+        {
+          "default": 9,
+          "key": "dispelAnchorPoint",
+          "name": "Anchor Unit Frame's",
+          "type": "select",
+          "useDesc": false,
+          "values": [
+            "TOPLEFT",
+            "TOP",
+            "TOPRIGHT",
+            "LEFT",
+            "CENTER",
+            "RIGHT",
+            "BOTTOMLEFT",
+            "BOTTOM",
+            "BOTTOMRIGHT"
+          ],
+          "width": 1
+        },
+        {
+          "default": 9,
+          "key": "dispelPoint",
+          "name": "to Dispel Indicator's",
+          "type": "select",
+          "useDesc": false,
+          "values": [
+            "TOPLEFT",
+            "TOP",
+            "TOPRIGHT",
+            "LEFT",
+            "CENTER",
+            "RIGHT",
+            "BOTTOMLEFT",
+            "BOTTOM",
+            "BOTTOMRIGHT"
+          ],
+          "width": 1
+        }
+      ],
+      "blendMode": "BLEND",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "aura_env.region:Color(\n    aura_env.config.colorBleed[1],\n    aura_env.config.colorBleed[2],\n    aura_env.config.colorBleed[3],\n    aura_env.config.colorBleed[4]\n)"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "Bleed"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.dispel.Bleed and aura_env.dispel.Bleed()\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "aura_env.region:Color(\n    aura_env.config.colorCurse[1],\n    aura_env.config.colorCurse[2],\n    aura_env.config.colorCurse[3],\n    aura_env.config.colorCurse[4]\n)"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "Curse"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.dispel.Curse and aura_env.dispel.Curse()\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": true
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "aura_env.region:Color(\n    aura_env.config.colorDisease[1],\n    aura_env.config.colorDisease[2],\n    aura_env.config.colorDisease[3],\n    aura_env.config.colorDisease[4]\n)"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "Disease"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.dispel.Disease and aura_env.dispel.Disease()\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": true
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "aura_env.region:Color(\n    aura_env.config.colorMagic[1],\n    aura_env.config.colorMagic[2],\n    aura_env.config.colorMagic[3],\n    aura_env.config.colorMagic[4]\n)"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "Magic"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.dispel.Magic and aura_env.dispel.Magic()\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": true
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "aura_env.region:Color(\n    aura_env.config.colorPoison[1],\n    aura_env.config.colorPoison[2],\n    aura_env.config.colorPoison[3],\n    aura_env.config.colorPoison[4]\n)"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "Poison"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.dispel.Poison and aura_env.dispel.Poison()\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": true
+        },
+        {
+          "changes": [
+            {
+              "property": "alpha",
+              "value": 0
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "variable": "alwaystrue"
+          },
+          "linked": true
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "if aura_env.state and aura_env.state.unit then\n    local unitFrame = aura_env.LGF.GetUnitFrame(aura_env.state.unit)\n    if unitFrame then\n        aura_env.region:SetRegionHeight(unitFrame:GetHeight()*aura_env.config.dispelHeightRatio)\n        aura_env.region:SetRegionWidth(unitFrame:GetWidth()*aura_env.config.dispelWidthRatio)\n        aura_env.region:SetAnchor(aura_env.pointString[aura_env.config.dispelPoint], unitFrame, aura_env.pointString[aura_env.config.dispelAnchorPoint])\n    end\nend"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "variable": "alwaystrue"
+          }
+        }
+      ],
+      "config": {
+        "colorBleed": [
+          1,
+          0.20000001788139,
+          0.60000002384186,
+          1
+        ],
+        "colorCurse": [
+          0.60000002384186,
+          0,
+          1,
+          1
+        ],
+        "colorDisease": [
+          1,
+          0.66666668653488,
+          0,
+          1
+        ],
+        "colorMagic": [
+          0.20000001788139,
+          0.60000002384186,
+          1,
+          1
+        ],
+        "colorPoison": [
+          0,
+          1,
+          0,
+          1
+        ],
+        "dispelAnchorPoint": 9,
+        "dispelEnabled": true,
+        "dispelHeightRatio": 0.25,
+        "dispelPoint": 9,
+        "dispelWidthRatio": 0.25
+      },
+      "desaturate": false,
+      "desc": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+      "frameStrata": 1,
+      "height": 1,
+      "id": "Demokratia - GG - Dispel - PartyUnit",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "solo": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": false
+      },
+      "mirror": false,
+      "parent": "Demokratia - GG - Dispel",
+      "regionType": "texture",
+      "rotate": false,
+      "rotation": 0,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "texture": "Interface\\AddOns\\WeakAuras\\Media\\Textures\\square_border_10px.tga",
+      "textureWrapMode": "CLAMPTOBLACKADDITIVE",
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, event, unitTarget, updateInfo)\n    if event == \"UNIT_AURA\" and aura_env.config.dispelEnabled then\n        if UnitIsUnit(unitTarget, \"player\") or UnitInParty(unitTarget) then\n            local unitGUID = UnitGUID(unitTarget)\n            if unitGUID then\n                local debuffs = {select(2, C_UnitAuras.GetAuraSlots(unitTarget, \"HARMFUL\"))}\n                if #debuffs > 0 then\n                    local numDispellables = 0\n                    local dispellables = {}\n                    for _, slot in ipairs(debuffs) do\n                        local unitAura = C_UnitAuras.GetAuraDataBySlot(unitTarget, slot)\n                        if unitAura.dispelName then\n                            dispellables[unitAura.dispelName] = true\n                            numDispellables = numDispellables + 1\n                        elseif aura_env.bleedList[unitAura.spellId] then\n                            dispellables[\"Bleed\"] = true\n                            numDispellables = numDispellables + 1\n                        end\n                    end\n                    \n                    if numDispellables > 0 then\n                        local stateInfo = allstates:Get(unitGUID) or {\n                            unitGUID = unitGUID,\n                            \n                            autoHide = false,\n                            show = true\n                        }\n                        \n                        stateInfo.changed = true\n                        stateInfo.name = UnitName(unitTarget)\n                        stateInfo.unit = unitTarget\n                        \n                        stateInfo.Bleed = dispellables[\"Bleed\"]\n                        stateInfo.Curse = dispellables[\"Curse\"]\n                        stateInfo.Disease = dispellables[\"Disease\"]\n                        stateInfo.Magic = dispellables[\"Magic\"]\n                        stateInfo.Poison = dispellables[\"Poison\"]\n                        \n                        allstates:Update(stateInfo.unitGUID, stateInfo)\n                        \n                        return true\n                    end\n                end\n                \n                allstates:Remove(unitGUID)\n                \n                return true\n            end\n        end\n    elseif event == \"SPELLS_CHANGED\" or event == \"PLAYER_ENTERING_WORLD\" then\n        aura_env.updateDispels()\n        \n        allstates:RemoveAll()\n    end\n    \n    return false\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+            "customVariables": "{\n    Bleed = \"bool\",\n    Curse = \"bool\",\n    Disease = \"bool\",\n    Magic = \"bool\",\n    Poison = \"bool\",\n}\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "events": "UNIT_AURA,SPELLS_CHANGED,PLAYER_ENTERING_WORLD",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "qKqjgAJkIEq",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 1,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... MASTER GUI",
+        "Demokratia - Krunde says... INTERRUPT",
+        "Demokratia - Krunde says... INTERRUPT client GUI",
+        "Demokratia - Krunde says... STOP",
+        "Demokratia - Krunde says... STOP client GUI",
+        "Demokratia - Krunde says... SILENCE",
+        "Demokratia - Krunde says... SILENCE client GUI",
+        "Demokratia - Krunde says... MARKER",
+        "Demokratia - Krunde says... MARKER client GUI",
+        "Demokratia - Krunde says... FOCUS",
+        "Demokratia - Krunde says... FOCUS client GUI",
+        "Demokratia - Krunde says... ADVERTISE",
+        "Demokratia - Krunde says... OUTPUTBUFFER",
+        "Demokratia - krundeSaysListFormater class",
+        "Demokratia - krundeSaysOutputBuffer class",
+        "Demokratia - krundeSaysMessageHandler class",
+        "Demokratia - krundeSaysDataSource class",
+        "Demokratia - krundeSaysServer class",
+        "Demokratia - krundeSays class"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says...",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "Fo0H)2oA)K1",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysButtonObject = moduleDependencies[\"krundeSaysMasterResetButton\"]\n    \n    krundeSaysButtonObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMasterResetButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local environment = moduleDependencies[\"environment\"]\n    local krundeSaysStopObject = moduleDependencies[\"krundeSaysStop\"]\n    local krundeSaysSilenceObject = moduleDependencies[\"krundeSaysSilence\"]\n    local krundeSaysMarkerObject = moduleDependencies[\"krundeSaysMarkerClient\"]\n    \n    local r = environment.region.tooltipFrame or environment.region\n    local resetButton = krundeSaysMasterResetButton\n    or CreateFrame(\"Button\", \"krundeSaysMasterResetButton\", UIParent, \"UIPanelButtonTemplate\")\n    \n    resetButton:SetFrameStrata(r:GetFrameStrata())\n    resetButton:SetFrameLevel(r:GetFrameLevel()-1)\n    resetButton:SetAllPoints(r)\n    resetButton:RegisterForClicks(\"AnyUp\", \"AnyDown\")\n    resetButton:Hide()\n    \n    resetButton:SetScript(\"OnLeave\", function(self, motion)\n            GameTooltip:Hide()\n    end)\n    \n    local function printMarkerList()\n        if krundeSaysMarkerObject.environment.markerList then\n            local chatType = nil\n            \n            if IsInRaid() then\n                chatType =\"RAID\"\n            elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                chatType =\"INSTANCE_CHAT\"\n            elseif IsInGroup() then\n                chatType =\"PARTY\"\n            end\n            \n            local markerStringStart = \"[WA] Interrupts:\"\n            local markerStrings = {}\n            \n            for n,d in ipairs(krundeSaysMarkerObject.environment.markerList) do\n                local unitToken = d.caster and UnitTokenFromGUID(d.caster) or nil\n                local unitName = unitToken and UnitName(unitToken) or nil\n                table.insert(markerStrings, unitName and unitName..\" {\".._G[\"RAID_TARGET_\"..n]..\"}\" or nil)\n            end\n            \n            if #markerStrings > 0 then\n                C_ChatInfo.SendChatMessage(markerStringStart, chatType)\n                for _,d in ipairs(markerStrings) do\n                    C_ChatInfo.SendChatMessage(d, chatType)\n                end\n            end\n        end\n    end\n    \n    local function printUserList()\n        local userList = {}\n        local stopClientList = krundeSaysStop and krundeSaysStop.environment and krundeSaysStop.environment.clientList or {}\n        local stopServerList = krundeSaysStop and krundeSaysStop.environment and krundeSaysStop.environment.serverList or {}\n        local silenceClientList = krundeSaysStop and krundeSaysStop.environment and krundeSaysStop.environment.clientList or {}\n        local silenceServerList = krundeSaysStop and krundeSaysStop.environment and krundeSaysStop.environment.serverList or {}\n        \n        for n,d in pairs(stopClientList) do\n            userList[n] = userList[n] or {}\n            userList[n].stopClient = d\n        end\n        \n        for n,d in pairs(stopServerList) do\n            userList[n] = userList[n] or {}\n            userList[n].stopServer = d\n        end\n        \n        for n,d in pairs(silenceClientList) do\n            userList[n] = userList[n] or {}\n            userList[n].silenceClient = d\n        end\n        \n        for n,d in pairs(silenceServerList) do\n            userList[n] = userList[n] or {}\n            userList[n].silenceServer = d\n        end\n        \n        for n,d in pairs(userList) do\n            local unitToken = UnitTokenFromGUID(n)\n            if unitToken then\n                print(UnitName(unitToken), \"- STOP: C\", d.stopClient, \"S\", d.stopServer,\n                \"- SILENCE: C\", d.silenceClient, \"S\",  d.silenceServer)\n            end\n        end\n    end\n    \n    resetButton:SetScript(\"OnClick\", function (self, button, down)\n            if not down then\n                if button == \"MiddleButton\" then\n                    printMarkerList()\n                elseif button == \"LeftButton\" then\n                    printUserList()\n                else\n                    ksStopReset()\n                    ksSilenceReset()\n                    ksInterruptReset()\n                end\n            end\n    end)\n    \n    resetButton:RegisterForDrag(\"LeftButton\", \"RightButton\")\n    resetButton:SetScript(\"OnDragStop\", function(self)\n            local unitGUID = UnitExists(\"mouseover\") and UnitGUID(\"mouseover\") or nil\n            self:Hide()\n            self:Show()\n            if unitGUID and string.find(unitGUID, \"Player-\") or not unitGUID then\n                ksStopPrioUnit(unitGUID)\n            end\n    end)\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilence\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarkerClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "\n\n",
+          "do_custom": true,
+          "do_custom_load": false,
+          "do_custom_unload": false
+        },
+        "start": {
+          "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local environment = moduleDependencies[\"environment\"]\n    local krundeSaysButtonObject = moduleDependencies[\"krundeSaysMasterResetButton\"]\n    local krundeSaysObject = moduleDependencies[\"krundeSaysStop\"]\n    \n    local r = environment.region.tooltipFrame or environment.region\n    krundeSaysButtonObject:SetFrameStrata(r:GetFrameStrata())\n    krundeSaysButtonObject:SetFrameLevel(r:GetFrameLevel()-1)\n    krundeSaysButtonObject:SetAllPoints(r)\n    \n    krundeSaysButtonObject:SetScript(\"OnEnter\", function(self)\n            local priorityUnit = krundeSaysObject.isMaster and krundeSaysObject.environment.priorityUnit and UnitTokenFromGUID(krundeSaysObject.environment.priorityUnit) or nil\n            local priorityUnitName = priorityUnit and UnitName(priorityUnit) or nil\n            local priorityUnitClass = priorityUnit and select(2,UnitClass(priorityUnit)) or nil\n            local priorityUnitColor = priorityUnitClass and RAID_CLASS_COLORS and RAID_CLASS_COLORS[priorityUnitClass] or nil\n            local priorityUnitColorString = priorityUnitColor and priorityUnitColor.colorStr or \"FFFFFFFF\"\n            \n            GameTooltip:SetOwner(self, \"ANCHOR_NONE\")\n            GameTooltip:SetPoint(\"LEFT\", self, \"RIGHT\")\n            GameTooltip:AddLine(\"Demokratia\", 1,1,1)\n            if environment.isMaster then GameTooltip:AddLine(\"\\n\") end\n            if environment.isMaster and priorityUnitName then GameTooltip:AddLine(\n            \"|c\"..priorityUnitColorString..priorityUnitName..\"|r\"..\" (Drag this button to an unit frame to select who starts the STOP rotation.)\") end\n            if environment.isMaster and not priorityUnit then GameTooltip:AddLine(\"Drag this button to an unit frame to select who starts the STOP rotation.\") end\n            GameTooltip:AddLine(\"\\n\")\n            if environment.isMaster then GameTooltip:AddLine(\"Right click to reset the cooldown lists.\") end\n            GameTooltip:AddLine(\"Middle click to show the marker list in the party chat.\")\n            GameTooltip:AddLine(\"Left click to show the user list.\")\n            GameTooltip:AddLine(\"\\n\")\n            GameTooltip:AddLine(\"In combat, left click your current spell to skip your turn on the list.\")\n            GameTooltip:AddLine(\"Right clicking your current spell skips your turn on all lists.\")\n            if environment.isMaster then GameTooltip:AddLine(\"\\n\")\n                GameTooltip:AddLine(\"Left or right click the first spell on the queue to force skip with MASTER powers.\") end\n            GameTooltip:Show()\n    end)\n    krundeSaysButtonObject:Show()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMasterResetButton\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "sub.2.text_text",
+              "value": "MASTER"
+            }
+          ],
+          "check": {
+            "trigger": 1,
+            "value": 1,
+            "variable": "isMaster"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "sub.2.text_text",
+              "value": "SLAVE"
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "variable": "alwaystrue"
+          },
+          "linked": true
+        }
+      ],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 32,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... MASTER GUI",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says...",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "CENTER",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 10,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "none",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, event, ...)\n    if event ~= \"OPTIONS\" then\n        \n        aura_env.stopMaster = krundeSaysStop and krundeSaysStop.isMaster() or false\n        aura_env.silenceMaster = krundeSaysSilence and krundeSaysSilence.isMaster() or false\n        \n        aura_env.isMaster = aura_env.stopMaster or aura_env.silenceMaster\n        \n        local stateInfo =\n        {\n            name = aura_env.isMaster and \"MASTER\" or \"SLAVE\",\n            isMaster = aura_env.isMaster,\n            \n            autoHide = false,\n            changed = true,\n            resort = true,\n            show = true\n        }\n        \n        allstates:Update(1, stateInfo)\n        \n        return true\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "function()\n    local iconID = 0\n    if aura_env.spellId then\n        local spellInfo = C_Spell.GetSpellInfo(aura_env.spellId)\n        iconID = spellInfo.iconID\n    end\n    return iconID\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customName": "function()\nprint(aura_env.caster)\n    return aura_env.caster or \"\"\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customVariables": "{\n    isMaster = \"bool\"\n}",
+            "custom_hide": "custom",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": true,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_LIST,DEMOKRATIA_KSS_SERVER",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, prefix, ...)\n    local function tableInsertNextSpell(spellTable, caster, spellId)\n        if caster and spellId then\n            table.insert(spellTable, {caster = caster, spellId = spellId})\n        end\n    end\n    \n    local function parseNextSpell(spellString)\n        local _,_,_,caster,_ = string.find(spellString, \"(%s*)(.-)(%s*-)\")\n        local _,_,_,spellId,_ = string.find(spellString, \"([()])(.-)([()])\")\n        return caster, tonumber(spellId)\n    end\n    \n    local function parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n        local _,_,firstSpell,_ = string.find(krundeSaysMessage, \"(.-)([{])\")\n        local caster,spellId = parseNextSpell(firstSpell)\n        tableInsertNextSpell(spellTable, caster, spellId)\n    end\n    \n    if event == \"CHAT_MSG_ADDON\" and prefix == \"KRUNDESAYSSTOP\" then\n        local message = ...\n        if message ~= nil then\n            local _,_,_,krundeSaysMessage = string.find(message, \"(STOPLIST:%s*)(.-)$\")\n            if krundeSaysMessage then\n                local spellTable = {}\n                -- populate spellTable with a {casterUnitName, spellId} pair\n                parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n                \n                if #spellTable > 0 then\n                    local globalCooldownInfo = C_Spell.GetSpellCooldown(61304)\n                    local spellCooldownInfo = C_Spell.GetSpellCooldown(spellTable[1].spellId)\n                    \n                    -- Check if the spell is ours and actually on cooldown or not\n                    if not UnitIsUnit(aura_env.caster,\"player\") or not (UnitIsUnit(aura_env.caster,\"player\")\n                        and (spellCooldownInfo.duration == 0 or\n                    spellCooldownInfo.duration <= globalCooldownInfo.duration))\n                    then\n                        print(\"untriggered\")\n                        return true\n                    else\n                        print(\"no untriggered\")\n                        return false\n                    end \n                end\n            end\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1] and not trigger[3]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "jtKuocX2zBQ",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 164.23077392578,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... INTERRUPT server",
+        "Demokratia - Krunde says... INTERRUPT client"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... INTERRUPT",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "gQ0jDfmfgsR",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n\naura_env.config.minNumberClients = 1\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysInterruptObject = krundeSaysInterrupt\n    if not krundeSaysInterruptObject then\n        local environment = {\n            serverTag = \"INTERRUPT\",\n            \n            playerGUID = UnitGUID(\"player\"),\n            config = config,\n            minNumberClients = config.minNumberClients,\n            \n            unitIsEnabled = function(environment, unitToken)\n                return UnitIsConnected(unitToken) and not UnitIsDeadOrGhost(unitToken)\n            end,\n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysInterruptObject = {}\n        krundeSaysInterruptObject.environment = environment\n        \n        local trackedSpellsInPriorityOrder = {\n            --{spellId = 31935}, --Avenger's Shield (paladin [protection])\n            \n            {spellId = 57994}, --Wind Shear (shaman)\n            {spellId = 47528}, --Mind Freeze (death knight)\n            {spellId = 183752}, --Disrupt (demon hunter)\n            \n            {spellId = 6552}, --Pummel (warrior)\n            {spellId = 96231}, --Rebuke (paladin)\n            {spellId = 1766}, --Kick (rogue)\n            {spellId = 116705}, --Spear Hand Strike (monk)\n            {spellId = 106839}, --Skull Bash (druid [feral, guardian]))\n            {spellId = 187707}, --Muzzle (hunter [survival])\n            \n            {spellId = 19647}, --Spell Lock (warlock [felhunter])\n            {spellId = 89766}, --Axe Toss (warlock [felguard])\n            {spellId = 2139}, --Counterspell (mage)\n            {spellId = 15487}, --Silence (priest [shadow])\n            {spellId = 147362}, --Counter Shot (hunter [beast mastery, marksmanship])\n            {spellId = 351338}, --Quell (evoker)\n            \n            --{spellId = 78675, doNotElevate=true}, --Solar Beam (druid [balance])\n            --{spellId = 202137, doNotElevate=true}, --Sigil of Silence (demon hunter [vengeance])\n            --{spellId = 386071, doNotElevate=true}, --Disrupting Shout (warrior [protection])\n            --{spellId = 108199, doNotElevate=true}, -- Gorefiend's Grasp (death knight [blood])\n        }\n        \n        local function cooldownSortFunction(cd1, cd2)\n            if cd1.isReady == true and cd2.isReady ~= true then\n                return true\n            elseif cd1.isReady ~= true and cd2.isReady == true then\n                return false\n            elseif cd1.isReady == true and cd2.isReady == true then\n                environment.clientList = environment.clientList or {}\n                local cd1IsClient = environment.clientList[cd1.unitGUID]\n                local cd2IsClient = environment.clientList[cd2.unitGUID]\n                local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n                local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n                if environment.publishNonClientSpells\n                and cd1IsClient and not cd1doNotElevate and not cd2IsClient then\n                    return true\n                elseif environment.publishNonClientSpells\n                and not cd1IsClient and cd2IsClient and not cd2doNotElevate then\n                    return false\n                else\n                    if cd1.priority == cd2.priority then\n                        return cd1.unitGUID < cd2.unitGUID\n                    else\n                        return cd1.priority < cd2.priority\n                    end\n                end\n            else -- not cd1.isReady and not cd2.isReady\n                if cd1.timeLeft == cd2.timeLeft then\n                    return cd1.unitGUID < cd2.unitGUID\n                else \n                    return cd1.timeLeft < cd2.timeLeft\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" REQUESTSERVER\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysInterrupt and krundeSaysInterrupt.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                end\n            end,\n            \n            [environment.serverTag..\" REQUESTLIST\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    environment.forceSendForNewClients = true\n                    environment.triggerPublish(environment)\n                end\n            end,\n            \n            [environment.serverTag..\" CLIENT\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysInterrupt and krundeSaysInterrupt.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newClient(environment, shortenedGUID, version)\n                end\n            end,\n            \n            [environment.serverTag..\" IMPOTENT\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysInterrupt and krundeSaysInterrupt.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newImpotentClient(environment, shortenedGUID)\n                end\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysInterrupt and krundeSaysInterrupt.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newServer(environment, shortenedGUID, version)\n                end\n            end,\n            \n            [environment.serverTag..\" FOCUSUNIT\"] = function(shortenedGUIDandFocusGUID)\n                local _,_, shortenedGUID, focusGUID = string.find(shortenedGUIDandFocusGUID, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and focusGUID then\n                    local krundeSaysServer = krundeSaysInterrupt and krundeSaysInterrupt.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    \n                    local playerGUID = environment.playerGUID\n                    local unitGUID = \"Player-\"..shortenedGUID\n                    environment.focusList = environment.focusList or {}\n                    environment.focusList[unitGUID] = environment.focusList[unitGUID] or {}\n                    environment.focusList[unitGUID] = focusGUID and string.len(focusGUID) > 0 and focusGUID or nil\n                    \n                    if playerGUID == unitGUID then\n                        environment.playerFocusUnit = environment.focusList[unitGUID]\n                    end\n                    \n                    environment.filteredFocusList = environment.filteredFocusList or {}\n                    table.wipe(environment.filteredFocusList)\n                    \n                    if environment.playerFocusUnit then\n                        for n,d in pairs(environment.focusList) do\n                            if d == environment.playerFocusUnit then\n                                environment.filteredFocusList[n] = d\n                            end\n                        end\n                    end\n                    \n                    environment.forceSendForNewClients = true\n                    environment.triggerPublish(environment)\n                end\n            end,\n        }\n        \n        environment.triggerPublish = environment.triggerPublish or function(environment)\n            local sortedList = krundeSaysInterrupt and krundeSaysInterrupt.cooldownList or nil -- luacheck: ignore\n            if not sortedList then\n                return\n            end\n            \n            local krundeSaysServer = krundeSaysInterrupt and krundeSaysInterrupt.krundeSaysServer or nil -- luacheck: ignore\n            if not krundeSaysServer then\n                return\n            end\n            \n            local sendList = {}\n            \n            environment.filteredFocusList = environment.filteredFocusList or {}\n            \n            if environment.filteredFocusList[environment.playerGUID] then\n                for _, d in ipairs(sortedList) do\n                    if environment.filteredFocusList[d.unitGUID] then\n                        table.insert(sendList, d)\n                    end\n                end\n            end\n            \n            krundeSaysServer.publishCooldownList(environment, sendList)\n        end\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        \n        krundeSaysInterruptObject.krundeSays = krundeSaysInterruptObject.krundeSays or {}\n        krundeSaysInterruptObject.trackedSpellsInPriorityOrder = trackedSpellsInPriorityOrder\n        krundeSaysInterruptObject.cooldownList = nil\n        krundeSaysInterruptObject.listUpdatedCallback = function(list)\n            krundeSaysInterruptObject.cooldownList = list\n            environment.triggerPublish(environment)\n        end\n        krundeSaysInterruptObject.cooldownSortFunction = cooldownSortFunction\n        \n        demokratiaObject.init(\"krundeSays\", krundeSaysInterruptObject.krundeSays, krundeSaysInterruptObject.trackedSpellsInPriorityOrder, krundeSaysInterruptObject.cooldownSortFunction, krundeSaysInterruptObject.listUpdatedCallback)\n        \n        krundeSaysInterruptObject.krundeSaysMessageHandler = krundeSaysInterruptObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysInterruptObject.krundeSaysMessageHandler)\n        krundeSaysInterruptObject.krundeSaysMessageHandler.register(messageHandlers)\n        krundeSaysInterruptObject.krundeSaysServer = krundeSaysInterruptObject.krundeSaysServer or {}\n        demokratiaObject.init(\"krundeSaysServer\", krundeSaysInterruptObject.krundeSaysServer)\n        \n        function krundeSaysInterruptObject.krundeSaysServer.playerIsFirstOnServerList(environment)\n            local filteredSortedServerList = {}\n            environment.sortedServerList = environment.sortedServerList or {}\n            environment.filteredFocusList = environment.filteredFocusList or {}\n            \n            for _,d in ipairs(environment.sortedServerList) do\n                if environment.filteredFocusList[d] then\n                    table.insert(filteredSortedServerList, d)\n                end\n            end\n            \n            if #filteredSortedServerList > 0 then\n                local firstOnListToken = UnitTokenFromGUID(filteredSortedServerList[#filteredSortedServerList])\n                if firstOnListToken and UnitIsUnit(firstOnListToken, \"player\") then\n                    return true\n                end\n            end\n            return false\n        end\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysInterruptObject.frame = krundeSaysInterruptObject.frame or CreateFrame(\"FRAME\", \"KrundeSaysInterruptFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysInterruptObject.frame)\n        \n        krundeSaysInterruptObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysInterruptObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysInterruptObject.frame.registerEventList(\"GROUP_ROSTER_UPDATE\",\n            function()\n                local krundeSaysServer = krundeSaysInterruptObject.krundeSaysServer \n                \n                environment.numGroupMembers = environment.numGroupMembers or 1\n                local numGroupMembers = GetNumSubgroupMembers() + 1 -- does not include player\n                if environment.numGroupMembers > numGroupMembers then\n                    krundeSaysServer.removeLeftMembers(environment)\n                    krundeSaysInterruptObject.krundeSays.krundeSaysDataSource.clean()\n                elseif environment.numGroupMembers < numGroupMembers then\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                    krundeSaysInterruptObject.krundeSays.krundeSaysDataSource.clean()\n                end\n                environment.numGroupMembers = numGroupMembers\n        end)\n        \n        krundeSaysInterruptObject.frame.registerEventList(\"PARTY_MEMBER_DISABLE PARTY_MEMBER_ENABLE PLAYER_ALIVE PLAYER_DEAD PLAYER_UNGHOST PARTY_LEADER_CHANGED\",\n            function(event)\n                local krundeSaysServer = krundeSaysInterruptObject.krundeSaysServer \n                \n                local couldChangeServer\n                if event == \"PARTY_MEMBER_DISABLE\" or event == \"PARTY_MEMBER_ENABLE\"\n                or event == \"PARTY_LEADER_CHANGED\" then\n                    couldChangeServer = true\n                else\n                    couldChangeServer = false\n                end\n                \n                krundeSaysServer.groupMemberStatusChange(environment, couldChangeServer)\n        end)\n        \n        krundeSaysInterruptObject.frame.registerEventList(\"PLAYER_REGEN_ENABLED\",\n            function()\n                local krundeSaysServer = krundeSaysInterruptObject.krundeSaysServer \n                krundeSaysServer.outOfCombat(environment)\n        end)\n        \n        \n        krundeSaysInterruptObject.frame.registerEventList(\"GROUP_JOINED,GROUP_FORMED,PLAYER_ENTERING_WORLD\",\n            function()\n                local krundeSaysServer = krundeSaysInterruptObject.krundeSaysServer \n                krundeSaysServer.letGroupSettleRoles(environment)\n        end)\n        \n        \n        krundeSaysInterruptObject.frame.registerEventList(\"GROUP_LEFT\",\n            function()\n                local krundeSaysServer = krundeSaysInterruptObject.krundeSaysServer \n                krundeSaysServer.groupLeft(environment)\n                krundeSaysInterruptObject.krundeSays.krundeSaysDataSource.clean()\n        end)\n        \n        krundeSaysInterruptObject.frame.fakeEvent(\"PLAYER_ENTERING_WORLD\")\n        krundeSaysInterruptObject.krundeSaysServer.sendServerRequest(environment, environment.serverTag)\n        \n        function krundeSaysInterruptObject.isMaster()\n            local krundeSaysServer = krundeSaysInterruptObject.krundeSaysServer \n            return krundeSaysServer.playerIsFirstOnServerList(environment)\n        end\n        \n        local function ksInterruptReset()\n            local krundeSaysServer = krundeSaysInterruptObject.krundeSaysServer \n            krundeSaysServer.outOfCombat(environment)\n        end\n        \n        setglobal(\"ksInterruptReset\", ksInterruptReset)\n        \n        setglobal(\"krundeSaysInterrupt\", krundeSaysInterruptObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSays\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysServer\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n\n",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysInterruptObject = moduleDependencies[\"krundeSaysInterrupt\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysInterruptObject.frame.start()\n    krundeSaysInterruptObject.krundeSays.libORclient.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterrupt\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysInterruptObject = moduleDependencies[\"krundeSaysInterrupt\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysInterruptObject.frame.stop()\n    krundeSaysInterruptObject.krundeSays.libORclient.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterrupt\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... INTERRUPT server",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... INTERRUPT",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "f9eJgtv9wpP",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysInterruptObject = krundeSaysInterruptClient\n    if not krundeSaysInterruptObject then\n        local environment = {\n            serverTag = \"INTERRUPT\",\n            playerGUID = UnitGUID(\"player\"),\n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysInterruptObject = {}\n        krundeSaysInterruptObject.environment = environment\n        \n        local function UnitShortenedGUID(unitGUID)\n            local _,_,shortenedGUID = string.find(unitGUID, \"Player%-(.*)\")\n            return shortenedGUID\n        end\n        \n        local function sendFocusUnit(environment, unitGUID)\n            local chatType = nil\n            \n            if IsInRaid() then\n                chatType =\"RAID\"\n            elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                chatType =\"INSTANCE_CHAT\"\n            elseif IsInGroup() then\n                chatType =\"PARTY\"\n            end\n            \n            if chatType and environment.outputBuffer then\n                environment.outputBuffer.process(chatType, environment.serverTag..\" FOCUSUNIT\", UnitShortenedGUID(UnitGUID(\"player\"))..\" \"..(unitGUID or \"\"))\n            end\n        end\n        \n        local function sendRequestList(environment)\n            environment.spamRLFilterTimer = environment.spamRLFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamRLFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" REQUESTLIST\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end\n            )\n        end\n        \n        local function sendClientAnnounce(environment)\n            if environment.reloadedAndNeedData then\n                sendRequestList(environment)\n                environment.reloadedAndNeedData = nil\n            end\n            environment.spamCAFilterTimer = environment.spamCAFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamCAFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" CLIENT\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end    \n            )\n        end\n        \n        local function sendClientImpotentAnnounce(unitGUID)\n            if environment.spamIAFilterTimer then\n                return\n            end\n            \n            environment.spamIAFilterTimer = environment.spamIAFilterTimer or environment.newTimer(1,\n                function()\n                    environment.spamIAFilterTimer = nil\n                end\n            )\n            \n            local chatType = nil\n            \n            if IsInRaid() then\n                chatType =\"RAID\"\n            elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                chatType =\"INSTANCE_CHAT\"\n            elseif IsInGroup() then\n                chatType =\"PARTY\"\n            end\n            \n            if chatType and environment.outputBuffer then\n                environment.outputBuffer.process(chatType, environment.serverTag..\" IMPOTENT\", UnitShortenedGUID(unitGUID or UnitGUID(\"player\")))\n            end\n        end\n        \n        local function ksInterruptSkip(unitGUID)\n            sendClientImpotentAnnounce(unitGUID)\n        end\n        \n        setglobal(\"ksInterruptSkip\", ksInterruptSkip)\n        \n        \n        local function tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n            if caster and spellId then\n                table.insert(spellTable, {caster = caster, spellId = spellId, timeLeft = timeLeft})\n            end\n        end\n        \n        local function parseNextSpell(spellString)\n            local _,_,_,caster,_ = string.find(spellString, \"(%s*)(.-)(%s*/)\")\n            local _,_,_,spellId,_ = string.find(spellString, \"([()])(.-)([()])\")\n            local _,_,_,timeLeft,_ = string.find(spellString, \"([[])(.-)([]])\")\n            return caster and \"Player-\"..caster or nil, tonumber(spellId), tonumber(timeLeft)\n        end\n        \n        local function parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n            local _,_,firstSpell,_ = string.find(krundeSaysMessage, \"(.-)([{])\")\n            if firstSpell then\n                local caster,spellId,timeLeft = parseNextSpell(firstSpell)\n                tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n                \n                local _,_,_,nextSpells,_ = string.find(krundeSaysMessage, \"([{}])(.-)([{}])\")\n                if nextSpells then\n                    nextSpells = nextSpells..\",\"\n                    \n                    while nextSpells do\n                        local _,endOffset,_,nextSpell,_ = string.find(nextSpells, \"(%s*)(.-)(%s*[,}])\")\n                        if nextSpell then\n                            caster,spellId,timeLeft = parseNextSpell(nextSpell)\n                            tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n                            \n                            nextSpells = string.sub(nextSpells, endOffset+1, -1)\n                        else\n                            nextSpells = nil\n                        end\n                    end\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" LIST\"] = function(krundeSaysMessage)\n                local spellTable = {}\n                -- populate spellTable with a {casterUnitGUID, spellId} pair\n                parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n                \n                environment.focusCasterPriorityList = environment.focusCasterPriorityList or {}\n                \n                for _,d in ipairs(spellTable) do\n                    environment.focusCasterPriorityList[d.caster] = spellTable\n                    if d.caster == environment.playerGUID then\n                        if environment.playerFocusUnit then\n                            WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_LIST\", environment.serverTag, spellTable)\n                            break\n                        end\n                    end\n                end\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    sendClientAnnounce(environment)\n                    WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_SERVER\", environment.serverTag, shortenedGUID, version)\n                end\n            end,\n            \n            [environment.serverTag..\" FOCUSUNIT\"] = function(shortenedGUIDandFocusGUID)\n                local _,_, shortenedGUID, focusGUID = string.find(shortenedGUIDandFocusGUID, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and focusGUID then\n                    local playerGUID = environment.playerGUID\n                    local unitGUID = \"Player-\"..shortenedGUID\n                    environment.focusList = environment.focusList or {}\n                    environment.focusList[unitGUID] = environment.focusList[unitGUID] or {}\n                    environment.focusList[unitGUID] = focusGUID and string.len(focusGUID) > 0 and focusGUID or nil\n                    \n                    environment.focusTargetList = environment.focusTargetList or {}\n                    table.wipe(environment.focusTargetList)\n                    \n                    for n,d in pairs(environment.focusList) do\n                        environment.focusTargetList[d] = environment.focusTargetList[d] or {}\n                        environment.focusTargetList[d][n] = true\n                    end\n                    \n                    WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_FOCUSTARGETS\", environment.serverTag, environment.focusTargetList)\n                end\n            end,\n        }\n        \n        demokratiaObject.init(\"timer\", environment)\n        \n        C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n        \n        krundeSaysInterruptObject.krundeSaysMessageHandler = krundeSaysInterruptObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysInterruptObject.krundeSaysMessageHandler)\n        krundeSaysInterruptObject.krundeSaysMessageHandler.register(messageHandlers)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysInterruptObject.frame = krundeSaysInterruptObject.frame or CreateFrame(\"FRAME\", \"krundeSaysInterruptClientFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysInterruptObject.frame)\n        \n        krundeSaysInterruptObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysInterruptObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysInterruptObject.frame.registerEventList(\"COMBAT_LOG_EVENT_UNFILTERED\",\n            function(event, ...)\n                local timestamp, subevent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags = CombatLogGetCurrentEventInfo()\n                if subevent == \"UNIT_DIED\" then\n                    if destGUID == environment.playerFocusUnit then\n                        environment.playerFocusUnit = nil\n                        sendFocusUnit(environment, nil)\n                        \n                        WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_INVALIDATELIST\", environment.serverTag)\n                        WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_PLAYERFOCUSDEAD\", environment.serverTag)\n                    end\n                end\n        end)\n        \n        krundeSaysInterruptObject.frame.registerEventList(\":DEMOKRATIA_KSS_REQUESTLIST\",\n            function(event, prefix)\n                if prefix == environment.serverTag then\n                    environment.reset_variables(environment)\n                    environment.requestListTimer = environment.requestListTimer or environment.newTimer(10, function ()\n                            environment.requestListTimer = nil\n                            if environment.reloadedAndNeedData then\n                                sendClientAnnounce(environment)\n                            end\n                        end\n                    )\n                end\n        end)\n        \n        environment.reset_variables(environment)\n        \n        krundeSaysInterruptObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n        \n        krundeSaysInterruptObject.frame.registerEventList(\"PLAYER_FOCUS_CHANGED\",\n            function(event)\n                local unitExists = UnitExists(\"focus\")\n                local unitGUID = unitExists and UnitGUID(\"focus\") or nil\n                \n                if unitGUID and unitExists and not UnitIsDead(\"focus\") or not unitExists then\n                    environment.playerFocusUnit = unitGUID\n                    \n                    sendFocusUnit(environment, unitGUID)\n                    WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_INVALIDATELIST\", environment.serverTag)\n                end\n        end)\n        \n        setglobal(\"krundeSaysInterruptClient\", krundeSaysInterruptObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysInterruptObject = moduleDependencies[\"krundeSaysInterruptClient\"]\n    \n    krundeSaysInterruptObject.frame.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysInterruptObject = moduleDependencies[\"krundeSaysInterruptClient\"]\n    \n    krundeSaysInterruptObject.frame.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... INTERRUPT client",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... INTERRUPT",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "custom": "function(event, ...)\n    if event == \"DEMOKRATIA_KSS_REQUESTLIST\" then\n        local function moduleFunction(demokratiaObject, ...)\n            local moduleDependencies = ...\n            local krundeSaysInterruptClientObject = moduleDependencies[\"krundeSaysInterruptClient\"]\n            local krundeSaysServer = krundeSaysInterruptClientObject and krundeSaysInterruptClientObject.krundeSaysServer or nil -- luacheck: ignore\n            local environment = krundeSaysInterruptClientObject.environment\n            local event, prefix = unpack(moduleDependencies[\"arguments\"])\n            \n            if prefix and prefix == environment.serverTag then\n                krundeSaysInterruptClientObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n        \n        local function loopExecute(...)\n            local arguments = {...}\n            local demokratiaObject = demokratia -- luacheck: ignore\n            if not demokratiaObject then C_Timer.After(1, function() loopExecute(unpack(arguments)) end) return end\n            demokratiaObject.moduleRun(moduleFunction,\n                demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n                demokratiaObject.moduleDependencyTable(\"arguments\", arguments))\n        end\n        \n        loopExecute(event, ...)\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "events": "DEMOKRATIA_KSS_REQUESTLIST",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "YBWTxkBaFn7",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... INTERRUPT nameplate castbar focus interrupt availability marker GUI",
+        "Demokratia - Krunde says... INTERRUPT nameplate castbar overall interrupt availability marker GUI",
+        "Demokratia - Krunde says... INTERRUPT alert when it is your turn",
+        "Demokratia - Krunde says... INTERRUPT client current interrupt",
+        "Demokratia - Krunde says... INTERRUPT client focus dead announcer",
+        "Demokratia - Krunde says... INTERRUPT client current incoming silence",
+        "Demokratia - Krunde says... INTERRUPT client interrupts"
+      ],
+      "desc": "Graphical client for AOE stop coordinator.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... INTERRUPT client GUI",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "rXw4mUW0ktc",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": -100
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "local demokratiaFocusKickMarkerImportString = \"!PLATER:2!zZhLb1tFFMcTxIYu2TUCaWQJYYNtYjtxHmCK41fcOHFwblpHTakm9861R7meseaO0xiE5AV8AVY8VmyQyqLiO1R8EnasYUMlxJm5flw7freRsNrkZubM+f/mnDNzZ/w8Hau+kyUNfimwpBjludly0QE1L9EhFpdEZGW7SbJ1zi/Tiep+uiXrXOyiA9FiFkHx9fgmiqDC0Skq5I5ylXQJHZ/ulYoZBP9zRyc59IAIl3KGEmEU30H3W0wNWt9Kx/PxRDK5HUtvrtW///Pj9IaRtgV/8RuVJHIiuWi4JnZIems1nby7+kV65+eDDHYlOm1aWJKzt3+PRMahLA5y547dYqZUPUGXOHYYtRiVRcv7nRe4QcKIsCsDXzjw1OCWfgrdQfBxOEAiWxmVr4hwcBulBuOiJhDvYRHN+wz0OP+IqK0iXmQWNTHMGxxM64V//u7djCAQjxJlJOhHIlaNTPekjfUPao9BNjErMkmEaDUlknXCtOlAoAkeiSicFrMgcwrD1WMw4DUHQn1rcH6p83OC227fY8ahhMm+EWbWZKsoBJ8KzhrqWc/BwKJGZIm6I2QDulYXyM/mpTU0xlo7heoA66UoHvXkHg8578ZVc6gZ9mVuQI+gqEIn4lhQLqhs63kuRDZmPJTNV1/f0LShmYWfIMpQE1PhBnuIIWTxG9ajydc7xQjlBP1H7PEEhG6gJnkcG6phmEvYqioEW2rpTXDzKPZYZ4BxOcUkKmmDlIito2VjxyVzKBMxW3aKpKlDpQQZdSbKzeB4Si1ZB4xgb3OKmpzZtBb1OsB5LIQ+GN43CkQ+VL3B0AzndUJrdTnOe7dnkvt93T3F/wxh8CRhq3IgWhMtoXJGqTAz4a2APkEb04tHfXwSMMGAUT4OTLQnUA+T5T5FyYXl9sqGUT6crriIvymemLVsFmBy9EvO5LJ5eA8lUCqFYrOjM6Sk5lPK5Y1l89GVXV9CtlIs7BuvkJUbDm8lL948K/gpKPjqIBqdL2F+J+BhQhQhgpt6BwvAEcrIVQJqsfeVl0V3JRaybNsukdUZphCgWYZzlN7sIvAjIVU2U60HVGCr99hbr9JRwPn5IrMBF1H23H0UXzBAUwa8wiLwsZ3NW0lnt/Uy8cOoQHmvx3kjNd+Q1/ASGsFcnHIuyEUQ1ufXXn+9VaRuSbsnRJ4ooGNOmQx6oQwPlf3QX2ehme5yzBp2NlgPvuez0PLARh2Onoy4btDLxhKu1MXMO7/q25f3qHYj382u1+Mdr2eWViTSFGragUZbDwuEpmdWTWafWmTKGbFb8MtAcDAV7vvzkHhbBCSqFkYXYYSh0o4duFaL3WMsXJLhDofL0eiq696nu5cxN32FqaP6tfkcU4c8alODXMuWIEERroUvwniekXX+dEbQ5ouRio2+FQkV3FuJEuP/yxBN2S4EAa3xRTZu2Ggb/D1Ydb3O/m9fzUNbevvXPJzU4ObeydUEbzU7OdPBrtspNHDzCbXcTlZwh3SKzatm1y4rsEk6OWzb9LpzSJjJWyq+nrHbJGYnA0v38/Xr5PZObHtzJ2lt4C2ciN2X3LzyvgJbW1l9fp3DlsVZ3stggTfVN2Dut79kjXaTrGaP4C73kHG9eBDupQ2ZKhm5B9hpkW9WV1b+uXf3u58yB6RdXZuc5mwRKqH6oe62gf08bVll5p57yue0gWvEPfcAnmiBbJa45mddFO3+3alrrQu0ooBQ4F8NX13TQ8ZOYFmiZ5rojcwhvl71WjKHlL289+wH9flRkeb0accDennvRUJ9NvbzkDPl7G9POTyfMms1LojQsyk19Fex3llqBsZArYfxh4ehPR12PXnvjSV41Czz3mgfyFsapLoRSxmlMIqnjEwYJVJGJYw2Uhlo2UxloCWZykDLVmoPWrZTe9Cyk9qrKHqd5rz3vvSw39S45e7RpsldqiCWAO7H46//AA==\"\n\nlocal function importPlaterMod(encodedString, enabled)\n    if Plater then\n        local decompressedData = encodedString and Plater.DecompressData(encodedString, \"print\") or false\n        if decompressedData ~= false then\n            local indexScriptTable = decompressedData and Plater.MigrateScriptModImport(decompressedData) or nil\n            local scriptType = indexScriptTable and Plater.GetDecodedScriptType(indexScriptTable) or nil\n            local scriptObject = scriptType and Plater.BuildScriptObjectFromIndexTable(indexScriptTable, scriptType) or nil\n            \n            if scriptObject then\n                local options = scriptObject.Options\n                for m,c in pairs(options) do\n                    if c.Key == \"noInterruptsAvailableColor\" and aura_env.config.noInterruptsAvailableColor then\n                        c.Value[1] = aura_env.config.noInterruptsAvailableColor[1]\n                        c.Value[2] = aura_env.config.noInterruptsAvailableColor[2]\n                        c.Value[3] = aura_env.config.noInterruptsAvailableColor[3]\n                        c.Value[4] = aura_env.config.noInterruptsAvailableColor[4]\n                    elseif c.Key == \"focusInterruptsAvailableColor\" and aura_env.config.focusInterruptsAvailableColor then\n                        c.Value[1] = aura_env.config.focusInterruptsAvailableColor[1]\n                        c.Value[2] = aura_env.config.focusInterruptsAvailableColor[2]\n                        c.Value[3] = aura_env.config.focusInterruptsAvailableColor[3]\n                        c.Value[4] = aura_env.config.focusInterruptsAvailableColor[4]\n                    elseif c.Key == \"height\" and aura_env.config.height then\n                        c.Value = aura_env.config.height\n                    elseif c.Key == \"width\" and aura_env.config.width then\n                        c.Value = aura_env.config.width\n                    elseif c.Key == \"anchor\" and aura_env.config.anchor then\n                        c.Value = aura_env.config.anchor\n                    end\n                end\n                \n                scriptObject.Prio = 50\n                scriptObject.Enabled = enabled\n                \n                Plater.AddScript(scriptObject, false) \n            end\n        end\n    end\nend\n\nimportPlaterMod(demokratiaFocusKickMarkerImportString, aura_env.config.enabled)\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n\n",
+          "customOnLoad": "\n\n",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Requires Plater",
+          "key": "enabled",
+          "name": "Show focus interrupt availability on the side of the nameplate cast bar",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": [
+            1,
+            0,
+            0,
+            0.59989327192307
+          ],
+          "key": "noInterruptsAvailableColor",
+          "name": "No interrupts available",
+          "type": "color",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": [
+            0,
+            0,
+            0,
+            0.6255339384079
+          ],
+          "key": "focusInterruptsAvailableColor",
+          "name": "Other player's focus interrupt",
+          "type": "color",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": 4,
+          "desc": "",
+          "key": "anchor",
+          "name": "Focus marker position on nameplate",
+          "type": "select",
+          "useDesc": false,
+          "values": [
+            "TOPLEFT",
+            "TOP",
+            "TOPRIGHT",
+            "LEFT",
+            "CENTER",
+            "RIGHT",
+            "BOTTOMLEFT",
+            "BOTTOM",
+            "BOTTORIGHT"
+          ],
+          "width": 1
+        },
+        {
+          "default": 0.15,
+          "key": "width",
+          "max": 1,
+          "min": 0.05,
+          "name": "Marker width ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        },
+        {
+          "default": 0.6,
+          "key": "height",
+          "max": 1,
+          "min": 0.05,
+          "name": "Marker height ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        }
+      ],
+      "conditions": [],
+      "config": {
+        "anchor": 4,
+        "enabled": true,
+        "focusInterruptsAvailableColor": [
+          0,
+          0,
+          0,
+          0.6255339384079
+        ],
+        "height": 0.6,
+        "noInterruptsAvailableColor": [
+          1,
+          0,
+          0,
+          0.59989327192307
+        ],
+        "width": 0.15
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - Krunde says... INTERRUPT nameplate castbar focus interrupt availability marker GUI",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "5s4An8d8Nsj",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "local demokratiaOverallKickMarkerImportString = \"!PLATER:2!rVfdbuNEFG65QKK8ANsLNCpCSsEN+WmybYUpTuKk2SZNlbi7qSiqpvY4GcWZicaT/ixCygW8AOIGuOIGablY8Q7LHTe8A68AN+wNM560cRLnp2Wt/Ng+3/nOd84Zj2deGsnm+wXUpR0GOYagdokY9DxwiO0OqELWQazAb3qo0Ka0Y6SbB0aftynbA4esTxwEUolUBmyB0tEJKJlHZt2ogOOTXKWcB+JrHjVM8BQxH1MC0hpI7YInfSKdEo+NVDGVzmZ3kkZmvf39738a25bhMvrqN8zRVoNT1vVt6CHj8aqRfbR6buz+fJiHPgcnPQdydPruYGsrSsr9haytuX1ic2mJ+chzNdAnmJcd9V9ksIs0gMilBS88cdalTnC2uQbE4VEhErgSJCvnwRugj/zitlCcgyxeDAECv7BHnFCCysTBNhRpC/85RvEJW/fyDIlqVDBBsbAg5LTQXKIAG/xgN0KvDUmZcMRYv8cBbyMSQIfwTlDuBrzxG9hDxEZ5DyPC7yCQOLMwcVFHzCjpyvMew5RhflPB/kSQUSJjGP3+tKJeX30dwdsRw7uOoCPbFXb4IvlloJ9QPnk/znEXVZAbkLrQ89EYb0SQK+zwtggQux0zcZsSF7fiyiBokpvgo/GGlhB/Jq3Ddo4TthFutXkU49Ayi/IgME9wRgQQHlwMEE9kPWYVXZ+MCIktHj7wKdie7p08QlRC8IZVO94YwyBRwNm0n4HsUrS5mmXVqtPMi/wmPIizqDJCFH5OCb9PbT4EaaDrIBmdyRij1FQxi9Z9ajSkTyxJXy+XDqwlKjXleO9aKX11eCW8Q3WPx2cXMewovGZkLLLNBI/nhpjRLbO+IQf8XbRFsnwOGa+5ro94M8IsEosyLtHe6AaEwwHZpinEKKKwB3PCG+v+ZPD5sbeigy9iVW6fpJZIbAK0xCAKxTqd163T/ztRhQPJpNRUOi+r2bAHTmoTEpZTMFPAIvrEfN7E8p2Sy4y9BuINGeCYYsJjKlVtbKiMXZ1uRlKYxBknGI2h0Pnp5mIxVlu82wny/Ziq0BwX0Sr5oh8tBiK7owackNTSwIUGoKjRsSdWXWzvGDIf5alHmT/1Rib0bgXlG5cQe9IYYDen6z+UHpgtdM37DMWY1tIuNDgL3aZXE+/zyN4H4APsoEnwRF8ZEkFHud+axb8qWZhHGtfWjJ1fi2ImF0uugdlitN8bmLYHfX9Q6sLeOXb8QYFRDw3KvcveEFdg0EYDE7ouvh5UxfqN9mWNFNjvIXuQPykX6onr7M5uGtnpTDILLzI7jvOEU/tSLd/XV1ZfXpvQcSgpqjaUaE+u3v1vfylYYqeymj9EN8312fU3n0Kvj75ZXVn5d//Rdz8VjsRa6RmhwTAA8BYKbIktlEU7mx8HVK4Qf2Y4To34ZyryGe7CFvLPlIBz5VFAvv35UErAbUURD0WsSBEf/PE80PwenqH4oSpeBCreylfh9aq6k69i8nr/xQ/y+DFQV+kGmzw1TStVr/dfpeWxfSB2BcHO6B+lQFtOAel3LxCTKZkB6zIyqkMZ6pm91fHXG9JRVLQhIe8EQpqJpG5VxH5QtzSQ1q26BrZ1cZ3R83kNZHVx/VjPiRs7ek4Du3quLpWrttaGs3qP+liGU5rfvtP690O1Kt7/AA==\"\n\nlocal function importPlaterMod(encodedString, enabled)\n    if Plater then\n        local decompressedData = encodedString and Plater.DecompressData(encodedString, \"print\") or false\n        if decompressedData ~= false then\n            local indexScriptTable = decompressedData and Plater.MigrateScriptModImport(decompressedData) or nil\n            local scriptType = indexScriptTable and Plater.GetDecodedScriptType(indexScriptTable) or nil\n            local scriptObject = scriptType and Plater.BuildScriptObjectFromIndexTable(indexScriptTable, scriptType) or nil\n            \n            if scriptObject then\n                local options = scriptObject.Options\n                for m,c in pairs(options) do\n                    if c.Key == \"noInterruptsAvailableColor\" and aura_env.config.noInterruptsAvailableColor then\n                        c.Value[1] = aura_env.config.noInterruptsAvailableColor[1]\n                        c.Value[2] = aura_env.config.noInterruptsAvailableColor[2]\n                        c.Value[3] = aura_env.config.noInterruptsAvailableColor[3]\n                        c.Value[4] = aura_env.config.noInterruptsAvailableColor[4]\n                    elseif c.Key == \"focusInterruptsAvailableColor\" and aura_env.config.focusInterruptsAvailableColor then\n                        c.Value[1] = aura_env.config.focusInterruptsAvailableColor[1]\n                        c.Value[2] = aura_env.config.focusInterruptsAvailableColor[2]\n                        c.Value[3] = aura_env.config.focusInterruptsAvailableColor[3]\n                        c.Value[4] = aura_env.config.focusInterruptsAvailableColor[4]\n                    elseif c.Key == \"height\" and aura_env.config.height then\n                        c.Value = aura_env.config.height\n                    elseif c.Key == \"width\" and aura_env.config.width then\n                        c.Value = aura_env.config.width\n                    elseif c.Key == \"anchor\" and aura_env.config.anchor then\n                        c.Value = aura_env.config.anchor\n                    end\n                end\n                \n                scriptObject.Prio = 50\n                scriptObject.Enabled = enabled\n                \n                Plater.AddScript(scriptObject, false) \n            end\n        end\n    end\nend\n\nimportPlaterMod(demokratiaOverallKickMarkerImportString, aura_env.config.enabled)\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n\n",
+          "customOnLoad": "\n\n",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Requires Plater",
+          "key": "enabled",
+          "name": "Show overall interrupt availability on the side of the nameplate cast bar",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": [
+            1,
+            0,
+            0,
+            0.59989327192307
+          ],
+          "key": "noInterruptsAvailableColor",
+          "name": "No interrupts available",
+          "type": "color",
+          "useDesc": false,
+          "width": 2
+        },
+        {
+          "default": 6,
+          "desc": "",
+          "key": "anchor",
+          "name": "Overall marker position on nameplate",
+          "type": "select",
+          "useDesc": false,
+          "values": [
+            "TOPLEFT",
+            "TOP",
+            "TOPRIGHT",
+            "LEFT",
+            "CENTER",
+            "RIGHT",
+            "BOTTOMLEFT",
+            "BOTTOM",
+            "BOTTORIGHT"
+          ],
+          "width": 1
+        },
+        {
+          "default": 0.15,
+          "key": "width",
+          "max": 1,
+          "min": 0.05,
+          "name": "Marker width ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        },
+        {
+          "default": 0.6,
+          "key": "height",
+          "max": 1,
+          "min": 0.05,
+          "name": "Marker height ratio",
+          "step": 0.05,
+          "type": "number",
+          "useDesc": false,
+          "width": 0.5
+        }
+      ],
+      "conditions": [],
+      "config": {
+        "anchor": 6,
+        "enabled": true,
+        "height": 0.6,
+        "noInterruptsAvailableColor": [
+          1,
+          0,
+          0,
+          0.59989327192307
+        ],
+        "width": 0.15
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - Krunde says... INTERRUPT nameplate castbar overall interrupt availability marker GUI",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "MAuy0p1Z(GH",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "if aura_env.prevAlarm then\n    StopSound(aura_env.prevAlarm)\n    aura_env.prevAlarm = nil\nend",
+          "do_custom": true,
+          "do_sound": false
+        },
+        "init": [],
+        "start": {
+          "do_sound": false,
+          "sound": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\phone.ogg"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionInterruptAudibleAlarm",
+          "name": "Audible alarm on focus interrupt when it is your turn",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
+        {
+          "default": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\phone.ogg",
+          "key": "optionAlarmSound",
+          "media": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\AirHorn.ogg",
+          "mediaType": "sound",
+          "name": "Sound on your focus unit interrupt turn",
+          "type": "media",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\HeartbeatSingle.ogg",
+          "key": "optionNotifySound",
+          "media": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\AirHorn.ogg",
+          "mediaType": "sound",
+          "name": "Sound when it is not your turn",
+          "type": "media",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "backgroundColor": [
+        0,
+        0,
+        0,
+        0.5
+      ],
+      "barColor": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "barColor2": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local willPlay\nwillPlay, aura_env.prevAlarm = PlaySoundFile(aura_env.config.optionAlarmSound, \"Master\")"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "interruptible"
+              },
+              {
+                "checks": [
+                  {
+                    "trigger": 2,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 3,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 4,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 5,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 6,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 7,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 8,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 9,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 10,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 11,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 12,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 13,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 14,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 15,
+                    "value": 1,
+                    "variable": "show"
+                  }
+                ],
+                "trigger": -2,
+                "variable": "OR"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    local krundeSaysObject = krundeSaysInterruptClient or nil\n    local playerGUID = krundeSaysObject and krundeSaysObject.environment.playerGUID or nil\n    local interruptListTable = krundeSaysObject and krundeSaysObject.environment.focusCasterPriorityList\n    local playerInterruptList = playerGUID and interruptListTable and interruptListTable[playerGUID] or {}\n    local firstInList = playerInterruptList[1]\n    if firstInList and firstInList.caster == playerGUID then\n        return true\n    else\n        return false\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.optionInterruptAudibleAlarm\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "op": "find('%s')",
+            "trigger": -2,
+            "variable": "AND"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "PlaySoundFile(aura_env.config.optionNotifySound, \"Master\")"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "interruptible"
+              },
+              {
+                "op": "",
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.optionInterruptAudibleAlarm\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": true
+        }
+      ],
+      "config": {
+        "optionAlarmSound": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\phone.ogg",
+        "optionInterruptAudibleAlarm": true,
+        "optionNotifySound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\HeartbeatSingle.ogg"
+      },
+      "desaturate": false,
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "enableGradient": false,
+      "frameStrata": 1,
+      "gradientOrientation": "HORIZONTAL",
+      "height": 15,
+      "icon": true,
+      "iconSource": -1,
+      "icon_color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "icon_side": "RIGHT",
+      "id": "Demokratia - Krunde says... INTERRUPT alert when it is your turn",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "orientation": "HORIZONTAL",
+      "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "source": "import",
+      "spark": false,
+      "sparkBlendMode": "ADD",
+      "sparkColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "sparkHeight": 30,
+      "sparkHidden": "NEVER",
+      "sparkOffsetX": 0,
+      "sparkOffsetY": 0,
+      "sparkRotation": 0,
+      "sparkRotationMode": "AUTO",
+      "sparkTexture": "Interface\\CastingBar\\UI-CastingBar-Spark",
+      "sparkWidth": 10,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "texture": "Blizzard",
+      "textureSource": "LSM",
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cast",
+            "names": [],
+            "sourceUnit": "focus",
+            "spellIds": [],
+            "spellName": [
+              "Frostbolt"
+            ],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "focus",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_castType": false,
+            "use_inverse": false,
+            "use_remaining": false,
+            "use_sourceUnit": true,
+            "use_spellIds": false,
+            "use_spellName": true,
+            "use_spellNames": false,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 183752,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "3": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 142657,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "4": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 47528,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "5": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 282315,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "6": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 451441,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "7": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 37470,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "8": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 457982,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "9": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 346991,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "10": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 351338,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "11": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 95038,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "12": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 1766,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "13": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 426240,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "14": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 231665,
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "15": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Cooldown Progress (Spell)",
+            "genericShowOn": "showOnReady",
+            "spellName": 119910,
+            "track": "auto",
+            "type": "spell",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "yK1jasuw6oS",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysInterruptClientSkipButton\"]\n    \n    krundeSaysObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClientSkipButton\"))\nend\n\nloopInit()",
+          "do_custom": true
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"INTERRUPT\"\naura_env.reset_variables = function(environment) environment.reloadedAndNeedData = true end\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysInterruptClient\"]\n    local environment = moduleDependencies[\"environment\"]\n    local defaultAlpha = 0.3\n    \n    demokratiaObject.init(\"timer\", environment)\n    \n    local r = environment.region.tooltipFrame or environment.region\n    krundeSaysObject.skipButton = krundeSaysObject.skipButton\n    or CreateFrame(\"Button\", \"krundeSaysInterruptClientSkipButton\", UIParent)\n    \n    krundeSaysObject.skipButton:SetFrameStrata(r:GetFrameStrata())\n    krundeSaysObject.skipButton:SetFrameLevel(r:GetFrameLevel()+1)\n    krundeSaysObject.skipButton:SetAllPoints(r)\n    krundeSaysObject.skipButton:RegisterForClicks(\"AnyUp\", \"AnyDown\")\n    krundeSaysObject.skipButton:Hide()\n    \n    krundeSaysObject.skipButton:RegisterForDrag(\"LeftButton\", \"RightButton\")\n    krundeSaysObject.skipButton:SetScript(\"OnDragStop\", function(self)\n            self.highlightTexture:SetAlpha(defaultAlpha)\n    end)\n    \n    krundeSaysObject.skipButton:SetScript(\"OnClick\", function (self, button, down)\n            if down then\n                self.highlightTexture:SetAlpha(1)\n                \n                ksInterruptSkip()\n                if button == \"RightButton\" then\n                    ksSilenceSkip()\n                    ksStopSkip()\n                end\n            else\n                self.highlightTexture:SetAlpha(defaultAlpha)\n            end\n    end)\n    \n    krundeSaysObject.skipButton:SetScript(\"OnEnter\", function(self)\n            GameTooltip:SetOwner(self, \"ANCHOR_NONE\")\n            GameTooltip:SetPoint(\"LEFT\", self, \"RIGHT\")\n            local spellId = self:GetAttribute(\"spellId\")\n            if spellId then\n                GameTooltip:SetSpellByID(spellId)\n            end\n    end)\n    krundeSaysObject.skipButton:SetScript(\"OnLeave\", function(self, motion)\n            GameTooltip:Hide()\n    end)\n    \n    krundeSaysObject.skipButton.highlightTexture = krundeSaysObject.skipButton.highlightTexture or krundeSaysObject.skipButton:CreateTexture(nil, \"HIGHLIGHT\")\n    krundeSaysObject.skipButton.highlightTexture:SetAllPoints(krundeSaysObject.skipButton)\n    krundeSaysObject.skipButton.highlightTexture:SetColorTexture(1, 1, 1, 1)\n    krundeSaysObject.skipButton.highlightTexture:SetAlpha(defaultAlpha)\n    \n    krundeSaysObject.skipButton.highlightFontString = krundeSaysObject.skipButton.highlightFontString or krundeSaysObject.skipButton:CreateFontString(nil, \"HIGHLIGHT\", \"GameFontRedLarge\")\n    krundeSaysObject.skipButton.highlightFontString:SetPoint(\"BOTTOM\")\n    krundeSaysObject.skipButton.highlightFontString:SetText(\"SKIP\")\n    krundeSaysObject.skipButton.highlightFontString:SetAlpha(1)\n    \n    if environment.region.subRegions then\n        for _,d in pairs(environment.region.subRegions) do\n            if d.type == \"subtext\" then\n                local fontPath, fontSize, fontFlags = d.text:GetFont()\n                krundeSaysObject.skipButton.highlightFontString:SetFont(fontPath, fontSize*1.5, fontFlags)\n            end\n        end\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local environment = moduleDependencies[\"environment\"]\n    \n    environment.reset_variables(environment)\n    \n    environment.requestListTimer = environment.requestListTimer or environment.newTimer(0, function ()\n            environment.requestListTimer = nil\n            if environment.reloadedAndNeedData then\n                environment.reloadedAndNeedData = nil\n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n    )\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClientSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true
+        },
+        "start": {
+          "custom": "",
+          "do_custom": false,
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Announce \"NEXT INTERRUPT\" with text-to-speech if it is your turn to INTERRUPT next",
+          "key": "ttsNextInterrupt",
+          "name": "Announce \"NEXT INTERRUPT\" with text-to-speech",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "NEXT INTERRUPT",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.ttsNextInterrupt == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "checks": [
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": "78675",
+                    "variable": "spellId"
+                  },
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": "202137",
+                    "variable": "spellId"
+                  },
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": "108199",
+                    "variable": "spellId"
+                  },
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": "386071",
+                    "variable": "spellId"
+                  }
+                ],
+                "trigger": -1,
+                "value": 1,
+                "variable": "incombat"
+              },
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "isPlayerSpell"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        },
+        {
+          "changes": [
+            {
+              "property": "sub.3.glow",
+              "value": false
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "noneAvailable"
+              }
+            ],
+            "trigger": -2,
+            "variable": "OR"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysButtonObject = moduleDependencies[\"krundeSaysInterruptClientSkipButton\"]\n    local environment = moduleDependencies[\"environment\"]\n    \n    local r = environment.region.tooltipFrame or environment.region\n    krundeSaysButtonObject:SetFrameStrata(r:GetFrameStrata())\n    krundeSaysButtonObject:SetFrameLevel(r:GetFrameLevel()+1)\n    krundeSaysButtonObject:SetAllPoints(r)\n    krundeSaysButtonObject.highlightTexture:SetAllPoints(krundeSaysButtonObject)\n    krundeSaysButtonObject:SetAttribute(\"spellId\", environment.spellId)\n    krundeSaysButtonObject:Show()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClientSkipButton\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "isPlayerSpell"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysInterruptClientSkipButton\"]\n    \n    krundeSaysObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClientSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "variable": "alwaystrue"
+          },
+          "linked": true
+        }
+      ],
+      "config": {
+        "ttsNextInterrupt": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for interrupt coordinator. Current interrupt indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... INTERRUPT client current interrupt",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "CENTER",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 10,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "none",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": true,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, event, prefix, spellTable)\n    if event == \"GROUP_LEFT\" or event == \"DEMOKRATIA_KSS_INVALIDATELIST\" and prefix and prefix == aura_env.serverTag then\n        \n        allstates:RemoveAll()\n        \n        return true\n    elseif event == \"DEMOKRATIA_KSS_LIST\" then\n        if prefix and prefix == aura_env.serverTag then\n            aura_env.reloadedAndNeedData = nil\n            \n            allstates:RemoveAll()\n            \n            if spellTable and #spellTable > 0 then\n                -- Check if the spell is ours and actually on cooldown or not\n                if UnitIsUnit(spellTable[1].caster, UnitGUID(\"player\"))\n                and not spellTable[1].timeLeft then\n                    aura_env.caster = spellTable[1].caster\n                    aura_env.spellId = spellTable[1].spellId\n                    \n                    local _, _, _, _, _, casterName, _ = GetPlayerInfoByGUID(spellTable[1].caster)\n                    local spellInfo = C_Spell.GetSpellInfo(spellTable[1].spellId)\n                    local stateInfo =\n                    {\n                        name = casterName,\n                        icon = spellInfo.iconID,\n                        spellId = spellTable[1].spellId,\n                        caster = spellTable[1].caster,\n                        noneAvailable = false,\n                        isPlayerSpell = UnitIsUnit(spellTable[1].caster, UnitGUID(\"player\")),\n                        index = 1,\n                        \n                        autoHide = false,\n                        resort = true,\n                        show = true,\n                    }\n                    \n                    allstates:Update(1, stateInfo)\n                    \n                    aura_env.noMoreStopsNoticed = nil\n                elseif spellTable[1].timeLeft then\n                    -- if the first spell is on cooldown\n                    local stateInfo =\n                    {\n                        name = \"STOPS\",\n                        icon = 4200126,\n                        spellId = 0,\n                        caster = \"\",\n                        noneAvailable = true,\n                        isPlayerSpell = false,\n                        index = 1,\n                        \n                        autoHide = false,\n                        resort = true,\n                        show = true\n                    }\n                    \n                    allstates:Update(1, stateInfo)\n                end\n                \n                return true\n            end\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "function()\n    local iconID = 0\n    if aura_env.spellId then\n        local spellInfo = C_Spell.GetSpellInfo(aura_env.spellId)\n        iconID = spellInfo.iconID\n    end\n    return iconID\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customName": "function()\nprint(aura_env.caster)\n    return aura_env.caster or \"\"\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customVariables": "{\n    spellId = \"number\",\n    noneAvailable = \"bool\",\n    isPlayerSpell = \"bool\",\n}",
+            "custom_hide": "custom",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": true,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_INVALIDATELIST,DEMOKRATIA_KSS_LIST,GROUP_LEFT",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, prefix, ...)\n    local function tableInsertNextSpell(spellTable, caster, spellId)\n        if caster and spellId then\n            table.insert(spellTable, {caster = caster, spellId = spellId})\n        end\n    end\n    \n    local function parseNextSpell(spellString)\n        local _,_,_,caster,_ = string.find(spellString, \"(%s*)(.-)(%s*-)\")\n        local _,_,_,spellId,_ = string.find(spellString, \"([()])(.-)([()])\")\n        return caster, tonumber(spellId)\n    end\n    \n    local function parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n        local _,_,firstSpell,_ = string.find(krundeSaysMessage, \"(.-)([{])\")\n        local caster,spellId = parseNextSpell(firstSpell)\n        tableInsertNextSpell(spellTable, caster, spellId)\n    end\n    \n    if event == \"CHAT_MSG_ADDON\" and prefix == \"KRUNDESAYSSTOP\" then\n        local message = ...\n        if message ~= nil then\n            local _,_,_,krundeSaysMessage = string.find(message, \"(STOPLIST:%s*)(.-)$\")\n            if krundeSaysMessage then\n                local spellTable = {}\n                -- populate spellTable with a {casterUnitName, spellId} pair\n                parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n                \n                if #spellTable > 0 then\n                    local globalCooldownInfo = C_Spell.GetSpellCooldown(61304)\n                    local spellCooldownInfo = C_Spell.GetSpellCooldown(spellTable[1].spellId)\n                    \n                    -- Check if the spell is ours and actually on cooldown or not\n                    if not UnitIsUnit(aura_env.caster,\"player\") or not (UnitIsUnit(aura_env.caster,\"player\")\n                        and (spellCooldownInfo.duration == 0 or\n                    spellCooldownInfo.duration <= globalCooldownInfo.duration))\n                    then\n                        print(\"untriggered\")\n                        return true\n                    else\n                        print(\"no untriggered\")\n                        return false\n                    end \n                end\n            end\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "2": {
+          "trigger": {
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceUnit": "player",
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_cloneId": true,
+            "use_genericShowOn": true,
+            "use_itemName": true,
+            "use_sourceUnit": true,
+            "use_spellName": false,
+            "use_spellNames": false,
+            "use_track": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "3": {
+          "trigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 2 then\n        local eventData = ...\n        for _, combatLogData in pairs(eventData) do\n            if combatLogData.spellId == aura_env.spellId then\n                return true\n            end\n        end \n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "",
+            "customName": "",
+            "custom_hide": "custom",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "2",
+            "dynamicDuration": false,
+            "event": "Chat Message",
+            "events": "TRIGGER:1:2",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 1 then\n        return true\n    end \nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return (trigger[1] and not trigger[3])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "VKUPW2yJxrZ",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "",
+          "do_custom": false
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"INTERRUPT\"\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "",
+          "do_custom": true,
+          "do_custom_load": false,
+          "do_custom_unload": false
+        },
+        "start": {
+          "custom": "",
+          "do_custom": false,
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Announce when player's focus target dies",
+          "key": "ttsPlayerFocusDead",
+          "name": "Announce \"FOCUS DEAD\" with text-to-speech",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "FOCUS DEAD",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "op": "",
+                "trigger": -1,
+                "value": "function(...)\n    return aura_env.config.ttsPlayerFocusDead == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "show"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          }
+        }
+      ],
+      "config": {
+        "ttsPlayerFocusDead": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for interrupt coordinator. Current interrupt indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... INTERRUPT client focus dead announcer",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "CENTER",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 10,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "none",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": true,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "custom": "function(event, prefix, spellTable)\n    if event == \"DEMOKRATIA_KSS_PLAYERFOCUSDEAD\" and prefix and prefix == aura_env.serverTag then\n        return true\n    end\nend",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": false,
+            "event": "Health",
+            "events": "DEMOKRATIA_KSS_PLAYERFOCUSDEAD",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "OeOsPd)2Pdr",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "",
+          "customOnLoad": "",
+          "do_custom": false,
+          "do_custom_load": false
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "SILENCED",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.ttsSilenced == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "checks": [
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 2,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 3,
+                    "value": 1,
+                    "variable": "show"
+                  }
+                ],
+                "trigger": -2,
+                "variable": "OR"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        }
+      ],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for AOE silence coordinator. Current silence indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 28,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... INTERRUPT client current incoming silence",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "glow": true,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 4 then\n        local auraFound = false\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            local _,_,casterName = string.find(auraData.casterName, \"(%S*)\")\n            if UnitInParty(casterName) then\n                auraFound = true\n                if not aura_env.expirationTime or\n                auraData.expirationTime > aura_env.expirationTime then\n                    aura_env.initialTime = auraData.initialTime\n                    aura_env.refreshTime = auraData.refreshTime\n                    aura_env.duration = auraData.duration\n                    aura_env.expirationTime = auraData.expirationTime\n                    \n                    aura_env.icon = auraData.icon\n                end\n            end\n        end\n        return auraFound\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customDuration": "function()\n    return aura_env.duration, aura_env.expirationTime\nend",
+            "customIcon": "function()\n    return aura_env.icon or nil\nend\n\n\n",
+            "custom_hide": "custom",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "events": "TRIGGER:4",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 4 then\n        local auraNotFound = true\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            if UnitInParty(auraData.casterName) then\n                auraNotFound = false\n            end\n        end\n        return auraNotFound \n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "2": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "duration": "6",
+            "event": "Combat Log",
+            "sourceFlags": "InGroup",
+            "spellName": [
+              "Disrupting Shout"
+            ],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_INTERRUPT",
+            "type": "combatlog",
+            "unit": "player",
+            "use_sourceFlags": true,
+            "use_spellId": false,
+            "use_spellName": true,
+            "use_spellSchool": false
+          },
+          "untrigger": []
+        },
+        "3": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "duration": "2",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceFlags": "InGroup",
+            "spellId": [
+              202137
+            ],
+            "spellName": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_sourceFlags": true,
+            "use_spellId": true,
+            "use_spellName": false,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "4": {
+          "trigger": {
+            "auranames": [
+              "Sigil of Silence",
+              "Solar Beam"
+            ],
+            "auraspellids": [
+              "1330",
+              "374776"
+            ],
+            "combineMode": "showHighest",
+            "debuffType": "HARMFUL",
+            "event": "Health",
+            "group_count": "0",
+            "group_countOperator": ">",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "multi",
+            "useExactSpellId": true,
+            "useGroup_count": true,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1] or trigger[2] or trigger[3]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "4Gn35ux7Ego",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 28,
+      "wordWrap": "WordWrap",
+      "xOffset": 16,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "align": "CENTER",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animate": false,
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "arcLength": 360,
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "centerType": "LR",
+      "columnSpace": 1,
+      "conditions": [],
+      "config": [],
+      "constantFactor": "RADIUS",
+      "controlledChildren": [
+        "Demokratia - Krunde says INTERRUPT client interrupts after current"
+      ],
+      "desc": "Graphical client for AOE stop coordinator. Stops after current indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "fullCircle": true,
+      "gridType": "RD",
+      "gridWidth": 5,
+      "grow": "RIGHT",
+      "id": "Demokratia - Krunde says... INTERRUPT client interrupts",
+      "information": [],
+      "internalVersion": 86,
+      "limit": 2,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
+      "radius": 200,
+      "regionType": "dynamicgroup",
+      "rotation": 0,
+      "rowSpace": 1,
+      "scale": 0.5,
+      "selfPoint": "LEFT",
+      "semver": "1.0.232",
+      "sort": "none",
+      "sortHybridTable": {
+        "Demokratia - Krunde says INTERRUPT client interrupts after current": false
+      },
+      "space": 2,
+      "stagger": 0,
+      "stepAngle": 15,
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "c8pugQ9PVz6",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useLimit": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": -64,
+      "yOffset": -32
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysInterruptSkipButton\"]\n    \n    krundeSaysObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterrupt\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": false
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"INTERRUPT\"\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysInterrupt\"]\n    local environment = moduleDependencies[\"environment\"]\n    local defaultAlpha = 0.3\n    \n    demokratiaObject.init(\"timer\", environment)\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterrupt\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "local r = environment.region.tooltipFrame or environment.region\nkrundeSaysObject.skipButton = krundeSaysObject.skipButton\nor CreateFrame(\"Button\", \"krundeSaysInterruptSkipButton\", UIParent)\n\nkrundeSaysObject.skipButton:SetFrameStrata(r:GetFrameStrata())\nkrundeSaysObject.skipButton:SetFrameLevel(r:GetFrameLevel()+1)\nkrundeSaysObject.skipButton:SetAllPoints(r)\nkrundeSaysObject.skipButton:RegisterForClicks(\"AnyUp\", \"AnyDown\")\nkrundeSaysObject.skipButton:Hide()\n\nkrundeSaysObject.skipButton:SetScript(\"OnClick\", function (self, button, down)\n        local caster = self:GetAttribute(\"caster\")\n        if caster then\n            if down then\n                self.highlightTexture:SetAlpha(1)\n                \n                ksInterruptSkip(caster)\n                if button == \"RightButton\" then\n                    ksStopSkip(caster)\n                    ksSilenceSkip(caster)\n                end\n            else\n                self.highlightTexture:SetAlpha(defaultAlpha)\n            end\n        end\nend)\n\nkrundeSaysObject.skipButton:SetScript(\"OnEnter\", function(self)\n        GameTooltip:SetOwner(self, \"ANCHOR_NONE\")\n        GameTooltip:SetPoint(\"LEFT\", self, \"RIGHT\")\n        local spellId = self:GetAttribute(\"spellId\")\n        if spellId then\n            GameTooltip:SetSpellByID(spellId)\n        end\nend)\nkrundeSaysObject.skipButton:SetScript(\"OnLeave\", function(self, motion)\n        GameTooltip:Hide()\nend)\n\nkrundeSaysObject.skipButton.highlightTexture = krundeSaysObject.skipButton.highlightTexture or krundeSaysObject.skipButton:CreateTexture(nil, \"HIGHLIGHT\")\nkrundeSaysObject.skipButton.highlightTexture:SetAllPoints(krundeSaysObject.skipButton)\nkrundeSaysObject.skipButton.highlightTexture:SetColorTexture(1, 1, 1, 1)\nkrundeSaysObject.skipButton.highlightTexture:SetAlpha(defaultAlpha)\n\nkrundeSaysObject.skipButton.highlightFontString = krundeSaysObject.skipButton.highlightFontString or krundeSaysObject.skipButton:CreateFontString(nil, \"HIGHLIGHT\", \"GameFontRedLarge\")\nkrundeSaysObject.skipButton.highlightFontString:SetPoint(\"CENTER\")\nkrundeSaysObject.skipButton.highlightFontString:SetText(\"SKIP\")\nkrundeSaysObject.skipButton.highlightFontString:SetAlpha(1)\n\nif environment.region.subRegions then\n    for _,d in pairs(environment.region.subRegions) do\n        if d.type == \"subtext\" then\n            local fontPath, fontSize, fontFlags = d.text:GetFont()\n            krundeSaysObject.skipButton.highlightFontString:SetFont(fontPath, fontSize*1.5, fontFlags)\n        end\n    end\nend",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "desaturate",
+              "value": true
+            }
+          ],
+          "check": {
+            "trigger": 1,
+            "value": 0,
+            "variable": "isPlayerSpell"
+          }
+        }
+      ],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for interrupt coordinator. Interrupts after current indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says INTERRUPT client interrupts after current",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... INTERRUPT client interrupts",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOM",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 10,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "none",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, event, prefix, inputTable)\n    if event == \"GROUP_LEFT\" or event == \"DEMOKRATIA_KSS_INVALIDATELIST\" and prefix and prefix == aura_env.serverTag then\n        \n        allstates:RemoveAll()\n        \n        return true\n    elseif event == \"DEMOKRATIA_KSS_LIST\" then\n        if prefix and prefix == aura_env.serverTag then\n            \n            allstates:RemoveAll()\n            \n            if inputTable then\n                local spellTable = {unpack(inputTable)}\n                if #spellTable > 0 then\n                    \n                    aura_env.caster = spellTable[1].caster\n                    \n                    --if the first stop is ours and it is not on cooldown, do not show it in this list\n                    if UnitIsUnit(spellTable[1].caster, UnitGUID(\"player\"))\n                    and not spellTable[1].timeLeft then\n                        table.remove(spellTable,1)\n                    end\n                    \n                    if #spellTable > 0 then\n                        \n                        aura_env.spellId = spellTable[1].spellId\n                        \n                        if krundeSaysInterruptSkipButton then\n                            krundeSaysInterruptSkipButton:SetAttribute(\"caster\", aura_env.caster)\n                            krundeSaysInterruptSkipButton:SetAttribute(\"spellId\", aura_env.spellId)\n                        end\n                        \n                        for n, d in ipairs(spellTable) do\n                            local _, _, _, _, _, casterName, _ = GetPlayerInfoByGUID(d.caster)\n                            local spellInfo = C_Spell.GetSpellInfo(d.spellId)\n                            local stateInfo =\n                            {\n                                name = casterName,\n                                icon = spellInfo.iconID,\n                                spellId = d.spellId,\n                                caster = d.caster,\n                                isPlayerSpell = UnitIsUnit(d.caster, UnitGUID(\"player\")),\n                                index = n,\n                                \n                                changed = true,\n                                autoHide = false,\n                                resort = true,\n                                show = true\n                            }\n                            \n                            if d.timeLeft then\n                                stateInfo.progressType = \"timed\"\n                                stateInfo.duration = d.timeLeft\n                                stateInfo.expirationTime = d.timeLeft + GetTime()\n                            else\n                                stateInfo.progressType = \"timed\"\n                                stateInfo.duration = 0\n                                stateInfo.expirationTime = GetTime()\n                            end\n                            \n                            allstates:Update(n, stateInfo)\n                        end\n                    end\n                    \n                    return true\n                end\n            end\n        end\n    end\nend\n\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "function()\n    local iconID = 0\n    if aura_env.spellId then\n        local spellInfo = C_Spell.GetSpellInfo(aura_env.spellId)\n        iconID = spellInfo.iconID\n    end\n    return iconID\nend",
+            "customName": "function()\n    return aura_env.caster or \"\"\nend",
+            "customVariables": "{\n    index = \"number\",\n    isPlayerSpell = \"bool\"\n}",
+            "custom_hide": "timed",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": true,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_INVALIDATELIST,DEMOKRATIA_KSS_LIST,GROUP_LEFT",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 2 then\nend\nend"
+          }
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "CPjftpXgIfH",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... STOP server",
+        "Demokratia - Krunde says... STOP client"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... STOP",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "9MNQfKr3Rhx",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysStopObject = krundeSaysStop\n    if not krundeSaysStopObject then\n        local environment = {\n            serverTag = \"STOP\",\n            \n            config = config,\n            minNumberClients = config.minNumberClients,\n            trackNonClients = config.trackNonClients,\n            \n            unitIsEnabled = function(environment, unitToken)\n                return UnitIsConnected(unitToken) and not UnitIsDeadOrGhost(unitToken)\n            end,\n            clientListUpdate = function(environment, clientList, numberClients)\n                if environment.priorityUnit and not clientList[environment.priorityUnit] then\n                    environment.priorityUnit = nil\n                end\n                \n                if environment.trackNonClients then\n                    if numberClients < environment.minNumberClients then\n                        environment.publishNonClientSpells = true\n                    else\n                        environment.publishNonClientSpells = false\n                    end\n                end\n            end,\n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysStopObject = {}\n        krundeSaysStopObject.environment = environment\n        \n        local trackedSpellsInPriorityOrder = {\n            {spellId = 108199}, -- Gorefiend's Grasp\n            {spellId = 202138}, -- Sigil of Chains\n            {spellId = 46968}, -- Shockwave\n            {spellId = 99}, -- Incapacitating Roar\n            {spellId = 51490}, -- Thunderstorm\n            {spellId = 192058}, -- Capacitor Totem\n            {spellId = 31661}, -- Dragon's Breath\n            {spellId = 157980}, -- Supernova\n            {spellId = 179057, doNotElevate=true}, -- Chaos Nova\n            {spellId = 119381}, -- Leg Sweep\n            {spellId = 368970}, -- Tail Swipe\n            {spellId = 30283}, -- Shadowfury\n            {spellId = 115750}, -- Blinding Light\n            {spellId = 207167}, -- Blinding Sleet\n            {spellId = 207684, doNotElevate=true}, -- Sigil of Misery\n            {spellId = 2094}, -- Blind\n            {spellId = 8122}, -- Psychic Scream\n            {spellId = 116844, doNotElevate=true}, -- Ring of Peace\n            {spellId = 132469, doNotElevate=true}, -- Typhoon\n            {spellId = 157981}, -- Blast Wave\n            {spellId = 357214}, -- Wing Buffet\n            {spellId = 186387}, -- Bursting Shot\n        }\n        \n        local function isPrioTank(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isTank = cd1unitToken and (UnitGroupRolesAssigned(cd1unitToken) == \"TANK\") or false\n            local cd2isTank = cd2unitToken and (UnitGroupRolesAssigned(cd2unitToken) == \"TANK\") or false\n            local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n            local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n            if cd1isTank and not cd1doNotElevate and not cd2isTank then\n                return true\n            elseif not cd1isTank and cd2isTank and not cd2doNotElevate then\n                return false\n            else\n                return nil\n            end\n        end\n        \n        local function isPrioLeader(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isLeader = cd1unitToken and UnitIsGroupLeader(cd1unitToken) or false\n            local cd2isLeader = cd2unitToken and UnitIsGroupLeader(cd2unitToken) or false\n            local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n            local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n            if cd1isLeader and not cd1doNotElevate and not cd2isLeader then\n                return true\n            elseif not cd1isLeader and cd2isLeader and not cd2doNotElevate then\n                return false\n            else\n                return nil\n            end\n        end\n        \n        local function isNamedPrioUnit(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isNamed = cd1unitToken and UnitGUID(cd1unitToken) == environment.priorityUnit or false\n            local cd2isNamed = cd2unitToken and UnitGUID(cd2unitToken) == environment.priorityUnit or false\n            local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n            local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n            if cd1isNamed and not cd1doNotElevate and not cd2isNamed then\n                return true\n            elseif not cd1isNamed and cd2isNamed and not cd2doNotElevate then\n                return false\n            else\n                return nil\n            end\n        end\n        \n        local customPriorityFunction = config.customPrioUnit == 1 and isPrioTank or isPrioLeader\n        \n        local function isPrioUnit(cd1, cd2)\n            if environment.priorityUnit then\n                return isNamedPrioUnit(cd1, cd2)\n            else\n                return customPriorityFunction(cd1, cd2)\n            end\n        end\n        \n        local function cooldownSortFunction(cd1, cd2)\n            if cd1.isReady == true and cd2.isReady ~= true then\n                return true\n            elseif cd1.isReady ~= true and cd2.isReady == true then\n                return false\n            elseif cd1.isReady == true and cd2.isReady == true then\n                local customPriorityResult = isPrioUnit(cd1, cd2)\n                if type(customPriorityResult) == \"boolean\" then\n                    return customPriorityResult\n                else\n                    if cd1.priority == cd2.priority then\n                        return cd1.unitGUID < cd2.unitGUID\n                    else\n                        return cd1.priority < cd2.priority\n                    end\n                end\n            else -- not cd1.isReady and not cd2.isReady\n                if cd1.timeLeft == cd2.timeLeft then\n                    return cd1.unitGUID < cd2.unitGUID\n                else \n                    return cd1.timeLeft < cd2.timeLeft\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" REQUESTSERVER\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                end\n            end,\n            \n            [environment.serverTag..\" REQUESTLIST\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    environment.forceSendForNewClients = true\n                    environment.triggerPublish(environment)\n                end\n            end,\n            \n            [environment.serverTag..\" CLIENT\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newClient(environment, shortenedGUID, version)\n                end\n            end,\n            \n            [environment.serverTag..\" IMPOTENT\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newImpotentClient(environment, shortenedGUID)\n                end\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newServer(environment, shortenedGUID, version)\n                end\n            end,\n        }\n        \n        environment.triggerPublish = environment.triggerPublish or function(environment)\n            local sortedList = krundeSaysStop and krundeSaysStop.cooldownList or nil -- luacheck: ignore\n            if not sortedList then\n                return\n            end\n            \n            local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n            if not krundeSaysServer then\n                return\n            end\n            \n            krundeSaysServer.publishCooldownList(environment, sortedList)\n        end\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        \n        krundeSaysStopObject.krundeSays = krundeSaysStopObject.krundeSays or {}\n        krundeSaysStopObject.trackedSpellsInPriorityOrder = trackedSpellsInPriorityOrder\n        krundeSaysStopObject.cooldownList = nil\n        krundeSaysStopObject.listUpdatedCallback = function(list)\n            krundeSaysStopObject.cooldownList = list\n            environment.triggerPublish(environment)\n        end\n        krundeSaysStopObject.cooldownSortFunction = cooldownSortFunction\n        \n        demokratiaObject.init(\"krundeSays\", krundeSaysStopObject.krundeSays, krundeSaysStopObject.trackedSpellsInPriorityOrder, krundeSaysStopObject.cooldownSortFunction, krundeSaysStopObject.listUpdatedCallback, environment.config.stopPriorities)\n        \n        krundeSaysStopObject.krundeSaysMessageHandler = krundeSaysStopObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysStopObject.krundeSaysMessageHandler)\n        krundeSaysStopObject.krundeSaysMessageHandler.register(messageHandlers)\n        krundeSaysStopObject.krundeSaysServer = krundeSaysStopObject.krundeSaysServer or {}\n        demokratiaObject.init(\"krundeSaysServer\", krundeSaysStopObject.krundeSaysServer)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysStopObject.frame = krundeSaysStopObject.frame or CreateFrame(\"FRAME\", \"KrundeSaysStopFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysStopObject.frame)\n        \n        krundeSaysStopObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysStopObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\"GROUP_ROSTER_UPDATE\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                \n                environment.numGroupMembers = environment.numGroupMembers or 1\n                local numGroupMembers = GetNumSubgroupMembers() + 1 -- does not include player\n                if environment.numGroupMembers > numGroupMembers then\n                    krundeSaysServer.removeLeftMembers(environment)\n                    krundeSaysStopObject.krundeSays.krundeSaysDataSource.clean()\n                elseif environment.numGroupMembers < numGroupMembers then\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                    krundeSaysStopObject.krundeSays.krundeSaysDataSource.clean()\n                end\n                environment.numGroupMembers = numGroupMembers\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\"PARTY_MEMBER_DISABLE PARTY_MEMBER_ENABLE PLAYER_ALIVE PLAYER_DEAD PLAYER_UNGHOST PARTY_LEADER_CHANGED\",\n            function(event)\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                \n                local couldChangeServer\n                if event == \"PARTY_MEMBER_DISABLE\" or event == \"PARTY_MEMBER_ENABLE\"\n                or event == \"PARTY_LEADER_CHANGED\" then\n                    couldChangeServer = true\n                else\n                    couldChangeServer = false\n                end\n                \n                krundeSaysServer.groupMemberStatusChange(environment, couldChangeServer)\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\"PLAYER_REGEN_ENABLED\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                krundeSaysServer.outOfCombat(environment)\n        end)\n        \n        \n        krundeSaysStopObject.frame.registerEventList(\"GROUP_JOINED,GROUP_FORMED,PLAYER_ENTERING_WORLD\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                krundeSaysServer.letGroupSettleRoles(environment)\n        end)\n        \n        \n        krundeSaysStopObject.frame.registerEventList(\"GROUP_LEFT\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                krundeSaysServer.groupLeft(environment)\n                krundeSaysStopObject.krundeSays.krundeSaysDataSource.clean()\n                environment.priorityUnit = nil\n        end)\n        \n        krundeSaysStopObject.frame.fakeEvent(\"PLAYER_ENTERING_WORLD\")\n        krundeSaysStopObject.krundeSaysServer.sendServerRequest(environment, environment.serverTag)\n        \n        function krundeSaysStopObject.isMaster()\n            local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n            return krundeSaysServer.playerIsFirstOnServerList(environment)\n        end\n        \n        local function ksStopReset()\n            local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n            krundeSaysServer.outOfCombat(environment)\n        end\n        \n        local function ksStopPrioUnit(unitGUID)\n            if unitGUID and environment and environment.clientList and environment.clientList[unitGUID] then\n                environment.priorityUnit = unitGUID\n            elseif not unitGUID and environment.priorityUnit then\n                environment.priorityUnit = nil\n            else\n                return\n            end\n            \n            environment.forceSendForNewClients = true\n            krundeSaysStopObject.krundeSays.krundeSaysDataSource.forceRecalculateList()\n            ksStopReset()\n        end\n        \n        setglobal(\"ksStopReset\", ksStopReset)\n        setglobal(\"ksStopPrioUnit\", ksStopPrioUnit)\n        \n        setglobal(\"krundeSaysStop\", krundeSaysStopObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSays\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysServer\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysStopObject = moduleDependencies[\"krundeSaysStop\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysStopObject.frame.start()\n    krundeSaysStopObject.krundeSays.libORclient.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysStopObject = moduleDependencies[\"krundeSaysStop\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysStopObject.frame.stop()\n    krundeSaysStopObject.krundeSays.libORclient.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": 2,
+          "desc": "Minimum number of clients to enable sending data from server. Requires UI RELOAD.",
+          "key": "minNumberClients",
+          "max": 5,
+          "min": 1,
+          "name": "Minimum number of users",
+          "step": 1,
+          "type": "number",
+          "useDesc": true,
+          "width": 1
+        },
+        {
+          "default": 1,
+          "desc": "The unit which gets prioritized over others for example to control when to start the STOP rotation. Overridden by dragging the MASTER button to party member's unitframe. ",
+          "key": "customPrioUnit",
+          "name": "Prioritized unit for STOPs",
+          "type": "select",
+          "useDesc": true,
+          "values": [
+            "Tank",
+            "Leader"
+          ],
+          "width": 1
+        },
+        {
+          "default": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+          "desc": "If you are the MASTER, these are the priorities used for scheduling STOPs",
+          "key": "stopPriorities",
+          "length": 10,
+          "multiline": false,
+          "name": "STOP priorities for MASTER",
+          "type": "input",
+          "useDesc": true,
+          "useLength": false,
+          "width": 2
+        },
+        {
+          "default": true,
+          "desc": "Track stops from players who do not use this addon. Active when below server's minimum number of clients setting. Requires UI RELOAD",
+          "key": "trackNonClients",
+          "name": "Server tracks non-user stops",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "customPrioUnit": 1,
+        "minNumberClients": 2,
+        "stopPriorities": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+        "trackNonClients": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... STOP server",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... STOP",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": ")gjYg9dOg2q",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysStopObject = krundeSaysStopClient\n    if not krundeSaysStopObject then\n        local environment = {\n            serverTag = \"STOP\",\n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysStopObject = {}\n        krundeSaysStopObject.environment = environment\n        \n        local function UnitShortenedGUID(unitGUID)\n            local _,_,shortenedGUID = string.find(unitGUID, \"Player%-(.*)\")\n            return shortenedGUID\n        end\n        \n        local function sendRequestList(environment)\n            environment.spamRLFilterTimer = environment.spamRLFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamRLFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" REQUESTLIST\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end\n            )\n        end\n        \n        local function sendClientAnnounce(environment)\n            if environment.reloadedAndNeedData then\n                sendRequestList(environment)\n                environment.reloadedAndNeedData = nil\n            end\n            environment.spamCAFilterTimer = environment.spamCAFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamCAFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" CLIENT\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end    \n            )\n        end\n        \n        local function sendClientImpotentAnnounce(unitGUID)\n            if environment.spamIAFilterTimer then\n                return\n            end\n            \n            environment.spamIAFilterTimer = environment.spamIAFilterTimer or environment.newTimer(1,\n                function()\n                    environment.spamIAFilterTimer = nil\n                end\n            )\n            \n            local chatType = nil\n            \n            if IsInRaid() then\n                chatType =\"RAID\"\n            elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                chatType =\"INSTANCE_CHAT\"\n            elseif IsInGroup() then\n                chatType =\"PARTY\"\n            end\n            \n            if chatType and environment.outputBuffer then\n                environment.outputBuffer.process(chatType, environment.serverTag..\" IMPOTENT\", UnitShortenedGUID(unitGUID or UnitGUID(\"player\")))\n            end\n        end\n        \n        local function ksStopSkip(unitGUID)\n            sendClientImpotentAnnounce(unitGUID)\n        end\n        \n        setglobal(\"kssSkip\", ksStopSkip)\n        setglobal(\"ksStopSkip\", ksStopSkip)\n        \n        \n        local function tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n            if caster and spellId then\n                table.insert(spellTable, {caster = caster, spellId = spellId, timeLeft = timeLeft})\n            end\n        end\n        \n        local function parseNextSpell(spellString)\n            local _,_,_,caster,_ = string.find(spellString, \"(%s*)(.-)(%s*/)\")\n            local _,_,_,spellId,_ = string.find(spellString, \"([()])(.-)([()])\")\n            local _,_,_,timeLeft,_ = string.find(spellString, \"([[])(.-)([]])\")\n            return caster and \"Player-\"..caster or nil, tonumber(spellId), tonumber(timeLeft)\n        end\n        \n        local function parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n            local _,_,firstSpell,_ = string.find(krundeSaysMessage, \"(.-)([{])\")\n            if firstSpell then\n                local caster,spellId,timeLeft = parseNextSpell(firstSpell)\n                tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n                \n                local _,_,_,nextSpells,_ = string.find(krundeSaysMessage, \"([{}])(.-)([{}])\")\n                if nextSpells then\n                    nextSpells = nextSpells..\",\"\n                    \n                    while nextSpells do\n                        local _,endOffset,_,nextSpell,_ = string.find(nextSpells, \"(%s*)(.-)(%s*[,}])\")\n                        if nextSpell then\n                            caster,spellId,timeLeft = parseNextSpell(nextSpell)\n                            tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n                            \n                            nextSpells = string.sub(nextSpells, endOffset+1, -1)\n                        else\n                            nextSpells = nil\n                        end\n                    end\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" LIST\"] = function(krundeSaysMessage)\n                local spellTable = {}\n                -- populate spellTable with a {casterUnitName, spellId} pair\n                parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_LIST\", environment.serverTag, spellTable)\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    sendClientAnnounce(environment)\n                    WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_SERVER\", environment.serverTag, shortenedGUID, version)\n                end\n            end,\n        }\n        \n        demokratiaObject.init(\"timer\", environment)\n        \n        C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n        \n        krundeSaysStopObject.krundeSaysMessageHandler = krundeSaysStopObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysStopObject.krundeSaysMessageHandler)\n        krundeSaysStopObject.krundeSaysMessageHandler.register(messageHandlers)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysStopObject.frame = krundeSaysStopObject.frame or CreateFrame(\"FRAME\", \"KrundeSaysStopClientFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysStopObject.frame)\n        \n        krundeSaysStopObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysStopObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\":DEMOKRATIA_KSS_REQUESTLIST\",\n            function(event, prefix)\n                if prefix == environment.serverTag then\n                    environment.reset_variables(environment)\n                    environment.requestListTimer = environment.requestListTimer or environment.newTimer(10, function ()\n                            environment.requestListTimer = nil\n                            if environment.reloadedAndNeedData then\n                                sendClientAnnounce(environment)\n                            end\n                        end\n                    )\n                end\n        end)\n        \n        environment.reset_variables(environment)\n        \n        krundeSaysStopObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n        \n        setglobal(\"krundeSaysStopClient\", krundeSaysStopObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n\n",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysStopObject = moduleDependencies[\"krundeSaysStopClient\"]\n    \n    krundeSaysStopObject.frame.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysStopObject = moduleDependencies[\"krundeSaysStopClient\"]\n    \n    krundeSaysStopObject.frame.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... STOP client",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... STOP",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "custom": "function(event, ...)\n    if event == \"DEMOKRATIA_KSS_REQUESTLIST\" then\n        local function moduleFunction(demokratiaObject, ...)\n            local moduleDependencies = ...\n            local krundeSaysStopClientObject = moduleDependencies[\"krundeSaysStopClient\"]\n            local krundeSaysServer = krundeSaysStopClientObject and krundeSaysStopClientObject.krundeSaysServer or nil -- luacheck: ignore\n            local environment = krundeSaysStopClientObject.environment\n            local event, prefix = unpack(moduleDependencies[\"arguments\"])\n            \n            if prefix and prefix == environment.serverTag then\n                krundeSaysStopClientObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n        \n        local function loopExecute(...)\n            local arguments = {...}\n            local demokratiaObject = demokratia -- luacheck: ignore\n            if not demokratiaObject then C_Timer.After(1, function() loopExecute(unpack(arguments)) end) return end\n            demokratiaObject.moduleRun(moduleFunction,\n                demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n                demokratiaObject.moduleDependencyTable(\"arguments\", arguments))\n        end\n        \n        loopExecute(event, ...)\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "events": "DEMOKRATIA_KSS_REQUESTLIST",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "i(kh9Go26hi",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... STOP client current stop",
+        "Demokratia - Krunde says... STOP client current incoming stop",
+        "Demokratia - Krunde says... STOP client stops",
+        "Demokratia - Krunde says... STOP client chat announcer"
+      ],
+      "desc": "Graphical client for AOE stop coordinator.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... STOP client GUI",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "ZKll2iQxDnE",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysStopClientSkipButton\"]\n    \n    krundeSaysObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClientSkipButton\"))\nend\n\nloopInit()",
+          "do_custom": true
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"STOP\"\naura_env.reset_variables = function(environment) environment.reloadedAndNeedData = true end\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysStopClient\"]\n    local environment = moduleDependencies[\"environment\"]\n    local defaultAlpha = 0.3\n    \n    demokratiaObject.init(\"timer\", environment)\n    \n    local r = environment.region.tooltipFrame or environment.region\n    krundeSaysObject.skipButton = krundeSaysObject.skipButton\n    or CreateFrame(\"Button\", \"krundeSaysStopClientSkipButton\", UIParent)\n    \n    krundeSaysObject.skipButton:SetFrameStrata(r:GetFrameStrata())\n    krundeSaysObject.skipButton:SetFrameLevel(r:GetFrameLevel()+1)\n    krundeSaysObject.skipButton:SetAllPoints(r)\n    krundeSaysObject.skipButton:RegisterForClicks(\"AnyUp\", \"AnyDown\")\n    krundeSaysObject.skipButton:Hide()\n    \n    krundeSaysObject.skipButton:SetScript(\"OnClick\", function (self, button, down)\n            if down then\n                self.highlightTexture:SetAlpha(1)\n                \n                ksStopSkip()\n                if button == \"RightButton\" then\n                    ksSilenceSkip()\n                    ksInterruptSkip()\n                end\n            else\n                self.highlightTexture:SetAlpha(defaultAlpha)\n            end\n    end)\n    \n    krundeSaysObject.skipButton:SetScript(\"OnEnter\", function(self)\n            GameTooltip:SetOwner(self, \"ANCHOR_NONE\")\n            GameTooltip:SetPoint(\"LEFT\", self, \"RIGHT\")\n            local spellId = self:GetAttribute(\"spellId\")\n            if spellId then\n                GameTooltip:SetSpellByID(spellId)\n            end\n    end)\n    krundeSaysObject.skipButton:SetScript(\"OnLeave\", function(self, motion)\n            GameTooltip:Hide()\n    end)\n    \n    krundeSaysObject.skipButton.highlightTexture = krundeSaysObject.skipButton.highlightTexture or krundeSaysObject.skipButton:CreateTexture(nil, \"HIGHLIGHT\")\n    krundeSaysObject.skipButton.highlightTexture:SetAllPoints(krundeSaysObject.skipButton)\n    krundeSaysObject.skipButton.highlightTexture:SetColorTexture(1, 1, 1, 1)\n    krundeSaysObject.skipButton.highlightTexture:SetAlpha(defaultAlpha)\n    \n    krundeSaysObject.skipButton.highlightFontString = krundeSaysObject.skipButton.highlightFontString or krundeSaysObject.skipButton:CreateFontString(nil, \"HIGHLIGHT\", \"GameFontRedLarge\")\n    krundeSaysObject.skipButton.highlightFontString:SetPoint(\"BOTTOM\")\n    krundeSaysObject.skipButton.highlightFontString:SetText(\"SKIP\")\n    krundeSaysObject.skipButton.highlightFontString:SetAlpha(1)\n    \n    if environment.region.subRegions then\n        for _,d in pairs(environment.region.subRegions) do\n            if d.type == \"subtext\" then\n                local fontPath, fontSize, fontFlags = d.text:GetFont()\n                krundeSaysObject.skipButton.highlightFontString:SetFont(fontPath, fontSize*1.5, fontFlags)\n            end\n        end\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local environment = moduleDependencies[\"environment\"]\n    \n    environment.reset_variables(environment)\n    \n    environment.requestListTimer = environment.requestListTimer or environment.newTimer(0, function ()\n            environment.requestListTimer = nil\n            if environment.reloadedAndNeedData then\n                environment.reloadedAndNeedData = nil\n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n    )\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClientSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Announce \"NEXT STOP\" with text-to-speech if it is your turn to STOP next",
+          "key": "ttsNextStop",
+          "name": "Announce \"NEXT STOP\" with text-to-speech",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": true,
+          "desc": "Announce \"STOP CASTS\" with text-to-speech if it is your turn to STOP next and there are no interrupts available",
+          "key": "ttsStopCasts",
+          "name": "Announce \"STOP CASTS\" with text-to-speech",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "NEXT STOP",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.ttsNextStop == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": -1,
+                "value": 1,
+                "variable": "incombat"
+              },
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "isPlayerSpell"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        },
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "STOP CASTS",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.ttsStopCasts == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": 7,
+                "value": 1,
+                "variable": "show"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    if not aura_env.noMoreInterruptsNoticed then\n        aura_env.noMoreInterruptsNoticed = true\n        return true\n    else\n        return false\n    end\nend",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "isPlayerSpell"
+              }
+            ],
+            "op": "KSSNOMOREINTERRUPTS",
+            "trigger": -2,
+            "variable": "AND"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "sub.3.glow"
+            }
+          ],
+          "check": {
+            "trigger": 1,
+            "value": 0,
+            "variable": "isPlayerSpell"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysButtonObject = moduleDependencies[\"krundeSaysStopClientSkipButton\"]\n    local environment = moduleDependencies[\"environment\"]\n    \n    local r = environment.region.tooltipFrame or environment.region\n    krundeSaysButtonObject:SetFrameStrata(r:GetFrameStrata())\n    krundeSaysButtonObject:SetFrameLevel(r:GetFrameLevel()+1)\n    krundeSaysButtonObject:SetAllPoints(r)\n    krundeSaysButtonObject.highlightTexture:SetAllPoints(krundeSaysButtonObject)\n    krundeSaysButtonObject:SetAttribute(\"spellId\", environment.spellId)\n    krundeSaysButtonObject:Show()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClientSkipButton\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "isPlayerSpell"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysStopClientSkipButton\"]\n    \n    krundeSaysObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClientSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "variable": "alwaystrue"
+          },
+          "linked": true
+        }
+      ],
+      "config": {
+        "ttsNextStop": true,
+        "ttsStopCasts": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for AOE stop coordinator. Current stop indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... STOP client current stop",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... STOP client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "CENTER",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 10,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "none",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": true,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, event, ...)\n    if event == \"GROUP_LEFT\" then\n        \n        allstates:RemoveAll()\n        \n        return true\n    elseif event == \"DEMOKRATIA_KSS_LIST\" then\n        local prefix, spellTable = ...\n        if prefix and prefix == aura_env.serverTag then\n            aura_env.reloadedAndNeedData = nil\n            \n            allstates:RemoveAll()\n            \n            if spellTable and #spellTable > 0 then\n                -- Check if the spell is ours and actually on cooldown or not\n                if UnitIsUnit(spellTable[1].caster, UnitGUID(\"player\"))\n                and not spellTable[1].timeLeft then\n                    aura_env.caster = spellTable[1].caster\n                    aura_env.spellId = spellTable[1].spellId\n                    \n                    local _, _, _, _, _, casterName, _ = GetPlayerInfoByGUID(spellTable[1].caster)\n                    local spellInfo = C_Spell.GetSpellInfo(spellTable[1].spellId)\n                    local stateInfo =\n                    {\n                        name = casterName,\n                        icon = spellInfo.iconID,\n                        spellId = spellTable[1].spellId,\n                        caster = spellTable[1].caster,\n                        noneAvailable = false,\n                        isPlayerSpell = UnitIsUnit(spellTable[1].caster, UnitGUID(\"player\")),\n                        index = 1,\n                        \n                        autoHide = false,\n                        resort = true,\n                        show = true\n                    }\n                    \n                    allstates:Update(1, stateInfo)\n                    \n                    aura_env.noMoreInterruptsNoticed = nil\n                elseif spellTable[1].timeLeft then\n                    -- if the first spell is on cooldown\n                    local stateInfo =\n                    {\n                        name = \"INTERRUPTS\",\n                        icon = 4200126,\n                        spellId = 0,\n                        caster = \"\",\n                        noneAvailable = true,\n                        isPlayerSpell = false,\n                        index = 1,\n                        \n                        autoHide = false,\n                        resort = true,\n                        show = true\n                    }\n                    \n                    allstates:Update(1, stateInfo)\n                end\n            end\n            \n            return true\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "function()\n    local iconID = 0\n    if aura_env.spellId then\n        local spellInfo = C_Spell.GetSpellInfo(aura_env.spellId)\n        iconID = spellInfo.iconID\n    end\n    return iconID\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customName": "function()\nprint(aura_env.caster)\n    return aura_env.caster or \"\"\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customVariables": "{\n    spellId = \"number\",\n    noneAvailable = \"bool\",\n    isPlayerSpell = \"bool\",\n}",
+            "custom_hide": "custom",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": true,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_LIST,GROUP_LEFT",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, prefix, ...)\n    local function tableInsertNextSpell(spellTable, caster, spellId)\n        if caster and spellId then\n            table.insert(spellTable, {caster = caster, spellId = spellId})\n        end\n    end\n    \n    local function parseNextSpell(spellString)\n        local _,_,_,caster,_ = string.find(spellString, \"(%s*)(.-)(%s*-)\")\n        local _,_,_,spellId,_ = string.find(spellString, \"([()])(.-)([()])\")\n        return caster, tonumber(spellId)\n    end\n    \n    local function parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n        local _,_,firstSpell,_ = string.find(krundeSaysMessage, \"(.-)([{])\")\n        local caster,spellId = parseNextSpell(firstSpell)\n        tableInsertNextSpell(spellTable, caster, spellId)\n    end\n    \n    if event == \"CHAT_MSG_ADDON\" and prefix == \"KRUNDESAYSSTOP\" then\n        local message = ...\n        if message ~= nil then\n            local _,_,_,krundeSaysMessage = string.find(message, \"(STOPLIST:%s*)(.-)$\")\n            if krundeSaysMessage then\n                local spellTable = {}\n                -- populate spellTable with a {casterUnitName, spellId} pair\n                parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n                \n                if #spellTable > 0 then\n                    local globalCooldownInfo = C_Spell.GetSpellCooldown(61304)\n                    local spellCooldownInfo = C_Spell.GetSpellCooldown(spellTable[1].spellId)\n                    \n                    -- Check if the spell is ours and actually on cooldown or not\n                    if not UnitIsUnit(aura_env.caster,\"player\") or not (UnitIsUnit(aura_env.caster,\"player\")\n                        and (spellCooldownInfo.duration == 0 or\n                    spellCooldownInfo.duration <= globalCooldownInfo.duration))\n                    then\n                        print(\"untriggered\")\n                        return true\n                    else\n                        print(\"no untriggered\")\n                        return false\n                    end \n                end\n            end\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "2": {
+          "trigger": {
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceUnit": "player",
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_cloneId": true,
+            "use_genericShowOn": true,
+            "use_itemName": true,
+            "use_sourceUnit": true,
+            "use_spellName": false,
+            "use_spellNames": false,
+            "use_track": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "3": {
+          "trigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 2 then\n        local eventData = ...\n        for _, combatLogData in pairs(eventData) do\n            if combatLogData.spellId == aura_env.spellId then\n                return true\n            end\n        end \n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "",
+            "customName": "",
+            "custom_hide": "custom",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "2",
+            "dynamicDuration": false,
+            "event": "Chat Message",
+            "events": "TRIGGER:1:2",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 1 then\n        return true\n    end \nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "4": {
+          "trigger": {
+            "auraspellids": [
+              "46968",
+              "99",
+              "51490",
+              "192058",
+              "31661",
+              "157980",
+              "179057",
+              "119381",
+              "368970",
+              "30283",
+              "115750",
+              "207167",
+              "207684",
+              "2094",
+              "8122"
+            ],
+            "debuffType": "HARMFUL",
+            "group_countOperator": ">",
+            "type": "aura2",
+            "unit": "multi",
+            "useExactSpellId": true,
+            "useGroup_count": true
+          },
+          "untrigger": []
+        },
+        "5": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "duration": "2",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceFlags": "InGroup",
+            "spellName": [
+              "202138",
+              "192058",
+              "30283",
+              "207684"
+            ],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_sourceFlags": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "6": {
+          "trigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 1 then\n        local noMoreStops = false\n        local eventData = ...\n        for _, triggerData in pairs(eventData) do\n            if triggerData.noneAvailable == true then\n                noMoreStops = true\n            else\n                noMoreStops = false\n            end\n        end\n        \n        if noMoreStops then\n            aura_env.noMoreStops = true\n        elseif aura_env.noMoreStops then\n            aura_env.noMoreStops = nil\n        end\n    elseif event == \"TRIGGER\" and n == 4 then\n        local stopDetected = false\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            local _,_,casterName = string.find(auraData.casterName, \"(%S*)\")\n            if UnitInParty(casterName) then\n                stopDetected = true\n            else\n                return\n            end\n        end\n        \n        if stopDetected then\n            aura_env.stopAuraDetected = true\n        elseif aura_env.stopAuraDetected then\n            aura_env.stopAuraDetected = nil\n        end\n    elseif event == \"TRIGGER\" and n == 5 then\n        local stopDetected = false\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            stopDetected = true\n        end\n        \n        if stopDetected then\n            aura_env.stopCastDetected = true\n        elseif aura_env.stopCastDetected then\n            aura_env.stopCastDetected = nil\n        end\n    end\n    \n    if not aura_env.stopAuraDetected and not aura_env.stopCastDetected\n    and aura_env.noMoreStops then\n        WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_NOMORESTOPS\")\n    end\n    \n    return aura_env.stopAuraDetected or aura_env.stopCastDetected\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "custom_hide": "custom",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "events": "TRIGGER:1:4:5",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    return not aura_env.stopAuraDetected and not aura_env.stopCastDetected\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "7": {
+          "trigger": {
+            "custom": "function(event, ...)\n    if event == \"DEMOKRATIA_KSS_NOMOREINTERRUPTS\" then\n        return true\n    end \nend\n\n--[[\nAuthor: Krunde 28/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": false,
+            "events": "DEMOKRATIA_KSS_NOMOREINTERRUPTS",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": {
+            "custom": ""
+          }
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1] and not trigger[3]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "0RgK2AxGwps",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "",
+          "customOnLoad": "",
+          "do_custom": false,
+          "do_custom_load": false
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Announce \"DELAYED STOP\" with text-to-speech if any SILENCE is active",
+          "key": "ttsStopped",
+          "name": "Announce \"DELAYED STOP\" with text-to-speech",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "DELAYED STOP",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.ttsStopped == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "checks": [
+                  {
+                    "trigger": 2,
+                    "value": 1,
+                    "variable": "show"
+                  }
+                ],
+                "trigger": -2,
+                "variable": "OR"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        }
+      ],
+      "config": {
+        "ttsStopped": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for AOE silence coordinator. Current silence indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 28,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... STOP client current incoming stop",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... STOP client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "glow": true,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 3 then\n        local auraFound = false\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            local _,_,casterName = string.find(auraData.casterName, \"(%S*)\")\n            if UnitInParty(casterName) then\n                auraFound = true\n                if not aura_env.expirationTime or\n                auraData.expirationTime > aura_env.expirationTime then\n                    aura_env.initialTime = auraData.initialTime\n                    aura_env.refreshTime = auraData.refreshTime\n                    aura_env.duration = auraData.duration\n                    aura_env.expirationTime = auraData.expirationTime\n                    \n                    aura_env.icon = auraData.icon\n                end\n            end\n        end\n        return auraFound\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customDuration": "function()\n    return aura_env.duration, aura_env.expirationTime\nend",
+            "customIcon": "function()\n    return aura_env.icon or nil\nend\n\n\n",
+            "custom_hide": "custom",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "events": "TRIGGER:3",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 3 then\n        local auraNotFound = true\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            if UnitInParty(auraData.casterName) then\n                auraNotFound = false\n            end\n        end\n        return auraNotFound \n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "2": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "duration": "2",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceFlags": "InGroup",
+            "spellId": [
+              202138,
+              192058,
+              30283,
+              207684
+            ],
+            "spellName": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_sourceFlags": true,
+            "use_spellId": true,
+            "use_spellName": false,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "3": {
+          "trigger": {
+            "auranames": [],
+            "auraspellids": [
+              "46968",
+              "99",
+              "51490",
+              "192058",
+              "31661",
+              "157980",
+              "179057",
+              "119381",
+              "368970",
+              "30283",
+              "115750",
+              "207167",
+              "207684",
+              "2094",
+              "8122"
+            ],
+            "combineMode": "showHighest",
+            "debuffType": "HARMFUL",
+            "event": "Health",
+            "group_count": "0",
+            "group_countOperator": ">",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "multi",
+            "useExactSpellId": true,
+            "useGroup_count": true,
+            "useName": false
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1] or trigger[2]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "5PG4l1I4GQt",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 28,
+      "wordWrap": "WordWrap",
+      "xOffset": 16,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "align": "CENTER",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animate": false,
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "arcLength": 360,
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "centerType": "LR",
+      "columnSpace": 1,
+      "conditions": [],
+      "config": [],
+      "constantFactor": "RADIUS",
+      "controlledChildren": [
+        "Demokratia - Krunde says STOP client stops after current"
+      ],
+      "desc": "Graphical client for AOE stop coordinator. Stops after current indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "fullCircle": true,
+      "gridType": "RD",
+      "gridWidth": 5,
+      "grow": "RIGHT",
+      "id": "Demokratia - Krunde says... STOP client stops",
+      "information": [],
+      "internalVersion": 86,
+      "limit": 2,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says... STOP client GUI",
+      "radius": 200,
+      "regionType": "dynamicgroup",
+      "rotation": 0,
+      "rowSpace": 1,
+      "scale": 0.5,
+      "selfPoint": "LEFT",
+      "semver": "1.0.232",
+      "sort": "none",
+      "sortHybridTable": {
+        "Demokratia - Krunde says STOP client stops after current": false
+      },
+      "space": 2,
+      "stagger": 0,
+      "stepAngle": 15,
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "GA1oLo0ZEfG",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useLimit": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": -64,
+      "yOffset": -32
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysStopSkipButton\"]\n    \n    krundeSaysObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"STOP\"\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysStop\"]\n    local environment = moduleDependencies[\"environment\"]\n    local defaultAlpha = 0.3\n    \n    demokratiaObject.init(\"timer\", environment)\n    \n    local r = environment.region.tooltipFrame or environment.region\n    krundeSaysObject.skipButton = krundeSaysObject.skipButton\n    or CreateFrame(\"Button\", \"krundeSaysStopSkipButton\", UIParent)\n    \n    krundeSaysObject.skipButton:SetFrameStrata(r:GetFrameStrata())\n    krundeSaysObject.skipButton:SetFrameLevel(r:GetFrameLevel()+1)\n    krundeSaysObject.skipButton:SetAllPoints(r)\n    krundeSaysObject.skipButton:RegisterForClicks(\"AnyUp\", \"AnyDown\")\n    krundeSaysObject.skipButton:Hide()\n    \n    krundeSaysObject.skipButton:SetScript(\"OnClick\", function (self, button, down)\n            local caster = self:GetAttribute(\"caster\")\n            if caster then\n                if down then\n                    self.highlightTexture:SetAlpha(1)\n                    \n                    ksStopSkip(caster)\n                    if button == \"RightButton\" then\n                        ksSilenceSkip(caster)\n                        ksInterruptSkip(caster)\n                    end\n                else\n                    self.highlightTexture:SetAlpha(defaultAlpha)\n                end\n            end\n    end)\n    \n    krundeSaysObject.skipButton:SetScript(\"OnEnter\", function(self)\n            GameTooltip:SetOwner(self, \"ANCHOR_NONE\")\n            GameTooltip:SetPoint(\"LEFT\", self, \"RIGHT\")\n            local spellId = self:GetAttribute(\"spellId\")\n            if spellId then\n                GameTooltip:SetSpellByID(spellId)\n            end\n    end)\n    krundeSaysObject.skipButton:SetScript(\"OnLeave\", function(self, motion)\n            GameTooltip:Hide()\n    end)\n    \n    krundeSaysObject.skipButton.highlightTexture = krundeSaysObject.skipButton.highlightTexture or krundeSaysObject.skipButton:CreateTexture(nil, \"HIGHLIGHT\")\n    krundeSaysObject.skipButton.highlightTexture:SetAllPoints(krundeSaysObject.skipButton)\n    krundeSaysObject.skipButton.highlightTexture:SetColorTexture(1, 1, 1, 1)\n    krundeSaysObject.skipButton.highlightTexture:SetAlpha(defaultAlpha)\n    \n    krundeSaysObject.skipButton.highlightFontString = krundeSaysObject.skipButton.highlightFontString or krundeSaysObject.skipButton:CreateFontString(nil, \"HIGHLIGHT\", \"GameFontRedLarge\")\n    krundeSaysObject.skipButton.highlightFontString:SetPoint(\"CENTER\")\n    krundeSaysObject.skipButton.highlightFontString:SetText(\"SKIP\")\n    krundeSaysObject.skipButton.highlightFontString:SetAlpha(1)\n    \n    if environment.region.subRegions then\n        for _,d in pairs(environment.region.subRegions) do\n            if d.type == \"subtext\" then\n                local fontPath, fontSize, fontFlags = d.text:GetFont()\n                krundeSaysObject.skipButton.highlightFontString:SetFont(fontPath, fontSize*1.5, fontFlags)\n            end\n        end\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "desaturate",
+              "value": true
+            }
+          ],
+          "check": {
+            "trigger": 1,
+            "value": 0,
+            "variable": "isPlayerSpell"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysStop\"]\n    local krundeSaysButtonObject = moduleDependencies[\"krundeSaysStopSkipButton\"]\n    local environment = moduleDependencies[\"environment\"]\n    \n    if krundeSaysObject.isMaster() then\n        local r = environment.region.tooltipFrame or environment.region\n        krundeSaysButtonObject:SetFrameStrata(r:GetFrameStrata())\n        krundeSaysButtonObject:SetFrameLevel(r:GetFrameLevel()+1)\n        krundeSaysButtonObject:SetAllPoints(r)\n        krundeSaysButtonObject.highlightTexture:SetAllPoints(krundeSaysButtonObject)\n        \n        krundeSaysButtonObject:Show()\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopSkipButton\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "op": "==",
+                "trigger": -1,
+                "value": 1,
+                "variable": "incombat"
+              },
+              {
+                "op": "==",
+                "trigger": 1,
+                "value": "1",
+                "variable": "index"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysStop\"]\n    local krundeSaysButtonObject = moduleDependencies[\"krundeSaysStopSkipButton\"]\n    local environment = moduleDependencies[\"environment\"]\n    \n    krundeSaysButtonObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopSkipButton\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "op": "==",
+                "trigger": -1,
+                "value": 0,
+                "variable": "incombat"
+              },
+              {
+                "op": "==",
+                "trigger": 1,
+                "value": "1",
+                "variable": "index"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": true
+        }
+      ],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for AOE stop coordinator. Stops after current indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says STOP client stops after current",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... STOP client stops",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOM",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 10,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "none",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, event, ...)\n    if event == \"GROUP_LEFT\" then\n        \n        allstates:RemoveAll()\n        \n        return true\n    elseif event == \"DEMOKRATIA_KSS_LIST\" then\n        local prefix, inputTable = ...\n        if prefix and prefix == aura_env.serverTag then\n            \n            allstates:RemoveAll()\n            \n            if inputTable then\n                local spellTable = {unpack(inputTable)}\n                if #spellTable > 0 then\n                    \n                    aura_env.caster = spellTable[1].caster\n                    \n                    --if the first stop is ours and it is not on cooldown, do not show it in this list\n                    if UnitIsUnit(spellTable[1].caster, UnitGUID(\"player\"))\n                    and not spellTable[1].timeLeft then\n                        table.remove(spellTable,1)\n                    end\n                    \n                    if #spellTable > 0 then\n                        \n                        aura_env.spellId = spellTable[1].spellId\n                        \n                        if krundeSaysStopSkipButton then\n                            krundeSaysStopSkipButton:SetAttribute(\"caster\", aura_env.caster)\n                            krundeSaysStopSkipButton:SetAttribute(\"spellId\", aura_env.spellId)\n                        end\n                        \n                        for n, d in ipairs(spellTable) do\n                            local _, _, _, _, _, casterName, _ = GetPlayerInfoByGUID(d.caster)\n                            local spellInfo = C_Spell.GetSpellInfo(d.spellId)\n                            local stateInfo =\n                            {\n                                name = casterName,\n                                icon = spellInfo.iconID,\n                                spellId = d.spellId,\n                                caster = d.caster,\n                                isPlayerSpell = UnitIsUnit(d.caster, UnitGUID(\"player\")),\n                                index = n,\n                                \n                                changed = true,\n                                autoHide = false,\n                                resort = true,\n                                show = true\n                            }\n                            \n                            if d.timeLeft then\n                                stateInfo.progressType = \"timed\"\n                                stateInfo.duration = d.timeLeft\n                                stateInfo.expirationTime = d.timeLeft + GetTime()\n                            else\n                                stateInfo.progressType = \"timed\"\n                                stateInfo.duration = 0\n                                stateInfo.expirationTime = GetTime()\n                            end\n                            \n                            allstates:Update(n, stateInfo)\n                        end\n                    end\n                    \n                    return true\n                end\n            end\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "function()\n    local iconID = 0\n    if aura_env.spellId then\n        local spellInfo = C_Spell.GetSpellInfo(aura_env.spellId)\n        iconID = spellInfo.iconID\n    end\n    return iconID\nend",
+            "customName": "function()\n    return aura_env.caster or \"\"\nend",
+            "customVariables": "{\n    changed = \"bool\",\n    index = \"number\",\n    isPlayerSpell = \"bool\",\n}",
+            "custom_hide": "timed",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": true,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_LIST,GROUP_LEFT",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 2 then\nend\nend"
+          }
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "8fA)uWNJbG6",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "\n\n",
+          "do_custom": false
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"STOP\"\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "\n\n",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Announce \"NEXT STOP\" with in chat. Useful when tracking non-user spells.",
+          "key": "chatNextStop",
+          "name": "Announce \"NEXT STOP\" in chat",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 1
+        },
+        {
+          "default": 1,
+          "key": "chatNextStopChannel",
+          "name": "Chat Channel for announcements",
+          "type": "select",
+          "useDesc": false,
+          "values": [
+            "\"YELL\"",
+            "\"INSTANCE\""
+          ],
+          "width": 1
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local environment = moduleDependencies[\"environment\"]\n    \n    local chatType = environment.config.chatNextStopChannel == 1 and \"YELL\" or nil\n    \n    if not chatType then\n        if IsInRaid() then\n            chatType =\"RAID\"\n        elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n            chatType =\"INSTANCE_CHAT\"\n        elseif IsInGroup() then\n            chatType =\"PARTY\"\n        end\n    end\n    \n    if chatType and environment.caster and environment.spellId then\n        local currentSpell = environment.caster..environment.spellId\n        if currentSpell ~= environment.previousSpell then\n            local unitToken = UnitTokenFromGUID(environment.caster)\n            local name = unitToken and UnitName(unitToken) or \"\"\n            local spellLink = C_Spell.GetSpellLink(environment.spellId);\n            SendChatMessage(\"[WA]: NEXT STOP - \"..name..\" do \"..spellLink, chatType)\n            environment.previousSpell = currentSpell\n        end\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.chatNextStop == true\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          }
+        }
+      ],
+      "config": {
+        "chatNextStop": false,
+        "chatNextStopChannel": 1
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Simon says... chat mode for Krunde says...\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... STOP client chat announcer",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "instance_type": {
+          "multi": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            true,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            true
+          ],
+          "single": 192
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_group_leader": true,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... STOP client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "CENTER",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 10,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "none",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": true,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(event, ...)\n    if event == \"GROUP_LEFT\" then\n        aura_env.caster = nil\n        aura_env.spellId = nil\n        \n        return true\n    elseif event == \"DEMOKRATIA_KSS_LIST\" then\n        local prefix, spellTable = ...\n        if aura_env.config.chatNextStop == true\n        and prefix and prefix == aura_env.serverTag then\n            \n            aura_env.caster = nil\n            aura_env.spellId = nil\n            \n            if spellTable and #spellTable > 0 then\n                if not spellTable[1].timeLeft then\n                    aura_env.caster = spellTable[1].caster\n                    aura_env.spellId = spellTable[1].spellId\n                    return PlayerIsInCombat() and true or false\n                end\n            end\n            \n            return false\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "\n\n",
+            "customName": "\n\n",
+            "customVariables": "{\n    spellId = \"number\",\n    noneAvailable = \"bool\",\n    isPlayerSpell = \"bool\",\n}",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": false,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_LIST,GROUP_LEFT",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "\n\n"
+          }
+        },
+        "2": {
+          "trigger": {
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "event": "Combat Events",
+            "eventtype": "PLAYER_REGEN_DISABLED",
+            "type": "event",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_eventtype": true,
+            "use_incombat": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[2] or (trigger[1] and trigger[2])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "b1p4ngL0EYa",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... SILENCE server",
+        "Demokratia - Krunde says... SILENCE client"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... SILENCE",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "0pbcGjqBDHs",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysSilenceObject = krundeSaysSilence\n    if not krundeSaysSilenceObject then\n        local environment = {\n            serverTag = \"SILENCE\",\n            \n            config = config,\n            minNumberClients = config.minNumberClients,\n            trackNonClients = config.trackNonClients,\n            \n            unitIsEnabled = function(environment, unitToken)\n                return UnitIsConnected(unitToken) and not UnitIsDeadOrGhost(unitToken)\n            end,\n            clientListUpdate = function(environment, clientList, numberClients)\n                if environment.trackNonClients then\n                    if numberClients < environment.minNumberClients then\n                        environment.publishNonClientSpells = true\n                    else\n                        environment.publishNonClientSpells = false\n                    end\n                end\n            end,\n            \n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysSilenceObject = {}\n        krundeSaysSilenceObject.environment = environment\n        \n        local trackedSpellsInPriorityOrder = {\n            {spellId = 31935, doNotElevate=true}, --Avenger's Shield (paladin [protection])\n            \n            {spellId = 57994}, --Wind Shear (shaman)\n            {spellId = 47528}, --Mind Freeze (death knight)\n            {spellId = 183752}, --Disrupt (demon hunter)\n            \n            {spellId = 6552}, --Pummel (warrior)\n            {spellId = 96231}, --Rebuke (paladin)\n            {spellId = 1766}, --Kick (rogue)\n            {spellId = 116705}, --Spear Hand Strike (monk)\n            {spellId = 106839}, --Skull Bash (druid [feral, guardian]))\n            {spellId = 187707}, --Muzzle (hunter [survival])\n            \n            {spellId = 19647}, --Spell Lock (warlock [felhunter])\n            {spellId = 89766}, --Axe Toss (warlock [felguard])\n            {spellId = 2139}, --Counterspell (mage)\n            {spellId = 15487}, --Silence (priest [shadow])\n            {spellId = 147362}, --Counter Shot (hunter [beast mastery, marksmanship])\n            {spellId = 351338}, --Quell (evoker)\n            \n            {spellId = 78675, doNotElevate=true}, --Solar Beam (druid [balance])\n            {spellId = 202137, doNotElevate=true}, --Sigil of Silence (demon hunter [vengeance])\n            {spellId = 386071, doNotElevate=true}, --Disrupting Shout (warrior [protection])\n            --{spellId = 108199, doNotElevate=true}, -- Gorefiend's Grasp (death knight [blood])\n        }\n        \n        local function cooldownSortFunction(cd1, cd2)\n            if cd1.isReady == true and cd2.isReady ~= true then\n                return true\n            elseif cd1.isReady ~= true and cd2.isReady == true then\n                return false\n            elseif cd1.isReady == true and cd2.isReady == true then\n                \n                if cd1.priority == cd2.priority then\n                    return cd1.unitGUID < cd2.unitGUID\n                else\n                    return cd1.priority < cd2.priority\n                end\n            else -- not cd1.isReady and not cd2.isReady\n                if cd1.timeLeft == cd2.timeLeft then\n                    return cd1.unitGUID < cd2.unitGUID\n                else \n                    return cd1.timeLeft < cd2.timeLeft\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" REQUESTSERVER\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysSilence and krundeSaysSilence.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                end\n            end,\n            \n            [environment.serverTag..\" REQUESTLIST\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    environment.forceSendForNewClients = true\n                    environment.triggerPublish(environment)\n                end\n            end,\n            \n            [environment.serverTag..\" CLIENT\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysSilence and krundeSaysSilence.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newClient(environment, shortenedGUID, version)\n                end\n            end,\n            \n            [environment.serverTag..\" IMPOTENT\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysSilence and krundeSaysSilence.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newImpotentClient(environment, shortenedGUID)\n                end\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysSilence and krundeSaysSilence.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newServer(environment, shortenedGUID, version)\n                end\n            end,\n            \n            [\"INTERRUPT\"..\" FOCUSUNIT\"] = function(shortenedGUIDandFocusGUID)\n                local _,_, shortenedGUID, focusGUID = string.find(shortenedGUIDandFocusGUID, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and focusGUID then\n                    local krundeSaysServer = krundeSaysSilence and krundeSaysSilence.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    \n                    local playerGUID = environment.playerGUID\n                    local unitGUID = \"Player-\"..shortenedGUID\n                    environment.focusList = environment.focusList or {}\n                    environment.focusList[unitGUID] = environment.focusList[unitGUID] or {}\n                    environment.focusList[unitGUID] = focusGUID and string.len(focusGUID) > 0 and focusGUID or nil\n                    \n                    environment.triggerPublish(environment)\n                end\n            end,\n        }\n        \n        environment.triggerPublish = environment.triggerPublish or function(environment)\n            local sortedList = krundeSaysSilence and krundeSaysSilence.cooldownList or nil -- luacheck: ignore\n            if not sortedList then\n                return\n            end\n            \n            local krundeSaysServer = krundeSaysSilence and krundeSaysSilence.krundeSaysServer or nil -- luacheck: ignore\n            if not krundeSaysServer then\n                return\n            end\n            \n            local sendList = {}\n            \n            environment.focusList = environment.focusList or {}\n            \n            for _, d in ipairs(sortedList) do\n                local newElement = {}\n                for m, c in pairs(d) do\n                    newElement[m] = c\n                end\n                \n                table.insert(sendList, newElement)\n                \n                if not trackedSpellsInPriorityOrder[d.priority].doNotElevate then\n                    sendList[#sendList].isMuted = true\n                end\n            end\n            \n            krundeSaysServer.publishCooldownList(environment, sendList)\n        end\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        \n        krundeSaysSilenceObject.krundeSays = krundeSaysSilenceObject.krundeSays or {}\n        krundeSaysSilenceObject.trackedSpellsInPriorityOrder = trackedSpellsInPriorityOrder\n        krundeSaysSilenceObject.cooldownList = nil\n        krundeSaysSilenceObject.listUpdatedCallback = function(list)\n            krundeSaysSilenceObject.cooldownList = list\n            environment.triggerPublish(environment)\n        end\n        krundeSaysSilenceObject.cooldownSortFunction = cooldownSortFunction\n        \n        demokratiaObject.init(\"krundeSays\", krundeSaysSilenceObject.krundeSays, krundeSaysSilenceObject.trackedSpellsInPriorityOrder, krundeSaysSilenceObject.cooldownSortFunction, krundeSaysSilenceObject.listUpdatedCallback)\n        \n        krundeSaysSilenceObject.krundeSaysMessageHandler = krundeSaysSilenceObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysSilenceObject.krundeSaysMessageHandler)\n        krundeSaysSilenceObject.krundeSaysMessageHandler.register(messageHandlers)\n        krundeSaysSilenceObject.krundeSaysServer = krundeSaysSilenceObject.krundeSaysServer or {}\n        demokratiaObject.init(\"krundeSaysServer\", krundeSaysSilenceObject.krundeSaysServer)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysSilenceObject.frame = krundeSaysSilenceObject.frame or CreateFrame(\"FRAME\", \"KrundeSaysSilenceFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysSilenceObject.frame)\n        \n        krundeSaysSilenceObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysSilenceObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysSilenceObject.frame.registerEventList(\"GROUP_ROSTER_UPDATE\",\n            function()\n                local krundeSaysServer = krundeSaysSilenceObject.krundeSaysServer \n                \n                environment.numGroupMembers = environment.numGroupMembers or 1\n                local numGroupMembers = GetNumSubgroupMembers() + 1 -- does not include player\n                if environment.numGroupMembers > numGroupMembers then\n                    krundeSaysServer.removeLeftMembers(environment)\n                    krundeSaysSilenceObject.krundeSays.krundeSaysDataSource.clean()\n                elseif environment.numGroupMembers < numGroupMembers then\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                    krundeSaysSilenceObject.krundeSays.krundeSaysDataSource.clean()\n                end\n                environment.numGroupMembers = numGroupMembers\n        end)\n        \n        krundeSaysSilenceObject.frame.registerEventList(\"PARTY_MEMBER_DISABLE PARTY_MEMBER_ENABLE PLAYER_ALIVE PLAYER_DEAD PLAYER_UNGHOST PARTY_LEADER_CHANGED\",\n            function(event)\n                local krundeSaysServer = krundeSaysSilenceObject.krundeSaysServer \n                \n                local couldChangeServer\n                if event == \"PARTY_MEMBER_DISABLE\" or event == \"PARTY_MEMBER_ENABLE\"\n                or event == \"PARTY_LEADER_CHANGED\" then\n                    couldChangeServer = true\n                else\n                    couldChangeServer = false\n                end\n                \n                krundeSaysServer.groupMemberStatusChange(environment, couldChangeServer)\n        end)\n        \n        krundeSaysSilenceObject.frame.registerEventList(\"PLAYER_REGEN_ENABLED\",\n            function()\n                local krundeSaysServer = krundeSaysSilenceObject.krundeSaysServer \n                krundeSaysServer.outOfCombat(environment)\n        end)\n        \n        \n        krundeSaysSilenceObject.frame.registerEventList(\"GROUP_JOINED,GROUP_FORMED,PLAYER_ENTERING_WORLD\",\n            function()\n                local krundeSaysServer = krundeSaysSilenceObject.krundeSaysServer \n                krundeSaysServer.letGroupSettleRoles(environment)\n        end)\n        \n        \n        krundeSaysSilenceObject.frame.registerEventList(\"GROUP_LEFT\",\n            function()\n                local krundeSaysServer = krundeSaysSilenceObject.krundeSaysServer \n                krundeSaysServer.groupLeft(environment)\n                krundeSaysSilenceObject.krundeSays.krundeSaysDataSource.clean()\n        end)\n        \n        krundeSaysSilenceObject.frame.fakeEvent(\"PLAYER_ENTERING_WORLD\")\n        krundeSaysSilenceObject.krundeSaysServer.sendServerRequest(environment, environment.serverTag)\n        \n        function krundeSaysSilenceObject.isMaster()\n            local krundeSaysServer = krundeSaysSilenceObject.krundeSaysServer \n            return krundeSaysServer.playerIsFirstOnServerList(environment)\n        end\n        \n        local function ksSilenceReset()\n            local krundeSaysServer = krundeSaysSilenceObject.krundeSaysServer \n            krundeSaysServer.outOfCombat(environment)\n        end\n        \n        setglobal(\"ksSilenceReset\", ksSilenceReset)\n        \n        setglobal(\"krundeSaysSilence\", krundeSaysSilenceObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSays\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysServer\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n\n",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysSilenceObject = moduleDependencies[\"krundeSaysSilence\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysSilenceObject.frame.start()\n    krundeSaysSilenceObject.krundeSays.libORclient.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilence\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysSilenceObject = moduleDependencies[\"krundeSaysSilence\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysSilenceObject.frame.stop()\n    krundeSaysSilenceObject.krundeSays.libORclient.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilence\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": 2,
+          "desc": "Minimum number of clients to enable sending data from server. Requires UI RELOAD.",
+          "key": "minNumberClients",
+          "max": 5,
+          "min": 1,
+          "name": "Minimum number of users",
+          "step": 1,
+          "type": "number",
+          "useDesc": true,
+          "width": 1
+        },
+        {
+          "default": true,
+          "desc": "Track interrupts from players who do not use this addon. Active when below server's minimum number of clients setting. Requires UI RELOAD",
+          "key": "trackNonClients",
+          "name": "Server tracks non-user interrupts",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "minNumberClients": 2,
+        "trackNonClients": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... SILENCE server",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... SILENCE",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "UgbAIDJAWtp",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysSilenceObject = krundeSaysSilenceClient\n    if not krundeSaysSilenceObject then\n        local environment = {\n            serverTag = \"SILENCE\",\n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysSilenceObject = {}\n        krundeSaysSilenceObject.environment = environment\n        \n        local function UnitShortenedGUID(unitGUID)\n            local _,_,shortenedGUID = string.find(unitGUID, \"Player%-(.*)\")\n            return shortenedGUID\n        end\n        \n        local function sendRequestList(environment)\n            environment.spamRLFilterTimer = environment.spamRLFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamRLFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" REQUESTLIST\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end\n            )\n        end\n        \n        local function sendClientAnnounce(environment)\n            if environment.reloadedAndNeedData then\n                sendRequestList(environment)\n                environment.reloadedAndNeedData = nil\n            end\n            environment.spamCAFilterTimer = environment.spamCAFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamCAFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" CLIENT\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end    \n            )\n        end\n        \n        local function sendClientImpotentAnnounce(unitGUID)\n            if environment.spamIAFilterTimer then\n                return\n            end\n            \n            environment.spamIAFilterTimer = environment.spamIAFilterTimer or environment.newTimer(1,\n                function()\n                    environment.spamIAFilterTimer = nil\n                end\n            )\n            \n            local chatType = nil\n            \n            if IsInRaid() then\n                chatType =\"RAID\"\n            elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                chatType =\"INSTANCE_CHAT\"\n            elseif IsInGroup() then\n                chatType =\"PARTY\"\n            end\n            \n            if chatType and environment.outputBuffer then\n                environment.outputBuffer.process(chatType, environment.serverTag..\" IMPOTENT\", UnitShortenedGUID(unitGUID or UnitGUID(\"player\")))\n            end\n        end\n        \n        local function ksSilenceSkip(unitGUID)\n            sendClientImpotentAnnounce(unitGUID)\n        end\n        \n        setglobal(\"ksSilenceSkip\", ksSilenceSkip)\n        \n        \n        local function tableInsertNextSpell(spellTable, caster, spellId, timeLeft, canBeActive)\n            if caster and spellId then\n                table.insert(spellTable, {caster = caster, spellId = spellId, timeLeft = timeLeft, canBeActive = canBeActive})\n            end\n        end\n        \n        local function parseNextSpell(spellString)\n            local _,_,_,caster,_ = string.find(spellString, \"(%s*)(.-)(%s*/)\")\n            local _,_,_,spellId,_ = string.find(spellString, \"([()])(.-)([()])\")\n            local _,_,_,timeLeft,_ = string.find(spellString, \"([[])(.-)([]])\")\n            return caster and \"Player-\"..caster or nil, tonumber(spellId), tonumber(timeLeft)\n        end\n        \n        local function parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n            local _,_,firstSpell,_ = string.find(krundeSaysMessage, \"(.-)([{])\")\n            if firstSpell then\n                local caster,spellId,timeLeft = parseNextSpell(firstSpell)\n                tableInsertNextSpell(spellTable, caster, spellId, timeLeft, true)\n                \n                local _,_,_,nextSpells,_ = string.find(krundeSaysMessage, \"([{}])(.-)([{}])\")\n                if nextSpells then\n                    nextSpells = nextSpells..\",\"\n                    \n                    while nextSpells do\n                        local _,endOffset,_,nextSpell,_ = string.find(nextSpells, \"(%s*)(.-)(%s*[,}])\")\n                        if nextSpell then\n                            caster,spellId,timeLeft = parseNextSpell(nextSpell)\n                            tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n                            \n                            nextSpells = string.sub(nextSpells, endOffset+1, -1)\n                        else\n                            nextSpells = nil\n                        end\n                    end\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" LIST\"] = function(krundeSaysMessage)\n                local spellTable = {}\n                -- populate spellTable with a {casterUnitName, spellId} pair\n                parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n                \n                environment.priorityList = spellTable\n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_LIST\", environment.serverTag, spellTable)\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    sendClientAnnounce(environment)\n                    WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_SERVER\", environment.serverTag, shortenedGUID, version)\n                end\n            end,\n        }\n        \n        demokratiaObject.init(\"timer\", environment)\n        \n        C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n        \n        krundeSaysSilenceObject.krundeSaysMessageHandler = krundeSaysSilenceObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysSilenceObject.krundeSaysMessageHandler)\n        krundeSaysSilenceObject.krundeSaysMessageHandler.register(messageHandlers)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysSilenceObject.frame = krundeSaysSilenceObject.frame or CreateFrame(\"FRAME\", \"krundeSaysSilenceClientFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysSilenceObject.frame)\n        \n        krundeSaysSilenceObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysSilenceObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysSilenceObject.frame.registerEventList(\":DEMOKRATIA_KSS_REQUESTLIST\",\n            function(event, prefix)\n                if prefix == environment.serverTag then\n                    environment.reset_variables(environment)\n                    environment.requestListTimer = environment.requestListTimer or environment.newTimer(10, function ()\n                            environment.requestListTimer = nil\n                            if environment.reloadedAndNeedData then\n                                sendClientAnnounce(environment)\n                            end\n                        end\n                    )\n                end\n        end)\n        \n        environment.reset_variables(environment)\n        \n        krundeSaysSilenceObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n        \n        setglobal(\"krundeSaysSilenceClient\", krundeSaysSilenceObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysSilenceObject = moduleDependencies[\"krundeSaysSilenceClient\"]\n    \n    krundeSaysSilenceObject.frame.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysSilenceObject = moduleDependencies[\"krundeSaysSilenceClient\"]\n    \n    krundeSaysSilenceObject.frame.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... SILENCE client",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... SILENCE",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "custom": "function(event, ...)\n    if event == \"DEMOKRATIA_KSS_REQUESTLIST\" then\n        local function moduleFunction(demokratiaObject, ...)\n            local moduleDependencies = ...\n            local krundeSaysSilenceClientObject = moduleDependencies[\"krundeSaysSilenceClient\"]\n            local krundeSaysServer = krundeSaysSilenceClientObject and krundeSaysSilenceClientObject.krundeSaysServer or nil -- luacheck: ignore\n            local environment = krundeSaysSilenceClientObject.environment\n            local event, prefix = unpack(moduleDependencies[\"arguments\"])\n            \n            if prefix and prefix == environment.serverTag then\n                krundeSaysSilenceClientObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n        \n        local function loopExecute(...)\n            local arguments = {...}\n            local demokratiaObject = demokratia -- luacheck: ignore\n            if not demokratiaObject then C_Timer.After(1, function() loopExecute(unpack(arguments)) end) return end\n            demokratiaObject.moduleRun(moduleFunction,\n                demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n                demokratiaObject.moduleDependencyTable(\"arguments\", arguments))\n        end\n        \n        loopExecute(event, ...)\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "events": "DEMOKRATIA_KSS_REQUESTLIST",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "ZzFvYKq0flA",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... SILENCE client current interrupt",
+        "Demokratia - Krunde says... SILENCE client current incoming silence",
+        "Demokratia - Krunde says... SILENCE client interrupts"
+      ],
+      "desc": "Graphical client for AOE stop coordinator.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... SILENCE client GUI",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "bZ7on8YAb(w",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 100
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysSilenceClientSkipButton\"]\n    \n    krundeSaysObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClientSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"SILENCE\"\naura_env.reset_variables = function(environment) environment.reloadedAndNeedData = true end\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysSilenceClient\"]\n    local environment = moduleDependencies[\"environment\"]\n    local defaultAlpha = 0.3\n    \n    demokratiaObject.init(\"timer\", environment)\n    \n    local r = environment.region.tooltipFrame or environment.region\n    krundeSaysObject.skipButton = krundeSaysObject.skipButton\n    or CreateFrame(\"Button\", \"krundeSaysSilenceClientSkipButton\", UIParent)\n    \n    krundeSaysObject.skipButton:SetFrameStrata(r:GetFrameStrata())\n    krundeSaysObject.skipButton:SetFrameLevel(r:GetFrameLevel()+1)\n    krundeSaysObject.skipButton:SetAllPoints(r)\n    krundeSaysObject.skipButton:RegisterForClicks(\"AnyUp\", \"AnyDown\")\n    krundeSaysObject.skipButton:Hide()\n    \n    krundeSaysObject.skipButton:SetScript(\"OnClick\", function (self, button, down)\n            if down then\n                self.highlightTexture:SetAlpha(1)\n                \n                ksSilenceSkip()\n                if button == \"RightButton\" then\n                    ksInterruptSkip()\n                    ksStopSkip()\n                end\n            else\n                self.highlightTexture:SetAlpha(defaultAlpha)\n            end\n    end)\n    \n    krundeSaysObject.skipButton:SetScript(\"OnEnter\", function(self)\n            GameTooltip:SetOwner(self, \"ANCHOR_NONE\")\n            GameTooltip:SetPoint(\"LEFT\", self, \"RIGHT\")\n            local spellId = self:GetAttribute(\"spellId\")\n            if spellId then\n                GameTooltip:SetSpellByID(spellId)\n            end\n    end)\n    krundeSaysObject.skipButton:SetScript(\"OnLeave\", function(self, motion)\n            GameTooltip:Hide()\n    end)\n    \n    krundeSaysObject.skipButton.highlightTexture = krundeSaysObject.skipButton.highlightTexture or krundeSaysObject.skipButton:CreateTexture(nil, \"HIGHLIGHT\")\n    krundeSaysObject.skipButton.highlightTexture:SetAllPoints(krundeSaysObject.skipButton)\n    krundeSaysObject.skipButton.highlightTexture:SetColorTexture(1, 1, 1, 1)\n    krundeSaysObject.skipButton.highlightTexture:SetAlpha(defaultAlpha)\n    \n    krundeSaysObject.skipButton.highlightFontString = krundeSaysObject.skipButton.highlightFontString or krundeSaysObject.skipButton:CreateFontString(nil, \"HIGHLIGHT\", \"GameFontRedLarge\")\n    krundeSaysObject.skipButton.highlightFontString:SetPoint(\"BOTTOM\")\n    krundeSaysObject.skipButton.highlightFontString:SetText(\"SKIP\")\n    krundeSaysObject.skipButton.highlightFontString:SetAlpha(1)\n    \n    if environment.region.subRegions then\n        for _,d in pairs(environment.region.subRegions) do\n            if d.type == \"subtext\" then\n                local fontPath, fontSize, fontFlags = d.text:GetFont()\n                krundeSaysObject.skipButton.highlightFontString:SetFont(fontPath, fontSize*1.5, fontFlags)\n            end\n        end\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local environment = moduleDependencies[\"environment\"]\n    \n    environment.reset_variables(environment)\n    \n    environment.requestListTimer = environment.requestListTimer or environment.newTimer(0, function ()\n            environment.requestListTimer = nil\n            if environment.reloadedAndNeedData then\n                environment.reloadedAndNeedData = nil\n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n    )\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClientSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true
+        },
+        "start": {
+          "custom": "",
+          "do_custom": false,
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Announce \"NEXT SILENCE\" with text-to-speech if it is your turn to SILENCE next",
+          "key": "ttsNextSilence",
+          "name": "Announce \"NEXT SILENCE\" with text-to-speech",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": false,
+          "desc": "Announce \"INTERRUPT CASTS\" with text-to-speech if there are no stops available",
+          "key": "ttsInterruptCasts",
+          "name": "Announce \"INTERRUPT CASTS\" with text-to-speech",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": false,
+          "desc": "Announce \"NO MORE INTERRUPTS\" with text-to-speech if there are no interrupts available",
+          "key": "ttsNoMoreInterrupts",
+          "name": "Announce \"NO MORE INTERRUPTS\" with text-to-speech",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "NEXT SILENCE",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.ttsNextSilence == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "checks": [
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": "78675",
+                    "variable": "spellId"
+                  },
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": "202137",
+                    "variable": "spellId"
+                  },
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": "108199",
+                    "variable": "spellId"
+                  },
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": "386071",
+                    "variable": "spellId"
+                  }
+                ],
+                "trigger": -2,
+                "variable": "OR"
+              },
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "isPlayerSpell"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        },
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "INTERRUPT CASTS",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.ttsInterruptCasts == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": 8,
+                "value": 1,
+                "variable": "show"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    if not aura_env.noMoreStopsNoticed then\n        aura_env.noMoreStopsNoticed = true\n        return true\n    else\n        return false\n    end\nend",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "isPlayerSpell"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "sub.3.glow",
+              "value": false
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "noneAvailable"
+              },
+              {
+                "trigger": 7,
+                "value": 1,
+                "variable": "show"
+              }
+            ],
+            "trigger": -2,
+            "variable": "OR"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysButtonObject = moduleDependencies[\"krundeSaysSilenceClientSkipButton\"]\n    local environment = moduleDependencies[\"environment\"]\n    \n    local r = environment.region.tooltipFrame or environment.region\n    krundeSaysButtonObject:SetFrameStrata(r:GetFrameStrata())\n    krundeSaysButtonObject:SetFrameLevel(r:GetFrameLevel()+1)\n    krundeSaysButtonObject:SetAllPoints(r)\n    krundeSaysButtonObject:SetAttribute(\"spellId\", environment.spellId)\n    krundeSaysButtonObject.highlightTexture:SetAllPoints(krundeSaysButtonObject)\n    krundeSaysButtonObject:Show()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClientSkipButton\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "isPlayerSpell"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysSilenceClientSkipButton\"]\n    \n    krundeSaysObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClientSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "variable": "alwaystrue"
+          },
+          "linked": true
+        },
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "NO MORE INTERRUPTS",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.ttsNoMoreInterrupts == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "noneAvailable"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    if not aura_env.silenceAuraDetected and not aura_env.silenceCastDetected then\n        return true\n    end\nend\n\n\n",
+                "variable": "customcheck"
+              }
+            ],
+            "op": "==",
+            "trigger": -2,
+            "variable": "AND"
+          }
+        }
+      ],
+      "config": {
+        "ttsInterruptCasts": false,
+        "ttsNextSilence": true,
+        "ttsNoMoreInterrupts": false
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for interrupt coordinator. Current interrupt indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... SILENCE client current interrupt",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... SILENCE client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "CENTER",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 10,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "none",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": true,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, event, ...)\n    if event == \"GROUP_LEFT\" then\n        \n        allstates:RemoveAll()\n        \n        return true\n    elseif event == \"DEMOKRATIA_KSS_LIST\" then\n        local prefix, spellTable = ...\n        if prefix and prefix == aura_env.serverTag then\n            aura_env.reloadedAndNeedData = nil\n            \n            allstates:RemoveAll()\n            \n            if spellTable and #spellTable > 0 then\n                -- Check if the spell is ours and actually on cooldown or not\n                if UnitIsUnit(spellTable[1].caster, UnitGUID(\"player\"))\n                and not spellTable[1].timeLeft and spellTable[1].canBeActive then\n                    aura_env.caster = spellTable[1].caster\n                    aura_env.spellId = spellTable[1].spellId\n                    \n                    local _, _, _, _, _, casterName, _ = GetPlayerInfoByGUID(spellTable[1].caster)\n                    local spellInfo = C_Spell.GetSpellInfo(spellTable[1].spellId)\n                    local stateInfo =\n                    {\n                        name = casterName,\n                        icon = spellInfo.iconID,\n                        spellId = spellTable[1].spellId,\n                        caster = spellTable[1].caster,\n                        noneAvailable = false,\n                        isPlayerSpell = UnitIsUnit(spellTable[1].caster, UnitGUID(\"player\")),\n                        index = 1,\n                        \n                        autoHide = false,\n                        resort = true,\n                        show = true,\n                    }\n                    \n                    allstates:Update(1, stateInfo)\n                    \n                    aura_env.noMoreStopsNoticed = nil\n                elseif spellTable[1].timeLeft then\n                    -- if the first spell is on cooldown\n                    local stateInfo =\n                    {\n                        name = \"STOPS\",\n                        icon = 4200126,\n                        spellId = 0,\n                        caster = \"\",\n                        noneAvailable = true,\n                        isPlayerSpell = false,\n                        index = 1,\n                        \n                        autoHide = false,\n                        resort = true,\n                        show = true\n                    }\n                    \n                    allstates:Update(1, stateInfo)\n                end\n                \n                return true\n            end\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "function()\n    local iconID = 0\n    if aura_env.spellId then\n        local spellInfo = C_Spell.GetSpellInfo(aura_env.spellId)\n        iconID = spellInfo.iconID\n    end\n    return iconID\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customName": "function()\nprint(aura_env.caster)\n    return aura_env.caster or \"\"\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customVariables": "{\n    spellId = \"number\",\n    noneAvailable = \"bool\",\n    isPlayerSpell = \"bool\",\n}",
+            "custom_hide": "custom",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": true,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_LIST,GROUP_LEFT",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, prefix, ...)\n    local function tableInsertNextSpell(spellTable, caster, spellId)\n        if caster and spellId then\n            table.insert(spellTable, {caster = caster, spellId = spellId})\n        end\n    end\n    \n    local function parseNextSpell(spellString)\n        local _,_,_,caster,_ = string.find(spellString, \"(%s*)(.-)(%s*-)\")\n        local _,_,_,spellId,_ = string.find(spellString, \"([()])(.-)([()])\")\n        return caster, tonumber(spellId)\n    end\n    \n    local function parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n        local _,_,firstSpell,_ = string.find(krundeSaysMessage, \"(.-)([{])\")\n        local caster,spellId = parseNextSpell(firstSpell)\n        tableInsertNextSpell(spellTable, caster, spellId)\n    end\n    \n    if event == \"CHAT_MSG_ADDON\" and prefix == \"KRUNDESAYSSTOP\" then\n        local message = ...\n        if message ~= nil then\n            local _,_,_,krundeSaysMessage = string.find(message, \"(STOPLIST:%s*)(.-)$\")\n            if krundeSaysMessage then\n                local spellTable = {}\n                -- populate spellTable with a {casterUnitName, spellId} pair\n                parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n                \n                if #spellTable > 0 then\n                    local globalCooldownInfo = C_Spell.GetSpellCooldown(61304)\n                    local spellCooldownInfo = C_Spell.GetSpellCooldown(spellTable[1].spellId)\n                    \n                    -- Check if the spell is ours and actually on cooldown or not\n                    if not UnitIsUnit(aura_env.caster,\"player\") or not (UnitIsUnit(aura_env.caster,\"player\")\n                        and (spellCooldownInfo.duration == 0 or\n                    spellCooldownInfo.duration <= globalCooldownInfo.duration))\n                    then\n                        print(\"untriggered\")\n                        return true\n                    else\n                        print(\"no untriggered\")\n                        return false\n                    end \n                end\n            end\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "2": {
+          "trigger": {
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceUnit": "player",
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_cloneId": true,
+            "use_genericShowOn": true,
+            "use_itemName": true,
+            "use_sourceUnit": true,
+            "use_spellName": false,
+            "use_spellNames": false,
+            "use_track": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "3": {
+          "trigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 2 then\n        local eventData = ...\n        for _, combatLogData in pairs(eventData) do\n            if combatLogData.spellId == aura_env.spellId then\n                return true\n            end\n        end \n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "",
+            "customName": "",
+            "custom_hide": "custom",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "2",
+            "dynamicDuration": false,
+            "event": "Chat Message",
+            "events": "TRIGGER:1:2",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 1 then\n        return true\n    end \nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "4": {
+          "trigger": {
+            "auranames": [
+              "Sigil of Silence",
+              "Solar Beam"
+            ],
+            "auraspellids": [
+              "374776",
+              "1330"
+            ],
+            "combineMode": "showHighest",
+            "debuffType": "HARMFUL",
+            "event": "Health",
+            "group_count": "0",
+            "group_countOperator": ">",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "multi",
+            "useExactSpellId": true,
+            "useGroup_count": true,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "5": {
+          "trigger": {
+            "auranames": [
+              "Sigil of Silence",
+              "Solar Beam"
+            ],
+            "combineMode": "showHighest",
+            "debuffType": "HARMFUL",
+            "duration": "6",
+            "event": "Combat Log",
+            "group_count": "0",
+            "group_countOperator": ">",
+            "names": [],
+            "sourceFlags": "InGroup",
+            "spellId": [
+              386071
+            ],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_INTERRUPT",
+            "type": "combatlog",
+            "unit": "multi",
+            "useGroup_count": true,
+            "useName": true,
+            "use_sourceFlags": true,
+            "use_spellId": true
+          },
+          "untrigger": []
+        },
+        "6": {
+          "trigger": {
+            "auranames": [
+              "Sigil of Silence",
+              "Solar Beam"
+            ],
+            "combineMode": "showHighest",
+            "debuffType": "HARMFUL",
+            "duration": "2",
+            "event": "Combat Log",
+            "group_count": "0",
+            "group_countOperator": ">",
+            "names": [],
+            "sourceFlags": "InGroup",
+            "spellId": [
+              202137,
+              313030,
+              386071
+            ],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "multi",
+            "useGroup_count": true,
+            "useName": true,
+            "use_sourceFlags": true,
+            "use_spellId": true
+          },
+          "untrigger": []
+        },
+        "7": {
+          "trigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 1 then\n        local noMoreInterrupts = false\n        local eventData = ...\n        for _, triggerData in pairs(eventData) do\n            if triggerData.noneAvailable == true then\n                noMoreInterrupts = true\n            else\n                noMoreInterrupts = false\n            end\n        end\n        \n        if noMoreInterrupts then\n            aura_env.noMoreInterrupts = true\n        elseif aura_env.noMoreInterrupts then\n            aura_env.noMoreInterrupts = nil\n        end\n    elseif event == \"TRIGGER\" and n == 4 then\n        local silenceDetected = false\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            local _,_,casterName = string.find(auraData.casterName, \"(%S*)\")\n            if UnitInParty(casterName) then\n                silenceDetected = true\n            else\n                return\n            end\n        end\n        \n        if silenceDetected then\n            aura_env.silenceAuraDetected = true\n        elseif aura_env.silenceAuraDetected then\n            aura_env.silenceAuraDetected = nil\n        end\n    elseif event == \"TRIGGER\" and n == 5 then\n        local silenceDetected = false\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            silenceDetected = true\n        end\n        \n        if silenceDetected then\n            aura_env.silenceInterruptDetected = true\n        elseif aura_env.silenceInterruptDetected then\n            aura_env.silenceInterruptDetected = nil\n        end\n    elseif event == \"TRIGGER\" and n == 6 then\n        local silenceDetected = false\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            silenceDetected = true\n        end\n        \n        if silenceDetected then\n            aura_env.silenceCastDetected = true\n        elseif aura_env.silenceCastDetected then\n            aura_env.silenceCastDetected = nil\n        end\n    end\n    \n    if not aura_env.silenceAuraDetected and not aura_env.silenceCastDetected\n    and aura_env.noMoreInterrupts then --omitting silenceInterruptDetected as it is questionable\n        WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_NOMOREINTERRUPTS\")\n    end\n    \n    return aura_env.silenceAuraDetected or aura_env.silenceCastDetected\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "custom_hide": "custom",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "events": "TRIGGER:1:4:5:6",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    return not aura_env.silenceAuraDetected and not aura_env.silenceCastDetected\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "8": {
+          "trigger": {
+            "custom": "function(event, ...)\n    if event == \"DEMOKRATIA_KSS_NOMORESTOPS\" then\n        return true\n    end \nend\n\n--[[\nAuthor: Krunde 28/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "events": "DEMOKRATIA_KSS_NOMORESTOPS",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return (trigger[1] and not trigger[3])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "rbsrJbYzwH7",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "",
+          "customOnLoad": "",
+          "do_custom": false,
+          "do_custom_load": false
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Announce \"SILENCED\" with text-to-speech if any SILENCE is active",
+          "key": "ttsSilenced",
+          "name": "Announce \"SILENCED\" with text-to-speech",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "SILENCED",
+                "message_type": "TTS",
+                "message_voice": 0
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.ttsSilenced == true\nend",
+                "variable": "customcheck"
+              },
+              {
+                "checks": [
+                  {
+                    "op": "==",
+                    "trigger": 1,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 2,
+                    "value": 1,
+                    "variable": "show"
+                  },
+                  {
+                    "trigger": 3,
+                    "value": 1,
+                    "variable": "show"
+                  }
+                ],
+                "trigger": -2,
+                "variable": "OR"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        }
+      ],
+      "config": {
+        "ttsSilenced": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for AOE silence coordinator. Current silence indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 28,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... SILENCE client current incoming silence",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... SILENCE client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "glow": true,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 4 then\n        local auraFound = false\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            local _,_,casterName = string.find(auraData.casterName, \"(%S*)\")\n            if UnitInParty(casterName) then\n                auraFound = true\n                if not aura_env.expirationTime or\n                auraData.expirationTime > aura_env.expirationTime then\n                    aura_env.initialTime = auraData.initialTime\n                    aura_env.refreshTime = auraData.refreshTime\n                    aura_env.duration = auraData.duration\n                    aura_env.expirationTime = auraData.expirationTime\n                    \n                    aura_env.icon = auraData.icon\n                end\n            end\n        end\n        return auraFound\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customDuration": "function()\n    return aura_env.duration, aura_env.expirationTime\nend",
+            "customIcon": "function()\n    return aura_env.icon or nil\nend\n\n\n",
+            "custom_hide": "custom",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "events": "TRIGGER:4",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 4 then\n        local auraNotFound = true\n        local eventData = ...\n        for _, auraData in pairs(eventData) do\n            if UnitInParty(auraData.casterName) then\n                auraNotFound = false\n            end\n        end\n        return auraNotFound \n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+          }
+        },
+        "2": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "duration": "6",
+            "event": "Combat Log",
+            "sourceFlags": "InGroup",
+            "spellName": [
+              "Disrupting Shout"
+            ],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_INTERRUPT",
+            "type": "combatlog",
+            "unit": "player",
+            "use_sourceFlags": true,
+            "use_spellId": false,
+            "use_spellName": true,
+            "use_spellSchool": false
+          },
+          "untrigger": []
+        },
+        "3": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "duration": "2",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceFlags": "InGroup",
+            "spellId": [
+              202137
+            ],
+            "spellName": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "player",
+            "use_genericShowOn": true,
+            "use_sourceFlags": true,
+            "use_spellId": true,
+            "use_spellName": false,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "4": {
+          "trigger": {
+            "auranames": [
+              "Sigil of Silence",
+              "Solar Beam"
+            ],
+            "auraspellids": [
+              "1330",
+              "374776"
+            ],
+            "combineMode": "showHighest",
+            "debuffType": "HARMFUL",
+            "event": "Health",
+            "group_count": "0",
+            "group_countOperator": ">",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "multi",
+            "useExactSpellId": true,
+            "useGroup_count": true,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1] or trigger[2] or trigger[3]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "WfvCJqDslZ5",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 28,
+      "wordWrap": "WordWrap",
+      "xOffset": 16,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "align": "CENTER",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animate": false,
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "arcLength": 360,
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "centerType": "LR",
+      "columnSpace": 1,
+      "conditions": [],
+      "config": [],
+      "constantFactor": "RADIUS",
+      "controlledChildren": [
+        "Demokratia - Krunde says SILENCE client interrupts after current"
+      ],
+      "desc": "Graphical client for AOE stop coordinator. Stops after current indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "fullCircle": true,
+      "gridType": "RD",
+      "gridWidth": 5,
+      "grow": "RIGHT",
+      "id": "Demokratia - Krunde says... SILENCE client interrupts",
+      "information": [],
+      "internalVersion": 86,
+      "limit": 2,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says... SILENCE client GUI",
+      "radius": 200,
+      "regionType": "dynamicgroup",
+      "rotation": 0,
+      "rowSpace": 1,
+      "scale": 0.5,
+      "selfPoint": "LEFT",
+      "semver": "1.0.232",
+      "sort": "none",
+      "sortHybridTable": {
+        "Demokratia - Krunde says SILENCE client interrupts after current": false
+      },
+      "space": 2,
+      "stagger": 0,
+      "stepAngle": 15,
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "IZyTun5s9qe",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useLimit": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": -64,
+      "yOffset": -32
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysSilenceSkipButton\"]\n    \n    krundeSaysObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilence\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceSkipButton\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"SILENCE\"\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysSilence\"]\n    local environment = moduleDependencies[\"environment\"]\n    local defaultAlpha = 0.3\n    \n    demokratiaObject.init(\"timer\", environment)\n    \n    local r = environment.region.tooltipFrame or environment.region\n    krundeSaysObject.skipButton = krundeSaysObject.skipButton\n    or CreateFrame(\"Button\", \"krundeSaysSilenceSkipButton\", UIParent)\n    \n    krundeSaysObject.skipButton:SetFrameStrata(r:GetFrameStrata())\n    krundeSaysObject.skipButton:SetFrameLevel(r:GetFrameLevel()+1)\n    krundeSaysObject.skipButton:SetAllPoints(r)\n    krundeSaysObject.skipButton:RegisterForClicks(\"AnyUp\", \"AnyDown\")\n    krundeSaysObject.skipButton:Hide()\n    \n    krundeSaysObject.skipButton:SetScript(\"OnClick\", function (self, button, down)\n            local caster = self:GetAttribute(\"caster\")\n            if caster then\n                if down then\n                    self.highlightTexture:SetAlpha(1)\n                    \n                    ksSilenceSkip(caster)\n                    if button == \"RightButton\" then\n                        ksStopSkip(caster)\n                        ksInterruptSkip(caster)\n                    end\n                else\n                    self.highlightTexture:SetAlpha(defaultAlpha)\n                end\n            end\n    end)\n    \n    krundeSaysObject.skipButton:SetScript(\"OnEnter\", function(self)\n            GameTooltip:SetOwner(self, \"ANCHOR_NONE\")\n            GameTooltip:SetPoint(\"LEFT\", self, \"RIGHT\")\n            local spellId = self:GetAttribute(\"spellId\")\n            if spellId then\n                GameTooltip:SetSpellByID(spellId)\n            end\n    end)\n    krundeSaysObject.skipButton:SetScript(\"OnLeave\", function(self, motion)\n            GameTooltip:Hide()\n    end)\n    \n    krundeSaysObject.skipButton.highlightTexture = krundeSaysObject.skipButton.highlightTexture or krundeSaysObject.skipButton:CreateTexture(nil, \"HIGHLIGHT\")\n    krundeSaysObject.skipButton.highlightTexture:SetAllPoints(krundeSaysObject.skipButton)\n    krundeSaysObject.skipButton.highlightTexture:SetColorTexture(1, 1, 1, 1)\n    krundeSaysObject.skipButton.highlightTexture:SetAlpha(defaultAlpha)\n    \n    krundeSaysObject.skipButton.highlightFontString = krundeSaysObject.skipButton.highlightFontString or krundeSaysObject.skipButton:CreateFontString(nil, \"HIGHLIGHT\", \"GameFontRedLarge\")\n    krundeSaysObject.skipButton.highlightFontString:SetPoint(\"CENTER\")\n    krundeSaysObject.skipButton.highlightFontString:SetText(\"SKIP\")\n    krundeSaysObject.skipButton.highlightFontString:SetAlpha(1)\n    \n    if environment.region.subRegions then\n        for _,d in pairs(environment.region.subRegions) do\n            if d.type == \"subtext\" then\n                local fontPath, fontSize, fontFlags = d.text:GetFont()\n                krundeSaysObject.skipButton.highlightFontString:SetFont(fontPath, fontSize*1.5, fontFlags)\n            end\n        end\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilence\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysInterruptClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceClient\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStopClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "desaturate",
+              "value": true
+            }
+          ],
+          "check": {
+            "trigger": 1,
+            "value": 0,
+            "variable": "isPlayerSpell"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysSilence\"]\n    local krundeSaysButtonObject = moduleDependencies[\"krundeSaysSilenceSkipButton\"]\n    local environment = moduleDependencies[\"environment\"]\n    \n    if krundeSaysObject.isMaster() then\n        local r = environment.region.tooltipFrame or environment.region\n        krundeSaysButtonObject:SetFrameStrata(r:GetFrameStrata())\n        krundeSaysButtonObject:SetFrameLevel(r:GetFrameLevel()+1)\n        krundeSaysButtonObject:SetAllPoints(r)\n        krundeSaysButtonObject.highlightTexture:SetAllPoints(krundeSaysButtonObject)\n        \n        krundeSaysButtonObject:Show()\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilence\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceSkipButton\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": 1,
+                "variable": "incombat"
+              },
+              {
+                "op": "==",
+                "trigger": 1,
+                "value": "1",
+                "variable": "index"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysSilence\"]\n    local krundeSaysButtonObject = moduleDependencies[\"krundeSaysSilenceSkipButton\"]\n    local environment = moduleDependencies[\"environment\"]\n    \n    krundeSaysButtonObject:Hide()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilence\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysSilenceSkipButton\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": 0,
+                "variable": "incombat"
+              },
+              {
+                "op": "==",
+                "trigger": 1,
+                "value": "1",
+                "variable": "index"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": true
+        }
+      ],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for interrupt coordinator. Interrupts after current indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says SILENCE client interrupts after current",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... SILENCE client interrupts",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOM",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 10,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "none",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, event, ...)\n    if event == \"GROUP_LEFT\" then\n        \n        allstates:RemoveAll()\n        \n        return true\n    elseif event == \"DEMOKRATIA_KSS_LIST\" then\n        local prefix, inputTable = ...\n        if prefix and prefix == aura_env.serverTag then\n            \n            allstates:RemoveAll()\n            \n            if inputTable then\n                local spellTable = {unpack(inputTable)}\n                if #spellTable > 0 then\n                    \n                    aura_env.caster = spellTable[1].caster\n                    \n                    --if the first stop is ours and it is not on cooldown, do not show it in this list\n                    if UnitIsUnit(spellTable[1].caster, UnitGUID(\"player\"))\n                    and not spellTable[1].timeLeft and spellTable[1].canBeActive then\n                        table.remove(spellTable,1)\n                    end\n                    \n                    if #spellTable > 0 then\n                        \n                        aura_env.spellId = spellTable[1].spellId\n                        \n                        if krundeSaysSilenceSkipButton then\n                            krundeSaysSilenceSkipButton:SetAttribute(\"caster\", aura_env.caster)\n                            krundeSaysSilenceSkipButton:SetAttribute(\"spellId\", aura_env.spellId)\n                        end\n                        \n                        for n, d in ipairs(spellTable) do\n                            local _, _, _, _, _, casterName, _ = GetPlayerInfoByGUID(d.caster)\n                            local spellInfo = C_Spell.GetSpellInfo(d.spellId)\n                            local stateInfo =\n                            {\n                                name = casterName,\n                                icon = spellInfo.iconID,\n                                spellId = d.spellId,\n                                caster = d.caster,\n                                isPlayerSpell = UnitIsUnit(d.caster, UnitGUID(\"player\")),\n                                index = n,\n                                \n                                changed = true,\n                                autoHide = false,\n                                resort = true,\n                                show = true\n                            }\n                            \n                            if d.timeLeft then\n                                stateInfo.progressType = \"timed\"\n                                stateInfo.duration = d.timeLeft\n                                stateInfo.expirationTime = d.timeLeft + GetTime()\n                            else\n                                stateInfo.progressType = \"timed\"\n                                stateInfo.duration = 0\n                                stateInfo.expirationTime = GetTime()\n                            end\n                            \n                            allstates:Update(n, stateInfo)\n                        end\n                    end\n                    \n                    return true\n                end\n            end\n        end\n    end\nend\n\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "function()\n    local iconID = 0\n    if aura_env.spellId then\n        local spellInfo = C_Spell.GetSpellInfo(aura_env.spellId)\n        iconID = spellInfo.iconID\n    end\n    return iconID\nend",
+            "customName": "function()\n    return aura_env.caster or \"\"\nend",
+            "customVariables": "{\n    index = \"number\",\n    isPlayerSpell = \"bool\"\n}",
+            "custom_hide": "timed",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": true,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_LIST,GROUP_LEFT",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 2 then\nend\nend"
+          }
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": ")refSVVCIj2",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... MARKER server",
+        "Demokratia - Krunde says... MARKER client"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... MARKER",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "MICMMM6WeMz",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n\naura_env.config.minNumberClients = 1\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysMarkerObject = krundeSaysMarker\n    if not krundeSaysMarkerObject then\n        local krundeSaysMarkerObject = {}\n        \n        local environment = {\n            serverTag = \"MARKER\",\n            \n            playerGUID = UnitGUID(\"player\"),\n            config = config,\n            minNumberClients = config.minNumberClients,\n            maxSendAmount = 5,\n            publishNonClientSpells = true, \n            \n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        krundeSaysMarkerObject.environment = environment\n        \n        local trackedSpellsInPriorityOrder = {\n            --{spellId = 31935}, --Avenger's Shield (paladin [protection])\n            \n            {spellId = 57994}, --Wind Shear (shaman)\n            {spellId = 47528}, --Mind Freeze (death knight)\n            {spellId = 183752}, --Disrupt (demon hunter)\n            \n            {spellId = 6552}, --Pummel (warrior)\n            {spellId = 96231}, --Rebuke (paladin)\n            {spellId = 1766}, --Kick (rogue)\n            {spellId = 116705}, --Spear Hand Strike (monk)\n            {spellId = 106839}, --Skull Bash (druid [feral, guardian]))\n            {spellId = 187707}, --Muzzle (hunter [survival])\n            \n            {spellId = 19647}, --Spell Lock (warlock [felhunter])\n            {spellId = 89766}, --Axe Toss (warlock [felguard])\n            {spellId = 2139}, --Counterspell (mage)\n            {spellId = 15487}, --Silence (priest [shadow])\n            {spellId = 147362}, --Counter Shot (hunter [beast mastery, marksmanship])\n            {spellId = 351338}, --Quell (evoker)\n            \n            --{spellId = 78675, doNotElevate=true}, --Solar Beam (druid [balance])\n            --{spellId = 202137, doNotElevate=true}, --Sigil of Silence (demon hunter [vengeance])\n            --{spellId = 386071, doNotElevate=true}, --Disrupting Shout (warrior [protection])\n            --{spellId = 108199, doNotElevate=true}, -- Gorefiend's Grasp (death knight [blood])\n        }\n        \n        local function isPrioTank(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isTank = cd1unitToken and (UnitGroupRolesAssigned(cd1unitToken) == \"TANK\") or false\n            local cd2isTank = cd2unitToken and (UnitGroupRolesAssigned(cd2unitToken) == \"TANK\") or false\n            if cd1isTank and not cd2isTank then\n                return false\n            elseif not cd1isTank and cd2isTank then\n                return true\n            else\n                return nil\n            end\n        end\n        \n        local function cooldownSortFunction(cd1, cd2)\n            local customPriorityResult = isPrioTank(cd1, cd2)\n            if type(customPriorityResult) == \"boolean\" then\n                return customPriorityResult\n            else\n                if cd1.priority == cd2.priority then\n                    return cd1.unitGUID < cd2.unitGUID\n                else\n                    return cd1.priority < cd2.priority\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" REQUESTSERVER\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysMarker and krundeSaysMarker.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                end\n            end,\n            \n            [environment.serverTag..\" REQUESTLIST\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    environment.forceSendForNewClients = true\n                    environment.triggerPublish(environment)\n                end\n            end,\n            \n            [environment.serverTag..\" CLIENT\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysMarker and krundeSaysMarker.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newClient(environment, shortenedGUID, version)\n                end\n            end,\n            \n            [environment.serverTag..\" IMPOTENT\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysMarker and krundeSaysMarker.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newImpotentClient(environment, shortenedGUID)\n                end\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysMarker and krundeSaysMarker.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newServer(environment, shortenedGUID, version)\n                end\n            end,\n        }\n        \n        environment.triggerPublish = environment.triggerPublish or function(environment)\n            local sortedList = krundeSaysMarker and krundeSaysMarker.cooldownList or nil -- luacheck: ignore\n            if not sortedList then\n                return\n            end\n            \n            local krundeSaysServer = krundeSaysMarker and krundeSaysMarker.krundeSaysServer or nil -- luacheck: ignore\n            if not krundeSaysServer then\n                return\n            end\n            \n            local sendList = {}\n            \n            for n, d in ipairs(sortedList) do\n                local sendListEntry = {}\n                sendListEntry.unitGUID = d.unitGUID\n                sendListEntry.spellId = string.sub(environment.config.markerTranslation,n,n)\n                sendListEntry.endTime = 0\n                sendListEntry.isReady = true\n                table.insert(sendList, sendListEntry)\n            end\n            \n            krundeSaysServer.publishCooldownList(environment, sendList)\n        end\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        \n        krundeSaysMarkerObject.krundeSays = krundeSaysMarkerObject.krundeSays or {}\n        krundeSaysMarkerObject.trackedSpellsInPriorityOrder = trackedSpellsInPriorityOrder\n        krundeSaysMarkerObject.cooldownList = nil\n        krundeSaysMarkerObject.listUpdatedCallback = function(list)\n            krundeSaysMarkerObject.cooldownList = list\n            environment.triggerPublish(environment)\n        end\n        krundeSaysMarkerObject.cooldownSortFunction = cooldownSortFunction\n        \n        demokratiaObject.init(\"krundeSays\", krundeSaysMarkerObject.krundeSays, krundeSaysMarkerObject.trackedSpellsInPriorityOrder, krundeSaysMarkerObject.cooldownSortFunction, krundeSaysMarkerObject.listUpdatedCallback)\n        \n        krundeSaysMarkerObject.krundeSaysMessageHandler = krundeSaysMarkerObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysMarkerObject.krundeSaysMessageHandler)\n        krundeSaysMarkerObject.krundeSaysMessageHandler.register(messageHandlers)\n        krundeSaysMarkerObject.krundeSaysServer = krundeSaysMarkerObject.krundeSaysServer or {}\n        demokratiaObject.init(\"krundeSaysServer\", krundeSaysMarkerObject.krundeSaysServer)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysMarkerObject.frame = krundeSaysMarkerObject.frame or CreateFrame(\"FRAME\", \"KrundeSaysMarkerFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysMarkerObject.frame)\n        \n        krundeSaysMarkerObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysMarkerObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysMarkerObject.frame.registerEventList(\"GROUP_ROSTER_UPDATE\",\n            function()\n                local krundeSaysServer = krundeSaysMarkerObject.krundeSaysServer \n                \n                environment.numGroupMembers = environment.numGroupMembers or 1\n                local numGroupMembers = GetNumSubgroupMembers() + 1 -- does not include player\n                if environment.numGroupMembers > numGroupMembers then\n                    krundeSaysServer.removeLeftMembers(environment)\n                    krundeSaysMarkerObject.krundeSays.krundeSaysDataSource.clean()\n                elseif environment.numGroupMembers < numGroupMembers then\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                    krundeSaysMarkerObject.krundeSays.krundeSaysDataSource.clean()\n                end\n                environment.numGroupMembers = numGroupMembers\n        end)\n        \n        krundeSaysMarkerObject.frame.registerEventList(\"PARTY_MEMBER_DISABLE PARTY_MEMBER_ENABLE PLAYER_ALIVE PLAYER_DEAD PLAYER_UNGHOST PARTY_LEADER_CHANGED\",\n            function(event)\n                local krundeSaysServer = krundeSaysMarkerObject.krundeSaysServer \n                \n                local couldChangeServer\n                if event == \"PARTY_MEMBER_DISABLE\" or event == \"PARTY_MEMBER_ENABLE\"\n                or event == \"PARTY_LEADER_CHANGED\" then\n                    couldChangeServer = true\n                else\n                    couldChangeServer = false\n                end\n                \n                krundeSaysServer.groupMemberStatusChange(environment, couldChangeServer)\n        end)\n        \n        krundeSaysMarkerObject.frame.registerEventList(\"PLAYER_REGEN_ENABLED\",\n            function()\n                local krundeSaysServer = krundeSaysMarkerObject.krundeSaysServer \n                krundeSaysServer.outOfCombat(environment)\n        end)\n        \n        \n        krundeSaysMarkerObject.frame.registerEventList(\"GROUP_JOINED,GROUP_FORMED,PLAYER_ENTERING_WORLD\",\n            function()\n                local krundeSaysServer = krundeSaysMarkerObject.krundeSaysServer \n                krundeSaysServer.letGroupSettleRoles(environment)\n        end)\n        \n        \n        krundeSaysMarkerObject.frame.registerEventList(\"GROUP_LEFT\",\n            function()\n                local krundeSaysServer = krundeSaysMarkerObject.krundeSaysServer \n                krundeSaysServer.groupLeft(environment)\n                krundeSaysMarkerObject.krundeSays.krundeSaysDataSource.clean()\n        end)\n        \n        krundeSaysMarkerObject.frame.fakeEvent(\"PLAYER_ENTERING_WORLD\")\n        krundeSaysMarkerObject.krundeSaysServer.sendServerRequest(environment, environment.serverTag)\n        \n        function krundeSaysMarkerObject.isMaster()\n            local krundeSaysServer = krundeSaysMarkerObject.krundeSaysServer \n            return krundeSaysServer.playerIsFirstOnServerList(environment)\n        end\n        \n        local function ksMarkerReset()\n            local krundeSaysServer = krundeSaysMarkerObject.krundeSaysServer \n            krundeSaysServer.outOfCombat(environment)\n        end\n        \n        setglobal(\"ksMarkerReset\", ksMarkerReset)\n        \n        setglobal(\"krundeSaysMarker\", krundeSaysMarkerObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSays\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysServer\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n\n",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysMarkerObject = moduleDependencies[\"krundeSaysMarker\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysMarkerObject.frame.start()\n    krundeSaysMarkerObject.krundeSays.libORclient.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarker\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysMarkerObject = moduleDependencies[\"krundeSaysMarker\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysMarkerObject.frame.stop()\n    krundeSaysMarkerObject.krundeSays.libORclient.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarker\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": "12345",
+          "desc": "Assigned raid markers from first to last in an unseparated list. 1=STAR, 2=CIRCLE, 3=DIAMOND, 4=TRIANGLE, 5=MOON, 6=SQUARE, 7=CROSS, 8=SKULL",
+          "key": "markerTranslation",
+          "length": 5,
+          "multiline": false,
+          "name": "Raid marker assignment",
+          "type": "input",
+          "useDesc": true,
+          "useLength": true,
+          "width": 2
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "markerTranslation": "12345"
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... MARKER server",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_group_leader": true,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... MARKER",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "F38ytJc6)Kd",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysMarkerObject = krundeSaysMarkerClient\n    if not krundeSaysMarkerObject then\n        local environment = {\n            serverTag = \"MARKER\",\n            playerGUID = UnitGUID(\"player\"),\n            config = config,\n            \n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysMarkerObject = {}\n        krundeSaysMarkerObject.environment = environment\n        \n        local function UnitShortenedGUID(unitGUID)\n            local _,_,shortenedGUID = string.find(unitGUID, \"Player%-(.*)\")\n            return shortenedGUID\n        end\n        \n        local function sendRequestList(environment)\n            environment.spamRLFilterTimer = environment.spamRLFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamRLFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" REQUESTLIST\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end\n            )\n        end\n        \n        local function sendClientAnnounce(environment)\n            if environment.reloadedAndNeedData then\n                sendRequestList(environment)\n                environment.reloadedAndNeedData = nil\n            end\n            environment.spamCAFilterTimer = environment.spamCAFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamCAFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" CLIENT\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end    \n            )\n        end\n        \n        local function sendClientImpotentAnnounce(unitGUID)\n            if environment.spamIAFilterTimer then\n                return\n            end\n            \n            environment.spamIAFilterTimer = environment.spamIAFilterTimer or environment.newTimer(1,\n                function()\n                    environment.spamIAFilterTimer = nil\n                end\n            )\n            \n            local chatType = nil\n            \n            if IsInRaid() then\n                chatType =\"RAID\"\n            elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                chatType =\"INSTANCE_CHAT\"\n            elseif IsInGroup() then\n                chatType =\"PARTY\"\n            end\n            \n            if chatType and environment.outputBuffer then\n                environment.outputBuffer.process(chatType, environment.serverTag..\" IMPOTENT\", UnitShortenedGUID(unitGUID or UnitGUID(\"player\")))\n            end\n        end\n        \n        local function ksMarkerSkip(unitGUID)\n            sendClientImpotentAnnounce(unitGUID)\n        end\n        \n        setglobal(\"ksMarkerSkip\", ksMarkerSkip)\n        \n        \n        local function tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n            if caster and spellId then\n                table.insert(spellTable, {caster = caster, spellId = spellId, timeLeft = timeLeft})\n            end\n        end\n        \n        local function parseNextSpell(spellString)\n            local _,_,_,caster,_ = string.find(spellString, \"(%s*)(.-)(%s*/)\")\n            local _,_,_,spellId,_ = string.find(spellString, \"([()])(.-)([()])\")\n            local _,_,_,timeLeft,_ = string.find(spellString, \"([[])(.-)([]])\")\n            return caster and \"Player-\"..caster or nil, tonumber(spellId), tonumber(timeLeft)\n        end\n        \n        local function parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n            local _,_,firstSpell,_ = string.find(krundeSaysMessage, \"(.-)([{])\")\n            if firstSpell then\n                local caster,spellId,timeLeft = parseNextSpell(firstSpell)\n                tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n                \n                local _,_,_,nextSpells,_ = string.find(krundeSaysMessage, \"([{}])(.-)([{}])\")\n                if nextSpells then\n                    nextSpells = nextSpells..\",\"\n                    \n                    while nextSpells do\n                        local _,endOffset,_,nextSpell,_ = string.find(nextSpells, \"(%s*)(.-)(%s*[,}])\")\n                        if nextSpell then\n                            caster,spellId,timeLeft = parseNextSpell(nextSpell)\n                            tableInsertNextSpell(spellTable, caster, spellId, timeLeft)\n                            \n                            nextSpells = string.sub(nextSpells, endOffset+1, -1)\n                        else\n                            nextSpells = nil\n                        end\n                    end\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" LIST\"] = function(krundeSaysMessage)\n                local spellTable = {}\n                -- populate spellTable with a {casterUnitGUID, spellId} pair\n                parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n                environment.markerList = spellTable\n                \n                for n,d in ipairs(spellTable) do\n                    if d.caster == environment.playerGUID then\n                        environment.playerFocusMarkerIndex = n\n                    end\n                end\n                \n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_LIST\", environment.serverTag, spellTable)\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    sendClientAnnounce(environment)\n                    WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_SERVER\", environment.serverTag, shortenedGUID, version)\n                end\n            end,\n        }\n        \n        demokratiaObject.init(\"timer\", environment)\n        \n        C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n        \n        krundeSaysMarkerObject.krundeSaysMessageHandler = krundeSaysMarkerObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysMarkerObject.krundeSaysMessageHandler)\n        krundeSaysMarkerObject.krundeSaysMessageHandler.register(messageHandlers)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysMarkerObject.frame = krundeSaysMarkerObject.frame or CreateFrame(\"FRAME\", \"krundeSaysMarkerClientFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysMarkerObject.frame)\n        \n        krundeSaysMarkerObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysMarkerObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysMarkerObject.frame.registerEventList(\"PARTY_LEADER_CHANGED,GROUP_JOINED,GROUP_FORMED,GROUP_LEFT,PLAYER_ENTERING_WORLD\",\n            function()\n                environment.playerFocusMarkerIndex = nil\n                krundeSaysMarkerObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_INVALIDATELIST\", environment.serverTag)\n        end)\n        \n        krundeSaysMarkerObject.frame.registerEventList(\":DEMOKRATIA_KSS_REQUESTLIST\",\n            function(event, prefix)\n                if prefix == environment.serverTag then\n                    environment.reset_variables(environment)\n                    environment.requestListTimer = environment.requestListTimer or environment.newTimer(10, function ()\n                            environment.requestListTimer = nil\n                            if environment.reloadedAndNeedData then\n                                sendClientAnnounce(environment)\n                            end\n                        end\n                    )\n                end\n        end)\n        \n        environment.reset_variables(environment)\n        \n        krundeSaysMarkerObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n        \n        if environment.config.markFocus then \n            krundeSaysMarkerObject.frame.registerEventList(\"PLAYER_FOCUS_CHANGED\",\n                function(event)\n                    local unitExists = UnitExists(\"focus\")\n                    local unitGUID = unitExists and UnitGUID(\"focus\") or nil\n                    local playerFocusMarkerIndex = environment.playerFocusMarkerIndex or config.optionSoloMarker\n                    \n                    if unitGUID and unitExists and not UnitIsDead(\"focus\") or not unitExists then\n                        if environment.playerFocusUnit then\n                            local previousFocusUnitToken = UnitTokenFromGUID(environment.playerFocusUnit)\n                            if previousFocusUnitToken and UnitExists(previousFocusUnitToken) and playerFocusMarkerIndex\n                            and GetRaidTargetIndex(previousFocusUnitToken) == playerFocusMarkerIndex then\n                                SetRaidTarget(previousFocusUnitToken, 0)\n                            end\n                        end\n                        \n                        environment.playerFocusUnit = unitGUID\n                        if unitExists and not GetRaidTargetIndex(\"focus\") and playerFocusMarkerIndex then\n                            SetRaidTarget(\"focus\", playerFocusMarkerIndex)\n                        end\n                    end\n            end)\n        end\n        \n        setglobal(\"krundeSaysMarkerClient\", krundeSaysMarkerObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\")\n    )\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysMarkerObject = moduleDependencies[\"krundeSaysMarkerClient\"]\n    \n    krundeSaysMarkerObject.frame.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarkerClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysMarkerObject = moduleDependencies[\"krundeSaysMarkerClient\"]\n    \n    krundeSaysMarkerObject.frame.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarkerClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Mark the target you focus. If the target already has a target marker it is not replaced.",
+          "key": "markFocus",
+          "name": "Automatically mark focus target with target marker",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        },
+        {
+          "default": 1,
+          "key": "optionSoloMarker",
+          "name": "Focus marker when the leader is not using Demokratia",
+          "type": "select",
+          "values": [
+            "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:16|t",
+            "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:16|t",
+            "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_3:16|t",
+            "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_4:16|t",
+            "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_5:16|t",
+            "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:16|t",
+            "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_7:16|t",
+            "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:16|t"
+          ],
+          "width": 2
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "markFocus": true,
+        "optionSoloMarker": 1
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... MARKER client",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... MARKER",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "custom": "function(event, ...)\n    if event == \"DEMOKRATIA_KSS_REQUESTLIST\" then\n        local function moduleFunction(demokratiaObject, ...)\n            local moduleDependencies = ...\n            local krundeSaysMarkerClientObject = moduleDependencies[\"krundeSaysMarkerClient\"]\n            local krundeSaysServer = krundeSaysMarkerClientObject and krundeSaysMarkerClientObject.krundeSaysServer or nil -- luacheck: ignore\n            local environment = krundeSaysMarkerClientObject.environment\n            local event, prefix = unpack(moduleDependencies[\"arguments\"])\n            \n            if prefix and prefix == environment.serverTag then\n                krundeSaysMarkerClientObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n        \n        local function loopExecute(...)\n            local arguments = {...}\n            local demokratiaObject = demokratia -- luacheck: ignore\n            if not demokratiaObject then C_Timer.After(1, function() loopExecute(unpack(arguments)) end) return end\n            demokratiaObject.moduleRun(moduleFunction,\n                demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarkerClient\"),\n                demokratiaObject.moduleDependencyTable(\"arguments\", arguments))\n        end\n        \n        loopExecute(event, ...)\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "events": "DEMOKRATIA_KSS_REQUESTLIST",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "etEMOGHUOn)",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... MARKER client markers",
+        "Demokratia - Krunde says... MARKER tts announcer "
+      ],
+      "desc": "Graphical client for AOE stop coordinator.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... MARKER client GUI",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "YL4SzNdv5sy",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 200
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "align": "CENTER",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animate": false,
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "arcLength": 360,
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "centerType": "LR",
+      "columnSpace": 1,
+      "conditions": [],
+      "config": [],
+      "constantFactor": "RADIUS",
+      "controlledChildren": [
+        "Demokratia - Krunde says MARKER client marker"
+      ],
+      "desc": "Graphical client for AOE stop coordinator. Stops after current indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "fullCircle": true,
+      "gridType": "RD",
+      "gridWidth": 5,
+      "grow": "RIGHT",
+      "id": "Demokratia - Krunde says... MARKER client markers",
+      "information": [],
+      "internalVersion": 86,
+      "limit": 5,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says... MARKER client GUI",
+      "radius": 200,
+      "regionType": "dynamicgroup",
+      "rotation": 0,
+      "rowSpace": 1,
+      "scale": 0.5,
+      "selfPoint": "LEFT",
+      "semver": "1.0.232",
+      "sort": "none",
+      "sortHybridTable": {
+        "Demokratia - Krunde says MARKER client marker": false
+      },
+      "space": 2,
+      "stagger": 0,
+      "stepAngle": 15,
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "(p(enz6dC)V",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useLimit": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": -64,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "\n\n",
+          "do_custom": false
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"MARKER\"\naura_env.reset_variables = function(environment) environment.reloadedAndNeedData = true end\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysMarker\"]\n    local environment = moduleDependencies[\"environment\"]\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarker\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarkerClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local environment = moduleDependencies[\"environment\"]\n    \n    demokratiaObject.init(\"timer\", environment)\n    \n    environment.reset_variables(environment)\n    \n    environment.requestListTimer = environment.requestListTimer or environment.newTimer(0, function ()\n            environment.requestListTimer = nil\n            if environment.reloadedAndNeedData then\n                environment.reloadedAndNeedData = nil\n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n    )\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env),\n        demokratiaObject.moduleDependencyClass(\"timer\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local environment = moduleDependencies[\"environment\"]\n    \n    local r = environment.region.tooltipFrame or environment.region\n    aura_env.casterList = aura_env.casterList or {}\n    r:SetAttribute(\"caster\", aura_env.casterList[environment.cloneId])\n    \n    r:SetScript(\"OnEnter\", function(self)\n            GameTooltip:SetOwner(self, \"ANCHOR_NONE\")\n            GameTooltip:SetPoint(\"LEFT\", self, \"RIGHT\")\n            local caster = self:GetAttribute(\"caster\")\n            local unitToken = caster and UnitTokenFromGUID(caster) or nil\n            if unitToken then\n                GameTooltip:SetUnit(unitToken)\n            end\n    end)\n    r:SetScript(\"OnLeave\", function(self, motion)\n            GameTooltip:Hide()\n    end)\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "variable": "alwaystrue"
+          }
+        }
+      ],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Graphical client for interrupt coordinator. Interrupts after current indicator component.\n\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 23.6,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says MARKER client marker",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": {
+            "group": true,
+            "raid": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... MARKER client markers",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOM",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "PT Sans Narrow",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%n",
+          "text_text_format_n_abbreviate": true,
+          "text_text_format_n_abbreviate_max": 4,
+          "text_text_format_n_color": "class",
+          "text_text_format_n_format": "string",
+          "text_text_format_n_pad": false,
+          "text_text_format_n_pad_max": 8,
+          "text_text_format_n_pad_mode": "left",
+          "text_text_format_n_realm_name": "never",
+          "text_text_format_p_format": "timed",
+          "text_text_format_p_time_dynamic_threshold": 60,
+          "text_text_format_p_time_format": 0,
+          "text_text_format_p_time_legacy_floor": false,
+          "text_text_format_p_time_mod_rate": true,
+          "text_text_format_p_time_precision": 1,
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, event, prefix, inputTable)\n    if event == \"GROUP_LEFT\" or event == \"DEMOKRATIA_KSS_INVALIDATELIST\" and prefix and prefix == aura_env.serverTag then\n        \n        allstates:RemoveAll()\n        aura_env.casterList = aura_env.casterList or {}\n        table.wipe(aura_env.casterList)\n        \n        return true\n    elseif event == \"DEMOKRATIA_KSS_LIST\" then\n        if prefix and prefix == aura_env.serverTag then\n            \n            allstates:RemoveAll()\n            aura_env.casterList = aura_env.casterList or {}\n            table.wipe(aura_env.casterList)\n            \n            if inputTable then\n                local spellTable = {unpack(inputTable)}\n                \n                if #spellTable > 0 then\n                    \n                    for n, d in ipairs(spellTable) do\n                        local iconIndex = d.spellId or n\n                        local _, _, _, _, _, casterName, _ = GetPlayerInfoByGUID(d.caster)\n                        local spellInfo = C_Spell.GetSpellInfo(d.spellId)\n                        local stateInfo =\n                        {\n                            name = casterName,\n                            icon = \"Interface\\\\TargetingFrame\\\\UI-RaidTargetingIcon_\" .. iconIndex,\n                            caster = d.caster,\n                            isPlayerSpell = UnitIsUnit(d.caster, UnitGUID(\"player\")),\n                            index = n,\n                            \n                            progressType = \"timed\",\n                            duration = 0,\n                            expirationTime = GetTime(),\n                            \n                            changed = true,\n                            autoHide = false,\n                            resort = true,\n                            show = true\n                        }\n\n                        table.insert(aura_env.casterList, d.caster)\n                        \n                        allstates:Update(n, stateInfo)\n                    end\n                end\n                \n                return true\n            end\n        end\n    end\nend\n\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "function()\n    local iconID = 0\n    if aura_env.spellId then\n        local spellInfo = C_Spell.GetSpellInfo(aura_env.spellId)\n        iconID = spellInfo.iconID\n    end\n    return iconID\nend",
+            "customName": "function()\n    return aura_env.caster or \"\"\nend",
+            "customVariables": "{\n    index = \"number\",\n    isPlayerSpell = \"bool\"\n}",
+            "custom_hide": "timed",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": true,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_INVALIDATELIST,DEMOKRATIA_KSS_LIST,GROUP_LEFT",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 2 then\nend\nend"
+          }
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "zxCB)O4kv8G",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 23.6,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": {
+          "do_message": false,
+          "message": "",
+          "message_tts_voice": 1,
+          "message_type": "TTS"
+        }
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Not triggered if the unit is already your focus unit",
+          "key": "ttsMarker",
+          "name": "Announce \"MARKER\" when your assigned marker is placed on a nameplate",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "MARKER",
+                "message_type": "TTS",
+                "message_voice": 1
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "value": "function()\n    return aura_env.config.ttsMarker == true\nend",
+            "variable": "customcheck"
+          }
+        }
+      ],
+      "config": {
+        "ttsMarker": false
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - Krunde says... MARKER tts announcer ",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... MARKER client GUI",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "custom": "function(event,...)\n    if krundeSaysMarkerClient and krundeSaysMarkerClient.environment.playerFocusMarkerIndex then\n        local function iterateNameplates()\n            local nameplates = C_NamePlate.GetNamePlates(false)\n            for n,d in pairs(nameplates) do\n                local namePlateUnitToken = d.namePlateUnitToken\n                local  playerFocusMarkerIndex = krundeSaysMarkerClient.environment.playerFocusMarkerIndex\n                if playerFocusMarkerIndex == GetRaidTargetIndex(namePlateUnitToken) then\n                    return UnitGUID(namePlateUnitToken)\n                end\n            end\n            \n            return nil\n        end\n        \n        local markerUnit = iterateNameplates()\n        local markerUnitExists = markerUnit ~= nil\n        local markerUnitIsNotPrevious = markerUnit ~= aura_env.prevMarkerUnit\n        local markerUnitIsNotFocus = markerUnit ~= krundeSaysMarkerClient.environment.playerFocusUnit\n        \n        local activationCondition = markerUnitExists and markerUnitIsNotPrevious and markerUnitIsNotFocus or false\n        \n        aura_env.prevMarkerUnit = markerUnit\n        \n        return activationCondition\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": false,
+            "event": "Health",
+            "events": "RAID_TARGET_UPDATE",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "C32z0PqwhlT",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... FOCUS server",
+        "Demokratia - Krunde says... FOCUS client"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... FOCUS",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "RT9Jxjp99DC",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n\naura_env.config.minNumberClients = 1\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysFocusObject = krundeSaysFocus\n    if not krundeSaysFocusObject then\n        local krundeSaysFocusObject = {}\n        \n        local environment = {\n            serverTag = \"FOCUS\",\n            \n            playerGUID = UnitGUID(\"player\"),\n            config = config,\n            minNumberClients = config.minNumberClients,\n            maxSendAmount = 5,\n            publishNonClientSpells = true, \n            \n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        krundeSaysFocusObject.environment = environment\n        \n        local messageHandlers = {\n            [environment.serverTag..\" REQUESTSERVER\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysFocus and krundeSaysFocus.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                end\n            end,\n            \n            [environment.serverTag..\" REQUESTLIST\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    environment.forceSendForNewClients = true\n                    environment.triggerPublish(environment)\n                end\n            end,\n            \n            [environment.serverTag..\" CLIENT\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysFocus and krundeSaysFocus.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newClient(environment, shortenedGUID, version)\n                end\n            end,\n            \n            [environment.serverTag..\" IMPOTENT\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysFocus and krundeSaysFocus.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newImpotentClient(environment, shortenedGUID)\n                end\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysFocus and krundeSaysFocus.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newServer(environment, shortenedGUID, version)\n                end\n            end,\n        }\n        \n        environment.triggerPublish = environment.triggerPublish or function(environment)\n            local sortedList = krundeSaysFocus and krundeSaysFocus.cooldownList or nil -- luacheck: ignore\n            if not sortedList then\n                return\n            end\n            \n            local krundeSaysServer = krundeSaysFocus and krundeSaysFocus.krundeSaysServer or nil -- luacheck: ignore\n            if not krundeSaysServer then\n                return\n            end\n            \n            krundeSaysServer.publishCooldownList(environment, sortedList)\n        end\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        demokratiaObject.init(\"EAS\", environment)\n        \n        krundeSaysFocusObject.cooldownList = nil\n        krundeSaysFocusObject.listUpdatedCallback = function(list)\n            krundeSaysFocusObject.cooldownList = list\n            environment.triggerPublish(environment)\n        end\n        \n        krundeSaysFocusObject.krundeSaysMessageHandler = krundeSaysFocusObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysFocusObject.krundeSaysMessageHandler)\n        krundeSaysFocusObject.krundeSaysMessageHandler.register(messageHandlers)\n        krundeSaysFocusObject.krundeSaysServer = krundeSaysFocusObject.krundeSaysServer or {}\n        demokratiaObject.init(\"krundeSaysServer\", krundeSaysFocusObject.krundeSaysServer)\n        \n        local function UnitShortenedGUID(unitGUID)\n            local _,_,creatureID,spawnID = string.find(unitGUID, \"%-(%x+)%-(%x+)$\")\n            if creatureID and spawnID then \n                return creatureID..\"-\"..spawnID\n            else\n                return nil\n            end\n        end\n        \n        function krundeSaysFocusObject.krundeSaysServer.publishCooldownList(environment, sortedList)\n            local krundeSaysServer = krundeSaysFocusObject.krundeSaysServer\n            if not sortedList then\n                return\n            end\n            \n            if not environment.groupRolesSettled or not krundeSaysServer.playerIsFirstOnServerList(environment) then\n                return\n            end\n            \n            local maxSendAmount = environment.maxSendAmount or 3\n            local chatType = nil\n            local messageStart = environment.serverTag..\" LIST: \" --fixme\n            local message = \"\"..messageStart\n            local sendList = {}\n            \n            environment.clientList = environment.clientList or {}\n            \n            for _, d in ipairs(sortedList) do\n                table.insert(sendList, d)\n            end\n            \n            environment.prevSpellList = environment.prevSpellList or {}\n            \n            if (#sendList <= maxSendAmount and #sendList ~= #environment.prevSpellList)\n            or (#sendList > maxSendAmount and maxSendAmount ~= #environment.prevSpellList)\n            or environment.forceSendForNewClients == true then\n                environment.forceSendForNewClients = nil\n                \n                if IsInRaid() then\n                    chatType = \"RAID\"\n                elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                    chatType =\"INSTANCE_CHAT\"\n                elseif IsInGroup() then\n                    chatType =\"PARTY\"\n                end\n            end\n            \n            for n, d in ipairs(sendList) do\n                if environment.prevSpellList[n]\n                and (environment.prevSpellList[n].unitIndex ~= d.unitIndex\n                    or environment.prevSpellList[n].unitGUID ~= d.unitGUID\n                    or environment.prevSpellList[n].permanentAssignment ~= d.permanentAssignment) then\n                    \n                    if IsInRaid() then\n                        chatType = \"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                end\n                \n                environment.prevSpellList[n] = {\n                    unitIndex = d.unitIndex,\n                    unitGUID = d.unitGUID,\n                    permanentAssignment = d.permanentAssignment,\n                }\n                \n                local unitShortenedGUID = UnitShortenedGUID(d.unitGUID)\n                \n                if n == 1 then\n                    message = message..\"{\"..unitShortenedGUID..\" / (\"..d.unitIndex..\")\"\n                    \n                    if d.permanentAssignment and d.permanentAssignment == 1 then\n                        message = message..\"[\"..d.permanentAssignment..\"]\"\n                    end\n                    \n                    if n == #sendList then\n                        message =  message..\"}\"\n                        break\n                    else\n                        message =  message..\", \"\n                    end\n                else\n                    message = message..unitShortenedGUID..\" / (\"..d.unitIndex..\")\"\n                    \n                    if d.permanentAssignment and d.permanentAssignment == 1 then\n                        message = message..\"[\"..d.permanentAssignment..\"]\"\n                    end\n                    \n                    if n >= maxSendAmount or n == #sendList then\n                        message =  message..\"}\"\n                        break\n                    else\n                        message =  message..\", \"\n                    end \n                end\n            end\n            \n            local sendListLength = #sendList > maxSendAmount and maxSendAmount or #sendList\n            while environment.prevSpellList[sendListLength + 1] ~= nil do\n                table.remove(environment.prevSpellList, sendListLength + 1)\n            end\n            \n            if chatType then\n                if environment.numberClients and environment.minNumberClients\n                and environment.numberClients < environment.minNumberClients\n                and not environment.publishNonClientSpells then\n                    message = messageStart\n                end\n                \n                if environment.outputBuffer then\n                    local command = string.sub(message, 1, #messageStart - 2)\n                    local commandData = string.sub(message, #messageStart, -1)\n                    \n                    environment.outputBuffer.process(chatType, command, commandData, true)\n                end\n            end\n        end\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysFocusObject.frame = krundeSaysFocusObject.frame or CreateFrame(\"FRAME\", \"krundeSaysFocusFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysFocusObject.frame)\n        \n        krundeSaysFocusObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysFocusObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysFocusObject.frame.registerEventList(\"GROUP_ROSTER_UPDATE\",\n            function()\n                local krundeSaysServer = krundeSaysFocusObject.krundeSaysServer \n                \n                environment.numGroupMembers = environment.numGroupMembers or 1\n                local numGroupMembers = GetNumSubgroupMembers() + 1 -- does not include player\n                if environment.numGroupMembers > numGroupMembers then\n                    krundeSaysServer.removeLeftMembers(environment)\n                elseif environment.numGroupMembers < numGroupMembers then\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                end\n                environment.numGroupMembers = numGroupMembers\n        end)\n        \n        krundeSaysFocusObject.frame.registerEventList(\"PARTY_MEMBER_DISABLE PARTY_MEMBER_ENABLE PLAYER_ALIVE PLAYER_DEAD PLAYER_UNGHOST PARTY_LEADER_CHANGED\",\n            function(event)\n                local krundeSaysServer = krundeSaysFocusObject.krundeSaysServer \n                \n                local couldChangeServer\n                if event == \"PARTY_MEMBER_DISABLE\" or event == \"PARTY_MEMBER_ENABLE\"\n                or event == \"PARTY_LEADER_CHANGED\" then\n                    couldChangeServer = true\n                else\n                    couldChangeServer = false\n                end\n                \n                krundeSaysServer.groupMemberStatusChange(environment, couldChangeServer)\n        end)\n        \n        krundeSaysFocusObject.frame.registerEventList(\"PLAYER_REGEN_ENABLED\",\n            function()\n                local krundeSaysServer = krundeSaysFocusObject.krundeSaysServer \n                krundeSaysServer.outOfCombat(environment)\n        end)\n        \n        \n        krundeSaysFocusObject.frame.registerEventList(\"GROUP_JOINED,GROUP_FORMED,PLAYER_ENTERING_WORLD\",\n            function()\n                local krundeSaysServer = krundeSaysFocusObject.krundeSaysServer \n                krundeSaysServer.letGroupSettleRoles(environment)\n        end)\n        \n        \n        krundeSaysFocusObject.frame.registerEventList(\"GROUP_LEFT\",\n            function()\n                local krundeSaysServer = krundeSaysFocusObject.krundeSaysServer \n                krundeSaysServer.groupLeft(environment)\n        end)\n        \n        krundeSaysFocusObject.frame.fakeEvent(\"PLAYER_ENTERING_WORLD\")\n        krundeSaysFocusObject.krundeSaysServer.sendServerRequest(environment, environment.serverTag)\n        \n        function krundeSaysFocusObject.isMaster()\n            local krundeSaysServer = krundeSaysFocusObject.krundeSaysServer \n            return krundeSaysServer.playerIsFirstOnServerList(environment)\n        end\n        \n        local function ksFocusReset()\n            local krundeSaysServer = krundeSaysFocusObject.krundeSaysServer \n            krundeSaysServer.outOfCombat(environment)\n        end\n        \n        setglobal(\"ksFocusReset\", ksFocusReset)\n        \n        local castCache = {}\n        local deadCache = {}\n        environment.cache = castCache\n        \n        local inEncounter = false\n        local inCombat = false\n        \n        local f = EASHarvestEnemyCombat or CreateFrame(\"Frame\", \"EASHarvestEnemyCombat\")\n        f:RegisterEvent(\"UNIT_THREAT_LIST_UPDATE\")\n        f:RegisterEvent(\"PLAYER_REGEN_DISABLED\")\n        f:RegisterEvent(\"PLAYER_REGEN_ENABLED\")\n        f:RegisterEvent(\"ENCOUNTER_START\")\n        f:RegisterEvent(\"ENCOUNTER_END\")\n        f:RegisterEvent(\"COMBAT_LOG_EVENT_UNFILTERED\")\n        \n        f:SetScript(\"OnEvent\", function(self, event, arg)\n                if event ==\"UNIT_THREAT_LIST_UPDATE\" then\n                    local sourceGUID = UnitGUID(arg)\n                    if sourceGUID and not castCache[sourceGUID] and not deadCache[sourceGUID]\n                    and UnitExists(arg) and not UnitIsDead(arg) and UnitAffectingCombat(arg) then\n                        castCache[sourceGUID] = {}\n                    end\n                elseif event == \"PLAYER_REGEN_DISABLED\" then\n                    inCombat = true\n                elseif event == \"PLAYER_REGEN_ENABLED\" then\n                    inCombat = false\n                    if not inEncounter then\n                        for n,_ in pairs(castCache) do\n                            local unitToken = UnitTokenFromGUID(n)\n                            if not unitToken or not UnitAffectingCombat(unitToken) then\n                                castCache[n] = nil\n                            end\n                        end\n                    end\n                elseif event ==\"ENCOUNTER_START\" then\n                    inEncounter = true\n                elseif event ==\"ENCOUNTER_END\" then\n                    inEncounter = false\n                    if not inCombat then\n                        for n,_ in pairs(castCache) do\n                            local unitToken = UnitTokenFromGUID(n)\n                            if not unitToken or not UnitAffectingCombat(unitToken) then\n                                castCache[n] = nil\n                            end\n                        end\n                    end\n                elseif event ==\"NAME_PLATE_UNIT_ADDED\" then\n                    local sourceGUID = UnitGUID(arg)\n                    if sourceGUID and not UnitAffectingCombat(arg) then\n                        castCache[sourceGUID] = nil\n                    end\n                elseif event ==\"NAME_PLATE_UNIT_REMOVED\" then\n                    local sourceGUID = UnitGUID(arg)\n                    if sourceGUID and not UnitAffectingCombat(arg) then\n                        castCache[sourceGUID] = nil\n                    end\n                elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n                    local _, subevent, _, sourceGUID, _, _, _, destGUID, destName = CombatLogGetCurrentEventInfo()\n                    if subevent == \"UNIT_DIED\" then\n                        castCache[destGUID] = nil\n                        deadCache[destGUID] = {}\n                    end\n                end\n        end)\n        \n        local function cpqmCalc(unitGUID)\n            local creatureId = unitGUID and environment.creatureIdFromGUID and environment.creatureIdFromGUID(unitGUID) or nil\n            \n            local _, _, _, _, _, _, _, instanceID, _, _ = GetInstanceInfo()\n            \n            local castsPerQuarterMinuteRounded = 0\n            \n            if creatureId and instanceID\n            and EASDB\n            and EASDB.spellInfo\n            and EASDB.spellInfo.zones\n            and EASDB.spellInfo.zones[instanceID]\n            and EASDB.spellInfo.zones[instanceID].enemySpells\n            and EASDB.spellInfo.zones[instanceID].enemySpells[creatureId] then\n                \n                local castsPerMinute = 0\n                for spellId,_ in pairs(EASDB.spellInfo.zones[instanceID].enemySpells[creatureId]) do\n                    if EASDB.spellInfo.zones[instanceID].interruptible and EASDB.spellInfo.zones[instanceID].interruptible[spellId]\n                    and EASDB.spellInfo.zones[instanceID].timeBetweenCasts and EASDB.spellInfo.zones[instanceID].timeBetweenCasts[spellId] then \n                        castsPerMinute = castsPerMinute + 60 / EASDB.spellInfo.zones[instanceID].timeBetweenCasts[spellId]\n                    end\n                end\n                \n                local castsPerQuarterMinute = castsPerMinute / 4\n                local castsPerQuarterMinuteFloored = floor(castsPerMinute / 4)\n                local remainder = castsPerQuarterMinute - castsPerQuarterMinuteFloored\n                castsPerQuarterMinuteRounded = (remainder > 0.7 or (castsPerQuarterMinute > 0 and castsPerQuarterMinute < 1)) and castsPerQuarterMinuteFloored + 1 or castsPerQuarterMinuteFloored\n            end\n            \n            return castsPerQuarterMinuteRounded\n        end\n        \n        local function iterateUnits(oldAssignments)\n            local units = castCache or {}\n            local casters = {}\n            local assignments = {}\n            \n            for n,d in pairs(units) do\n                local cpqm = cpqmCalc(n)\n                if cpqm > 0 then table.insert(casters, {unitGUID = n, cpqm = cpqm}) end\n            end\n            \n            table.sort(casters, function(a,b) return a.cpqm > b.cpqm end)\n            \n            local additionalAssignments = {}\n            local coveredCasters = {}\n            local coveredAssignments = {}\n            local numAssignments = 0\n            \n            for n,d in ipairs(oldAssignments) do\n                for m,c in ipairs(casters) do\n                    if c.unitGUID == d.unitGUID --[[and d.permanentAssignment == 1]] then\n                        if d.permanentAssignment == 1 then\n                            coveredCasters[c.unitGUID] = c\n                            coveredAssignments[d.unitIndex] = d\n                            table.insert(assignments, coveredAssignments[d.unitIndex])\n                            numAssignments = numAssignments + 1\n                            c.cpqm = c.cpqm - 1\n                            if c.cpqm < 1 then\n                                table.remove(casters, m)\n                            end\n                        else\n                            additionalAssignments[d.unitIndex] = d\n                        end\n                        break\n                    end\n                end\n            end\n            \n            local interrupts = krundeSaysMarkerClient.environment.markerList or {}\n            \n            if #casters > 0 and interrupts then\n                for m,c in ipairs(casters) do\n                    if numAssignments < #interrupts then\n                        if not coveredCasters[c.unitGUID] then\n                            for n,d in ipairs(interrupts) do\n                                if not coveredAssignments[n] then\n                                    local assignmentEntry = {}\n                                    assignmentEntry.unitGUID = c.unitGUID\n                                    assignmentEntry.unitIndex = n\n                                    assignmentEntry.permanentAssignment = 1\n                                    additionalAssignments[n] = nil\n                                    coveredAssignments[n] = assignmentEntry\n                                    coveredCasters[c.unitGUID] = c\n                                    table.insert(assignments, assignmentEntry)\n                                    numAssignments = numAssignments + 1\n                                    c.cpqm = c.cpqm - 1\n                                    if c.cpqm < 1 then\n                                        table.remove(casters, m)\n                                    end\n                                    break\n                                end\n                            end\n                        end\n                    end\n                end\n            end\n            \n            local numPermanentAssignments = numAssignments\n            local numAssignmentsToFill = #interrupts > numPermanentAssignments and #interrupts - numPermanentAssignments or 0\n            local numOldFillerAssignments = 0\n            \n            if numAssignmentsToFill > 0 then\n                if #casters > 0 and #interrupts > 0 then\n                    for m=numAssignmentsToFill,1,-1 do\n                        local c = casters[m]\n                        if c then\n                            for n,d in pairs(additionalAssignments) do\n                                if c.unitGUID == d.unitGUID then\n                                    coveredAssignments[n] = d\n                                    additionalAssignments[n] = nil\n                                    numAssignments = numAssignments + 1\n                                    numOldFillerAssignments = numOldFillerAssignments + 1\n                                    table.insert(assignments, coveredAssignments[n])\n                                    c.cpqm = c.cpqm - 1\n                                    if c.cpqm < 1 then\n                                        table.remove(casters, m)\n                                    end\n                                end\n                            end\n                        end\n                    end\n                    \n                    if #casters > 0 then\n                        local numFillerAssignments = 0\n                        for n=#interrupts,1,-1 do\n                            if numFillerAssignments + numOldFillerAssignments < numPermanentAssignments then\n                                if not coveredAssignments[n] then\n                                    local assignmentEntry = {}\n                                    local casterIndex = ((numFillerAssignments) % #casters) + 1\n                                    assignmentEntry.unitGUID = casters[casterIndex].unitGUID\n                                    assignmentEntry.unitIndex = n\n                                    assignmentEntry.permanentAssignment = 0\n                                    coveredAssignments[n] = assignmentEntry\n                                    numAssignments = numAssignments + 1\n                                    numFillerAssignments = numFillerAssignments + 1\n                                    table.insert(assignments, assignmentEntry)\n                                end\n                            end\n                        end\n                    end\n                end\n            end \n            return assignments\n        end\n        \n        local function iterateNameplates()\n            local nameplates = C_NamePlate.GetNamePlates(false)\n            for n,d in pairs(nameplates) do\n                local namePlateUnitToken = d.namePlateUnitToken\n                local sourceGUID = UnitGUID(namePlateUnitToken)\n                local unitAffectingCombat = UnitAffectingCombat(namePlateUnitToken)\n                if sourceGUID and castCache[sourceGUID] and not unitAffectingCombat then\n                    castCache[sourceGUID] = nil\n                elseif sourceGUID and not castCache[sourceGUID] and not deadCache[sourceGUID]\n                and UnitExists(arg) and not UnitIsDead(arg) and unitAffectingCombat then\n                    castCache[sourceGUID] = {}\n                end\n            end\n        end\n        \n        local timeElapsed = 0\n        f:SetScript(\"OnUpdate\", function(self, elapsed)\n                timeElapsed = timeElapsed + elapsed\n                if timeElapsed > 1.00 then\n                    timeElapsed = 0\n                    \n                    environment.assignments = environment.assignments or {}\n                    if environment.groupInCombat() then\n                        iterateNameplates()\n                        environment.assignments = iterateUnits(environment.assignments)\n                    else\n                        table.wipe(castCache)\n                        table.wipe(deadCache)\n                        environment.assignments = {}\n                    end\n                    \n                    krundeSaysFocusObject.listUpdatedCallback(environment.assignments)\n                end\n        end)\n        \n        setglobal(\"krundeSaysFocus\", krundeSaysFocusObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSays\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysServer\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarkerClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysFocusObject = moduleDependencies[\"krundeSaysFocus\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysFocusObject.frame.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysFocus\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysFocusObject = moduleDependencies[\"krundeSaysFocus\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysFocusObject.frame.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysFocus\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - Krunde says... FOCUS server",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_group_leader": true,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... FOCUS",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "9H5D8HSD5lh",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysFocusObject = krundeSaysFocusClient\n    if not krundeSaysFocusObject then\n        local environment = {\n            serverTag = \"FOCUS\",\n            playerGUID = UnitGUID(\"player\"),\n            config = config,\n            \n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysFocusObject = {}\n        krundeSaysFocusObject.environment = environment\n        \n        local function UnitShortenedGUID(unitGUID)\n            local _,_,creatureID,spawnID = string.find(unitGUID, \"%-(%x+)%-(%x+)$\")\n            if creatureID and spawnID then \n                return creatureID..\"-\"..spawnID\n            else\n                return nil\n            end\n        end\n        \n        local function sendRequestList(environment)\n            environment.spamRLFilterTimer = environment.spamRLFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamRLFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" REQUESTLIST\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end\n            )\n        end\n        \n        local function sendClientAnnounce(environment)\n            if environment.reloadedAndNeedData then\n                sendRequestList(environment)\n                environment.reloadedAndNeedData = nil\n            end\n            environment.spamCAFilterTimer = environment.spamCAFilterTimer or environment.newTimer(2,\n                function()\n                    environment.spamCAFilterTimer = nil\n                    \n                    local chatType = nil\n                    \n                    if IsInRaid() then\n                        chatType =\"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                    \n                    if chatType and environment.outputBuffer then\n                        environment.outputBuffer.process(chatType, environment.serverTag..\" CLIENT\", UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\")\n                    end\n                end    \n            )\n        end\n        \n        local function sendClientImpotentAnnounce(unitGUID)\n            if environment.spamIAFilterTimer then\n                return\n            end\n            \n            environment.spamIAFilterTimer = environment.spamIAFilterTimer or environment.newTimer(1,\n                function()\n                    environment.spamIAFilterTimer = nil\n                end\n            )\n            \n            local chatType = nil\n            \n            if IsInRaid() then\n                chatType =\"RAID\"\n            elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                chatType =\"INSTANCE_CHAT\"\n            elseif IsInGroup() then\n                chatType =\"PARTY\"\n            end\n            \n            if chatType and environment.outputBuffer then\n                environment.outputBuffer.process(chatType, environment.serverTag..\" IMPOTENT\", UnitShortenedGUID(unitGUID or UnitGUID(\"player\")))\n            end\n        end\n        \n        local function ksFocusSkip(unitGUID)\n            sendClientImpotentAnnounce(unitGUID)\n        end\n        \n        setglobal(\"ksFocusSkip\", ksFocusSkip)\n        \n        \n        local function tableInsertNextSpell(spellTable, caster, unitIndex, permanentAssignment)\n            if caster and unitIndex then\n                table.insert(spellTable, {caster = caster, unitIndex = unitIndex, permanentAssignment = permanentAssignment})\n            end\n        end\n        \n        local function parseNextSpell(spellString)\n            local _,_,_,caster,_ = string.find(spellString, \"(%s*)(.-)(%s*/)\")\n            local _,_,_,unitIndex,_ = string.find(spellString, \"([()])(.-)([()])\")\n            local _,_,_,permanentAssignment,_ = string.find(spellString, \"([[])(.-)([]])\")\n            return caster and caster or nil, tonumber(unitIndex), tonumber(permanentAssignment)\n        end\n        \n        local function parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n            local _,_,firstSpell,_ = string.find(krundeSaysMessage, \"(.-)([{])\")\n            if firstSpell then\n                local caster,unitIndex,permanentAssignment = parseNextSpell(firstSpell)\n                tableInsertNextSpell(spellTable, caster, unitIndex, permanentAssignment)\n                \n                local _,_,_,nextSpells,_ = string.find(krundeSaysMessage, \"([{}])(.-)([{}])\")\n                if nextSpells then\n                    nextSpells = nextSpells..\",\"\n                    \n                    while nextSpells do\n                        local _,endOffset,_,nextSpell,_ = string.find(nextSpells, \"(%s*)(.-)(%s*[,}])\")\n                        if nextSpell then\n                            caster,unitIndex,permanentAssignment = parseNextSpell(nextSpell)\n                            tableInsertNextSpell(spellTable, caster, unitIndex, permanentAssignment)\n                            \n                            nextSpells = string.sub(nextSpells, endOffset+1, -1)\n                        else\n                            nextSpells = nil\n                        end\n                    end\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" LIST\"] = function(krundeSaysMessage)\n                local spellTable = {}\n                -- populate spellTable with a {casterUnitGUID, spellId} pair\n                parseKrundeSaysMessage(krundeSaysMessage, spellTable)\n                environment.focusList = spellTable\n                \n                for n,d in ipairs(spellTable) do\n                    if d.caster == environment.playerGUID then\n                        environment.playerFocusFocusIndex = n\n                    end\n                end\n                \n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_LIST\", environment.serverTag, spellTable)\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    sendClientAnnounce(environment)\n                    WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_SERVER\", environment.serverTag, shortenedGUID, version)\n                end\n            end,\n        }\n        \n        demokratiaObject.init(\"timer\", environment)\n        \n        C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n        \n        krundeSaysFocusObject.krundeSaysMessageHandler = krundeSaysFocusObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysFocusObject.krundeSaysMessageHandler)\n        krundeSaysFocusObject.krundeSaysMessageHandler.register(messageHandlers)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysFocusObject.frame = krundeSaysFocusObject.frame or CreateFrame(\"FRAME\", \"krundeSaysFocusClientFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysFocusObject.frame)\n        \n        krundeSaysFocusObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysFocusObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysFocusObject.frame.registerEventList(\":DEMOKRATIA_KSS_REQUESTLIST\",\n            function(event, prefix)\n                if prefix == environment.serverTag then\n                    environment.reset_variables(environment)\n                    environment.requestListTimer = environment.requestListTimer or environment.newTimer(10, function ()\n                            environment.requestListTimer = nil\n                            if environment.reloadedAndNeedData then\n                                sendClientAnnounce(environment)\n                            end\n                        end\n                    )\n                end\n        end)\n        \n        environment.reset_variables(environment)\n        \n        krundeSaysFocusObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n        \n        krundeSaysFocusObject.frame.registerEventList(\"PLAYER_FOCUS_CHANGED\",\n            function(event)\n                local unitExists = UnitExists(\"focus\")\n                local unitGUID = unitExists and UnitGUID(\"focus\") or nil\n                \n                if unitGUID and unitExists and not UnitIsDead(\"focus\") or not unitExists then\n                    environment.playerFocusUnit = unitGUID\n                end\n        end)\n        \n        setglobal(\"krundeSaysFocusClient\", krundeSaysFocusObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\")\n    )\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysFocusObject = moduleDependencies[\"krundeSaysFocusClient\"]\n    \n    krundeSaysFocusObject.frame.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysFocusClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysFocusObject = moduleDependencies[\"krundeSaysFocusClient\"]\n    \n    krundeSaysFocusObject.frame.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysFocusClient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... FOCUS client",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says... FOCUS",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "custom": "function(event, ...)\n    if event == \"DEMOKRATIA_KSS_REQUESTLIST\" then\n        local function moduleFunction(demokratiaObject, ...)\n            local moduleDependencies = ...\n            local krundeSaysFocusClientObject = moduleDependencies[\"krundeSaysFocusClient\"]\n            local krundeSaysServer = krundeSaysFocusClientObject and krundeSaysFocusClientObject.krundeSaysServer or nil -- luacheck: ignore\n            local environment = krundeSaysFocusClientObject.environment\n            local event, prefix = unpack(moduleDependencies[\"arguments\"])\n            \n            if prefix and prefix == environment.serverTag then\n                krundeSaysFocusClientObject.frame.fakeEvent(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n        \n        local function loopExecute(...)\n            local arguments = {...}\n            local demokratiaObject = demokratia -- luacheck: ignore\n            if not demokratiaObject then C_Timer.After(1, function() loopExecute(unpack(arguments)) end) return end\n            demokratiaObject.moduleRun(moduleFunction,\n                demokratiaObject.moduleDependencyGlobal(\"krundeSaysFocusClient\"),\n                demokratiaObject.moduleDependencyTable(\"arguments\", arguments))\n        end\n        \n        loopExecute(event, ...)\n    end\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "events": "DEMOKRATIA_KSS_REQUESTLIST",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "SusAqxilY9a",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Demokratia - Krunde says... FOCUS automark group focus targets",
+        "Demokratia - Krunde says... FOCUS chat announcer ",
+        "Demokratia - Krunde says... FOCUS tts announcer"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "id": "Demokratia - Krunde says... FOCUS client GUI",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "oY314P)VDx1",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "aura_env.serverTag = \"FOCUS\"\naura_env.reset_variables = function(environment) environment.reloadedAndNeedData = true end\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysFocus\"]\n    local environment = moduleDependencies[\"environment\"]\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysFocus\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysFocusClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local environment = moduleDependencies[\"environment\"]\n    \n    demokratiaObject.init(\"timer\", environment)\n    \n    environment.reset_variables(environment)\n    \n    environment.requestListTimer = environment.requestListTimer or environment.newTimer(0, function ()\n            environment.requestListTimer = nil\n            if environment.reloadedAndNeedData then\n                environment.reloadedAndNeedData = nil\n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n    )\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env),\n        demokratiaObject.moduleDependencyClass(\"timer\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n",
+          "do_custom": true,
+          "do_custom_load": true
+        },
+        "start": {
+          "do_message": false,
+          "message": "",
+          "message_tts_voice": 1,
+          "message_type": "TTS"
+        }
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Only does the marking if you are the leader",
+          "key": "markGroupFocus",
+          "name": "Mark assigned focus targets with assigned raid markers",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "conditions": [],
+      "config": {
+        "markGroupFocus": true
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - Krunde says... FOCUS automark group focus targets",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "group_leader": {
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_group_leader": true,
+        "use_ingroup": true
+      },
+      "parent": "Demokratia - Krunde says... FOCUS client GUI",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "custom": "function(event, prefix, inputTable)\n    if event == \"DEMOKRATIA_KSS_LIST\" and aura_env.config.markGroupFocus then\n        if prefix and prefix == aura_env.serverTag then\n            if inputTable then\n                local unitTable = {unpack(inputTable)}\n                \n                if #unitTable > 0 then\n                    \n                    for n, d in ipairs(unitTable) do\n                        if d.permanentAssignment and d.permanentAssignment == 1 then\n                            if krundeSaysMarkerClient and krundeSaysMarkerClient.environment.markerList then\n                                local function UnitShortenedGUID(unitGUID)\n                                    local _,_,creatureID,spawnID = string.find(unitGUID, \"%-(%x+)%-(%x+)$\")\n                                    if creatureID and spawnID then \n                                        return creatureID..\"-\"..spawnID\n                                    else\n                                        return nil\n                                    end\n                                end\n                                \n                                local nameplates = C_NamePlate.GetNamePlates(false)\n                                for m,c in pairs(nameplates) do\n                                    local namePlateUnitToken = c.namePlateUnitToken\n                                    local unitGUID = UnitGUID(namePlateUnitToken)\n                                    if string.find(unitGUID, d.caster, 1, true) then\n                                        local markerAssignment = krundeSaysMarkerClient.environment.markerList[d.unitIndex]\n                                        local markerToSet = markerAssignment and markerAssignment.spellId or nil\n                                        if markerToSet then\n                                            local currentMarker = GetRaidTargetIndex(namePlateUnitToken)\n                                            if currentMarker ~= markerToSet then\n                                                SetRaidTarget(namePlateUnitToken, markerToSet);\n                                            end\n                                        end\n                                        break\n                                    end\n                                end\n                            end\n                        end\n                    end\n                    \n                    return true\n                end\n            end\n        end\n    end\n    \n    return false\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": false,
+            "event": "Health",
+            "events": "DEMOKRATIA_KSS_LIST",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "(f)ywmemn74",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "custom": "\n\n",
+          "do_custom": false,
+          "stop_sound": false
+        },
+        "init": {
+          "custom": "aura_env.serverTag = \"FOCUS\"\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysMarker\"]\n    local environment = moduleDependencies[\"environment\"]\n    \n    demokratiaObject.init(\"timer\", environment)\n    \n    environment.outputToChat = function()\n        environment.outputTimer = environment.outputTimer or environment.newTimer(0, function()\n                environment.outputTimer = nil\n                \n                local chatType = nil\n                \n                if IsInRaid() then\n                    chatType =\"RAID\"\n                elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                    chatType =\"INSTANCE_CHAT\"\n                elseif IsInGroup() then\n                    chatType =\"PARTY\"\n                end\n                \n                local markerStringStart = \"[WA] Interrupts:\"\n                local markerStrings = {}\n                \n                environment.casterList = environment.casterList or {}\n                environment.previousCasterList = environment.previousCasterList or {}\n                \n                for n,c in pairs(environment.casterList) do\n                    for i,d in pairs(c) do\n                        local unitToken = d and UnitTokenFromGUID(d) or nil\n                        local unitName = unitToken and UnitName(unitToken) or nil\n                        if not environment.previousCasterList[d] or environment.previousCasterList[d] ~= n then\n                            table.insert(markerStrings, unitName and unitName..\" {\".._G[\"RAID_TARGET_\"..n]..\"}\" or nil)\n                            environment.previousCasterList[d] = n\n                        end\n                    end\n                end\n                \n                if #markerStrings > 0 then\n                    C_ChatInfo.SendChatMessage(markerStringStart, chatType)\n                    for _,d in ipairs(markerStrings) do\n                        C_ChatInfo.SendChatMessage(d, chatType)\n                    end\n                end\n        end)\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarker\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysMarkerClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "customOnLoad": "\n\n",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": {
+          "do_message": false,
+          "do_sound": false,
+          "message": "",
+          "message_tts_voice": 0,
+          "message_type": "TTS"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Only works as the leader",
+          "key": "chatMarker",
+          "name": "Announce interrupt assignments in chat",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "if aura_env.outputToChat then\n    aura_env.outputToChat()\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.chatMarker == true\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          }
+        }
+      ],
+      "config": {
+        "chatMarker": false
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%n",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "height": 23.6,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... FOCUS chat announcer ",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "difficulty": [],
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          ">="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "instance_type": {
+          "multi": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            true,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            true,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            true,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            true
+          ],
+          "single": 23
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": true,
+        "use_group_leader": true,
+        "use_ingroup": true,
+        "use_instance_type": false,
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - Krunde says... FOCUS client GUI",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "BOTTOM",
+      "semver": "1.0.232",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(event, prefix, inputTable)\n    if event == \"GROUP_LEFT\" or event == \"DEMOKRATIA_KSS_INVALIDATELIST\" and prefix and prefix == aura_env.serverTag then\n        \n        aura_env.casterList = aura_env.casterList or {}\n        table.wipe(aura_env.casterList)\n        \n        return true\n    elseif event == \"DEMOKRATIA_KSS_LIST\" and prefix and prefix == aura_env.serverTag then\n        \n        aura_env.casterList = aura_env.casterList or {}\n        table.wipe(aura_env.casterList)\n        \n        if inputTable then\n            local unitTable = {unpack(inputTable)}\n            \n            if #unitTable > 0 then\n                \n                local enemyIndexTable = {}\n                local assignmentTable = aura_env.casterList\n                \n                if krundeSaysMarkerClient and krundeSaysMarkerClient.environment.markerList then\n                    \n                    for n, d in ipairs(unitTable) do\n                        enemyIndexTable[d.caster] = enemyIndexTable[d.caster] or d.unitIndex\n                        local currentAssignmentIndex = enemyIndexTable[d.caster]\n                        assignmentTable[currentAssignmentIndex] = assignmentTable[currentAssignmentIndex] or {}\n                        local markerAssignment = krundeSaysMarkerClient.environment.markerList[d.unitIndex]\n                        local assigneeToSet = markerAssignment and markerAssignment.caster or nil\n                        table.insert(assignmentTable[currentAssignmentIndex], assigneeToSet)\n                    end\n                    \n                    return PlayerIsInCombat() and true or false\n                    \n                end\n            end\n        end\n    end\n    \n    return false\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+            "customIcon": "",
+            "customName": "",
+            "customVariables": "{\n    index = \"number\",\n    isPlayerSpell = \"bool\"\n}",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": false,
+            "event": "Chat Message",
+            "events": "DEMOKRATIA_KSS_INVALIDATELIST,DEMOKRATIA_KSS_LIST,GROUP_LEFT",
+            "message": "Krunde says STOP:",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player",
+            "use_cloneId": false,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": {
+            "custom": "function(event, n, ...)\n    if event == \"TRIGGER\" and n == 2 then\nend\nend"
+          }
+        },
+        "2": {
+          "trigger": {
+            "custom": "function(event)\n    if event == \"PLAYER_REGEN_ENABLED\" then\n        aura_env.previousCasterList = aura_env.previousCasterList or {}\n        table.wipe(aura_env.previousCasterList)\n    end\nend\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "events": "PLAYER_REGEN_ENABLED",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "CSrJKDUywY9",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "useTooltip": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 23.6,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "aura_env.serverTag = \"FOCUS\"\naura_env.reset_variables = function(environment) environment.reloadedAndNeedData = true end\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysObject = moduleDependencies[\"krundeSaysFocus\"]\n    local environment = moduleDependencies[\"environment\"]\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysFocus\"),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysFocusClient\"),\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local environment = moduleDependencies[\"environment\"]\n    \n    demokratiaObject.init(\"timer\", environment)\n    \n    environment.reset_variables(environment)\n    \n    environment.requestListTimer = environment.requestListTimer or environment.newTimer(0, function ()\n            environment.requestListTimer = nil\n            if environment.reloadedAndNeedData then\n                environment.reloadedAndNeedData = nil\n                WeakAuras.ScanEvents(\"DEMOKRATIA_KSS_REQUESTLIST\", environment.serverTag)\n            end\n        end\n    )\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"environment\", aura_env),\n        demokratiaObject.moduleDependencyClass(\"timer\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true
+        },
+        "start": {
+          "do_message": false,
+          "message": "",
+          "message_tts_voice": 1,
+          "message_type": "TTS"
+        }
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Not triggered if the unit is already your focus unit",
+          "key": "ttsFocus",
+          "name": "Announce \"FOCUS\" when you are assigned a focus target",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "FOCUS",
+                "message_type": "TTS",
+                "message_voice": 1
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "value": "function()\n    return aura_env.config.ttsFocus == true\nend",
+            "variable": "customcheck"
+          }
+        }
+      ],
+      "config": {
+        "ttsFocus": true
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - Krunde says... FOCUS tts announcer",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true
+      },
+      "parent": "Demokratia - Krunde says... FOCUS client GUI",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "custom": "function(event, prefix, inputTable)\n    if event == \"DEMOKRATIA_KSS_LIST\" then\n        if prefix and prefix == aura_env.serverTag then\n            if inputTable then\n                local unitTable = {unpack(inputTable)}\n                \n                if #unitTable > 0 then\n                    for n, d in ipairs(unitTable) do\n                        \n                        local function UnitShortenedGUID(unitGUID)\n                            local _,_,creatureID,spawnID = string.find(unitGUID, \"%-(%x+)%-(%x+)$\")\n                            if creatureID and spawnID then \n                                return creatureID..\"-\"..spawnID\n                            else\n                                return nil\n                            end\n                        end\n                        \n                        local playerFocusMarkerIndex = krundeSaysMarkerClient and krundeSaysMarkerClient.environment.playerFocusMarkerIndex\n                        local unitIsAssignedPlayerFocusTarget = d.unitIndex == playerFocusMarkerIndex\n                        \n                        if unitIsAssignedPlayerFocusTarget then\n                            local unitIsAlive = false\n                            local nameplates = C_NamePlate.GetNamePlates(false)\n                            for m,c in pairs(nameplates) do\n                                local namePlateUnitToken = c.namePlateUnitToken\n                                local unitGUID = UnitGUID(namePlateUnitToken)\n                                if string.find(unitGUID, d.caster, 1, true) then\n                                    if UnitExists(namePlateUnitToken) and not UnitIsDead(namePlateUnitToken) then\n                                        local focusUnitGUID = UnitExists(\"focus\") and UnitGUID(\"focus\") or nil\n                                        local focusUnitShortenedGUID = focusUnitGUID and UnitShortenedGUID(focusUnitGUID) or nil\n                                        local unitIsPlayerFocus = focusUnitShortenedGUID and focusUnitShortenedGUID == d.caster or false\n                                        \n                                        if not unitIsPlayerFocus then\n                                            return d.permanentAssignment and d.permanentAssignment == 1 or false\n                                        end\n                                    end\n                                    break\n                                end\n                            end\n                        end\n                    end\n                    \n                    return false\n                end\n            end\n        end\n    end\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "0",
+            "dynamicDuration": false,
+            "event": "Health",
+            "events": "DEMOKRATIA_KSS_LIST",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "1IesNLZ2Wo1",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "\n\n",
+          "do_custom": false
+        },
+        "start": {
+          "do_custom": false,
+          "do_message": false,
+          "message": "",
+          "message_type": "SMARTRAID"
+        }
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "desc": "Advertise the WeakAura in party chat to get others to use it. The more people use the WeakAura the easier the dungeon is to complete in time.",
+          "key": "optionAdvertise",
+          "name": "Advertise the WeakAura in party chat",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "[WA] Coordinating stops and silences using Demokratia - easily see and join the rotation automatically by getting the WeakAura from https://wago.io/Tu1FwxLmF or https://demokratia.live",
+                "message_color": [
+                  1,
+                  0.023529414087534,
+                  0,
+                  1
+                ],
+                "message_type": "SMARTRAID"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "op": ">=",
+                "trigger": 1,
+                "value": "10",
+                "variable": "activationTime"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    local clientList = krundeSaysStop and krundeSaysStop.environment\n    and krundeSaysStop.environment.clientList or {}\n    \n    local numUsers = 0\n    for n,d in pairs(clientList) do\n        numUsers = numUsers + 1\n    end\n    \n    local currentSubgroupMemberList = {}\n    local numSubgroupMembers = GetNumSubgroupMembers()\n    for i=1,numSubgroupMembers do\n        local unitGUID = UnitGUID(\"party\"..i)\n        if unitGUID then\n            table.insert(currentSubgroupMemberList,unitGUID)    \n        end\n    end\n    \n    table.sort(currentSubgroupMemberList)\n    \n    local currentSubgroupMemberListString = table.concat(currentSubgroupMemberList)\n    local prevSubgroupMemberListString = aura_env.prevSubgroupMemberListString\n    \n    if not (prevSubgroupMemberListString and prevSubgroupMemberListString == currentSubgroupMemberListString) then\n        aura_env.prevSubgroupMemberListString = currentSubgroupMemberListString\n        if numUsers < 5 then\n            return true\n        end \n    end\n    \n    return false\nend\n\n\n",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.optionAdvertise\nend",
+                "variable": "customcheck"
+              }
+            ],
+            "op": ">=",
+            "trigger": -2,
+            "variable": "AND"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "chat",
+              "value": {
+                "message": "[WA] Coordinated stops and silences using Demokratia - easily see and join the rotation automatically by getting the WeakAura from https://wago.io/Tu1FwxLmF or https://demokratia.live",
+                "message_color": [
+                  1,
+                  0.023529414087534,
+                  0,
+                  1
+                ],
+                "message_type": "SMARTRAID"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 2,
+                "value": 1,
+                "variable": "show"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    local clientList = krundeSaysStop and krundeSaysStop.environment\n    and krundeSaysStop.environment.clientList or {}\n    \n    local numUsers = 0\n    \n    for n,d in pairs(clientList) do\n        numUsers = numUsers + 1 \n    end\n    \n    if numUsers < 5 then\n        return true\n    else\n        return false\n    end\nend",
+                "variable": "customcheck"
+              },
+              {
+                "trigger": -1,
+                "value": "function()\n    return aura_env.config.optionAdvertise == true\nend\n\n",
+                "variable": "customcheck"
+              }
+            ],
+            "op": ">=",
+            "trigger": -2,
+            "variable": "AND"
+          }
+        }
+      ],
+      "config": {
+        "optionAdvertise": true
+      },
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - Krunde says... ADVERTISE",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "difficulty": [],
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          ">="
+        ],
+        "group_leader": {
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "instance_type": {
+          "multi": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            true,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            true
+          ],
+          "single": 23
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": true,
+        "use_group_leader": true,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Location",
+            "ingroup": {
+              "multi": {
+                "group": true
+              },
+              "single": "group"
+            },
+            "instanceDifficulty": [],
+            "instanceType": {
+              "multi": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                true,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                true
+              ],
+              "single": 23
+            },
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_ingroup": true,
+            "use_instanceType": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "custom": "function()    \n    return true\nend",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "5",
+            "event": "GTFO",
+            "events": "CHALLENGE_MODE_COMPLETED",
+            "type": "custom",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "disjunctive": "any"
+      },
+      "uid": "Z30xx9n5fL6",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    \n    local krundeSaysOutputObject = krundeSaysOutput\n    if not krundeSaysOutputObject then\n        local environment = {\n            config = config,\n        }\n        \n        local krundeSaysOutputObject = {}\n        krundeSaysOutputObject.environment = environment\n        \n        demokratiaObject.init(\"timer\", environment)\n        \n        krundeSaysOutputObject.outputBuffer = krundeSaysOutputObject.outputBuffer or {}\n        demokratiaObject.init(\"krundeSaysOutputBuffer\", krundeSaysOutputObject.outputBuffer, environment.newTimer)\n        \n        setglobal(\"krundeSaysOutput\", krundeSaysOutputObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSaysOutputBuffer\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": true,
+          "do_custom_unload": true
+        },
+        "start": {
+          "do_message": false
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": [],
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": false,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Demokratia - Krunde says... OUTPUTBUFFER",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "group_leader": {
+          "multi": {
+            "LEADER": true
+          },
+          "single": "LEADER"
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says...",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "any"
+      },
+      "uid": "IDd61lqmHtQ",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local listFormaterClass = demokratiaObject.registerClass(\"krundeSaysListFormater\")\n    function listFormaterClass.init(listFormater, trackedSpellsInPriorityOrder, priorityOrderString)\n        local spellPriorities = {} \n        if priorityOrderString then\n            local numSpells = 0\n            priorityOrderString = string.gsub(priorityOrderString, \",\", \" \")\n            repeat\n                numSpells = numSpells + 1\n                local _,_,assignedPriorityString,priorityOrderStringRemainder = string.find(priorityOrderString,\"%s-(%S+)(.*)\")\n                if assignedPriorityString then\n                    local assignedPriority = tonumber(assignedPriorityString)\n                    spellPriorities[numSpells] = assignedPriority\n                end\n                priorityOrderString = priorityOrderStringRemainder\n            until not assignedPriorityString\n        end\n        \n        listFormater.trackedSpells = listFormater.trackedSpells or {}\n        table.wipe(listFormater.trackedSpells)\n        \n        for n, d in ipairs(trackedSpellsInPriorityOrder) do\n            if type(d) == \"table\" and d.spellId then\n                listFormater.trackedSpells[d.spellId] = {priority = spellPriorities[n] ~= nil and spellPriorities[n] or n}\n            end\n        end\n        \n        return true\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - krundeSaysListFormater class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "uiOj4Yh)KuP",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 05/07/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local outputBufferClass = demokratiaObject.registerClass(\"krundeSaysOutputBuffer\")\n    function outputBufferClass.init(outputBuffer, NewTimer)\n        \n        function outputBuffer.sendPending()\n            local sending = false\n            \n            local versionString = \"VER: 1\"\n            local versionStringLength = #versionString\n            local versionStringLengthString = \" \"..tostring(versionStringLength)..\" \"\n            local message = \"MULTI:\"..versionStringLengthString..versionString\n            local sentItemsList = {}\n            \n            outputBuffer.sendables = outputBuffer.sendables or {}\n            for n, d in pairs(outputBuffer.sendables) do\n                local messageLength = #message\n                local partMessageLengthString = \" \"..tostring(d.messageLength)..\" \"\n                if messageLength + #partMessageLengthString + d.messageLength <= 255 then\n                    message = message..partMessageLengthString..d.message\n                    \n                    table.insert(sentItemsList, n)\n                    sending = true\n                end\n            end\n            \n            if sending then\n                local sendAddonMessageResult = C_ChatInfo.SendAddonMessage(\"KRUNDESAYS\", message, outputBuffer.chatType)\n                \n                if not (sendAddonMessageResult == 3 or sendAddonMessageResult == 8) then\n                    for i, n in ipairs(sentItemsList) do\n                        outputBuffer.sendables[n] = nil\n                    end\n                end\n            end\n            return sending\n        end\n        \n        function outputBuffer.trySendPending(pend)\n            if not outputBuffer.spamFilterTimer then\n                local messageSentOrPended = pend == true or outputBuffer.sendPending()\n                outputBuffer.spamFilterTimer = messageSentOrPended and NewTimer(1,\n                    function()\n                        outputBuffer.spamFilterTimer = nil\n                        outputBuffer.trySendPending(false)\n                    end\n                ) or nil\n            end\n        end \n        \n        function outputBuffer.process(chatType, command, commandData, ...)\n            if command ~= nil and\n            (chatType == \"PARTY\" or chatType == \"INSTANCE_CHAT\" or chatType == \"RAID\") then\n                local tryImmediateSend = ...\n                local message = command..\": \"\n                if commandData then message = message..commandData end\n                \n                outputBuffer.sendables = outputBuffer.sendables or {}\n                outputBuffer.sendables[command] = {messageLength = #message, message = message}\n                outputBuffer.chatType = chatType\n                outputBuffer.trySendPending(tryImmediateSend ~= true)\n            end\n        end\n        \n        return true\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 05/07/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - krundeSaysOutputBuffer class",
+      "information": {
+        "debugLog": false
+      },
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "VZ8ubF3f8Sq",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 05/07/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local krundeSaysMessageHandlerClass = demokratiaObject.registerClass(\"krundeSaysMessageHandler\")\n    function krundeSaysMessageHandlerClass.init(krundeSaysMessageHandler)\n        \n        function krundeSaysMessageHandler.register(command, handler)\n            if command and type(command) == \"table\" and handler == nil then\n                for n,d in pairs(command) do\n                    krundeSaysMessageHandler.register(n, d)\n                end\n            elseif command and type(command) == \"string\" and handler and type(handler) == \"function\" then\n                krundeSaysMessageHandler.handlers = krundeSaysMessageHandler.handlers or {}\n                krundeSaysMessageHandler.handlers[command] = handler\n            end\n        end\n        \n        local decoder = {}\n        \n        function decoder.multi(data)\n            local dataToProcess = data\n            repeat\n                local _,_,commandLen, multiData = string.find(dataToProcess, \"%s*([%d]*)%s*(.*)\")\n                if not commandLen and multiData then break end\n                local commandString = string.sub(multiData, 1, commandLen)\n                if not commandString then break end\n                decoder.single(commandString)\n                dataToProcess = string.sub(multiData, commandLen + 1, -1)    \n            until (not dataToProcess or #dataToProcess == 0)\n        end\n        \n        function decoder.single(data)\n            local _,_,command, commandData = string.find(data, \"%s*([^:]*):%s*(.-)$\")\n            krundeSaysMessageHandler.handlers = krundeSaysMessageHandler.handlers or {}\n            if command and krundeSaysMessageHandler.handlers[command] then\n                krundeSaysMessageHandler.handlers[command](commandData)\n            end    \n        end        \n        \n        krundeSaysMessageHandler.register(\"MULTI\", decoder.multi)\n        \n        function krundeSaysMessageHandler.process(event, prefix, message, channel, ...)\n            if event == \"CHAT_MSG_ADDON\" and prefix == \"KRUNDESAYS\" then\n                if message ~= nil and string.find(message, \"VER: 1\") and\n                (channel == \"PARTY\" or channel == \"INSTANCE_CHAT\" or channel == \"RAID\") then\n                    decoder.single(message)\n                end\n            end\n        end\n        \n        \n        return true\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 05/07/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - krundeSaysMessageHandler class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "mKl2MZWZdso",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local krundeSaysDataSourceClass = demokratiaObject.registerClass(\"krundeSaysDataSource\")\n    \n    function krundeSaysDataSourceClass.init(krundeSaysDataSource, trackedSpells, cooldownSortFunction, listUpdatedCallback)\n        if krundeSaysDataSource and trackedSpells and cooldownSortFunction and listUpdatedCallback then\n            krundeSaysDataSource.trackedCooldowns = krundeSaysDataSource.trackedCooldowns or {}\n            \n            local function recalculateSortedList(cdList)\n                krundeSaysDataSource.sortedTrackedCooldowns = krundeSaysDataSource.sortedTrackedCooldowns or {}\n                table.wipe(krundeSaysDataSource.sortedTrackedCooldowns)\n                \n                for _, d in pairs(cdList) do\n                    table.insert(krundeSaysDataSource.sortedTrackedCooldowns, d)\n                end\n                \n                table.sort(krundeSaysDataSource.sortedTrackedCooldowns, cooldownSortFunction)\n                \n                listUpdatedCallback(krundeSaysDataSource.sortedTrackedCooldowns)\n            end\n            \n            local function occupyList(cdList, unitGUID, spellId, isReady, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration, priority, doNotElevate)\n                if not string.find(unitGUID, \"Player%-\") then return end\n                -- Typhoon quirk in libOpenRaid\n                if spellId == 132469\n                then\n                    spellId = 61391\n                end \n                \n                local indexString = unitGUID..\" \"..tostring(spellId)\n                \n                cdList[indexString] = cdList[indexString] or {}\n                cdList[indexString].unitGUID = unitGUID\n                cdList[indexString].spellId = spellId\n                cdList[indexString].isReady = isReady\n                cdList[indexString].timeLeft = timeLeft\n                cdList[indexString].endTime = maxValue\n                cdList[indexString].cooldownDuration = cooldownDuration\n                cdList[indexString].priority = priority\n                \n                recalculateSortedList(cdList)\n            end\n            \n            local function deOccupyList(cdList, unitGUID, spellId)\n                if not string.find(unitGUID, \"Player%-\") then return end\n                -- Typhoon quirk in libOpenRaid\n                if spellId == 132469\n                then\n                    spellId = 61391\n                end \n                \n                local indexString = unitGUID..\" \"..tostring(spellId)\n                \n                cdList[indexString] = nil\n                \n                recalculateSortedList(cdList)\n            end\n            \n            local function updateTrackedCooldown(unitId, spellId, isReady, percent, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration)\n                local unitGUID = UnitGUID(unitId)\n                if unitGUID then\n                    if trackedSpells[spellId] then\n                        --print(\"updateTrackedCooldown\", unitId, spellId, isReady, percent, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration)\n                        occupyList(krundeSaysDataSource.trackedCooldowns, unitGUID, spellId, isReady and charges > 0, timeLeft, charges, minValue, maxValue, currentValue, cooldownDuration,\n                            trackedSpells[spellId].priority, trackedSpells[spellId].doNotElevate)\n                    end\n                end\n            end\n            \n            local function removeTrackedCooldown(unitId, spellId)\n                --print(\"removeTrackedCooldown\", unitId, spellId)\n                local unitGUID = UnitGUID(unitId)\n                if unitGUID then\n                    if trackedSpells[spellId] then\n                        deOccupyList(krundeSaysDataSource.trackedCooldowns, unitGUID, spellId)\n                    end\n                end\n            end\n            \n            local function removeUnitCooldowns(unitId, excludeList)\n                local unitGUID = UnitGUID(unitId)\n                if unitGUID then\n                    for n, d in pairs(krundeSaysDataSource.trackedCooldowns) do\n                        if unitGUID == d.unitGUID and not (excludeList and excludeList[d.spellId]) then\n                            --print(\"removeUnitCooldowns\", d.unitGUID, d.spellId, d.priority)\n                            deOccupyList(krundeSaysDataSource.trackedCooldowns, d.unitGUID, d.spellId)\n                        end\n                    end\n                end\n            end\n            \n            local function resetTrackedCooldowns()\n                --print(\"resetTrackedCooldowns\")\n                for n, _ in pairs(krundeSaysDataSource.trackedCooldowns) do\n                    krundeSaysDataSource.trackedCooldowns[n] = nil\n                end\n                recalculateSortedList(krundeSaysDataSource.trackedCooldowns)\n            end\n            \n            local krundeSaysDataSourceCallbacks = {\n                updateTrackedCooldown = updateTrackedCooldown,\n                removeTrackedCooldown = removeTrackedCooldown,\n                removeUnitCooldowns = removeUnitCooldowns,\n                resetTrackedCooldowns = resetTrackedCooldowns,\n            }\n            \n            krundeSaysDataSource.callbacks = krundeSaysDataSourceCallbacks\n            \n            function krundeSaysDataSource.forceRecalculateList()\n                recalculateSortedList(krundeSaysDataSource.trackedCooldowns)\n            end\n            \n            function krundeSaysDataSource.clean()\n                for n, d in pairs(krundeSaysDataSource.trackedCooldowns) do\n                    if not IsGUIDInGroup(d.unitGUID) then\n                        --print(\"remove left\", d.unitGUID, d.spellId)\n                        deOccupyList(krundeSaysDataSource.trackedCooldowns, d.unitGUID, d.spellId)\n                    end\n                end\n            end\n            \n            return true\n        end\n        \n        return false\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - krundeSaysDataSource class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "BsUYM6slbeX",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject)\n    local krundeSaysServerClass = demokratiaObject.registerClass(\"krundeSaysServer\")\n    \n    local function UnitShortenedGUID(unitGUID)\n        local _,_,shortenedGUID = string.find(unitGUID, \"Player%-(.*)\")\n        return shortenedGUID\n    end\n    \n    function krundeSaysServerClass.init(krundeSaysServer)\n        \n        function krundeSaysServer.sendServerRequest(environment, messageStart)\n            if environment.outputBuffer then\n                local chatType = nil\n                \n                if IsInRaid() then\n                    chatType =\"RAID\"\n                elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                    chatType =\"INSTANCE_CHAT\"\n                elseif IsInGroup() then\n                    chatType =\"PARTY\"\n                end\n                \n                if chatType then\n                    local messageStart = environment.serverTag..\" REQUESTSERVER: \" --fixme\n                    local message = messageStart..UnitShortenedGUID(UnitGUID(\"player\"))\n                    local command = string.sub(message, 1, #messageStart - 2)\n                    local commandData = string.sub(message, #messageStart, -1)\n                    environment.outputBuffer.process(chatType, command, commandData)\n                end\n            end\n        end\n        \n        function krundeSaysServer.sendServerAnnounce(environment, messageStart)\n            if environment.outputBuffer then\n                local chatType = nil\n                \n                if IsInRaid() then\n                    chatType =\"RAID\"\n                elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                    chatType =\"INSTANCE_CHAT\"\n                elseif IsInGroup() then\n                    chatType =\"PARTY\"\n                end\n                \n                if chatType then\n                    local messageStart = environment.serverTag..\" SERVER: \"\n                    local message = messageStart..UnitShortenedGUID(UnitGUID(\"player\"))..\" 1\"\n                    local command = string.sub(message, 1, #messageStart - 2)\n                    local commandData = string.sub(message, #messageStart, -1)\n                    environment.outputBuffer.process(chatType, command, commandData)\n                end\n            end\n        end\n        \n        local function refreshSortedServerList(environment)\n            local groupLeaderGUID = nil\n            environment.sortedServerList = environment.sortedServerList or {}\n            table.wipe(environment.sortedServerList)\n            \n            environment.serverList = environment.serverList or {}\n            \n            for n, _ in pairs(environment.serverList) do\n                local unitToken = UnitTokenFromGUID(n)\n                if unitToken and UnitIsConnected(unitToken) then\n                    if UnitIsGroupLeader(unitToken) then\n                        groupLeaderGUID = n\n                    else\n                        table.insert(environment.sortedServerList, n)\n                    end\n                end\n            end\n            \n            table.sort(environment.sortedServerList)\n            if groupLeaderGUID then\n                table.insert(environment.sortedServerList, 1, groupLeaderGUID)\n            end\n        end\n        \n        function krundeSaysServer.playerIsFirstOnServerList(environment)\n            environment.sortedServerList = environment.sortedServerList or {}\n            \n            if #environment.sortedServerList > 0 then\n                local firstOnListToken = UnitTokenFromGUID(environment.sortedServerList[1])\n                if firstOnListToken and UnitIsUnit(firstOnListToken, \"player\") then\n                    return true\n                end\n            end\n            return false\n        end\n        \n        function krundeSaysServer.newClient(environment, shortenedGUID, version)\n            if shortenedGUID then\n                local senderGUID = \"Player-\"..shortenedGUID\n                environment.clientList = environment.clientList or {}\n                if not environment.clientList[senderGUID] then\n                    environment.clientList[senderGUID] = version\n                    environment.forceSendForNewClients = true\n                    \n                    local numberClients = 0\n                    for _, _ in pairs(environment.clientList) do\n                        numberClients = numberClients + 1\n                    end\n                    environment.numberClients = numberClients\n                    if environment.clientListUpdate then\n                        environment.clientListUpdate(environment, clientList, numberClients)\n                    end\n                end\n                \n                environment.triggerPublish(environment)\n            end\n        end\n        \n        function krundeSaysServer.newImpotentClient(environment, shortenedGUID)\n            if shortenedGUID then\n                local senderGUID = \"Player-\"..shortenedGUID\n                environment.impotentClientList = environment.impotentClientList or {}\n                if not environment.impotentClientList[senderGUID] then\n                    environment.impotentClientList[senderGUID] = true\n                end\n                environment.triggerPublish(environment)\n            end\n        end\n        \n        function krundeSaysServer.newServer(environment, shortenedGUID, version)\n            if shortenedGUID then\n                local senderGUID = \"Player-\"..shortenedGUID\n                environment.serverList = environment.serverList or {}\n                if not environment.serverList[senderGUID] then\n                    environment.serverList[senderGUID] = version\n                    refreshSortedServerList(environment)\n                end\n                \n                environment.triggerPublish(environment)\n            end\n        end\n        \n        function krundeSaysServer.removeLeftMembers(environment)\n            local clientListChanged = false\n            local numberClients = 0\n            environment.clientList = environment.clientList or {}\n            for n, _ in pairs(environment.clientList) do\n                if not IsGUIDInGroup(n) then\n                    environment.clientList[n] = nil\n                    clientListChanged = true\n                else\n                    numberClients = numberClients + 1\n                end\n            end\n            environment.numberClients = numberClients\n            if clientListChanged and environment.clientListUpdate then\n                environment.clientListUpdate(environment, environment.clientList, numberClients)\n            end\n            \n            local serverListChanged = false\n            environment.serverList = environment.serverList or {}\n            for n, _ in pairs(environment.serverList) do\n                if not IsGUIDInGroup(n) then\n                    environment.serverList[n] = nil\n                    serverListChanged = true\n                end\n            end\n            if serverListChanged then\n                refreshSortedServerList(environment)\n            end\n            environment.triggerPublish(environment)\n        end\n        \n        function krundeSaysServer.groupMemberStatusChange(environment, couldChangeServer)\n            if couldChangeServer then\n                refreshSortedServerList(environment)\n            end\n            \n            environment.triggerPublish(environment)\n        end\n        \n        function krundeSaysServer.outOfCombat(environment)\n            environment.forceOutOfCombatReset = true\n            environment.triggerPublish(environment)\n        end\n        \n        function krundeSaysServer.groupLeft(environment)\n            environment.groupRolesSettled = nil\n            if environment.settlementTimer then environment.settlementTimer:Cancel() end\n        end\n        \n        function krundeSaysServer.letGroupSettleRoles(environment)\n            environment.groupRolesSettled = nil\n            if environment.settlementTimer then environment.settlementTimer:Cancel() end\n            environment.settlementTimer = environment.newTimer(6,\n                function()\n                    environment.settlementTimer = nil\n                    environment.groupRolesSettled = true\n                    environment.triggerPublish(environment)\n                end\n            )\n        end\n        \n        function krundeSaysServer.publishCooldownList(environment, sortedList)\n            if not sortedList then\n                return\n            end\n            \n            if not environment.groupRolesSettled or not krundeSaysServer.playerIsFirstOnServerList(environment) then\n                return\n            end\n            \n            local maxSendAmount = environment.maxSendAmount or 3\n            local chatType = nil\n            local messageStart = environment.serverTag..\" LIST: \" --fixme\n            local message = \"\"..messageStart\n            local sendList = {}\n            \n            environment.clientList = environment.clientList or {}\n            \n            for _, d in ipairs(sortedList) do\n                local unitToken = UnitTokenFromGUID(d.unitGUID)\n                if unitToken and (environment.publishNonClientSpells or environment.clientList[d.unitGUID])\n                and (not environment.unitIsEnabled and true or environment.unitIsEnabled(environment, unitToken)) then\n                    table.insert(sendList, d)\n                end\n            end\n            \n            environment.prevSpellList = environment.prevSpellList or {}\n            \n            if not environment.forceOutOfCombatReset and environment.groupInCombat() then\n                if environment.prevSpellList[1]\n                and environment.prevSpellList[1].isReady == true then\n                    \n                    for n, d in ipairs(sendList) do\n                        if d.spellId == environment.prevSpellList[1].spell\n                        and d.unitGUID == environment.prevSpellList[1].caster\n                        and d.isReady then\n                            table.remove(sendList, n)\n                            table.insert(sendList, 1, d)\n                        end\n                    end\n                end\n            else\n                environment.forceOutOfCombatReset = nil\n            end\n            \n            environment.impotentClientList = environment.impotentClientList or {}\n            for impotentClient, _ in pairs(environment.impotentClientList) do\n                if sendList[1]\n                and sendList[1].isReady == true\n                and sendList[1].unitGUID == impotentClient then\n                    for n, d in ipairs(sendList) do\n                        if sendList[n]\n                        and sendList[n].unitGUID ~= impotentClient\n                        and sendList[n].isReady == true then\n                            table.remove(sendList, n)\n                            table.insert(sendList, 1, d)\n                            break\n                        end\n                    end\n                end\n            end\n            table.wipe(environment.impotentClientList)\n            \n            if (#sendList <= maxSendAmount and #sendList ~= #environment.prevSpellList)\n            or (#sendList > maxSendAmount and maxSendAmount ~= #environment.prevSpellList)\n            or environment.forceSendForNewClients == true then\n                environment.forceSendForNewClients = nil\n                \n                if IsInRaid() then\n                    chatType = \"RAID\"\n                elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                    chatType =\"INSTANCE_CHAT\"\n                elseif IsInGroup() then\n                    chatType =\"PARTY\"\n                end\n            end\n            \n            for n, d in ipairs(sendList) do\n                if environment.prevSpellList[n]\n                and (environment.prevSpellList[n].isReady ~= d.isReady\n                    or environment.prevSpellList[n].isMuted ~= d.isMuted\n                    or environment.prevSpellList[n].spell ~= d.spellId\n                    or environment.prevSpellList[n].caster ~= d.unitGUID\n                    or math.abs(environment.prevSpellList[n].cdEndTime - d.endTime) > 1) then\n                    \n                    if IsInRaid() then\n                        chatType = \"RAID\"\n                    elseif IsInGroup(LE_PARTY_CATEGORY_INSTANCE) then\n                        chatType =\"INSTANCE_CHAT\"\n                    elseif IsInGroup() then\n                        chatType =\"PARTY\"\n                    end\n                end\n                \n                environment.prevSpellList[n] = {\n                    isReady = d.isReady,\n                    isMuted = d.isMuted,\n                    spell = d.spellId,\n                    caster = d.unitGUID,\n                    cdEndTime = d.endTime or 0,\n                }\n                \n                local currentTime = GetTime()\n                local timeLeft = (d.endTime > currentTime) and math.ceil(d.endTime - currentTime) or 0\n                local unitShortenedGUID = UnitShortenedGUID(d.unitGUID)\n                \n                if n == 1 then\n                    if d.isReady and not d.isMuted then\n                        message = message..unitShortenedGUID..\" / (\"..d.spellId..\") {\"\n                        if n == #sendList then\n                            message =  message..\"}\"\n                            break\n                        end\n                    else\n                        message = message..\"{\"..unitShortenedGUID..\" / (\"..d.spellId..\")\"\n                        if not d.isReady then\n                            message = message..\"[\"..timeLeft..\"]\"\n                        end\n                        if n == #sendList then\n                            message =  message..\"}\"\n                            break\n                        else\n                            message =  message..\", \"\n                        end\n                    end\n                else\n                    message = message..unitShortenedGUID..\" / (\"..d.spellId..\")\"\n                    if not d.isReady then\n                        message = message..\"[\"..timeLeft..\"]\"\n                    end\n                    \n                    if n >= maxSendAmount or n == #sendList then\n                        message =  message..\"}\"\n                        break\n                    else\n                        message =  message..\", \"\n                    end \n                end\n            end\n            \n            local sendListLength = #sendList > maxSendAmount and maxSendAmount or #sendList\n            while environment.prevSpellList[sendListLength + 1] ~= nil do\n                table.remove(environment.prevSpellList, sendListLength + 1)\n            end\n            \n            if chatType then\n                if environment.numberClients and environment.minNumberClients\n                and environment.numberClients < environment.minNumberClients\n                and not environment.publishNonClientSpells then\n                    message = messageStart\n                end\n                \n                if environment.outputBuffer then\n                    local command = string.sub(message, 1, #messageStart - 2)\n                    local commandData = string.sub(message, #messageStart, -1)\n                    \n                    environment.outputBuffer.process(chatType, command, commandData, true)\n                end\n            end\n        end\n        \n        return true\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction)\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true,
+          "do_custom_load": false
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - krundeSaysServer class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "0t6(mubORph",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": {
+          "custom": "--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local krundeSaysClass = demokratiaObject.registerClass(\"krundeSays\")\n    function krundeSaysClass.init(krundeSays, trackedSpellsInPriorityOrder, cooldownSortFunction, listUpdatedCallback, priorityOrderString)\n        \n        krundeSays.listFormater = krundeSays.listFormater or {}\n        krundeSays.trackedSpellsInPriorityOrder = trackedSpellsInPriorityOrder\n        krundeSays.krundeSaysDataSource = krundeSays.krundeSaysDataSource or {}\n        krundeSays.listUpdatedCallback = listUpdatedCallback\n        krundeSays.cooldownSortFunction = cooldownSortFunction\n        krundeSays.libORclient = krundeSays.libORclient or {}\n        \n        demokratiaObject.init(\"krundeSaysListFormater\", krundeSays.listFormater, krundeSays.trackedSpellsInPriorityOrder, priorityOrderString)\n        demokratiaObject.init(\"krundeSaysDataSource\", krundeSays.krundeSaysDataSource, krundeSays.listFormater.trackedSpells, krundeSays.cooldownSortFunction, krundeSays.listUpdatedCallback)\n        demokratiaObject.init(\"libORclient\", krundeSays.libORclient, krundeSays.krundeSaysDataSource.callbacks)\n        \n        return true\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSaysListFormater\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysDataSource\"),\n        demokratiaObject.moduleDependencyClass(\"libORclient\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+          "do_custom": true
+        },
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "conditions": [],
+      "config": [],
+      "desc": "Author: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Demokratia - krundeSays class",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "ingroup": {
+          "multi": {
+            "group": true
+          },
+          "single": "group"
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_ingroup": true,
+        "use_never": false
+      },
+      "parent": "Demokratia - Krunde says...",
+      "regionType": "empty",
+      "selfPoint": "CENTER",
+      "semver": "1.0.232",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Conditions",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "unit",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_alwaystrue": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10
+      },
+      "uid": "7EsqLuZKmZX",
+      "url": "https://wago.io/Tu1FwxLmF/233",
+      "version": 233,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "xOffset": 0,
+      "yOffset": 0
+    }
+  ],
+  "d": {
+    "actions": {
+      "finish": [],
+      "init": [],
+      "start": []
+    },
+    "alpha": 1,
+    "anchorFrameType": "SCREEN",
+    "anchorPoint": "CENTER",
+    "animation": {
+      "finish": {
+        "duration_type": "seconds",
+        "easeStrength": 3,
+        "easeType": "none",
+        "type": "none"
+      },
+      "main": {
+        "duration_type": "seconds",
+        "easeStrength": 3,
+        "easeType": "none",
+        "type": "none"
+      },
+      "start": {
+        "duration_type": "seconds",
+        "easeStrength": 3,
+        "easeType": "none",
+        "type": "none"
+      }
+    },
+    "authorOptions": [],
+    "backdropColor": [
+      1,
+      1,
+      1,
+      0.5
+    ],
+    "border": false,
+    "borderBackdrop": "Blizzard Tooltip",
+    "borderColor": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "borderEdge": "Square Full White",
+    "borderInset": 1,
+    "borderOffset": 4,
+    "borderSize": 2,
+    "conditions": [],
+    "config": [],
+    "controlledChildren": [
+      "Demokratia - LICENCE",
+      "Demokratia - base run-time library",
+      "Demokratia - DB",
+      "Demokratia - Generic Library",
+      "Demokratia - EAS",
+      "Demokratia - GG",
+      "Demokratia - Krunde says..."
+    ],
+    "desc": "https://demokratia.live\n\nCombat UI including stop, silence and interrupt sequencer.\n\nAuthor: Krunde 2025 <krunde@demokratia.live>\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+    "frameStrata": 1,
+    "groupIcon": 236681,
+    "id": "Demokratia",
+    "information": {
+      "debugLog": false
+    },
+    "internalVersion": 86,
+    "load": {
+      "class": {
+        "multi": []
+      },
+      "size": {
+        "multi": []
+      },
+      "spec": {
+        "multi": []
+      },
+      "talent": {
+        "multi": []
+      }
+    },
+    "regionType": "group",
+    "scale": 1,
+    "selfPoint": "CENTER",
+    "semver": "1.0.232",
+    "subRegions": [],
+    "tocversion": 110205,
+    "triggers": [
+      {
+        "trigger": {
+          "debuffType": "HELPFUL",
+          "event": "Health",
+          "names": [],
+          "spellIds": [],
+          "subeventPrefix": "SPELL",
+          "subeventSuffix": "_CAST_START",
+          "type": "aura2",
+          "unit": "player"
+        },
+        "untrigger": []
+      }
+    ],
+    "uid": "KsJiyc6zpSN",
+    "url": "https://wago.io/Tu1FwxLmF/233",
+    "version": 233,
+    "wagoID": "Tu1FwxLmF",
+    "xOffset": 130,
+    "yOffset": 263
+  },
+  "m": "d",
+  "s": "5.20.4",
+  "v": 2000,
+  "wagoID": "Tu1FwxLmF"
+}
