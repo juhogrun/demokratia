@@ -62,7 +62,7 @@
       "parent": "Demokratia",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -86,8 +86,8 @@
         "activeTriggerMode": -10
       },
       "uid": "(JouF38Ynd6",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -158,7 +158,7 @@
       "parent": "Demokratia",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -182,8 +182,8 @@
         "activeTriggerMode": -10
       },
       "uid": "vM9D(QlGkFd",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -250,7 +250,7 @@
       "parent": "Demokratia",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -275,8 +275,8 @@
         "disjunctive": "any"
       },
       "uid": "jDwpc3U8jRf",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -362,7 +362,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -381,8 +381,8 @@
         }
       ],
       "uid": "3YPYp5X0cdR",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -452,7 +452,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -476,8 +476,8 @@
         "activeTriggerMode": -10
       },
       "uid": "(p2B5zY0HQ8",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -548,7 +548,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -572,8 +572,8 @@
         "activeTriggerMode": -10
       },
       "uid": "o))fQUepZYl",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -644,7 +644,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -668,8 +668,8 @@
         "activeTriggerMode": -10
       },
       "uid": "jGhq)lroJHI",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -740,7 +740,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -764,8 +764,8 @@
         "activeTriggerMode": -10
       },
       "uid": "w5Mcd95a3Bt",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -836,7 +836,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -860,8 +860,8 @@
         "activeTriggerMode": -10
       },
       "uid": "XBTno01E1pr",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -952,7 +952,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -971,8 +971,8 @@
         }
       ],
       "uid": "x9tqBsPVaqE",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -1035,7 +1035,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1055,8 +1055,8 @@
         "activeTriggerMode": -10
       },
       "uid": "aDQivS8MWWa",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1122,7 +1122,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1142,8 +1142,8 @@
         "activeTriggerMode": -10
       },
       "uid": "vs5rNE)hxX1",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1207,7 +1207,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1227,8 +1227,8 @@
         "activeTriggerMode": -10
       },
       "uid": "dPQBISsgZVf",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1292,7 +1292,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1312,8 +1312,8 @@
         "activeTriggerMode": -10
       },
       "uid": "6BC)lk)tLu7",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1377,7 +1377,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1397,8 +1397,8 @@
         "activeTriggerMode": -10
       },
       "uid": "iqysGSxoJee",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1462,7 +1462,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1482,8 +1482,8 @@
         "activeTriggerMode": -10
       },
       "uid": "X1XMUx9Jksf",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1676,7 +1676,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1700,8 +1700,8 @@
         "activeTriggerMode": -10
       },
       "uid": "9n5Y90vYz63",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1806,11 +1806,11 @@
         },
         {
           "default": true,
-          "desc": "Requires Plater",
+          "desc": "",
           "key": "enabledHiVis",
           "name": "High Visibility mode for finding own assigned focus target",
           "type": "toggle",
-          "useDesc": true,
+          "useDesc": false,
           "width": 2
         },
         {
@@ -1887,7 +1887,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1911,8 +1911,8 @@
         "activeTriggerMode": -10
       },
       "uid": "oEMHwVivo9f",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1922,7 +1922,7 @@
       "actions": {
         "finish": [],
         "init": {
-          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    \n    local krundeSaysCastbarObject = krundeSaysCastbar\n    if not krundeSaysCastbarObject then\n        local krundeSaysCastbarObject = {}\n        \n        local environment = {\n            playerGUID = UnitGUID(\"player\"),\n            playerClass = select(3, UnitClass(\"player\")),\n            config = config,\n        }\n        \n        krundeSaysCastbarObject.environment = environment\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        demokratiaObject.init(\"EAS\", environment)\n        \n        local function unitIsLieutenant(unitId)\n            local unitLevel = UnitLevel(unitId)\n            local playerLevel = UnitLevel(\"player\")\n            return UnitIsBossMob(unitId) or unitLevel > playerLevel\n        end\n        \n        local function unitIsNotLieutenant(unitId)\n            return not unitIsLieutenant(unitId)\n        end\n        \n        local classInterrupts = {\n            {\n                {spellId = 6552}, --Pummel (warrior)\n                {spellId = 386071, secondary=true, onGCD = true}, --Disrupting Shout (warrior [protection])\n            },\n            {\n                {spellId = 96231}, --Rebuke (paladin)\n                {spellId = 31935, secondary=true, onGCD = true}, --Avenger's Shield (paladin [protection])\n            },\n            {\n                \n                {spellId = 187707}, --Muzzle (hunter [survival])\n                {spellId = 147362}, --Counter Shot (hunter [beast mastery, marksmanship])\n            },\n            {\n                {spellId = 1766}, --Kick (rogue)\n            },\n            {\n                {spellId = 15487}, --Silence (priest [shadow])\n            },\n            {\n                {spellId = 47528}, --Mind Freeze (death knight)\n                {spellId = 108199, secondary=true, onGCD = true, talentId=206970, unitFilter=unitIsNotLieutenant}, -- Gorefiend's Grasp (death knight [blood])\n            },\n            {\n                {spellId = 57994}, --Wind Shear (shaman)\n            },\n            {\n                {spellId = 2139}, --Counterspell (mage)\n            },\n            {\n                {spellId = 19647}, --Spell Lock (warlock [felhunter])\n                {spellId = 89766}, --Axe Toss (warlock [felguard])\n            },\n            {\n                {spellId = 116705}, --Spear Hand Strike (monk)\n            },\n            {\n                {spellId = 106839}, --Skull Bash (druid [feral, guardian]))\n                {spellId = 78675}, --Solar Beam (druid [balance])\n            },\n            {\n                {spellId = 183752}, --Disrupt (demon hunter)\n                {spellId = 202137, secondary=true, onGCD = true}, --Sigil of Silence (demon hunter [vengeance])\n            },\n            {\n                {spellId = 351338}, --Quell (evoker)\n            },\n        }\n        \n        local function NameplateUpdate(self, unitId, unitFrame, modTable, parentFrame, castBarFrame)\n            local function AnchorFrameNumericAnchor(numericAnchor)\n                local anchorRaw\n                \n                if numericAnchor % 3 == 1 then\n                    anchorRaw = 4\n                elseif numericAnchor % 3 == 0 then\n                    anchorRaw = 6\n                else\n                    if numericAnchor < 4 then\n                        anchorRaw = 2\n                    elseif numericAnchor > 6 then\n                        anchorRaw = 8\n                    else\n                        anchorRaw = 5\n                    end\n                end\n                \n                return anchorRaw\n            end\n            \n            local function IndicatorNumericAnchor(numericAnchor)\n                local anchorH = 2\n                local anchorV = 3\n                \n                if numericAnchor % 3 == 1 then\n                    anchorH = 3\n                elseif numericAnchor % 3 == 0 then\n                    anchorH = 1\n                else\n                    if numericAnchor < 4 then\n                        anchorV = 6\n                    elseif numericAnchor > 6 then\n                        anchorV = 0\n                    end\n                end\n                \n                return anchorH + anchorV\n            end\n            \n            local function StringAnchor(numericAnchor)\n                local verticality\n                if numericAnchor < 4 then\n                    verticality = \"TOP\"\n                elseif numericAnchor > 6 then\n                    verticality = \"BOTTOM\"\n                else\n                    verticality = \"\"\n                end\n                \n                local horizontality\n                if numericAnchor % 3 == 1 then\n                    horizontality = \"LEFT\"\n                elseif numericAnchor % 3 == 0 then\n                    horizontality = \"RIGHT\"\n                else\n                    horizontality = \"\"\n                end\n                \n                local anchorRaw = verticality..horizontality\n                local anchor = modTable.config.anchor == 5 and \"CENTER\" or anchorRaw\n                \n                return anchor\n            end\n            \n            local frameOverlay = parentFrame\n            frameOverlay.focusIndicatorAnchorFrame = frameOverlay.focusIndicatorAnchorFrame or CreateFrame(\"Frame\", nil, frameOverlay)\n            frameOverlay.primaryIndicatorFrame = frameOverlay.primaryIndicatorFrame or CreateFrame(\"Frame\", nil, frameOverlay.focusIndicatorAnchorFrame)\n            frameOverlay.primaryIndicatorFrame.primaryIndicator = frameOverlay.primaryIndicatorFrame.primaryIndicator or frameOverlay.primaryIndicatorFrame:CreateTexture()\n            frameOverlay.secondaryIndicatorFrame = frameOverlay.secondaryIndicatorFrame or CreateFrame(\"Frame\", nil, frameOverlay.primaryIndicatorFrame)\n            frameOverlay.secondaryIndicatorFrame.secondaryIndicator = frameOverlay.secondaryIndicatorFrame.secondaryIndicator or frameOverlay.secondaryIndicatorFrame:CreateTexture()\n            frameOverlay.ggeasBorder = frameOverlay.ggeasBorder or CreateFrame (\"frame\", nil, frameOverlay, \"NamePlateFullBorderTemplate\")\n            frameOverlay.cdFinishMarker = frameOverlay.cdFinishMarker or frameOverlay:CreateTexture(nil, \"OVERLAY\")\n            \n            local primaryIndicator = frameOverlay.primaryIndicatorFrame.primaryIndicator\n            local secondaryIndicator = frameOverlay.secondaryIndicatorFrame.secondaryIndicator\n            \n            local baseWidth = frameOverlay:GetWidth()\n            local baseHeight = frameOverlay:GetHeight()\n            local width = (modTable.config.width or 1) * baseWidth\n            local height = (modTable.config.height or 1) * baseHeight\n            \n            local startOffsetX\n            local endOffsetX\n            if modTable.config.anchor % 3 == 1  then\n                startOffsetX = 0\n                endOffsetX = -width\n            elseif modTable.config.anchor % 3 == 0 then\n                startOffsetX = 0 \n                endOffsetX = width\n            else\n                startOffsetX = -width/2\n                endOffsetX = width/2\n            end\n            \n            local startOffsetY\n            local endOffsetY\n            if modTable.config.anchor < 4 then\n                startOffsetY = -height/2\n                endOffsetY = -height/2\n            elseif modTable.config.anchor > 6 then\n                startOffsetY = height/2\n                endOffsetY = height/2\n            else\n                startOffsetY = 0\n                endOffsetY = 0\n            end\n            \n            local anchorNumericAnchor = AnchorFrameNumericAnchor(modTable.config.anchor)\n            local indicatorNumericAnchor = IndicatorNumericAnchor(modTable.config.anchor)\n            \n            local anchorAnchor = StringAnchor(anchorNumericAnchor)\n            local indicatorAnchor = StringAnchor(indicatorNumericAnchor)\n            \n            local secondaryIndicatorHeightDivisor = 1\n            local secondaryIndicatorWidthDivisor = 1\n            \n            if anchorAnchor == \"LEFT\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, -modTable.config.offset, 0)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, baseHeight)\n                secondaryIndicatorHeightDivisor = 2\n            elseif anchorAnchor == \"RIGHT\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, modTable.config.offset, 0)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, baseHeight)\n                secondaryIndicatorHeightDivisor = 2\n            elseif anchorAnchor == \"TOP\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, 0, modTable.config.offset)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(baseWidth, 1)\n                secondaryIndicatorWidthDivisor = 2\n            elseif anchorAnchor == \"BOTTOM\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, 0, -modTable.config.offset)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(baseWidth, 1)\n                secondaryIndicatorWidthDivisor = 2\n            else \n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, 1)\n            end\n            \n            frameOverlay.primaryIndicatorFrame:SetPoint(indicatorAnchor)\n            frameOverlay.primaryIndicatorFrame:SetSize(width, height)\n            frameOverlay.secondaryIndicatorFrame:SetPoint(indicatorAnchor)\n            frameOverlay.secondaryIndicatorFrame:SetSize(width/secondaryIndicatorWidthDivisor, height/secondaryIndicatorHeightDivisor)\n            \n            primaryIndicator:SetAllPoints(frameOverlay.primaryIndicatorFrame)\n            primaryIndicator:SetParent(frameOverlay.primaryIndicatorFrame)\n            secondaryIndicator:SetAllPoints(frameOverlay.secondaryIndicatorFrame)\n            secondaryIndicator:SetParent(frameOverlay.secondaryIndicatorFrame)\n            \n            local nameCasting, textCasting, textureCasting, startTimeMSCasting, endTimeMSCasting, isTradeSkillCasting, castIDCasting, notInterruptibleCasting, spellIdCasting = UnitCastingInfo(unitId)\n            local nameChannel, textChannel, textureChannel, startTimeMSChannel, endTimeMSChannel, isTradeSkillChannel, notInterruptibleChannel, spellIdChannel = UnitChannelInfo(unitId)\n            local startTimeMS = startTimeMSCasting or startTimeMSChannel\n            local endTimeMS = endTimeMSCasting or endTimeMSChannel\n            local primaryInterruptExists, primaryInterruptReady, primaryInterruptWillBeReady\n            local primaryInterruptReadyTimeRatio\n            local secondaryInterruptExists, secondaryInterruptReady\n            local interruptList = classInterrupts and environment.playerClass and classInterrupts[environment.playerClass]\n            \n            if interruptList then\n                for i,d in pairs(interruptList) do\n                    if C_SpellBook.IsSpellKnown(d.spellId) and (not d.talentId or IsPlayerSpell(d.talentId)) and (not d.unitFilter or d.unitFilter(unitId))then\n                        local spellCooldownInfo = C_Spell.GetSpellCooldown(d.spellId)\n                        local gcdCooldownInfo = d.onGCD and C_Spell.GetSpellCooldown(61304) or nil\n                        \n                        if d.secondary then\n                            secondaryInterruptExists = true\n                            \n                            if spellCooldownInfo.duration == 0 or (d.onGCD and spellCooldownInfo.duration <= gcdCooldownInfo.duration) then\n                                secondaryInterruptReady = true\n                            end\n                        else\n                            primaryInterruptExists = true\n                            if spellCooldownInfo.duration == 0 or (d.onGCD and spellCooldownInfo.duration <= gcdCooldownInfo.duration) then\n                                primaryInterruptReady = true\n                            elseif endTimeMS and spellCooldownInfo.duration + spellCooldownInfo.startTime < endTimeMS/1000 - 0.05 then\n                                local interruptCDendTime = spellCooldownInfo.duration + spellCooldownInfo.startTime\n                                primaryInterruptWillBeReady = true\n                                primaryInterruptReadyTimeRatio = (interruptCDendTime*1000 - startTimeMS)/(endTimeMS - startTimeMS)\n                                if notInterruptibleChannel == false then\n                                    primaryInterruptReadyTimeRatio = 1 - primaryInterruptReadyTimeRatio\n                                end\n                            end\n                        end\n                    end\n                end\n            end\n            \n            frameOverlay.cdFinishMarker:Hide()\n            \n            if notInterruptibleCasting == false or notInterruptibleChannel == false then\n                if primaryInterruptReady == true or (not primaryInterruptExists and secondaryInterruptReady == true) then\n                    local r, g, b, a = 0, 1, 0, 1 --green\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                elseif primaryInterruptWillBeReady == true then\n                    local r, g, b, a = 1, 1, 0, 1 --yellow\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                    \n                    if config.enabledCDready then\n                        frameOverlay.cdFinishMarker:SetColorTexture(1,1,1,1)\n                        frameOverlay.cdFinishMarker:SetSize(2, baseHeight)\n                        frameOverlay.cdFinishMarker:SetPoint(\"CENTER\", frameOverlay, \"LEFT\", primaryInterruptReadyTimeRatio * baseWidth, 0)\n                        frameOverlay.cdFinishMarker:Show()\n                    end\n                elseif secondaryInterruptReady == true and primaryInterruptExists then\n                    local r, g, b, a = 1, 0, 1, 1 --purple\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                else \n                    local r, g, b, a = 1, 1, 1, 1 --white\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                end\n                \n                if secondaryInterruptReady == true and primaryInterruptExists then\n                    local r, g, b, a = 1, 0, 1, 1 --purple\n                    secondaryIndicator:SetColorTexture(r,g,b,a)\n                    secondaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        frameOverlay.ggeasBorder:SetVertexColor(r, g, b, a)\n                        frameOverlay.ggeasBorder:SetBorderSizes(1, 1, 1, 1)\n                        frameOverlay.ggeasBorder:UpdateSizes()\n                        frameOverlay.ggeasBorder:Show()\n                    end\n                else \n                    secondaryIndicator:Hide()\n                    frameOverlay.ggeasBorder:Hide()\n                end\n                \n                if config.enabled then\n                    frameOverlay.primaryIndicatorFrame:Show()\n                    frameOverlay.secondaryIndicatorFrame:Show()\n                else\n                    frameOverlay.primaryIndicatorFrame:Hide()\n                    frameOverlay.secondaryIndicatorFrame:Hide()\n                end\n            else\n                frameOverlay.primaryIndicatorFrame:Hide()\n                frameOverlay.secondaryIndicatorFrame:Hide()\n                frameOverlay.ggeasBorder:Hide()\n            end\n            \n        end\n        \n        krundeSaysCastbarObject.frame = krundeSaysCastbarObject.frame or CreateFrame(\"FRAME\", \"krundeSaysCastbarFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysCastbarObject.frame)\n        \n        \n        local function iterateNameplates()\n            local nameplates = C_NamePlate.GetNamePlates(false)\n            for n,d in pairs(nameplates) do\n                if d.Plater then\n                    NameplateUpdate(d, d.namePlateUnitToken, d.unitFrame, environment, d.unitFrame.castBar.FrameOverlay, d.unitFrame.castBar)\n                elseif d.UnitFrame then -- Blizzard\n                    NameplateUpdate(d, d.namePlateUnitToken, d.UnitFrame, environment, d.UnitFrame.castBar, d.UnitFrame.castBar)\n                end\n            end\n        end\n        \n        if config.enabled or config.enabledRecolor then\n            local timeElapsed = 0\n            krundeSaysCastbarObject.frame:SetScript(\"OnUpdate\", function(self, elapsed)\n                    timeElapsed = timeElapsed + elapsed\n                    if timeElapsed > 0.25 then\n                        timeElapsed = 0\n                        \n                        iterateNameplates()\n                    end\n            end)\n        end\n        \n        setglobal(\"krundeSaysCastbar\", krundeSaysCastbarObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    \n    local krundeSaysCastbarObject = krundeSaysCastbar\n    if not krundeSaysCastbarObject then\n        local krundeSaysCastbarObject = {}\n        \n        local environment = {\n            playerGUID = UnitGUID(\"player\"),\n            playerClass = select(3, UnitClass(\"player\")),\n            config = config,\n        }\n        \n        krundeSaysCastbarObject.environment = environment\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        demokratiaObject.init(\"EAS\", environment)\n        \n        local function unitIsLieutenant(unitId)\n            local unitLevel = UnitLevel(unitId)\n            local playerLevel = UnitLevel(\"player\")\n            return UnitIsBossMob(unitId) or unitLevel > playerLevel\n        end\n        \n        local function unitIsNotLieutenant(unitId)\n            return not unitIsLieutenant(unitId)\n        end\n        \n        local classInterrupts = {\n            {\n                {spellId = 6552}, --Pummel (warrior)\n                {spellId = 386071, secondary=true, onGCD = true}, --Disrupting Shout (warrior [protection])\n            },\n            {\n                {spellId = 96231}, --Rebuke (paladin)\n                {spellId = 31935, secondary=true, onGCD = true}, --Avenger's Shield (paladin [protection])\n            },\n            {\n                \n                {spellId = 187707}, --Muzzle (hunter [survival])\n                {spellId = 147362}, --Counter Shot (hunter [beast mastery, marksmanship])\n            },\n            {\n                {spellId = 1766}, --Kick (rogue)\n            },\n            {\n                {spellId = 15487}, --Silence (priest [shadow])\n            },\n            {\n                {spellId = 47528}, --Mind Freeze (death knight)\n                {spellId = 108199, secondary=true, onGCD = true, talentId=206970, unitFilter=unitIsNotLieutenant}, -- Gorefiend's Grasp (death knight [blood])\n            },\n            {\n                {spellId = 57994}, --Wind Shear (shaman)\n            },\n            {\n                {spellId = 2139}, --Counterspell (mage)\n            },\n            {\n                {spellId = 19647}, --Spell Lock (warlock [felhunter])\n                {spellId = 89766}, --Axe Toss (warlock [felguard])\n            },\n            {\n                {spellId = 116705}, --Spear Hand Strike (monk)\n            },\n            {\n                {spellId = 106839}, --Skull Bash (druid [feral, guardian]))\n                {spellId = 78675}, --Solar Beam (druid [balance])\n            },\n            {\n                {spellId = 183752}, --Disrupt (demon hunter)\n                {spellId = 202137, secondary=true, onGCD = true}, --Sigil of Silence (demon hunter [vengeance])\n            },\n            {\n                {spellId = 351338}, --Quell (evoker)\n            },\n        }\n        \n        local function NameplateUpdate(self, unitId, unitFrame, modTable, parentFrame, castBarFrame)\n            local function AnchorFrameNumericAnchor(numericAnchor)\n                local anchorRaw\n                \n                if numericAnchor % 3 == 1 then\n                    anchorRaw = 4\n                elseif numericAnchor % 3 == 0 then\n                    anchorRaw = 6\n                else\n                    if numericAnchor < 4 then\n                        anchorRaw = 2\n                    elseif numericAnchor > 6 then\n                        anchorRaw = 8\n                    else\n                        anchorRaw = 5\n                    end\n                end\n                \n                return anchorRaw\n            end\n            \n            local function IndicatorNumericAnchor(numericAnchor)\n                local anchorH = 2\n                local anchorV = 3\n                \n                if numericAnchor % 3 == 1 then\n                    anchorH = 3\n                elseif numericAnchor % 3 == 0 then\n                    anchorH = 1\n                else\n                    if numericAnchor < 4 then\n                        anchorV = 6\n                    elseif numericAnchor > 6 then\n                        anchorV = 0\n                    end\n                end\n                \n                return anchorH + anchorV\n            end\n            \n            local function StringAnchor(numericAnchor)\n                local verticality\n                if numericAnchor < 4 then\n                    verticality = \"TOP\"\n                elseif numericAnchor > 6 then\n                    verticality = \"BOTTOM\"\n                else\n                    verticality = \"\"\n                end\n                \n                local horizontality\n                if numericAnchor % 3 == 1 then\n                    horizontality = \"LEFT\"\n                elseif numericAnchor % 3 == 0 then\n                    horizontality = \"RIGHT\"\n                else\n                    horizontality = \"\"\n                end\n                \n                local anchorRaw = verticality..horizontality\n                local anchor = modTable.config.anchor == 5 and \"CENTER\" or anchorRaw\n                \n                return anchor\n            end\n            \n            local frameOverlay = parentFrame\n            frameOverlay.focusIndicatorAnchorFrame = frameOverlay.focusIndicatorAnchorFrame or CreateFrame(\"Frame\", nil, frameOverlay)\n            frameOverlay.primaryIndicatorFrame = frameOverlay.primaryIndicatorFrame or CreateFrame(\"Frame\", nil, frameOverlay.focusIndicatorAnchorFrame)\n            frameOverlay.primaryIndicatorFrame.primaryIndicator = frameOverlay.primaryIndicatorFrame.primaryIndicator or frameOverlay.primaryIndicatorFrame:CreateTexture()\n            frameOverlay.secondaryIndicatorFrame = frameOverlay.secondaryIndicatorFrame or CreateFrame(\"Frame\", nil, frameOverlay.primaryIndicatorFrame)\n            frameOverlay.secondaryIndicatorFrame.secondaryIndicator = frameOverlay.secondaryIndicatorFrame.secondaryIndicator or frameOverlay.secondaryIndicatorFrame:CreateTexture()\n            frameOverlay.ggeasBorder = frameOverlay.ggeasBorder or CreateFrame (\"frame\", nil, frameOverlay, \"NamePlateFullBorderTemplate\")\n            frameOverlay.cdFinishMarker = frameOverlay.cdFinishMarker or frameOverlay:CreateTexture(nil, \"OVERLAY\")\n            \n            local primaryIndicator = frameOverlay.primaryIndicatorFrame.primaryIndicator\n            local secondaryIndicator = frameOverlay.secondaryIndicatorFrame.secondaryIndicator\n            \n            local baseWidth = frameOverlay:GetWidth()\n            local baseHeight = frameOverlay:GetHeight()\n            local width = (modTable.config.width or 1) * baseWidth\n            local height = (modTable.config.height or 1) * baseHeight\n            \n            local startOffsetX\n            local endOffsetX\n            if modTable.config.anchor % 3 == 1  then\n                startOffsetX = 0\n                endOffsetX = -width\n            elseif modTable.config.anchor % 3 == 0 then\n                startOffsetX = 0 \n                endOffsetX = width\n            else\n                startOffsetX = -width/2\n                endOffsetX = width/2\n            end\n            \n            local startOffsetY\n            local endOffsetY\n            if modTable.config.anchor < 4 then\n                startOffsetY = -height/2\n                endOffsetY = -height/2\n            elseif modTable.config.anchor > 6 then\n                startOffsetY = height/2\n                endOffsetY = height/2\n            else\n                startOffsetY = 0\n                endOffsetY = 0\n            end\n            \n            local anchorNumericAnchor = AnchorFrameNumericAnchor(modTable.config.anchor)\n            local indicatorNumericAnchor = IndicatorNumericAnchor(modTable.config.anchor)\n            \n            local anchorAnchor = StringAnchor(anchorNumericAnchor)\n            local indicatorAnchor = StringAnchor(indicatorNumericAnchor)\n            \n            local secondaryIndicatorHeightDivisor = 1\n            local secondaryIndicatorWidthDivisor = 1\n            \n            if anchorAnchor == \"LEFT\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, -modTable.config.offset, 0)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, baseHeight)\n                secondaryIndicatorHeightDivisor = 2\n            elseif anchorAnchor == \"RIGHT\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, modTable.config.offset, 0)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, baseHeight)\n                secondaryIndicatorHeightDivisor = 2\n            elseif anchorAnchor == \"TOP\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, 0, modTable.config.offset)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(baseWidth, 1)\n                secondaryIndicatorWidthDivisor = 2\n            elseif anchorAnchor == \"BOTTOM\" then\n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor, frameOverlay, 0, -modTable.config.offset)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(baseWidth, 1)\n                secondaryIndicatorWidthDivisor = 2\n            else \n                frameOverlay.focusIndicatorAnchorFrame:SetPoint(anchorAnchor)\n                frameOverlay.focusIndicatorAnchorFrame:SetSize(1, 1)\n            end\n            \n            frameOverlay.primaryIndicatorFrame:SetPoint(indicatorAnchor)\n            frameOverlay.primaryIndicatorFrame:SetSize(width, height)\n            frameOverlay.secondaryIndicatorFrame:SetPoint(indicatorAnchor)\n            frameOverlay.secondaryIndicatorFrame:SetSize(width/secondaryIndicatorWidthDivisor, height/secondaryIndicatorHeightDivisor)\n            \n            primaryIndicator:SetAllPoints(frameOverlay.primaryIndicatorFrame)\n            primaryIndicator:SetParent(frameOverlay.primaryIndicatorFrame)\n            secondaryIndicator:SetAllPoints(frameOverlay.secondaryIndicatorFrame)\n            secondaryIndicator:SetParent(frameOverlay.secondaryIndicatorFrame)\n            \n            local nameCasting, textCasting, textureCasting, startTimeMSCasting, endTimeMSCasting, isTradeSkillCasting, castIDCasting, notInterruptibleCasting, spellIdCasting = UnitCastingInfo(unitId)\n            local nameChannel, textChannel, textureChannel, startTimeMSChannel, endTimeMSChannel, isTradeSkillChannel, notInterruptibleChannel, spellIdChannel = UnitChannelInfo(unitId)\n            local startTimeMS = startTimeMSCasting or startTimeMSChannel\n            local endTimeMS = endTimeMSCasting or endTimeMSChannel\n            local primaryInterruptExists, primaryInterruptReady, primaryInterruptWillBeReady\n            local primaryInterruptReadyTimeRatio\n            local secondaryInterruptExists, secondaryInterruptReady\n            local interruptList = classInterrupts and environment.playerClass and classInterrupts[environment.playerClass]\n            \n            if interruptList then\n                for i,d in pairs(interruptList) do\n                    if C_SpellBook.IsSpellKnown(d.spellId) and (not d.talentId or IsPlayerSpell(d.talentId)) and (not d.unitFilter or d.unitFilter(unitId))then\n                        local spellCooldownInfo = C_Spell.GetSpellCooldown(d.spellId)\n                        local gcdCooldownInfo = d.onGCD and C_Spell.GetSpellCooldown(61304) or nil\n                        \n                        if d.secondary then\n                            secondaryInterruptExists = true\n                            \n                            if spellCooldownInfo.duration == 0 or (d.onGCD and spellCooldownInfo.duration <= gcdCooldownInfo.duration) then\n                                secondaryInterruptReady = true\n                            end\n                        else\n                            primaryInterruptExists = true\n                            if spellCooldownInfo.duration == 0 or (d.onGCD and spellCooldownInfo.duration <= gcdCooldownInfo.duration) then\n                                primaryInterruptReady = true\n                            elseif endTimeMS and spellCooldownInfo.duration + spellCooldownInfo.startTime < endTimeMS/1000 - 0.05 then\n                                local interruptCDendTime = spellCooldownInfo.duration + spellCooldownInfo.startTime\n                                primaryInterruptWillBeReady = true\n                                primaryInterruptReadyTimeRatio = (interruptCDendTime*1000 - startTimeMS)/(endTimeMS - startTimeMS)\n                                if notInterruptibleChannel == false then\n                                    primaryInterruptReadyTimeRatio = 1 - primaryInterruptReadyTimeRatio\n                                end\n                            end\n                        end\n                    end\n                end\n            end\n            \n            frameOverlay.cdFinishMarker:Hide()\n            \n            if notInterruptibleCasting == false or notInterruptibleChannel == false then\n                if primaryInterruptReady == true or (not primaryInterruptExists and secondaryInterruptReady == true) then\n                    local r, g, b, a = unpack(config.colorPrimaryReady) --green\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                elseif primaryInterruptWillBeReady == true then\n                    local r, g, b, a = unpack(config.colorPrimaryWillBeReady) --yellow\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                    \n                    if config.enabledCDready then\n                        frameOverlay.cdFinishMarker:SetColorTexture(1,1,1,1)\n                        frameOverlay.cdFinishMarker:SetSize(2, baseHeight)\n                        frameOverlay.cdFinishMarker:SetPoint(\"CENTER\", frameOverlay, \"LEFT\", primaryInterruptReadyTimeRatio * baseWidth, 0)\n                        frameOverlay.cdFinishMarker:Show()\n                    end\n                elseif secondaryInterruptReady == true and primaryInterruptExists then\n                    local r, g, b, a = unpack(config.colorSecondaryReady) --purple\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                else \n                    local r, g, b, a = unpack(config.colorNotReady) --white\n                    primaryIndicator:SetColorTexture(r,g,b,a)\n                    primaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        castBarFrame:SetStatusBarColor(r,g,b,a)\n                    end\n                end\n                \n                if secondaryInterruptReady == true and primaryInterruptExists then\n                    local r, g, b, a = unpack(config.colorSecondaryReady) --purple\n                    secondaryIndicator:SetColorTexture(r,g,b,a)\n                    secondaryIndicator:Show()\n                    \n                    if config.enabledRecolor then\n                        frameOverlay.ggeasBorder:SetVertexColor(r, g, b, a)\n                        frameOverlay.ggeasBorder:SetBorderSizes(1, 1, 1, 1)\n                        frameOverlay.ggeasBorder:UpdateSizes()\n                        frameOverlay.ggeasBorder:Show()\n                    end\n                else \n                    secondaryIndicator:Hide()\n                    frameOverlay.ggeasBorder:Hide()\n                end\n                \n                if config.enabled then\n                    frameOverlay.primaryIndicatorFrame:Show()\n                    frameOverlay.secondaryIndicatorFrame:Show()\n                else\n                    frameOverlay.primaryIndicatorFrame:Hide()\n                    frameOverlay.secondaryIndicatorFrame:Hide()\n                end\n            else\n                frameOverlay.primaryIndicatorFrame:Hide()\n                frameOverlay.secondaryIndicatorFrame:Hide()\n                frameOverlay.ggeasBorder:Hide()\n            end\n            \n        end\n        \n        krundeSaysCastbarObject.frame = krundeSaysCastbarObject.frame or CreateFrame(\"FRAME\", \"krundeSaysCastbarFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysCastbarObject.frame)\n        \n        \n        local function iterateNameplates()\n            local nameplates = C_NamePlate.GetNamePlates(false)\n            for n,d in pairs(nameplates) do\n                if d.Plater then\n                    NameplateUpdate(d, d.namePlateUnitToken, d.unitFrame, environment, d.unitFrame.castBar.FrameOverlay, d.unitFrame.castBar)\n                elseif d.UnitFrame then -- Blizzard\n                    NameplateUpdate(d, d.namePlateUnitToken, d.UnitFrame, environment, d.UnitFrame.castBar, d.UnitFrame.castBar)\n                end\n            end\n        end\n        \n        if config.enabled or config.enabledRecolor then\n            local timeElapsed = 0\n            krundeSaysCastbarObject.frame:SetScript(\"OnUpdate\", function(self, elapsed)\n                    timeElapsed = timeElapsed + elapsed\n                    if timeElapsed > 0.25 then\n                        timeElapsed = 0\n                        \n                        iterateNameplates()\n                    end\n            end)\n        end\n        \n        setglobal(\"krundeSaysCastbar\", krundeSaysCastbarObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
           "customOnLoad": "\n\n",
           "do_custom": true,
           "do_custom_load": false
@@ -1955,11 +1955,11 @@
       "authorOptions": [
         {
           "default": true,
-          "desc": "Green = interrupt available, Pink = secondary interrupt available (Sigil of Silence, Avenger's Shield, etc.)",
+          "desc": "",
           "key": "enabled",
           "name": "Show interrupt CD status on the nameplate castbar",
           "type": "toggle",
-          "useDesc": true,
+          "useDesc": false,
           "width": 1.5
         },
         {
@@ -2032,11 +2032,88 @@
           "type": "number",
           "useDesc": false,
           "width": 0.3
+        },
+        {
+          "default": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "key": "colorPrimaryReady",
+          "name": "Primary Interrupt ready",
+          "type": "color",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": [
+            1,
+            1,
+            0,
+            1
+          ],
+          "key": "colorPrimaryWillBeReady",
+          "name": "Primary Interrupt will be ready",
+          "type": "color",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": [
+            1,
+            0,
+            1,
+            1
+          ],
+          "desc": "Sigil of Silence, Avenger's Shield, etc.",
+          "key": "colorSecondaryReady",
+          "name": "Secondary Interrupt ready",
+          "type": "color",
+          "useDesc": true,
+          "width": 1
+        },
+        {
+          "default": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "key": "colorNotReady",
+          "name": "No Interrupt ready",
+          "type": "color",
+          "useDesc": false,
+          "width": 1
         }
       ],
       "conditions": [],
       "config": {
         "anchor": 8,
+        "colorNotReady": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "colorPrimaryReady": [
+          0,
+          1,
+          0,
+          1
+        ],
+        "colorPrimaryWillBeReady": [
+          1,
+          1,
+          0,
+          1
+        ],
+        "colorSecondaryReady": [
+          1,
+          0,
+          1,
+          1
+        ],
         "enabled": true,
         "enabledCDready": true,
         "enabledRecolor": false,
@@ -2074,7 +2151,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -2098,8 +2175,8 @@
         "activeTriggerMode": -10
       },
       "uid": "73I5qiQnxrB",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -2109,7 +2186,7 @@
       "actions": {
         "finish": [],
         "init": {
-          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    \n    local krundeSaysHealthbarObject = krundeSaysHealthbar\n    if not krundeSaysHealthbarObject then\n        local krundeSaysHealthbarObject = {}\n        \n        local environment = {\n            playerGUID = UnitGUID(\"player\"),\n            playerClass = select(3, UnitClass(\"player\")),\n            config = config,\n        }\n        \n        krundeSaysHealthbarObject.environment = environment\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        demokratiaObject.init(\"EAS\", environment)\n        \n        krundeSaysHealthbarObject.frame = krundeSaysHealthbarObject.frame or CreateFrame(\"FRAME\", \"krundeSaysHealthbarFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysHealthbarObject.frame)\n        \n        local function setPlaterHealthBarColor(healthBar, r, g, b, a)\n            healthBar:SetVertexColor(r, g, b, a)\n        end\n        \n        local function setBlizzardHealthBarColor(healthBar, r, g, b, a)\n            healthBar:SetStatusBarColor(r, g, b, a)\n        end\n        \n        local function updateHealthBarColor(unitFrame,setHealthBarColor)\n            local unitId = unitFrame.unit and UnitIsEnemy(\"player\", unitFrame.unit) and unitFrame.unit or nil\n            if unitId then\n                local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n                local isInRaid = instanceType == \"raid\"\n                \n                if UnitLevel(unitId) > UnitLevel(\"player\") + (isInRaid and 2 or 1) or UnitLevel(unitId)  < 1  then\n                    setHealthBarColor(unitFrame.healthBar, 0.50196081399918, 0, 0.50196081399918, 1)\n                elseif UnitLevel(unitId) > UnitLevel(\"player\") + (isInRaid and 1 or 0) then\n                    setHealthBarColor(unitFrame.healthBar, 0.8666667342186, 0.62745100259781, 0.8666667342186, 1)\n                end\n            end\n        end\n        \n        local function NameplateUpdate(self, unitId, unitFrame, modTable, setHealthBarColor)\n            updateHealthBarColor(unitFrame, setHealthBarColor)\n        end\n        \n        local function iterateNameplates()\n            local nameplates = C_NamePlate.GetNamePlates(false)\n            for n,d in pairs(nameplates) do\n                if d.Plater then\n                    NameplateUpdate(d, d.namePlateUnitToken, d.unitFrame, environment, setPlaterHealthBarColor)\n                else\n                    NameplateUpdate(d, d.namePlateUnitToken, d.UnitFrame, environment, setBlizzardHealthBarColor)\n                end\n            end\n        end\n        \n        if config.enabled then\n            local f = krundeSaysHealthbarObject.frame\n            f:RegisterEvent(\"NAME_PLATE_UNIT_ADDED\")\n            f:SetScript(\"OnEvent\", function(self, event, ...)\n                    if event == \"NAME_PLATE_UNIT_ADDED\" then\n                        local unitToken = ...\n                        local namePlate = C_NamePlate.GetNamePlateForUnit(unitToken)\n                        local namePlateUnitFrame = namePlate.unitFrame or namePlate.UnitFrame\n                        if namePlateUnitFrame then\n                            if Plater then\n                                updateHealthBarColor(namePlateUnitFrame, setPlaterHealthBarColor)\n                            else\n                                updateHealthBarColor(namePlateUnitFrame, setBlizzardHealthBarColor)\n                            end\n                        end\n                    end\n            end)\n            \n            local timeElapsed = 0\n            krundeSaysHealthbarObject.frame:SetScript(\"OnUpdate\", function(self, elapsed)\n                    timeElapsed = timeElapsed + elapsed\n                    if timeElapsed > 1.00 then\n                        timeElapsed = 0\n                        \n                        iterateNameplates()\n                    end\n            end)\n            \n            if not Plater then\n                hooksecurefunc(\"CompactUnitFrame_UpdateHealthColor\", function(unitFrame)\n                        updateHealthBarColor(unitFrame, setBlizzardHealthBarColor)\n                end)\n            end\n        end\n        \n        setglobal(\"krundeSaysHealthbar\", krundeSaysHealthbarObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "custom": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    \n    local krundeSaysHealthbarObject = krundeSaysHealthbar\n    if not krundeSaysHealthbarObject then\n        local krundeSaysHealthbarObject = {}\n        \n        local environment = {\n            playerGUID = UnitGUID(\"player\"),\n            playerClass = select(3, UnitClass(\"player\")),\n            config = config,\n        }\n        \n        krundeSaysHealthbarObject.environment = environment\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        demokratiaObject.init(\"EAS\", environment)\n        \n        krundeSaysHealthbarObject.frame = krundeSaysHealthbarObject.frame or CreateFrame(\"FRAME\", \"krundeSaysHealthbarFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysHealthbarObject.frame)\n        \n        local function setPlaterHealthBarColor(healthBar, r, g, b, a)\n            healthBar:SetVertexColor(r, g, b, a)\n        end\n        \n        local function setBlizzardHealthBarColor(healthBar, r, g, b, a)\n            healthBar:SetStatusBarColor(r, g, b, a)\n        end\n        \n        local function updateHealthBarColor(unitFrame,setHealthBarColor)\n            local unitId = unitFrame.unit and UnitIsEnemy(\"player\", unitFrame.unit) and unitFrame.unit or nil\n            if unitId then\n                local name, instanceType, difficultyID, difficultyName, maxPlayers, dynamicDifficulty, isDynamic, instanceID, instanceGroupSize, LfgDungeonID = GetInstanceInfo()\n                local isInRaid = instanceType == \"raid\"\n                \n                if UnitLevel(unitId) > UnitLevel(\"player\") + (isInRaid and 2 or 1) or UnitLevel(unitId) < 1  then\n                    local r,g,b,a = unpack(config.colorBoss)\n                    setHealthBarColor(unitFrame.healthBar, r,g,b,a)\n                elseif UnitLevel(unitId) > UnitLevel(\"player\") + (isInRaid and 1 or 0) then\n                    local r,g,b,a = unpack(config.colorLieutenant)\n                    setHealthBarColor(unitFrame.healthBar, r,g,b,a)\n                end\n            end\n        end\n        \n        local function NameplateUpdate(self, unitId, unitFrame, modTable, setHealthBarColor)\n            updateHealthBarColor(unitFrame, setHealthBarColor)\n        end\n        \n        local function iterateNameplates()\n            local nameplates = C_NamePlate.GetNamePlates(false)\n            for n,d in pairs(nameplates) do\n                if d.Plater then\n                    NameplateUpdate(d, d.namePlateUnitToken, d.unitFrame, environment, setPlaterHealthBarColor)\n                else\n                    NameplateUpdate(d, d.namePlateUnitToken, d.UnitFrame, environment, setBlizzardHealthBarColor)\n                end\n            end\n        end\n        \n        if config.enabled then\n            local f = krundeSaysHealthbarObject.frame\n            f:RegisterEvent(\"NAME_PLATE_UNIT_ADDED\")\n            f:SetScript(\"OnEvent\", function(self, event, ...)\n                    if event == \"NAME_PLATE_UNIT_ADDED\" then\n                        local unitToken = ...\n                        local namePlate = C_NamePlate.GetNamePlateForUnit(unitToken)\n                        local namePlateUnitFrame = namePlate.unitFrame or namePlate.UnitFrame\n                        if namePlateUnitFrame then\n                            if Plater then\n                                updateHealthBarColor(namePlateUnitFrame, setPlaterHealthBarColor)\n                            else\n                                updateHealthBarColor(namePlateUnitFrame, setBlizzardHealthBarColor)\n                            end\n                        end\n                    end\n            end)\n            \n            local timeElapsed = 0\n            krundeSaysHealthbarObject.frame:SetScript(\"OnUpdate\", function(self, elapsed)\n                    timeElapsed = timeElapsed + elapsed\n                    if timeElapsed > 1.00 then\n                        timeElapsed = 0\n                        \n                        iterateNameplates()\n                    end\n            end)\n            \n            if not Plater then\n                hooksecurefunc(\"CompactUnitFrame_UpdateHealthColor\", function(unitFrame)\n                        updateHealthBarColor(unitFrame, setBlizzardHealthBarColor)\n                end)\n            end\n        end\n        \n        setglobal(\"krundeSaysHealthbar\", krundeSaysHealthbarObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"EASDB\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
           "customOnLoad": "\n\n",
           "do_custom": true,
           "do_custom_load": false
@@ -2142,16 +2219,54 @@
       "authorOptions": [
         {
           "default": false,
-          "desc": "Lieutenants cannot be CC'd, neither can be bosses. Lieutenant = \"plum\", Boss = \"purple\". If you cannot see the colors, other addons are probably overriding the colors. Works with Plater and Blizzard nameplates.",
+          "desc": "Lieutenants cannot be CC'd, neither can be bosses. If you cannot see the colors, other addons are probably overriding the colors. Works with Plater and Blizzard nameplates.",
           "key": "enabled",
-          "name": "Color enemy NPC healthbars based on their rank (normal, lieutenant, boss)",
+          "name": "Color enemy NPC healthbars based on rank (normal, lieutenant, boss)",
           "type": "toggle",
           "useDesc": true,
           "width": 2
+        },
+        {
+          "default": [
+            0.8666667342186,
+            0.62745100259781,
+            0.8666667342186,
+            1
+          ],
+          "key": "colorLieutenant",
+          "name": "Lieutenant color",
+          "type": "color",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": [
+            0.50196081399918,
+            0,
+            0.50196081399918,
+            1
+          ],
+          "key": "colorBoss",
+          "name": "Boss color",
+          "type": "color",
+          "useDesc": false,
+          "width": 1
         }
       ],
       "conditions": [],
       "config": {
+        "colorBoss": [
+          0.50196081399918,
+          0,
+          0.50196081399918,
+          1
+        ],
+        "colorLieutenant": [
+          0.8666667342186,
+          0.62745100259781,
+          0.8666667342186,
+          1
+        ],
         "enabled": false
       },
       "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
@@ -2184,7 +2299,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -2208,8 +2323,8 @@
         "activeTriggerMode": -10
       },
       "uid": "S(PXnyjZQ1f",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -2290,7 +2405,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -2309,8 +2424,8 @@
         }
       ],
       "uid": "LONBsxkVhjZ",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -2405,7 +2520,7 @@
       "rowSpace": 1,
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "sort": "none",
       "space": 2,
       "stagger": 0,
@@ -2428,10 +2543,10 @@
         }
       ],
       "uid": "Zj1iUZ828nY",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAnchorPerUnit": true,
       "useLimit": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -2847,7 +2962,7 @@
       "rotate": false,
       "rotation": 0,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -2879,8 +2994,8 @@
         "activeTriggerMode": -10
       },
       "uid": "qKqjgAJkIEq",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 1,
       "xOffset": 0,
@@ -2980,7 +3095,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -2999,8 +3114,8 @@
         }
       ],
       "uid": "Fo0H)2oA)K1",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -3157,7 +3272,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -3253,12 +3368,12 @@
         "disjunctive": "any"
       },
       "uid": "jtKuocX2zBQ",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -3343,7 +3458,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -3362,8 +3477,8 @@
         }
       ],
       "uid": "gQ0jDfmfgsR",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -3474,7 +3589,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -3504,11 +3619,11 @@
         "disjunctive": "any"
       },
       "uid": "f9eJgtv9wpP",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -3621,7 +3736,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -3663,11 +3778,11 @@
         "disjunctive": "any"
       },
       "uid": "YBWTxkBaFn7",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -3756,7 +3871,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -3775,8 +3890,8 @@
         }
       ],
       "uid": "rXw4mUW0ktc",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": -100
@@ -3941,7 +4056,7 @@
       "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -3965,8 +4080,8 @@
         "activeTriggerMode": -10
       },
       "uid": "5s4An8d8Nsj",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -4113,7 +4228,7 @@
       "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -4137,8 +4252,8 @@
         "activeTriggerMode": -10
       },
       "uid": "MAuy0p1Z(GH",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -4419,7 +4534,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "source": "import",
       "spark": false,
       "sparkBlendMode": "ADD",
@@ -4675,10 +4790,10 @@
         "disjunctive": "custom"
       },
       "uid": "yK1jasuw6oS",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -4938,7 +5053,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -5109,12 +5224,12 @@
         "disjunctive": "custom"
       },
       "uid": "VKUPW2yJxrZ",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -5289,7 +5404,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -5395,12 +5510,12 @@
         "disjunctive": "custom"
       },
       "uid": "OeOsPd)2Pdr",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -5574,7 +5689,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -5707,12 +5822,12 @@
         "disjunctive": "custom"
       },
       "uid": "4Gn35ux7Ego",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 28,
       "wordWrap": "WordWrap",
@@ -5810,7 +5925,7 @@
       "rowSpace": 1,
       "scale": 0.5,
       "selfPoint": "LEFT",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "sort": "none",
       "sortHybridTable": {
         "Demokratia - Krunde says INTERRUPT client interrupts after current": false
@@ -5836,9 +5951,9 @@
         }
       ],
       "uid": "c8pugQ9PVz6",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useLimit": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": -64,
       "yOffset": -32
@@ -5979,7 +6094,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -6075,12 +6190,12 @@
         "disjunctive": "custom"
       },
       "uid": "CPjftpXgIfH",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -6165,7 +6280,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -6184,8 +6299,8 @@
         }
       ],
       "uid": "9MNQfKr3Rhx",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -6194,7 +6309,7 @@
       "actions": {
         "finish": [],
         "init": {
-          "custom": "C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysStopObject = krundeSaysStop\n    if not krundeSaysStopObject then\n        local environment = {\n            serverTag = \"STOP\",\n            \n            config = config,\n            minNumberClients = config.minNumberClients,\n            trackNonClients = config.trackNonClients,\n            \n            unitIsEnabled = function(environment, unitToken)\n                return UnitIsConnected(unitToken) and not UnitIsDeadOrGhost(unitToken)\n            end,\n            clientListUpdate = function(environment, clientList, numberClients)\n                if environment.priorityUnit and not clientList[environment.priorityUnit] then\n                    environment.priorityUnit = nil\n                end\n                \n                if environment.trackNonClients then\n                    if numberClients < environment.minNumberClients then\n                        environment.publishNonClientSpells = true\n                    else\n                        environment.publishNonClientSpells = false\n                    end\n                end\n            end,\n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysStopObject = {}\n        krundeSaysStopObject.environment = environment\n        \n        local trackedSpellsInPriorityOrder = {\n            {spellId = 108199}, -- Gorefiend's Grasp\n            {spellId = 202138}, -- Sigil of Chains\n            {spellId = 46968}, -- Shockwave\n            {spellId = 99}, -- Incapacitating Roar\n            {spellId = 51490}, -- Thunderstorm\n            {spellId = 192058}, -- Capacitor Totem\n            {spellId = 31661}, -- Dragon's Breath\n            {spellId = 157980}, -- Supernova\n            {spellId = 179057, doNotElevate=true}, -- Chaos Nova\n            {spellId = 119381}, -- Leg Sweep\n            {spellId = 368970}, -- Tail Swipe\n            {spellId = 30283}, -- Shadowfury\n            {spellId = 115750}, -- Blinding Light\n            {spellId = 207167}, -- Blinding Sleet\n            {spellId = 207684, doNotElevate=true}, -- Sigil of Misery\n            {spellId = 2094}, -- Blind\n            {spellId = 8122}, -- Psychic Scream\n            {spellId = 116844, doNotElevate=true}, -- Ring of Peace\n            {spellId = 132469, doNotElevate=true}, -- Typhoon\n            {spellId = 157981}, -- Blast Wave\n            {spellId = 357214}, -- Wing Buffet\n            {spellId = 186387}, -- Bursting Shot\n        }\n        \n        local function isPrioTank(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isTank = cd1unitToken and (UnitGroupRolesAssigned(cd1unitToken) == \"TANK\") or false\n            local cd2isTank = cd2unitToken and (UnitGroupRolesAssigned(cd2unitToken) == \"TANK\") or false\n            local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n            local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n            if cd1isTank and not cd1doNotElevate and not cd2isTank then\n                return true\n            elseif not cd1isTank and cd2isTank and not cd2doNotElevate then\n                return false\n            else\n                return nil\n            end\n        end\n        \n        local function isPrioLeader(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isLeader = cd1unitToken and UnitIsGroupLeader(cd1unitToken) or false\n            local cd2isLeader = cd2unitToken and UnitIsGroupLeader(cd2unitToken) or false\n            local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n            local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n            if cd1isLeader and not cd1doNotElevate and not cd2isLeader then\n                return true\n            elseif not cd1isLeader and cd2isLeader and not cd2doNotElevate then\n                return false\n            else\n                return nil\n            end\n        end\n        \n        local function isNamedPrioUnit(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isNamed = cd1unitToken and UnitGUID(cd1unitToken) == environment.priorityUnit or false\n            local cd2isNamed = cd2unitToken and UnitGUID(cd2unitToken) == environment.priorityUnit or false\n            local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n            local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n            if cd1isNamed and not cd1doNotElevate and not cd2isNamed then\n                return true\n            elseif not cd1isNamed and cd2isNamed and not cd2doNotElevate then\n                return false\n            else\n                return nil\n            end\n        end\n        \n        local customPriorityFunction = config.customPrioUnit == 1 and isPrioTank or isPrioLeader\n        \n        local function isPrioUnit(cd1, cd2)\n            if environment.priorityUnit then\n                return isNamedPrioUnit(cd1, cd2)\n            else\n                return customPriorityFunction(cd1, cd2)\n            end\n        end\n        \n        local function cooldownSortFunction(cd1, cd2)\n            if cd1.isReady == true and cd2.isReady ~= true then\n                return true\n            elseif cd1.isReady ~= true and cd2.isReady == true then\n                return false\n            elseif cd1.isReady == true and cd2.isReady == true then\n                local customPriorityResult = isPrioUnit(cd1, cd2)\n                if type(customPriorityResult) == \"boolean\" then\n                    return customPriorityResult\n                else\n                    if cd1.priority == cd2.priority then\n                        return cd1.unitGUID < cd2.unitGUID\n                    else\n                        return cd1.priority < cd2.priority\n                    end\n                end\n            else -- not cd1.isReady and not cd2.isReady\n                if cd1.timeLeft == cd2.timeLeft then\n                    return cd1.unitGUID < cd2.unitGUID\n                else \n                    return cd1.timeLeft < cd2.timeLeft\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" REQUESTSERVER\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                end\n            end,\n            \n            [environment.serverTag..\" REQUESTLIST\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    environment.forceSendForNewClients = true\n                    environment.triggerPublish(environment)\n                end\n            end,\n            \n            [environment.serverTag..\" CLIENT\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newClient(environment, shortenedGUID, version)\n                end\n            end,\n            \n            [environment.serverTag..\" IMPOTENT\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newImpotentClient(environment, shortenedGUID)\n                end\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newServer(environment, shortenedGUID, version)\n                end\n            end,\n        }\n        \n        environment.triggerPublish = environment.triggerPublish or function(environment)\n            local sortedList = krundeSaysStop and krundeSaysStop.cooldownList or nil -- luacheck: ignore\n            if not sortedList then\n                return\n            end\n            \n            local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n            if not krundeSaysServer then\n                return\n            end\n            \n            krundeSaysServer.publishCooldownList(environment, sortedList)\n        end\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        \n        krundeSaysStopObject.krundeSays = krundeSaysStopObject.krundeSays or {}\n        krundeSaysStopObject.trackedSpellsInPriorityOrder = trackedSpellsInPriorityOrder\n        krundeSaysStopObject.cooldownList = nil\n        krundeSaysStopObject.listUpdatedCallback = function(list)\n            krundeSaysStopObject.cooldownList = list\n            environment.triggerPublish(environment)\n        end\n        krundeSaysStopObject.cooldownSortFunction = cooldownSortFunction\n        \n        demokratiaObject.init(\"krundeSays\", krundeSaysStopObject.krundeSays, krundeSaysStopObject.trackedSpellsInPriorityOrder, krundeSaysStopObject.cooldownSortFunction, krundeSaysStopObject.listUpdatedCallback, environment.config.stopPriorities)\n        \n        krundeSaysStopObject.krundeSaysMessageHandler = krundeSaysStopObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysStopObject.krundeSaysMessageHandler)\n        krundeSaysStopObject.krundeSaysMessageHandler.register(messageHandlers)\n        krundeSaysStopObject.krundeSaysServer = krundeSaysStopObject.krundeSaysServer or {}\n        demokratiaObject.init(\"krundeSaysServer\", krundeSaysStopObject.krundeSaysServer)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysStopObject.frame = krundeSaysStopObject.frame or CreateFrame(\"FRAME\", \"KrundeSaysStopFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysStopObject.frame)\n        \n        krundeSaysStopObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysStopObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\"GROUP_ROSTER_UPDATE\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                \n                environment.numGroupMembers = environment.numGroupMembers or 1\n                local numGroupMembers = GetNumSubgroupMembers() + 1 -- does not include player\n                if environment.numGroupMembers > numGroupMembers then\n                    krundeSaysServer.removeLeftMembers(environment)\n                    krundeSaysStopObject.krundeSays.krundeSaysDataSource.clean()\n                elseif environment.numGroupMembers < numGroupMembers then\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                    krundeSaysStopObject.krundeSays.krundeSaysDataSource.clean()\n                end\n                environment.numGroupMembers = numGroupMembers\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\"PARTY_MEMBER_DISABLE PARTY_MEMBER_ENABLE PLAYER_ALIVE PLAYER_DEAD PLAYER_UNGHOST PARTY_LEADER_CHANGED\",\n            function(event)\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                \n                local couldChangeServer\n                if event == \"PARTY_MEMBER_DISABLE\" or event == \"PARTY_MEMBER_ENABLE\"\n                or event == \"PARTY_LEADER_CHANGED\" then\n                    couldChangeServer = true\n                else\n                    couldChangeServer = false\n                end\n                \n                krundeSaysServer.groupMemberStatusChange(environment, couldChangeServer)\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\"PLAYER_REGEN_ENABLED\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                krundeSaysServer.outOfCombat(environment)\n        end)\n        \n        \n        krundeSaysStopObject.frame.registerEventList(\"GROUP_JOINED,GROUP_FORMED,PLAYER_ENTERING_WORLD\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                krundeSaysServer.letGroupSettleRoles(environment)\n        end)\n        \n        \n        krundeSaysStopObject.frame.registerEventList(\"GROUP_LEFT\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                krundeSaysServer.groupLeft(environment)\n                krundeSaysStopObject.krundeSays.krundeSaysDataSource.clean()\n                environment.priorityUnit = nil\n        end)\n        \n        krundeSaysStopObject.frame.fakeEvent(\"PLAYER_ENTERING_WORLD\")\n        krundeSaysStopObject.krundeSaysServer.sendServerRequest(environment, environment.serverTag)\n        \n        function krundeSaysStopObject.isMaster()\n            local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n            return krundeSaysServer.playerIsFirstOnServerList(environment)\n        end\n        \n        local function ksStopReset()\n            local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n            krundeSaysServer.outOfCombat(environment)\n        end\n        \n        local function ksStopPrioUnit(unitGUID)\n            if unitGUID and environment and environment.clientList and environment.clientList[unitGUID] then\n                environment.priorityUnit = unitGUID\n            elseif not unitGUID and environment.priorityUnit then\n                environment.priorityUnit = nil\n            else\n                return\n            end\n            \n            environment.forceSendForNewClients = true\n            krundeSaysStopObject.krundeSays.krundeSaysDataSource.forceRecalculateList()\n            ksStopReset()\n        end\n        \n        setglobal(\"ksStopReset\", ksStopReset)\n        setglobal(\"ksStopPrioUnit\", ksStopPrioUnit)\n        \n        setglobal(\"krundeSaysStop\", krundeSaysStopObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSays\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysServer\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
+          "custom": "C_ChatInfo.RegisterAddonMessagePrefix(\"KRUNDESAYS\")\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\nlocal function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local config = moduleDependencies[\"config\"]\n    local krundeSaysOutputObject = moduleDependencies[\"krundeSaysOutput\"]\n    \n    local krundeSaysStopObject = krundeSaysStop\n    if not krundeSaysStopObject then\n        local environment = {\n            serverTag = \"STOP\",\n            \n            config = config,\n            minNumberClients = config.minNumberClients,\n            trackNonClients = config.trackNonClients,\n            \n            unitIsEnabled = function(environment, unitToken)\n                return UnitIsConnected(unitToken) and not UnitIsDeadOrGhost(unitToken)\n            end,\n            clientListUpdate = function(environment, clientList, numberClients)\n                if environment.priorityUnit and not clientList[environment.priorityUnit] then\n                    environment.priorityUnit = nil\n                end\n                \n                if environment.trackNonClients then\n                    if numberClients < environment.minNumberClients then\n                        environment.publishNonClientSpells = true\n                    else\n                        environment.publishNonClientSpells = false\n                    end\n                end\n            end,\n            reset_variables = function(environment) environment.reloadedAndNeedData = true end\n        }\n        \n        local krundeSaysStopObject = {}\n        krundeSaysStopObject.environment = environment\n        \n        local trackedSpellsInPriorityOrder = {\n            {spellId = 108199}, -- Gorefiend's Grasp\n            {spellId = 202138}, -- Sigil of Chains\n            {spellId = 46968}, -- Shockwave\n            {spellId = 99}, -- Incapacitating Roar\n            {spellId = 192058}, -- Capacitor Totem\n            {spellId = 51490}, -- Thunderstorm\n            {spellId = 31661}, -- Dragon's Breath\n            {spellId = 157980}, -- Supernova\n            {spellId = 179057, doNotElevate=true}, -- Chaos Nova\n            {spellId = 119381}, -- Leg Sweep\n            {spellId = 368970}, -- Tail Swipe\n            {spellId = 30283}, -- Shadowfury\n            {spellId = 115750}, -- Blinding Light\n            {spellId = 207167}, -- Blinding Sleet\n            {spellId = 207684, doNotElevate=true}, -- Sigil of Misery\n            {spellId = 2094}, -- Blind\n            {spellId = 8122}, -- Psychic Scream\n            {spellId = 116844, doNotElevate=true}, -- Ring of Peace\n            {spellId = 132469, doNotElevate=true}, -- Typhoon\n            {spellId = 157981}, -- Blast Wave\n            {spellId = 357214}, -- Wing Buffet\n            {spellId = 186387}, -- Bursting Shot\n        }\n        \n        local function isPrioTank(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isTank = cd1unitToken and (UnitGroupRolesAssigned(cd1unitToken) == \"TANK\") or false\n            local cd2isTank = cd2unitToken and (UnitGroupRolesAssigned(cd2unitToken) == \"TANK\") or false\n            local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n            local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n            if cd1isTank and not cd1doNotElevate and not cd2isTank then\n                return true\n            elseif not cd1isTank and cd2isTank and not cd2doNotElevate then\n                return false\n            else\n                return nil\n            end\n        end\n        \n        local function isPrioLeader(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isLeader = cd1unitToken and UnitIsGroupLeader(cd1unitToken) or false\n            local cd2isLeader = cd2unitToken and UnitIsGroupLeader(cd2unitToken) or false\n            local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n            local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n            if cd1isLeader and not cd1doNotElevate and not cd2isLeader then\n                return true\n            elseif not cd1isLeader and cd2isLeader and not cd2doNotElevate then\n                return false\n            else\n                return nil\n            end\n        end\n        \n        local function isNamedPrioUnit(cd1, cd2)\n            local cd1unitToken = UnitTokenFromGUID(cd1.unitGUID)\n            local cd2unitToken = UnitTokenFromGUID(cd2.unitGUID)\n            local cd1isNamed = cd1unitToken and UnitGUID(cd1unitToken) == environment.priorityUnit or false\n            local cd2isNamed = cd2unitToken and UnitGUID(cd2unitToken) == environment.priorityUnit or false\n            local cd1doNotElevate = trackedSpellsInPriorityOrder[cd1.priority].doNotElevate\n            local cd2doNotElevate = trackedSpellsInPriorityOrder[cd2.priority].doNotElevate\n            if cd1isNamed and not cd1doNotElevate and not cd2isNamed then\n                return true\n            elseif not cd1isNamed and cd2isNamed and not cd2doNotElevate then\n                return false\n            else\n                return nil\n            end\n        end\n        \n        local customPriorityFunction = config.customPrioUnit == 1 and isPrioTank or isPrioLeader\n        \n        local function isPrioUnit(cd1, cd2)\n            if environment.priorityUnit then\n                return isNamedPrioUnit(cd1, cd2)\n            else\n                return customPriorityFunction(cd1, cd2)\n            end\n        end\n        \n        local function cooldownSortFunction(cd1, cd2)\n            if cd1.isReady == true and cd2.isReady ~= true then\n                return true\n            elseif cd1.isReady ~= true and cd2.isReady == true then\n                return false\n            elseif cd1.isReady == true and cd2.isReady == true then\n                local customPriorityResult = isPrioUnit(cd1, cd2)\n                if type(customPriorityResult) == \"boolean\" then\n                    return customPriorityResult\n                else\n                    if cd1.priority == cd2.priority then\n                        return cd1.unitGUID < cd2.unitGUID\n                    else\n                        return cd1.priority < cd2.priority\n                    end\n                end\n            else -- not cd1.isReady and not cd2.isReady\n                if cd1.timeLeft == cd2.timeLeft then\n                    return cd1.unitGUID < cd2.unitGUID\n                else \n                    return cd1.timeLeft < cd2.timeLeft\n                end\n            end\n        end\n        \n        local messageHandlers = {\n            [environment.serverTag..\" REQUESTSERVER\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                end\n            end,\n            \n            [environment.serverTag..\" REQUESTLIST\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    environment.forceSendForNewClients = true\n                    environment.triggerPublish(environment)\n                end\n            end,\n            \n            [environment.serverTag..\" CLIENT\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newClient(environment, shortenedGUID, version)\n                end\n            end,\n            \n            [environment.serverTag..\" IMPOTENT\"] = function(shortenedGUID)\n                if shortenedGUID then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newImpotentClient(environment, shortenedGUID)\n                end\n            end,\n            \n            [environment.serverTag..\" SERVER\"] = function(shortenedGUIDandVersion)\n                local _,_, shortenedGUID, version = string.find(shortenedGUIDandVersion, \"%s-(%S*)%s+(%S*)\")\n                if shortenedGUID and version then\n                    local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n                    if not krundeSaysServer then\n                        return\n                    end\n                    krundeSaysServer.newServer(environment, shortenedGUID, version)\n                end\n            end,\n        }\n        \n        environment.triggerPublish = environment.triggerPublish or function(environment)\n            local sortedList = krundeSaysStop and krundeSaysStop.cooldownList or nil -- luacheck: ignore\n            if not sortedList then\n                return\n            end\n            \n            local krundeSaysServer = krundeSaysStop and krundeSaysStop.krundeSaysServer or nil -- luacheck: ignore\n            if not krundeSaysServer then\n                return\n            end\n            \n            krundeSaysServer.publishCooldownList(environment, sortedList)\n        end\n        \n        demokratiaObject.init(\"timer\", environment)\n        demokratiaObject.init(\"combatStatus\", environment)\n        \n        krundeSaysStopObject.krundeSays = krundeSaysStopObject.krundeSays or {}\n        krundeSaysStopObject.trackedSpellsInPriorityOrder = trackedSpellsInPriorityOrder\n        krundeSaysStopObject.cooldownList = nil\n        krundeSaysStopObject.listUpdatedCallback = function(list)\n            krundeSaysStopObject.cooldownList = list\n            environment.triggerPublish(environment)\n        end\n        krundeSaysStopObject.cooldownSortFunction = cooldownSortFunction\n        \n        demokratiaObject.init(\"krundeSays\", krundeSaysStopObject.krundeSays, krundeSaysStopObject.trackedSpellsInPriorityOrder, krundeSaysStopObject.cooldownSortFunction, krundeSaysStopObject.listUpdatedCallback, environment.config.stopPriorities)\n        \n        krundeSaysStopObject.krundeSaysMessageHandler = krundeSaysStopObject.krundeSaysMessageHandler or {}\n        demokratiaObject.init(\"krundeSaysMessageHandler\", krundeSaysStopObject.krundeSaysMessageHandler)\n        krundeSaysStopObject.krundeSaysMessageHandler.register(messageHandlers)\n        krundeSaysStopObject.krundeSaysServer = krundeSaysStopObject.krundeSaysServer or {}\n        demokratiaObject.init(\"krundeSaysServer\", krundeSaysStopObject.krundeSaysServer)\n        \n        environment.outputBuffer = krundeSaysOutputObject.outputBuffer\n        \n        krundeSaysStopObject.frame = krundeSaysStopObject.frame or CreateFrame(\"FRAME\", \"KrundeSaysStopFrame\");\n        demokratiaObject.init(\"eventHandler\", krundeSaysStopObject.frame)\n        \n        krundeSaysStopObject.frame.registerEventList(\"CHAT_MSG_ADDON\",\n            function(event, ...)\n                local krundeSaysMessageHandler = krundeSaysStopObject.krundeSaysMessageHandler\n                \n                krundeSaysMessageHandler.process(event, ...)\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\"GROUP_ROSTER_UPDATE\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                \n                environment.numGroupMembers = environment.numGroupMembers or 1\n                local numGroupMembers = GetNumSubgroupMembers() + 1 -- does not include player\n                if environment.numGroupMembers > numGroupMembers then\n                    krundeSaysServer.removeLeftMembers(environment)\n                    krundeSaysStopObject.krundeSays.krundeSaysDataSource.clean()\n                elseif environment.numGroupMembers < numGroupMembers then\n                    krundeSaysServer.sendServerAnnounce(environment, environment.serverTag)\n                    krundeSaysStopObject.krundeSays.krundeSaysDataSource.clean()\n                end\n                environment.numGroupMembers = numGroupMembers\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\"PARTY_MEMBER_DISABLE PARTY_MEMBER_ENABLE PLAYER_ALIVE PLAYER_DEAD PLAYER_UNGHOST PARTY_LEADER_CHANGED\",\n            function(event)\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                \n                local couldChangeServer\n                if event == \"PARTY_MEMBER_DISABLE\" or event == \"PARTY_MEMBER_ENABLE\"\n                or event == \"PARTY_LEADER_CHANGED\" then\n                    couldChangeServer = true\n                else\n                    couldChangeServer = false\n                end\n                \n                krundeSaysServer.groupMemberStatusChange(environment, couldChangeServer)\n        end)\n        \n        krundeSaysStopObject.frame.registerEventList(\"PLAYER_REGEN_ENABLED\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                krundeSaysServer.outOfCombat(environment)\n        end)\n        \n        \n        krundeSaysStopObject.frame.registerEventList(\"GROUP_JOINED,GROUP_FORMED,PLAYER_ENTERING_WORLD\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                krundeSaysServer.letGroupSettleRoles(environment)\n        end)\n        \n        \n        krundeSaysStopObject.frame.registerEventList(\"GROUP_LEFT\",\n            function()\n                local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n                krundeSaysServer.groupLeft(environment)\n                krundeSaysStopObject.krundeSays.krundeSaysDataSource.clean()\n                environment.priorityUnit = nil\n        end)\n        \n        krundeSaysStopObject.frame.fakeEvent(\"PLAYER_ENTERING_WORLD\")\n        krundeSaysStopObject.krundeSaysServer.sendServerRequest(environment, environment.serverTag)\n        \n        function krundeSaysStopObject.isMaster()\n            local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n            return krundeSaysServer.playerIsFirstOnServerList(environment)\n        end\n        \n        local function ksStopReset()\n            local krundeSaysServer = krundeSaysStopObject.krundeSaysServer \n            krundeSaysServer.outOfCombat(environment)\n        end\n        \n        local function ksStopPrioUnit(unitGUID)\n            if unitGUID and environment and environment.clientList and environment.clientList[unitGUID] then\n                environment.priorityUnit = unitGUID\n            elseif not unitGUID and environment.priorityUnit then\n                environment.priorityUnit = nil\n            else\n                return\n            end\n            \n            environment.forceSendForNewClients = true\n            krundeSaysStopObject.krundeSays.krundeSaysDataSource.forceRecalculateList()\n            ksStopReset()\n        end\n        \n        setglobal(\"ksStopReset\", ksStopReset)\n        setglobal(\"ksStopPrioUnit\", ksStopPrioUnit)\n        \n        setglobal(\"krundeSaysStop\", krundeSaysStopObject)\n    else\n        demokratiaObject.init(\"reloadUIPopUp\")\n    end\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyClass(\"krundeSays\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysServer\"),\n        demokratiaObject.moduleDependencyClass(\"krundeSaysMessageHandler\"),\n        demokratiaObject.moduleDependencyClass(\"reloadUIPopUp\"),\n        demokratiaObject.moduleDependencyClass(\"timer\"),\n        demokratiaObject.moduleDependencyClass(\"combatStatus\"),\n        demokratiaObject.moduleDependencyClass(\"eventHandler\"),\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysOutput\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]\n\n\n",
           "customOnLoad": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysStopObject = moduleDependencies[\"krundeSaysStop\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysStopObject.frame.start()\n    krundeSaysStopObject.krundeSays.libORclient.start()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
           "customOnUnload": "local function moduleFunction(demokratiaObject, ...)\n    local moduleDependencies = ...\n    local krundeSaysStopObject = moduleDependencies[\"krundeSaysStop\"]\n    local config = moduleDependencies[\"config\"]\n    \n    krundeSaysStopObject.frame.stop()\n    krundeSaysStopObject.krundeSays.libORclient.stop()\nend\n\nlocal function loopInit()\n    local demokratiaObject = demokratia -- luacheck: ignore\n    if not demokratiaObject then C_Timer.After(1, loopInit) return end\n    demokratiaObject.moduleRun(moduleFunction,\n        demokratiaObject.moduleDependencyTable(\"config\", aura_env.config),\n        demokratiaObject.moduleDependencyGlobal(\"krundeSaysStop\"))\nend\n\nloopInit()\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
           "do_custom": true,
@@ -6258,7 +6373,7 @@
         },
         {
           "default": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-          "desc": "If you are the MASTER, these are the priorities used for scheduling STOPs",
+          "desc": "If you are the MASTER, these are the priorities used for scheduling STOPs. 1 Gorefiend's Grasp, 2 Sigil of Chains, 3 Shockwave, 4 Incapacitating Roar, 5 Capacitor Totem, 6 Thunderstorm, 7 Dragon's Breath, 8 Supernova, 9 Chaos Nova, 10 Leg Sweep, 11 Tail Swipe, 12 Shadowfury, 13 Blinding Light, 14 Blinding Sleet, 15 Sigil of Misery, 16 Blind, 17 Psychic Scream, 18 Ring of Peace, 19 Typhoon, 20 Blast Wave, 21 Wing Buffet, 22 Bursting Shot",
           "key": "stopPriorities",
           "length": 10,
           "multiline": false,
@@ -6348,7 +6463,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -6378,11 +6493,11 @@
         "disjunctive": "any"
       },
       "uid": ")gjYg9dOg2q",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -6495,7 +6610,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -6537,11 +6652,11 @@
         "disjunctive": "any"
       },
       "uid": "i(kh9Go26hi",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -6627,7 +6742,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -6646,8 +6761,8 @@
         }
       ],
       "uid": "ZKll2iQxDnE",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -6918,7 +7033,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -7171,12 +7286,12 @@
         "disjunctive": "custom"
       },
       "uid": "0RgK2AxGwps",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -7351,7 +7466,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -7477,12 +7592,12 @@
         "disjunctive": "custom"
       },
       "uid": "5PG4l1I4GQt",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 28,
       "wordWrap": "WordWrap",
@@ -7580,7 +7695,7 @@
       "rowSpace": 1,
       "scale": 0.5,
       "selfPoint": "LEFT",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "sort": "none",
       "sortHybridTable": {
         "Demokratia - Krunde says STOP client stops after current": false
@@ -7606,9 +7721,9 @@
         }
       ],
       "uid": "GA1oLo0ZEfG",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useLimit": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": -64,
       "yOffset": -32
@@ -7805,7 +7920,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -7901,12 +8016,12 @@
         "disjunctive": "custom"
       },
       "uid": "8fA)uWNJbG6",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -8297,7 +8412,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -8432,12 +8547,12 @@
         "disjunctive": "any"
       },
       "uid": "b1p4ngL0EYa",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -8522,7 +8637,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -8541,8 +8656,8 @@
         }
       ],
       "uid": "0pbcGjqBDHs",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -8678,7 +8793,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -8708,11 +8823,11 @@
         "disjunctive": "any"
       },
       "uid": "UgbAIDJAWtp",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -8825,7 +8940,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -8867,11 +8982,11 @@
         "disjunctive": "any"
       },
       "uid": "ZzFvYKq0flA",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -8956,7 +9071,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -8975,8 +9090,8 @@
         }
       ],
       "uid": "bZ7on8YAb(w",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 100
@@ -9330,7 +9445,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -9615,12 +9730,12 @@
         "disjunctive": "custom"
       },
       "uid": "rbsrJbYzwH7",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -9806,7 +9921,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -9939,12 +10054,12 @@
         "disjunctive": "custom"
       },
       "uid": "WfvCJqDslZ5",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 28,
       "wordWrap": "WordWrap",
@@ -10042,7 +10157,7 @@
       "rowSpace": 1,
       "scale": 0.5,
       "selfPoint": "LEFT",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "sort": "none",
       "sortHybridTable": {
         "Demokratia - Krunde says SILENCE client interrupts after current": false
@@ -10068,9 +10183,9 @@
         }
       ],
       "uid": "IZyTun5s9qe",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useLimit": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": -64,
       "yOffset": -32
@@ -10265,7 +10380,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -10361,12 +10476,12 @@
         "disjunctive": "custom"
       },
       "uid": ")refSVVCIj2",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -10451,7 +10566,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -10470,8 +10585,8 @@
         }
       ],
       "uid": "MICMMM6WeMz",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -10598,7 +10713,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -10628,11 +10743,11 @@
         "disjunctive": "any"
       },
       "uid": "F38ytJc6)Kd",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -10775,7 +10890,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -10817,11 +10932,11 @@
         "disjunctive": "any"
       },
       "uid": "etEMOGHUOn)",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -10905,7 +11020,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -10924,8 +11039,8 @@
         }
       ],
       "uid": "YL4SzNdv5sy",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 200
@@ -11020,7 +11135,7 @@
       "rowSpace": 1,
       "scale": 0.5,
       "selfPoint": "LEFT",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "sort": "none",
       "sortHybridTable": {
         "Demokratia - Krunde says MARKER client marker": false
@@ -11046,9 +11161,9 @@
         }
       ],
       "uid": "(p(enz6dC)V",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useLimit": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": -64,
       "yOffset": 0
@@ -11190,7 +11305,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -11286,12 +11401,12 @@
         "disjunctive": "custom"
       },
       "uid": "zxCB)O4kv8G",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 23.6,
       "wordWrap": "WordWrap",
@@ -11394,7 +11509,7 @@
       "parent": "Demokratia - Krunde says... MARKER client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -11420,8 +11535,8 @@
         "activeTriggerMode": -10
       },
       "uid": "C32z0PqwhlT",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -11504,7 +11619,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -11523,8 +11638,8 @@
         }
       ],
       "uid": "RT9Jxjp99DC",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -11603,7 +11718,7 @@
       "parent": "Demokratia - Krunde says... FOCUS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -11627,8 +11742,8 @@
         "activeTriggerMode": -10
       },
       "uid": "9H5D8HSD5lh",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -11740,7 +11855,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -11782,11 +11897,11 @@
         "disjunctive": "any"
       },
       "uid": "SusAqxilY9a",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -11871,7 +11986,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -11890,8 +12005,8 @@
         }
       ],
       "uid": "oY314P)VDx1",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -11981,7 +12096,7 @@
       "parent": "Demokratia - Krunde says... FOCUS client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -12007,8 +12122,8 @@
         "activeTriggerMode": -10
       },
       "uid": "(f)ywmemn74",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -12389,7 +12504,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "shadowColor": [
         0,
         0,
@@ -12452,12 +12567,12 @@
         "disjunctive": "custom"
       },
       "uid": "CSrJKDUywY9",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 23.6,
       "wordWrap": "WordWrap",
@@ -12564,7 +12679,7 @@
       "parent": "Demokratia - Krunde says... FOCUS client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -12590,8 +12705,8 @@
         "activeTriggerMode": -10
       },
       "uid": "1IesNLZ2Wo1",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -12982,7 +13097,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13242,8 +13357,8 @@
         "disjunctive": "any"
       },
       "uid": "Z30xx9n5fL6",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13355,7 +13470,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [
         {
           "type": "subbackground"
@@ -13385,11 +13500,11 @@
         "disjunctive": "any"
       },
       "uid": "IDd61lqmHtQ",
-      "url": "https://wago.io/Tu1FwxLmF/233",
+      "url": "https://wago.io/Tu1FwxLmF/235",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 233,
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13462,7 +13577,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13486,8 +13601,8 @@
         "activeTriggerMode": -10
       },
       "uid": "uiOj4Yh)KuP",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13561,7 +13676,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13585,8 +13700,8 @@
         "activeTriggerMode": -10
       },
       "uid": "VZ8ubF3f8Sq",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13658,7 +13773,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13682,8 +13797,8 @@
         "activeTriggerMode": -10
       },
       "uid": "mKl2MZWZdso",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13755,7 +13870,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13779,8 +13894,8 @@
         "activeTriggerMode": -10
       },
       "uid": "BsUYM6slbeX",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13853,7 +13968,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13877,8 +13992,8 @@
         "activeTriggerMode": -10
       },
       "uid": "0t6(mubORph",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13950,7 +14065,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.232",
+      "semver": "1.0.234",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13974,8 +14089,8 @@
         "activeTriggerMode": -10
       },
       "uid": "7EsqLuZKmZX",
-      "url": "https://wago.io/Tu1FwxLmF/233",
-      "version": 233,
+      "url": "https://wago.io/Tu1FwxLmF/235",
+      "version": 235,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -14066,7 +14181,7 @@
     "regionType": "group",
     "scale": 1,
     "selfPoint": "CENTER",
-    "semver": "1.0.232",
+    "semver": "1.0.234",
     "subRegions": [],
     "tocversion": 110205,
     "triggers": [
@@ -14085,8 +14200,8 @@
       }
     ],
     "uid": "KsJiyc6zpSN",
-    "url": "https://wago.io/Tu1FwxLmF/233",
-    "version": 233,
+    "url": "https://wago.io/Tu1FwxLmF/235",
+    "version": 235,
     "wagoID": "Tu1FwxLmF",
     "xOffset": 130,
     "yOffset": 263
