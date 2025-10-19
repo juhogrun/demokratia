@@ -62,7 +62,7 @@
       "parent": "Demokratia",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -86,8 +86,8 @@
         "activeTriggerMode": -10
       },
       "uid": "(JouF38Ynd6",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -158,7 +158,7 @@
       "parent": "Demokratia",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -182,8 +182,8 @@
         "activeTriggerMode": -10
       },
       "uid": "vM9D(QlGkFd",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -250,7 +250,7 @@
       "parent": "Demokratia",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -275,8 +275,8 @@
         "disjunctive": "any"
       },
       "uid": "jDwpc3U8jRf",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -362,7 +362,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -381,8 +381,8 @@
         }
       ],
       "uid": "3YPYp5X0cdR",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -452,7 +452,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -476,8 +476,8 @@
         "activeTriggerMode": -10
       },
       "uid": "(p2B5zY0HQ8",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -548,7 +548,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -572,8 +572,8 @@
         "activeTriggerMode": -10
       },
       "uid": "o))fQUepZYl",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -644,7 +644,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -668,8 +668,8 @@
         "activeTriggerMode": -10
       },
       "uid": "jGhq)lroJHI",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -740,7 +740,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -764,8 +764,8 @@
         "activeTriggerMode": -10
       },
       "uid": "w5Mcd95a3Bt",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -836,7 +836,7 @@
       "parent": "Demokratia - Generic Library",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -860,8 +860,8 @@
         "activeTriggerMode": -10
       },
       "uid": "XBTno01E1pr",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -952,7 +952,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -971,8 +971,8 @@
         }
       ],
       "uid": "x9tqBsPVaqE",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -1035,7 +1035,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1055,8 +1055,8 @@
         "activeTriggerMode": -10
       },
       "uid": "aDQivS8MWWa",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1122,7 +1122,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1142,8 +1142,8 @@
         "activeTriggerMode": -10
       },
       "uid": "vs5rNE)hxX1",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1207,7 +1207,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1227,8 +1227,8 @@
         "activeTriggerMode": -10
       },
       "uid": "dPQBISsgZVf",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1292,7 +1292,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1312,8 +1312,8 @@
         "activeTriggerMode": -10
       },
       "uid": "6BC)lk)tLu7",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1377,7 +1377,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1397,8 +1397,8 @@
         "activeTriggerMode": -10
       },
       "uid": "iqysGSxoJee",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1462,7 +1462,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1482,8 +1482,8 @@
         "activeTriggerMode": -10
       },
       "uid": "X1XMUx9Jksf",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1676,7 +1676,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1700,8 +1700,8 @@
         "activeTriggerMode": -10
       },
       "uid": "9n5Y90vYz63",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1887,7 +1887,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -1911,8 +1911,8 @@
         "activeTriggerMode": -10
       },
       "uid": "oEMHwVivo9f",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -1963,7 +1963,7 @@
           "width": 1.5
         },
         {
-          "default": false,
+          "default": true,
           "desc": "Recolor the castbar according to your interrupt availability. Could conflict with other addons.",
           "key": "enabledRecolor",
           "name": "Color castbar",
@@ -2116,7 +2116,7 @@
         ],
         "enabled": true,
         "enabledCDready": true,
-        "enabledRecolor": false,
+        "enabledRecolor": true,
         "height": 0.35,
         "offset": 0,
         "width": 1
@@ -2151,7 +2151,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -2175,8 +2175,8 @@
         "activeTriggerMode": -10
       },
       "uid": "73I5qiQnxrB",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -2218,7 +2218,7 @@
       },
       "authorOptions": [
         {
-          "default": false,
+          "default": true,
           "desc": "Lieutenants cannot be CC'd, neither can be bosses. If you cannot see the colors, other addons are probably overriding the colors. Works with Plater and Blizzard nameplates.",
           "key": "enabled",
           "name": "Color enemy NPC healthbars based on rank (normal, lieutenant, boss)",
@@ -2267,7 +2267,7 @@
           0.8666667342186,
           1
         ],
-        "enabled": false
+        "enabled": true
       },
       "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
       "frameStrata": 1,
@@ -2299,7 +2299,7 @@
       "parent": "Demokratia - EAS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -2323,8 +2323,8 @@
         "activeTriggerMode": -10
       },
       "uid": "S(PXnyjZQ1f",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -2381,8 +2381,13 @@
       "conditions": [],
       "config": [],
       "controlledChildren": [
+        "Demokratia - GG - Party frame indicators",
+        "Demokratia - GG - Defensives",
+        "Demokratia - GG - Interrupts",
+        "Demokratia - GG - Encounter",
         "Demokratia - GG - Dispel"
       ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
       "frameStrata": 1,
       "id": "Demokratia - GG",
       "information": [],
@@ -2405,7 +2410,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -2424,9 +2429,6458 @@
         }
       ],
       "uid": "LONBsxkVhjZ",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "align": "CENTER",
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPerUnit": "UNITFRAME",
+      "anchorPoint": "TOPLEFT",
+      "animate": true,
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "arcLength": 360,
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "centerType": "LR",
+      "columnSpace": 1,
+      "conditions": [],
+      "config": [],
+      "constantFactor": "RADIUS",
+      "controlledChildren": [
+        "Demokratia - GG - druid heals",
+        "Demokratia - GG - evoker heals",
+        "Demokratia - GG - monk heals",
+        "Demokratia - GG - shaman heals",
+        "Demokratia - GG - paladin heals",
+        "Demokratia - GG - priest heals",
+        "Demokratia - GG - druid heals combine"
+      ],
+      "frameStrata": 1,
+      "fullCircle": true,
+      "gridType": "RD",
+      "gridWidth": 5,
+      "grow": "DOWN",
+      "id": "Demokratia - GG - Party frame indicators",
+      "information": [],
+      "internalVersion": 86,
+      "limit": 5,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG",
+      "radius": 200,
+      "regionType": "dynamicgroup",
+      "rotation": 0,
+      "rowSpace": 1,
+      "scale": 1,
+      "selfPoint": "TOPLEFT",
+      "semver": "1.0.236",
+      "sort": "ascending",
+      "space": 0,
+      "stagger": 0,
+      "stepAngle": 15,
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "4f09Ujgc95z",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAnchorPerUnit": true,
+      "useLimit": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 2,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 0.7,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Own heals only",
+          "key": "showPartyFrameHeals",
+          "name": "Show timers for healer buffs on party frames",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "backgroundColor": [
+        0,
+        0,
+        0,
+        0.5
+      ],
+      "barColor": [
+        0.17647059261799,
+        1,
+        0,
+        1
+      ],
+      "barColor2": [
+        1,
+        0,
+        0.019607843831182,
+        1
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                1,
+                0.015686275437474,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Lifebloom",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0,
+                0.81960791349411,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "find('%s')",
+            "trigger": 1,
+            "value": "Rejuvenation",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.88627457618713,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Regrowth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.94901967048645,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Wild Growth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.6235294342041,
+                0.098039224743843,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Cenarion Ward",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.023529414087534,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Ironbark",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0.31764706969261,
+                0.37254902720451,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Adaptive Swarm",
+            "variable": "name"
+          }
+        }
+      ],
+      "config": {
+        "showPartyFrameHeals": false
+      },
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "displayText": "%p",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "enableGradient": false,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 8,
+      "frameStrata": 1,
+      "gradientOrientation": "HORIZONTAL",
+      "height": 10,
+      "icon": true,
+      "iconSource": -1,
+      "icon_color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "icon_side": "LEFT",
+      "id": "Demokratia - GG - druid heals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": []
+        },
+        "instance_type": {
+          "multi": [
+            true,
+            true
+          ]
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_never": false
+      },
+      "orientation": "HORIZONTAL",
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Party frame indicators",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "spark": false,
+      "sparkBlendMode": "ADD",
+      "sparkColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "sparkHeight": 30,
+      "sparkHidden": "NEVER",
+      "sparkOffsetX": 0,
+      "sparkOffsetY": 0,
+      "sparkRotation": 0,
+      "sparkRotationMode": "AUTO",
+      "sparkTexture": "Interface\\CastingBar\\UI-CastingBar-Spark",
+      "sparkWidth": 10,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "texture": "Blizzard",
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Lifebloom",
+              "Regrowth",
+              "Rejuvenation",
+              "Cenarion Ward",
+              "Ironbark",
+              "Adaptive Swarm",
+              "Grove Tending"
+            ],
+            "auraspellids": [
+              "155777"
+            ],
+            "combinePerUnit": false,
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "group",
+            "useExactSpellId": true,
+            "useMatch_count": false,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.showPartyFrameHeals and trigger[1]\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "atGPSICSTVr",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 67,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 0.7,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Own heals only",
+          "key": "showPartyFrameHeals",
+          "name": "Show timers for healer buffs on party frames",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "backgroundColor": [
+        0,
+        0,
+        0,
+        0.5
+      ],
+      "barColor": [
+        0.17647059261799,
+        1,
+        0,
+        1
+      ],
+      "barColor2": [
+        1,
+        0,
+        0.019607843831182,
+        1
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                1,
+                0.015686275437474,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Reversion",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0,
+                0.81960791349411,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Echo",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.88627457618713,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Regrowth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.94901967048645,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Wild Growth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.6235294342041,
+                0.098039224743843,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Cenarion Ward",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.023529414087534,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Ironbark",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0.31764706969261,
+                0.37254902720451,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Adaptive Swarm",
+            "variable": "name"
+          }
+        }
+      ],
+      "config": {
+        "showPartyFrameHeals": false
+      },
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "displayText": "%p",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "enableGradient": false,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 8,
+      "frameStrata": 1,
+      "gradientOrientation": "HORIZONTAL",
+      "height": 10,
+      "icon": true,
+      "iconSource": -1,
+      "icon_color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "icon_side": "LEFT",
+      "id": "Demokratia - GG - evoker heals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": []
+        },
+        "instance_type": {
+          "multi": [
+            true,
+            true
+          ]
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_never": false
+      },
+      "orientation": "HORIZONTAL",
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Party frame indicators",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "spark": false,
+      "sparkBlendMode": "ADD",
+      "sparkColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "sparkHeight": 30,
+      "sparkHidden": "NEVER",
+      "sparkOffsetX": 0,
+      "sparkOffsetY": 0,
+      "sparkRotation": 0,
+      "sparkRotationMode": "AUTO",
+      "sparkTexture": "Interface\\CastingBar\\UI-CastingBar-Spark",
+      "sparkWidth": 10,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "texture": "Blizzard",
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Echo",
+              "Reversion",
+              "Temporal Anomaly"
+            ],
+            "combinePerUnit": false,
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "group",
+            "useMatch_count": false,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.showPartyFrameHeals and trigger[1]\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "JsxSLGBsGBD",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 67,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 0.7,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Own heals only",
+          "key": "showPartyFrameHeals",
+          "name": "Show timers for healer buffs on party frames",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "backgroundColor": [
+        0,
+        0,
+        0,
+        0.5
+      ],
+      "barColor": [
+        0.17647059261799,
+        1,
+        0,
+        1
+      ],
+      "barColor2": [
+        1,
+        0,
+        0.019607843831182,
+        1
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0,
+                0.81960791349411,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 2,
+            "value": 1,
+            "variable": "reColor"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                1,
+                0.015686275437474,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Renewing Mist",
+            "variable": "name"
+          },
+          "linked": true
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.88627457618713,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Enveloping Mist",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.94901967048645,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Wild Growth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.6235294342041,
+                0.098039224743843,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Life Cocoon",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.023529414087534,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Ironbark",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0.31764706969261,
+                0.37254902720451,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Adaptive Swarm",
+            "variable": "name"
+          }
+        }
+      ],
+      "config": {
+        "showPartyFrameHeals": false
+      },
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "displayText": "%p",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "enableGradient": false,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 8,
+      "frameStrata": 1,
+      "gradientOrientation": "HORIZONTAL",
+      "height": 10,
+      "icon": true,
+      "iconSource": -1,
+      "icon_color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "icon_side": "LEFT",
+      "id": "Demokratia - GG - monk heals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": []
+        },
+        "instance_type": {
+          "multi": [
+            true,
+            true
+          ]
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_never": false
+      },
+      "orientation": "HORIZONTAL",
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Party frame indicators",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "spark": false,
+      "sparkBlendMode": "ADD",
+      "sparkColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "sparkHeight": 30,
+      "sparkHidden": "NEVER",
+      "sparkOffsetX": 0,
+      "sparkOffsetY": 0,
+      "sparkRotation": 0,
+      "sparkRotationMode": "AUTO",
+      "sparkTexture": "Interface\\CastingBar\\UI-CastingBar-Spark",
+      "sparkWidth": 10,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "texture": "Blizzard",
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Renewing Mist",
+              "Enveloping Mist",
+              "Life Cocoon"
+            ],
+            "combinePerUnit": false,
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "fetchTooltip": false,
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "group",
+            "useMatch_count": false,
+            "useName": true,
+            "useRem": false,
+            "useTotal": false
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "check": "event",
+            "custom": "function(allstates, e, n, s)\n    if e == \"TRIGGER\" and n == 1 then\n        for i,d in pairs(s) do\n            if d.icon and d.icon == 1381294 then\n                allstates:Update(i, {\n                        progressType = \"progress\",\n                        refreshTime = d.refreshTime,\n                        duration = 8,\n                        expirationTime = d.refreshTime + 8,\n                        autoHide = true,\n                        \n                        reColor = true,\n                })\n            else\n                allstates:Remove(i)\n            end\n        end\n    end\nend",
+            "customVariables": " { reColor = \"bool\" }",
+            "custom_hide": "custom",
+            "custom_type": "stateupdate",
+            "debuffType": "HELPFUL",
+            "events": "TRIGGER:1",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": {
+            "custom": "function(e,n,s)\n    if e == \"TRIGGER\" and n == 1 then\n        for i,d in pairs(s) do\n            if d.icon and d.icon == 1381294 then\n                return false\n            else\n                return true\n            end\n        end\n    end\nend"
+          }
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.showPartyFrameHeals and (trigger[1] or trigger[2])\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "lVPMtrUq5Td",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 67,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 0.7,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Own heals only",
+          "key": "showPartyFrameHeals",
+          "name": "Show timers for healer buffs on party frames",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "backgroundColor": [
+        0,
+        0,
+        0,
+        0.5
+      ],
+      "barColor": [
+        0.17647059261799,
+        1,
+        0,
+        1
+      ],
+      "barColor2": [
+        1,
+        0,
+        0.019607843831182,
+        1
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                1,
+                0.015686275437474,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Renewing Mist",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0,
+                0.81960791349411,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "echo",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.88627457618713,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Riptide",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.94901967048645,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Wild Growth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.6235294342041,
+                0.098039224743843,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Earth Shield",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.023529414087534,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Ancestral Vigor",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0.31764706969261,
+                0.37254902720451,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Adaptive Swarm",
+            "variable": "name"
+          }
+        }
+      ],
+      "config": {
+        "showPartyFrameHeals": false
+      },
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "displayText": "%p",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "enableGradient": false,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 8,
+      "frameStrata": 1,
+      "gradientOrientation": "HORIZONTAL",
+      "height": 10,
+      "icon": true,
+      "iconSource": -1,
+      "icon_color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "icon_side": "LEFT",
+      "id": "Demokratia - GG - shaman heals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": []
+        },
+        "instance_type": {
+          "multi": [
+            true,
+            true
+          ]
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_never": false
+      },
+      "orientation": "HORIZONTAL",
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Party frame indicators",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "spark": false,
+      "sparkBlendMode": "ADD",
+      "sparkColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "sparkHeight": 30,
+      "sparkHidden": "NEVER",
+      "sparkOffsetX": 0,
+      "sparkOffsetY": 0,
+      "sparkRotation": 0,
+      "sparkRotationMode": "AUTO",
+      "sparkTexture": "Interface\\CastingBar\\UI-CastingBar-Spark",
+      "sparkWidth": 10,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "texture": "Blizzard",
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Ancestral Vigor",
+              "Riptide",
+              "Earth Shield"
+            ],
+            "combinePerUnit": false,
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "group",
+            "useMatch_count": false,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.showPartyFrameHeals and trigger[1]\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "VUoE4xLCKCI",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 67,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 0.7,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Own heals only",
+          "key": "showPartyFrameHeals",
+          "name": "Show timers for healer buffs on party frames",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "backgroundColor": [
+        0,
+        0,
+        0,
+        0.5
+      ],
+      "barColor": [
+        0.17647059261799,
+        1,
+        0,
+        1
+      ],
+      "barColor2": [
+        1,
+        0,
+        0.019607843831182,
+        1
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                1,
+                0.015686275437474,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "431381",
+            "variable": "spellId"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0,
+                0.81960791349411,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Beacon of Virtue",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.88627457618713,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Eternal Flame",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.94901967048645,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Wild Growth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.6235294342041,
+                0.098039224743843,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "388536",
+            "variable": "spellId"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.023529414087534,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Ancestral Vigor",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0.31764706969261,
+                0.37254902720451,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Adaptive Swarm",
+            "variable": "name"
+          }
+        }
+      ],
+      "config": {
+        "showPartyFrameHeals": false
+      },
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "displayText": "%p",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "enableGradient": false,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 8,
+      "frameStrata": 1,
+      "gradientOrientation": "HORIZONTAL",
+      "height": 10,
+      "icon": true,
+      "iconSource": -1,
+      "icon_color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "icon_side": "LEFT",
+      "id": "Demokratia - GG - paladin heals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": []
+        },
+        "instance_type": {
+          "multi": [
+            true,
+            true
+          ]
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_never": false
+      },
+      "orientation": "HORIZONTAL",
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Party frame indicators",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "spark": false,
+      "sparkBlendMode": "ADD",
+      "sparkColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "sparkHeight": 30,
+      "sparkHidden": "NEVER",
+      "sparkOffsetX": 0,
+      "sparkOffsetY": 0,
+      "sparkRotation": 0,
+      "sparkRotationMode": "AUTO",
+      "sparkTexture": "Interface\\CastingBar\\UI-CastingBar-Spark",
+      "sparkWidth": 10,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "texture": "Blizzard",
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Beacon of Light",
+              "Beacon of Faith",
+              "Beacon of Virtue",
+              "Eternal Flame"
+            ],
+            "auraspellids": [
+              "431381",
+              "388536"
+            ],
+            "combinePerUnit": false,
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "group",
+            "useExactSpellId": true,
+            "useMatch_count": false,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.showPartyFrameHeals and trigger[1]\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "UE6TdtTgVHb",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 67,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 0.7,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Own heals only",
+          "key": "showPartyFrameHeals",
+          "name": "Show timers for healer buffs on party frames",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "backgroundColor": [
+        0,
+        0,
+        0,
+        0.5
+      ],
+      "barColor": [
+        0.17647059261799,
+        1,
+        0,
+        1
+      ],
+      "barColor2": [
+        1,
+        0,
+        0.019607843831182,
+        1
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                1,
+                0.015686275437474,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Renew",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0,
+                0.81960791349411,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Power Word: Shield",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.88627457618713,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Atonement",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.94901967048645,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Wild Growth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.6235294342041,
+                0.098039224743843,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Pain Suppression",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.023529414087534,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Ancestral Vigor",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0.31764706969261,
+                0.37254902720451,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Adaptive Swarm",
+            "variable": "name"
+          }
+        }
+      ],
+      "config": {
+        "showPartyFrameHeals": false
+      },
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "displayText": "%p",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "enableGradient": false,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 8,
+      "frameStrata": 1,
+      "gradientOrientation": "HORIZONTAL",
+      "height": 10,
+      "icon": true,
+      "iconSource": -1,
+      "icon_color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "icon_side": "LEFT",
+      "id": "Demokratia - GG - priest heals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": []
+        },
+        "instance_type": {
+          "multi": [
+            true,
+            true
+          ]
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_never": false
+      },
+      "orientation": "HORIZONTAL",
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Party frame indicators",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "spark": false,
+      "sparkBlendMode": "ADD",
+      "sparkColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "sparkHeight": 30,
+      "sparkHidden": "NEVER",
+      "sparkOffsetX": 0,
+      "sparkOffsetY": 0,
+      "sparkRotation": 0,
+      "sparkRotationMode": "AUTO",
+      "sparkTexture": "Interface\\CastingBar\\UI-CastingBar-Spark",
+      "sparkWidth": 10,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "texture": "Blizzard",
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Atonement",
+              "Power Word: Shield",
+              "Renew"
+            ],
+            "auraspellids": [
+              "431381"
+            ],
+            "combinePerUnit": false,
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "group",
+            "useExactSpellId": false,
+            "useMatch_count": false,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.showPartyFrameHeals and trigger[1]\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "pg(3zE4eV98",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 67,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 0.7,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": false,
+          "desc": "Own heals only",
+          "key": "showPartyFrameHeals",
+          "name": "Show timers for healer buffs on party frames",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "backgroundColor": [
+        0,
+        0,
+        0,
+        0.5
+      ],
+      "barColor": [
+        0.17647059261799,
+        1,
+        0,
+        1
+      ],
+      "barColor2": [
+        1,
+        0,
+        0.019607843831182,
+        1
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                1,
+                0.015686275437474,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Lifebloom",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0,
+                0.81960791349411,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Rejuvenation",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.88627457618713,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Regrowth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.94901967048645,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Wild Growth",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0,
+                0.45098042488098,
+                0.070588238537312,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Cenarion Ward",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                1,
+                0.023529414087534,
+                0,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Ironbark",
+            "variable": "name"
+          }
+        },
+        {
+          "changes": [
+            {
+              "property": "color",
+              "value": [
+                0.047058828175068,
+                0.16470588743687,
+                1,
+                1
+              ]
+            }
+          ],
+          "check": {
+            "op": "==",
+            "trigger": 1,
+            "value": "Adaptive Swarm",
+            "variable": "name"
+          }
+        }
+      ],
+      "config": {
+        "showPartyFrameHeals": false
+      },
+      "customTextUpdate": "event",
+      "desaturate": false,
+      "displayText": "%p",
+      "displayText_format_n_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "enableGradient": false,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 8,
+      "frameStrata": 1,
+      "gradientOrientation": "HORIZONTAL",
+      "height": 10,
+      "icon": true,
+      "iconSource": -1,
+      "icon_color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "icon_side": "LEFT",
+      "id": "Demokratia - GG - druid heals combine",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "groupSize": [
+          "5"
+        ],
+        "groupSize_operator": [
+          "<="
+        ],
+        "ingroup": {
+          "multi": []
+        },
+        "instance_type": {
+          "multi": [
+            true,
+            true
+          ]
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_groupSize": false,
+        "use_never": false
+      },
+      "orientation": "HORIZONTAL",
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Party frame indicators",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "spark": false,
+      "sparkBlendMode": "ADD",
+      "sparkColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "sparkHeight": 30,
+      "sparkHidden": "NEVER",
+      "sparkOffsetX": 0,
+      "sparkOffsetY": 0,
+      "sparkRotation": 0,
+      "sparkRotationMode": "AUTO",
+      "sparkTexture": "Interface\\CastingBar\\UI-CastingBar-Spark",
+      "sparkWidth": 10,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "texture": "Blizzard",
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Wild Growth"
+            ],
+            "combineMode": "showHighest",
+            "combinePerUnit": true,
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "group",
+            "useMatch_count": false,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.showPartyFrameHeals and trigger[1]\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
+      },
+      "uid": "QGmQBYEoTbc",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 67,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "align": "CENTER",
+      "alpha": 1,
+      "anchorFrameType": "UIPARENT",
+      "anchorPoint": "CENTER",
+      "animate": false,
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "arcLength": 360,
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "centerType": "LR",
+      "columnSpace": 1,
+      "conditions": [],
+      "config": [],
+      "constantFactor": "RADIUS",
+      "controlledChildren": [
+        "Paladin Defensives",
+        "Paladin Externals",
+        "Priest Defensives",
+        "Priest Externals",
+        "Monk Defensives",
+        "Monk Externals",
+        "Warrior Defensives",
+        "Warrior Externals",
+        "DK Defensives",
+        "Druid Defensives",
+        "DH Defensives",
+        "DH Externals"
+      ],
+      "frameStrata": 1,
+      "fullCircle": true,
+      "gridType": "RD",
+      "gridWidth": 5,
+      "grow": "VERTICAL",
+      "id": "Demokratia - GG - Defensives",
+      "information": [],
+      "internalVersion": 86,
+      "limit": 5,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG",
+      "radius": 200,
+      "regionType": "dynamicgroup",
+      "rotation": 0,
+      "rowSpace": 1,
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "sort": "none",
+      "sortHybridTable": {
+        "DH Defensives": false,
+        "DH Externals": false,
+        "DK Defensives": false,
+        "Druid Defensives": false,
+        "Monk Defensives": false,
+        "Monk Externals": false,
+        "Paladin Defensives": false,
+        "Paladin Externals": false,
+        "Priest Defensives": false,
+        "Priest Externals": false,
+        "Warrior Defensives": false,
+        "Warrior Externals": false
+      },
+      "space": 2,
+      "stagger": 0,
+      "stepAngle": 15,
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "BEiisk2Pa5J",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useLimit": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": -200,
+      "yOffset": 120
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Paladin Defensives",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Divine Shield",
+              "Guardian of Ancient Kings",
+              "Sentinel",
+              "Ardent Defender",
+              "Blessing of Protection",
+              "Blessing of Spellwarding",
+              "Shield of Vengeance",
+              "Divine Protection"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "uWON1pa5Q3E",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": {
+          "do_sound": false,
+          "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Protected.ogg"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "sound",
+              "value": {
+                "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Protected.ogg",
+                "sound_channel": "Master",
+                "sound_type": "Play"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "value": "function ()\n    return aura_env.config.optionSoundOnExternals\nend",
+            "variable": "customcheck"
+          }
+        }
+      ],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Paladin Externals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Blessing of Protection",
+              "Blessing of Spellwarding",
+              "Blessing of Sacrifice"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": false,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "xzgZY)Y0iJ9",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": {
+          "do_sound": false,
+          "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Protected.ogg"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Priest Defensives",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Pain Suppression",
+              "Fade",
+              "Desperate Prayer"
+            ],
+            "auraspellids": [
+              "443526"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useExactSpellId": true,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "VWfDXFCaM5b",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": {
+          "do_sound": false,
+          "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Protected.ogg"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "sound",
+              "value": {
+                "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Protected.ogg",
+                "sound_channel": "Master",
+                "sound_type": "Play"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "value": "function ()\n    return aura_env.config.optionSoundOnExternals\nend",
+            "variable": "customcheck"
+          }
+        }
+      ],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Priest Externals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Pain Suppression"
+            ],
+            "auraspellids": [
+              "443526"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": false,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useExactSpellId": true,
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "b6njPCWY9Kj",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Monk Defensives",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Fortifying Brew",
+              "Dampen Harm",
+              "Diffuse Magic",
+              "Life Cocoon"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "BWlcDFfQIBj",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": {
+          "do_sound": false,
+          "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Protected.ogg"
+        }
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "sound",
+              "value": {
+                "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Protected.ogg",
+                "sound_channel": "Master",
+                "sound_type": "Play"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "value": "function ()\n    return aura_env.config.optionSoundOnExternals\nend",
+            "variable": "customcheck"
+          }
+        }
+      ],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Monk Externals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Life Cocoon"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": false,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "ZqGHz0mtipX",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Warrior Defensives",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Shield Wall",
+              "Last Stand"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "BKruF8cu8UV",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "sound",
+              "value": {
+                "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Protected.ogg",
+                "sound_channel": "Master",
+                "sound_type": "Play"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "value": "function ()\n    return aura_env.config.optionSoundOnExternals\nend",
+            "variable": "customcheck"
+          }
+        }
+      ],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Warrior Externals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Intervene"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": false,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "uiHiEpxriyI",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "DK Defensives",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Vampiric Blood",
+              "Dancing Rune Weapon",
+              "Icebound Fortitude",
+              "Lichborne",
+              "Anti-Magic Shell"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "pqvpm2APk0T",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "Druid Defensives",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Barkskin"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "ownOnly": true,
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "2WJRRviwLay",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "DH Defensives",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Metamorphosis"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "1zkd402jC9m",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "adjustedMax": "",
+      "adjustedMin": "",
+      "alpha": 0.6,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowDefensivesExternalsNotification",
+          "name": "Show Externals and Defensives",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": true,
+          "key": "optionSoundOnExternals",
+          "name": "Sound on External",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "sound",
+              "value": {
+                "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Protected.ogg",
+                "sound_channel": "Master",
+                "sound_type": "Play"
+              }
+            }
+          ],
+          "check": {
+            "trigger": -1,
+            "value": "function ()\n    return aura_env.config.optionSoundOnExternals\nend",
+            "variable": "customcheck"
+          }
+        }
+      ],
+      "config": {
+        "optionShowDefensivesExternalsNotification": true,
+        "optionSoundOnExternals": true
+      },
+      "cooldown": true,
+      "cooldownEdge": false,
+      "cooldownSwipe": true,
+      "cooldownTextDisabled": false,
+      "desaturate": false,
+      "frameStrata": 1,
+      "height": 64,
+      "icon": true,
+      "iconSource": -1,
+      "id": "DH Externals",
+      "information": [],
+      "internalVersion": 86,
+      "inverse": false,
+      "keepAspectRatio": false,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG - Defensives",
+      "progressSource": [
+        -1,
+        ""
+      ],
+      "regionType": "icon",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [
+        {
+          "type": "subbackground"
+        },
+        {
+          "anchorXOffset": 0,
+          "anchorYOffset": 0,
+          "anchor_point": "INNER_BOTTOMRIGHT",
+          "rotateText": "NONE",
+          "text_automaticWidth": "Auto",
+          "text_color": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "text_fixedWidth": 64,
+          "text_font": "Friz Quadrata TT",
+          "text_fontSize": 12,
+          "text_fontType": "OUTLINE",
+          "text_justify": "CENTER",
+          "text_selfPoint": "AUTO",
+          "text_shadowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "text_shadowXOffset": 0,
+          "text_shadowYOffset": 0,
+          "text_text": "%s",
+          "text_text_format_s_format": "none",
+          "text_visible": true,
+          "text_wordWrap": "WordWrap",
+          "type": "subtext"
+        },
+        {
+          "glow": false,
+          "glowBorder": false,
+          "glowColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glowDuration": 1,
+          "glowFrequency": 0.25,
+          "glowLength": 10,
+          "glowLines": 8,
+          "glowScale": 1,
+          "glowThickness": 1,
+          "glowType": "buttonOverlay",
+          "glowXOffset": 0,
+          "glowYOffset": 0,
+          "type": "subglow",
+          "useGlowColor": false
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "auranames": [
+              "Darkness"
+            ],
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "showClones": true,
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player",
+            "useName": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowDefensivesExternalsNotification and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "BXt(2nf3VXV",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useAdjustededMax": false,
+      "useAdjustededMin": false,
+      "useCooldownModRate": true,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 64,
+      "xOffset": 0,
+      "yOffset": 0,
+      "zoom": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "conditions": [],
+      "config": [],
+      "controlledChildren": [
+        "Interrupt",
+        "Interrupt Pet",
+        "Stop Single"
+      ],
+      "frameStrata": 1,
+      "id": "Demokratia - GG - Interrupts",
+      "information": [],
+      "internalVersion": 86,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG",
+      "regionType": "group",
+      "scale": 1,
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "zNXaPJHC6l8",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "do_sound": false
+        },
+        "init": [],
+        "start": {
+          "do_message": false,
+          "do_sound": false
+        }
+      },
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionInterruptHitAlarm",
+          "name": "Audible alarm on your interrupt hit/miss",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
+        {
+          "default": "Interface\\Addons\\Details\\sounds\\sound_gun2.ogg",
+          "key": "optionInterruptHitSound",
+          "media": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\AirHorn.ogg",
+          "mediaType": "sound",
+          "name": "Sound on interrupt hit",
+          "type": "media",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\shot.ogg",
+          "desc": "Avenger's Shield, etc.",
+          "key": "optionInterruptSecondaryHitSound",
+          "media": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\AirHorn.ogg",
+          "mediaType": "sound",
+          "name": "Sound on secondary interrupt hit",
+          "type": "media",
+          "useDesc": true,
+          "width": 1
+        },
+        {
+          "default": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\bigkiss.ogg",
+          "key": "optionInterruptMissSound",
+          "media": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\AirHorn.ogg",
+          "mediaType": "sound",
+          "name": "Sound on interrupt miss",
+          "type": "media",
+          "useDesc": false,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local willPlay\nwillPlay, aura_env.prevAlarm = PlaySoundFile(aura_env.config.optionInterruptHitSound, \"Master\")"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "show"
+              },
+              {
+                "trigger": 2,
+                "value": 1,
+                "variable": "show"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local willPlay\nwillPlay, aura_env.prevAlarm = PlaySoundFile(aura_env.config.optionInterruptMissSound, \"Master\")"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 0,
+                "variable": "show"
+              },
+              {
+                "value": 0,
+                "variable": "show"
+              },
+              {
+                "trigger": 2,
+                "value": 1,
+                "variable": "show"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": true
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local willPlay\nwillPlay, aura_env.prevAlarm = PlaySoundFile(aura_env.config.optionInterruptSecondaryHitSound, \"Master\")"
+              }
+            }
+          ],
+          "check": {
+            "trigger": 3,
+            "value": 1,
+            "variable": "show"
+          },
+          "linked": true
+        }
+      ],
+      "config": {
+        "optionInterruptHitAlarm": true,
+        "optionInterruptHitSound": "Interface\\Addons\\Details\\sounds\\sound_gun2.ogg",
+        "optionInterruptMissSound": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\bigkiss.ogg",
+        "optionInterruptSecondaryHitSound": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\shot.ogg"
+      },
+      "customTextUpdate": "event",
+      "displayText": "",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "id": "Interrupt",
+      "information": [],
+      "internalVersion": 86,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Interrupts",
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "destUnit": "mouseover",
+            "duration": "0.5",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "names": [],
+            "sourceUnit": "player",
+            "spellIds": [],
+            "spellName": 0,
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_INTERRUPT",
+            "type": "combatlog",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_destUnit": false,
+            "use_extraSpellId": false,
+            "use_genericShowOn": true,
+            "use_sourceFlags": false,
+            "use_sourceUnit": true,
+            "use_specific_destUnit": true,
+            "use_spellId": false,
+            "use_spellName": false,
+            "use_track": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "delay": 0.05,
+            "destUnit": "softenemy",
+            "duration": "0",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceUnit": "player",
+            "spellName": [
+              "Disrupt",
+              "Skull Bash",
+              "Mind Freeze",
+              "Spear Hand Strike",
+              "Rebuke",
+              "Counterspell",
+              "Pummel",
+              "Silence",
+              "Quell",
+              "Wind Shear",
+              "Kick",
+              "Counter Shot"
+            ],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "player",
+            "use_delay": true,
+            "use_destFlags2": false,
+            "use_destFlags3": false,
+            "use_destUnit": false,
+            "use_genericShowOn": true,
+            "use_sourceUnit": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "3": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "delay": 0.05,
+            "duration": "0",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceUnit": "player",
+            "spellName": [
+              "Avenger's Shield",
+              "Sigil of Silence",
+              "Divine Toll",
+              "Solar Beam"
+            ],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_INTERRUPT",
+            "type": "combatlog",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_delay": true,
+            "use_genericShowOn": true,
+            "use_sourceUnit": true,
+            "use_spellName": true,
+            "use_track": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionInterruptHitAlarm and (trigger[1] or trigger[2] or trigger[3])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "78KF2W44(Kc",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": {
+          "do_sound": false
+        },
+        "init": [],
+        "start": {
+          "do_message": false,
+          "do_sound": false
+        }
+      },
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionInterruptHitAlarm",
+          "name": "Audible alarm on your interrupt hit/miss",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
+        {
+          "default": "Interface\\Addons\\Details\\sounds\\sound_gun2.ogg",
+          "key": "optionInterruptHitSound",
+          "media": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\AirHorn.ogg",
+          "mediaType": "sound",
+          "name": "Sound on interrupt hit",
+          "type": "media",
+          "useDesc": false,
+          "width": 1
+        },
+        {
+          "default": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\shot.ogg",
+          "desc": "Avenger's Shield, etc.",
+          "key": "optionInterruptSecondaryHitSound",
+          "media": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\AirHorn.ogg",
+          "mediaType": "sound",
+          "name": "Sound on secondary interrupt hit",
+          "type": "media",
+          "useDesc": true,
+          "width": 1
+        },
+        {
+          "default": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\bigkiss.ogg",
+          "key": "optionInterruptMissSound",
+          "media": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\AirHorn.ogg",
+          "mediaType": "sound",
+          "name": "Sound on interrupt miss",
+          "type": "media",
+          "useDesc": false,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local willPlay\nwillPlay, aura_env.prevAlarm = PlaySoundFile(aura_env.config.optionInterruptHitSound, \"Master\")"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 1,
+                "variable": "show"
+              },
+              {
+                "trigger": 2,
+                "value": 1,
+                "variable": "show"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": false
+        },
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local willPlay\nwillPlay, aura_env.prevAlarm = PlaySoundFile(aura_env.config.optionInterruptMissSound, \"Master\")"
+              }
+            }
+          ],
+          "check": {
+            "checks": [
+              {
+                "trigger": 1,
+                "value": 0,
+                "variable": "show"
+              },
+              {
+                "value": 0,
+                "variable": "show"
+              },
+              {
+                "trigger": 2,
+                "value": 1,
+                "variable": "show"
+              }
+            ],
+            "trigger": -2,
+            "variable": "AND"
+          },
+          "linked": true
+        }
+      ],
+      "config": {
+        "optionInterruptHitAlarm": true,
+        "optionInterruptHitSound": "Interface\\Addons\\Details\\sounds\\sound_gun2.ogg",
+        "optionInterruptMissSound": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\bigkiss.ogg",
+        "optionInterruptSecondaryHitSound": "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\shot.ogg"
+      },
+      "customTextUpdate": "event",
+      "displayText": "",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "id": "Interrupt Pet",
+      "information": [],
+      "internalVersion": 86,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Interrupts",
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "destUnit": "mouseover",
+            "duration": "0.5",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "names": [],
+            "sourceUnit": "pet",
+            "spellIds": [],
+            "spellName": 0,
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_INTERRUPT",
+            "type": "combatlog",
+            "unit": "player",
+            "use_absorbHealMode": true,
+            "use_absorbMode": true,
+            "use_destUnit": false,
+            "use_extraSpellId": false,
+            "use_genericShowOn": true,
+            "use_sourceFlags": false,
+            "use_sourceUnit": true,
+            "use_specific_destUnit": true,
+            "use_spellId": false,
+            "use_spellName": false,
+            "use_track": true,
+            "use_unit": true
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "delay": 0.05,
+            "destUnit": "softenemy",
+            "duration": "0",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "sourceUnit": "pet",
+            "spellName": [
+              "Spell Lock",
+              "Axe Toss"
+            ],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_SUCCESS",
+            "type": "combatlog",
+            "unit": "player",
+            "use_delay": true,
+            "use_destFlags2": false,
+            "use_destFlags3": false,
+            "use_destUnit": false,
+            "use_genericShowOn": true,
+            "use_sourceUnit": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionInterruptHitAlarm and (trigger[1] or trigger[2])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "n4LhGNs0zgQ",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": {
+          "do_sound": false,
+          "sound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\SharpPunch.ogg"
+        }
+      },
+      "anchorFrameType": "SCREEN",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionSingleStopAlarm",
+          "name": "Audible alarm on your single stop cast",
+          "type": "toggle",
+          "useDesc": true,
+          "width": 1.3
+        },
+        {
+          "default": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\SharpPunch.ogg",
+          "key": "optionSingleStopSound",
+          "media": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\AirHorn.ogg",
+          "mediaType": "sound",
+          "name": "Sound on single stop",
+          "type": "media",
+          "useDesc": false,
+          "width": 0.7
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [
+        {
+          "changes": [
+            {
+              "property": "customcode",
+              "value": {
+                "custom": "local willPlay\nwillPlay, aura_env.prevAlarm = PlaySoundFile(aura_env.config.optionSingleStopSound, \"Master\")"
+              }
+            }
+          ],
+          "check": {
+            "trigger": 1,
+            "value": 1,
+            "variable": "show"
+          },
+          "linked": false
+        }
+      ],
+      "config": {
+        "optionSingleStopAlarm": true,
+        "optionSingleStopSound": "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\SharpPunch.ogg"
+      },
+      "customTextUpdate": "event",
+      "displayText": "",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "Friz Quadrata TT",
+      "fontSize": 12,
+      "frameStrata": 1,
+      "id": "Stop Single",
+      "information": [],
+      "internalVersion": 86,
+      "justify": "LEFT",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Interrupts",
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "destUnit": "mouseover",
+            "duration": "0.5",
+            "event": "Combat Log",
+            "genericShowOn": "showOnCooldown",
+            "names": [],
+            "sourceUnit": "player",
+            "spellIds": [],
+            "spellName": [
+              "Imprison",
+              "Bash",
+              "Paralysis",
+              "Repentance",
+              "Storm Hammer",
+              "Sleepwalk",
+              "Hammer of Justice",
+              "Repentance"
+            ],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_AURA_APPLIED",
+            "type": "combatlog",
+            "unit": "player",
+            "use_destFlags2": false,
+            "use_destFlags3": false,
+            "use_destUnit": false,
+            "use_genericShowOn": true,
+            "use_sourceUnit": true,
+            "use_specific_destUnit": true,
+            "use_spellName": true,
+            "use_track": true
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionSingleStopAlarm and (trigger[1])\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "x6Fr(DbRvkD",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "align": "CENTER",
+      "alpha": 1,
+      "anchorFrameType": "UIPARENT",
+      "anchorPoint": "CENTER",
+      "animate": true,
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "arcLength": 360,
+      "authorOptions": [],
+      "backdropColor": [
+        1,
+        1,
+        1,
+        0.5
+      ],
+      "border": false,
+      "borderBackdrop": "Blizzard Tooltip",
+      "borderColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "borderEdge": "Square Full White",
+      "borderInset": 1,
+      "borderOffset": 4,
+      "borderSize": 2,
+      "centerType": "LR",
+      "columnSpace": 1,
+      "conditions": [],
+      "config": [],
+      "constantFactor": "RADIUS",
+      "controlledChildren": [
+        "Encounter Name",
+        "Encounter  Puller"
+      ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "frameStrata": 1,
+      "fullCircle": true,
+      "gridType": "RD",
+      "gridWidth": 5,
+      "grow": "DOWN",
+      "id": "Demokratia - GG - Encounter",
+      "information": [],
+      "internalVersion": 86,
+      "limit": 5,
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "parent": "Demokratia - GG",
+      "radius": 200,
+      "regionType": "dynamicgroup",
+      "rotation": 0,
+      "rowSpace": 1,
+      "scale": 1,
+      "selfPoint": "TOP",
+      "semver": "1.0.236",
+      "sort": "none",
+      "sortHybridTable": {
+        "Encounter  Puller": false,
+        "Encounter Name": false
+      },
+      "space": 2,
+      "stagger": 0,
+      "stepAngle": 15,
+      "subRegions": [],
+      "tocversion": 110205,
+      "triggers": [
+        {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "event": "Health",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "aura2",
+            "unit": "player"
+          },
+          "untrigger": []
+        }
+      ],
+      "uid": "TvgA0KlE8OG",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "useLimit": false,
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "xOffset": -0.0001220703125,
+      "yOffset": 235
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameType": "UIPARENT",
+      "anchorPoint": "CENTER",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowEncounterStart",
+          "name": "Show Encounter Started Notification",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "optionShowEncounterStart": true
+      },
+      "customTextUpdate": "event",
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%1.encounterName\n",
+      "displayText_format_1.encounterName_format": "none",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_1.name_format": "none",
+      "displayText_format_2.encounterName_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "PT Sans Narrow",
+      "fontSize": 36,
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Encounter Name",
+      "information": [],
+      "internalVersion": 86,
+      "justify": "CENTER",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        }
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Encounter",
+      "regionType": "text",
+      "selfPoint": "CENTER",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "duration": "5",
+            "event": "Encounter Events",
+            "eventtype": "ENCOUNTER_START",
+            "message": "pulled",
+            "messageType": "CHAT_MSG_SYSTEM",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "event",
+            "unit": "player",
+            "use_delay": false,
+            "use_encounterName": false,
+            "use_eventtype": true,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowEncounterStart and trigger[1]\nend",
+        "disjunctive": "custom"
+      },
+      "uid": ")vEBc5)Qtnf",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "wordWrap": "WordWrap",
+      "xOffset": 0,
+      "yOffset": 0
+    },
+    {
+      "actions": {
+        "finish": [],
+        "init": [],
+        "start": []
+      },
+      "alpha": 1,
+      "anchorFrameFrame": "WeakAuras:Encounter Name",
+      "anchorFrameType": "SELECTFRAME",
+      "anchorPoint": "BOTTOMLEFT",
+      "animation": {
+        "finish": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "main": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        },
+        "start": {
+          "duration_type": "seconds",
+          "easeStrength": 3,
+          "easeType": "none",
+          "type": "none"
+        }
+      },
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "optionShowEncounterStart",
+          "name": "Show Encounter Started Notification",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        }
+      ],
+      "automaticWidth": "Auto",
+      "color": [
+        0.45098042488098,
+        0.45098042488098,
+        0.45098042488098,
+        1
+      ],
+      "conditions": [],
+      "config": {
+        "optionShowEncounterStart": true
+      },
+      "customTextUpdate": "event",
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
+      "displayText": "%1.name",
+      "displayText_format_1.message_format": "none",
+      "displayText_format_1.name_format": "none",
+      "displayText_format_2.encounterName_format": "none",
+      "displayText_format_p_format": "timed",
+      "displayText_format_p_time_dynamic_threshold": 60,
+      "displayText_format_p_time_format": 0,
+      "displayText_format_p_time_legacy_floor": false,
+      "displayText_format_p_time_mod_rate": true,
+      "displayText_format_p_time_precision": 1,
+      "fixedWidth": 200,
+      "font": "PT Sans Narrow",
+      "fontSize": 36,
+      "frameStrata": 1,
+      "height": 200,
+      "id": "Encounter  Puller",
+      "information": [],
+      "internalVersion": 86,
+      "justify": "CENTER",
+      "load": {
+        "class": {
+          "multi": []
+        },
+        "size": {
+          "multi": []
+        },
+        "spec": {
+          "multi": []
+        },
+        "talent": {
+          "multi": []
+        },
+        "use_never": false
+      },
+      "outline": "OUTLINE",
+      "parent": "Demokratia - GG - Encounter",
+      "regionType": "text",
+      "selfPoint": "TOPLEFT",
+      "semver": "1.0.236",
+      "shadowColor": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "shadowXOffset": 1,
+      "shadowYOffset": -1,
+      "subRegions": [
+        {
+          "type": "subbackground"
+        }
+      ],
+      "tocversion": 110205,
+      "triggers": {
+        "1": {
+          "trigger": {
+            "custom": "function()\n    return true\nend",
+            "customName": "function ()\n    return GMRT and GMRT.A.WhoPulled.db.whoPulled or \"\"\nend\n\n\n",
+            "custom_hide": "timed",
+            "custom_type": "event",
+            "debuffType": "HELPFUL",
+            "duration": "2",
+            "dynamicDuration": false,
+            "event": "Health",
+            "events": "TRIGGER:2",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "custom",
+            "unit": "player"
+          },
+          "untrigger": []
+        },
+        "2": {
+          "trigger": {
+            "debuffType": "HELPFUL",
+            "delay": 2,
+            "duration": "2",
+            "event": "Encounter Events",
+            "eventtype": "ENCOUNTER_START",
+            "message": "pulled",
+            "messageType": "CHAT_MSG_SYSTEM",
+            "message_operator": "find('%s')",
+            "names": [],
+            "spellIds": [],
+            "subeventPrefix": "SPELL",
+            "subeventSuffix": "_CAST_START",
+            "type": "event",
+            "unit": "player",
+            "use_delay": true,
+            "use_encounterName": false,
+            "use_eventtype": true,
+            "use_message": true,
+            "use_messageType": false
+          },
+          "untrigger": []
+        },
+        "activeTriggerMode": -10,
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.optionShowEncounterStart and trigger[1]\nend",
+        "disjunctive": "custom"
+      },
+      "uid": "GFp(JCRUjar",
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
+      "wagoID": "Tu1FwxLmF",
+      "width": 200,
+      "wordWrap": "WordWrap",
       "xOffset": 0,
       "yOffset": 0
     },
@@ -2490,6 +8944,7 @@
       "controlledChildren": [
         "Demokratia - GG - Dispel - PartyUnit"
       ],
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007",
       "frameStrata": 1,
       "fullCircle": true,
       "gridType": "RD",
@@ -2520,8 +8975,11 @@
       "rowSpace": 1,
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "sort": "none",
+      "sortHybridTable": {
+        "Demokratia - GG - Dispel - PartyUnit": false
+      },
       "space": 2,
       "stagger": 0,
       "stepAngle": 15,
@@ -2543,10 +9001,10 @@
         }
       ],
       "uid": "Zj1iUZ828nY",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAnchorPerUnit": true,
       "useLimit": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -2928,7 +9386,7 @@
         "dispelWidthRatio": 0.25
       },
       "desaturate": false,
-      "desc": "--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+      "desc": "Author: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n",
       "frameStrata": 1,
       "height": 1,
       "id": "Demokratia - GG - Dispel - PartyUnit",
@@ -2962,7 +9420,7 @@
       "rotate": false,
       "rotation": 0,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -2994,8 +9452,8 @@
         "activeTriggerMode": -10
       },
       "uid": "qKqjgAJkIEq",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 1,
       "xOffset": 0,
@@ -3095,7 +9553,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -3114,8 +9572,8 @@
         }
       ],
       "uid": "Fo0H)2oA)K1",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -3168,7 +9626,24 @@
           "type": "none"
         }
       },
-      "authorOptions": [],
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
+        {
+          "default": true,
+          "key": "showMasterSlaveButton",
+          "name": "Show MASTER/SLAVE button",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 1
+        }
+      ],
       "automaticWidth": "Auto",
       "color": [
         1,
@@ -3204,7 +9679,10 @@
           "linked": true
         }
       ],
-      "config": [],
+      "config": {
+        "enableDemokratiaSequencerGUI": true,
+        "showMasterSlaveButton": true
+      },
       "cooldown": true,
       "cooldownEdge": false,
       "cooldownSwipe": false,
@@ -3272,7 +9750,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -3364,16 +9842,16 @@
           }
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return trigger[1] and not trigger[3]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
-        "disjunctive": "any"
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and aura_env.config.showMasterSlaveButton and trigger[1]\nend\n\n--[[\nAuthor: Krunde 2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "disjunctive": "custom"
       },
       "uid": "jtKuocX2zBQ",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -3458,7 +9936,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -3477,8 +9955,8 @@
         }
       ],
       "uid": "gQ0jDfmfgsR",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -3589,7 +10067,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -3619,11 +10097,11 @@
         "disjunctive": "any"
       },
       "uid": "f9eJgtv9wpP",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -3736,7 +10214,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -3778,11 +10256,11 @@
         "disjunctive": "any"
       },
       "uid": "YBWTxkBaFn7",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -3871,7 +10349,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -3890,8 +10368,8 @@
         }
       ],
       "uid": "rXw4mUW0ktc",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": -100
@@ -4056,7 +10534,7 @@
       "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -4080,8 +10558,8 @@
         "activeTriggerMode": -10
       },
       "uid": "5s4An8d8Nsj",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -4228,7 +10706,7 @@
       "parent": "Demokratia - Krunde says... INTERRUPT client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -4252,8 +10730,8 @@
         "activeTriggerMode": -10
       },
       "uid": "MAuy0p1Z(GH",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -4534,7 +11012,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "source": "import",
       "spark": false,
       "sparkBlendMode": "ADD",
@@ -4790,10 +11268,10 @@
         "disjunctive": "custom"
       },
       "uid": "yK1jasuw6oS",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -4848,6 +11326,14 @@
         }
       },
       "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
         {
           "default": true,
           "desc": "Announce \"NEXT INTERRUPT\" with text-to-speech if it is your turn to INTERRUPT next",
@@ -4984,6 +11470,7 @@
         }
       ],
       "config": {
+        "enableDemokratiaSequencerGUI": true,
         "ttsNextInterrupt": true
       },
       "cooldown": true,
@@ -5053,7 +11540,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -5220,16 +11707,16 @@
           }
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return (trigger[1] and not trigger[3])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and (trigger[1] and not trigger[3])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": "VKUPW2yJxrZ",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -5404,7 +11891,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -5510,12 +11997,12 @@
         "disjunctive": "custom"
       },
       "uid": "OeOsPd)2Pdr",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -5565,7 +12052,16 @@
           "type": "none"
         }
       },
-      "authorOptions": [],
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        }
+      ],
       "automaticWidth": "Auto",
       "color": [
         1,
@@ -5573,55 +12069,10 @@
         1,
         1
       ],
-      "conditions": [
-        {
-          "changes": [
-            {
-              "property": "chat",
-              "value": {
-                "message": "SILENCED",
-                "message_type": "TTS",
-                "message_voice": 0
-              }
-            }
-          ],
-          "check": {
-            "checks": [
-              {
-                "trigger": -1,
-                "value": "function()\n    return aura_env.config.ttsSilenced == true\nend",
-                "variable": "customcheck"
-              },
-              {
-                "checks": [
-                  {
-                    "op": "==",
-                    "trigger": 1,
-                    "value": 1,
-                    "variable": "show"
-                  },
-                  {
-                    "trigger": 2,
-                    "value": 1,
-                    "variable": "show"
-                  },
-                  {
-                    "trigger": 3,
-                    "value": 1,
-                    "variable": "show"
-                  }
-                ],
-                "trigger": -2,
-                "variable": "OR"
-              }
-            ],
-            "trigger": -2,
-            "variable": "AND"
-          },
-          "linked": false
-        }
-      ],
-      "config": [],
+      "conditions": [],
+      "config": {
+        "enableDemokratiaSequencerGUI": true
+      },
       "cooldown": true,
       "cooldownEdge": false,
       "cooldownSwipe": false,
@@ -5689,7 +12140,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -5818,16 +12269,16 @@
           "untrigger": []
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return trigger[1] or trigger[2] or trigger[3]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and (trigger[1] or trigger[2] or trigger[3])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": "4Gn35ux7Ego",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 28,
       "wordWrap": "WordWrap",
@@ -5925,7 +12376,7 @@
       "rowSpace": 1,
       "scale": 0.5,
       "selfPoint": "LEFT",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "sort": "none",
       "sortHybridTable": {
         "Demokratia - Krunde says INTERRUPT client interrupts after current": false
@@ -5951,9 +12402,9 @@
         }
       ],
       "uid": "c8pugQ9PVz6",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useLimit": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": -64,
       "yOffset": -32
@@ -6003,7 +12454,16 @@
           "type": "none"
         }
       },
-      "authorOptions": [],
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        }
+      ],
       "automaticWidth": "Auto",
       "color": [
         1,
@@ -6026,7 +12486,9 @@
           }
         }
       ],
-      "config": [],
+      "config": {
+        "enableDemokratiaSequencerGUI": true
+      },
       "cooldown": true,
       "cooldownEdge": false,
       "cooldownSwipe": false,
@@ -6094,7 +12556,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -6186,16 +12648,16 @@
           }
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": "CPjftpXgIfH",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -6280,7 +12742,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -6299,8 +12761,8 @@
         }
       ],
       "uid": "9MNQfKr3Rhx",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -6346,6 +12808,14 @@
         }
       },
       "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
         {
           "default": 2,
           "desc": "Minimum number of clients to enable sending data from server. Requires UI RELOAD.",
@@ -6402,6 +12872,7 @@
       "conditions": [],
       "config": {
         "customPrioUnit": 1,
+        "enableDemokratiaSequencerGUI": true,
         "minNumberClients": 2,
         "stopPriorities": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
         "trackNonClients": true
@@ -6463,7 +12934,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -6493,11 +12964,11 @@
         "disjunctive": "any"
       },
       "uid": ")gjYg9dOg2q",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -6610,7 +13081,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -6652,11 +13123,11 @@
         "disjunctive": "any"
       },
       "uid": "i(kh9Go26hi",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -6742,7 +13213,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -6761,8 +13232,8 @@
         }
       ],
       "uid": "ZKll2iQxDnE",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -6813,6 +13284,14 @@
         }
       },
       "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
         {
           "default": true,
           "desc": "Announce \"NEXT STOP\" with text-to-speech if it is your turn to STOP next",
@@ -6963,6 +13442,7 @@
         }
       ],
       "config": {
+        "enableDemokratiaSequencerGUI": true,
         "ttsNextStop": true,
         "ttsStopCasts": true
       },
@@ -7033,7 +13513,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -7282,16 +13762,16 @@
           }
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return trigger[1] and not trigger[3]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and (trigger[1] and not trigger[3])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": "0RgK2AxGwps",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -7342,6 +13822,14 @@
         }
       },
       "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
         {
           "default": true,
           "desc": "Announce \"DELAYED STOP\" with text-to-speech if any SILENCE is active",
@@ -7397,6 +13885,7 @@
         }
       ],
       "config": {
+        "enableDemokratiaSequencerGUI": true,
         "ttsStopped": true
       },
       "cooldown": true,
@@ -7466,7 +13955,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -7588,16 +14077,16 @@
           "untrigger": []
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return trigger[1] or trigger[2]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and (trigger[1] or trigger[2])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": "5PG4l1I4GQt",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 28,
       "wordWrap": "WordWrap",
@@ -7695,7 +14184,7 @@
       "rowSpace": 1,
       "scale": 0.5,
       "selfPoint": "LEFT",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "sort": "none",
       "sortHybridTable": {
         "Demokratia - Krunde says STOP client stops after current": false
@@ -7721,9 +14210,9 @@
         }
       ],
       "uid": "GA1oLo0ZEfG",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useLimit": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": -64,
       "yOffset": -32
@@ -7771,7 +14260,16 @@
           "type": "none"
         }
       },
-      "authorOptions": [],
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        }
+      ],
       "automaticWidth": "Auto",
       "color": [
         1,
@@ -7852,7 +14350,9 @@
           "linked": true
         }
       ],
-      "config": [],
+      "config": {
+        "enableDemokratiaSequencerGUI": true
+      },
       "cooldown": true,
       "cooldownEdge": false,
       "cooldownSwipe": false,
@@ -7920,7 +14420,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -8012,16 +14512,16 @@
           }
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": "8fA)uWNJbG6",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -8412,7 +14912,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -8547,12 +15047,12 @@
         "disjunctive": "any"
       },
       "uid": "b1p4ngL0EYa",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -8637,7 +15137,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -8656,8 +15156,8 @@
         }
       ],
       "uid": "0pbcGjqBDHs",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -8793,7 +15293,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -8823,11 +15323,11 @@
         "disjunctive": "any"
       },
       "uid": "UgbAIDJAWtp",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -8940,7 +15440,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -8982,11 +15482,11 @@
         "disjunctive": "any"
       },
       "uid": "ZzFvYKq0flA",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -9071,7 +15571,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -9090,8 +15590,8 @@
         }
       ],
       "uid": "bZ7on8YAb(w",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 100
@@ -9144,6 +15644,14 @@
         }
       },
       "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
         {
           "default": true,
           "desc": "Announce \"NEXT SILENCE\" with text-to-speech if it is your turn to SILENCE next",
@@ -9374,6 +15882,7 @@
         }
       ],
       "config": {
+        "enableDemokratiaSequencerGUI": true,
         "ttsInterruptCasts": false,
         "ttsNextSilence": true,
         "ttsNoMoreInterrupts": false
@@ -9445,7 +15954,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -9726,16 +16235,16 @@
           "untrigger": []
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return (trigger[1] and not trigger[3])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and (trigger[1] and not trigger[3])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": "rbsrJbYzwH7",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -9786,6 +16295,14 @@
         }
       },
       "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        },
         {
           "default": true,
           "desc": "Announce \"SILENCED\" with text-to-speech if any SILENCE is active",
@@ -9852,6 +16369,7 @@
         }
       ],
       "config": {
+        "enableDemokratiaSequencerGUI": true,
         "ttsSilenced": true
       },
       "cooldown": true,
@@ -9921,7 +16439,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -10050,16 +16568,16 @@
           "untrigger": []
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return trigger[1] or trigger[2] or trigger[3]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and (trigger[1] or trigger[2] or trigger[3])\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": "WfvCJqDslZ5",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 28,
       "wordWrap": "WordWrap",
@@ -10157,7 +16675,7 @@
       "rowSpace": 1,
       "scale": 0.5,
       "selfPoint": "LEFT",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "sort": "none",
       "sortHybridTable": {
         "Demokratia - Krunde says SILENCE client interrupts after current": false
@@ -10183,9 +16701,9 @@
         }
       ],
       "uid": "IZyTun5s9qe",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useLimit": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": -64,
       "yOffset": -32
@@ -10234,7 +16752,16 @@
           "type": "none"
         }
       },
-      "authorOptions": [],
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        }
+      ],
       "automaticWidth": "Auto",
       "color": [
         1,
@@ -10312,7 +16839,9 @@
           "linked": true
         }
       ],
-      "config": [],
+      "config": {
+        "enableDemokratiaSequencerGUI": true
+      },
       "cooldown": true,
       "cooldownEdge": false,
       "cooldownSwipe": false,
@@ -10380,7 +16909,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -10472,16 +17001,16 @@
           }
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": ")refSVVCIj2",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 64,
       "wordWrap": "WordWrap",
@@ -10566,7 +17095,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -10585,8 +17114,8 @@
         }
       ],
       "uid": "MICMMM6WeMz",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -10713,7 +17242,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -10743,11 +17272,11 @@
         "disjunctive": "any"
       },
       "uid": "F38ytJc6)Kd",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -10890,7 +17419,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -10932,11 +17461,11 @@
         "disjunctive": "any"
       },
       "uid": "etEMOGHUOn)",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -11020,7 +17549,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -11039,8 +17568,8 @@
         }
       ],
       "uid": "YL4SzNdv5sy",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 200
@@ -11135,7 +17664,7 @@
       "rowSpace": 1,
       "scale": 0.5,
       "selfPoint": "LEFT",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "sort": "none",
       "sortHybridTable": {
         "Demokratia - Krunde says MARKER client marker": false
@@ -11161,9 +17690,9 @@
         }
       ],
       "uid": "(p(enz6dC)V",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useLimit": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": -64,
       "yOffset": 0
@@ -11213,7 +17742,16 @@
           "type": "none"
         }
       },
-      "authorOptions": [],
+      "authorOptions": [
+        {
+          "default": true,
+          "key": "enableDemokratiaSequencerGUI",
+          "name": "Enable Demokratia Sequencer GUI",
+          "type": "toggle",
+          "useDesc": false,
+          "width": 2
+        }
+      ],
       "automaticWidth": "Auto",
       "color": [
         1,
@@ -11237,7 +17775,9 @@
           }
         }
       ],
-      "config": [],
+      "config": {
+        "enableDemokratiaSequencerGUI": true
+      },
       "cooldown": true,
       "cooldownEdge": false,
       "cooldownSwipe": false,
@@ -11305,7 +17845,7 @@
       ],
       "regionType": "icon",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -11397,16 +17937,16 @@
           }
         },
         "activeTriggerMode": -10,
-        "customTriggerLogic": "function(trigger)\n    return trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
+        "customTriggerLogic": "function(trigger)\n    return aura_env.config.enableDemokratiaSequencerGUI and trigger[1]\nend\n\n--[[\nAuthor: Krunde 19/06/2025\n\nGNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n]]",
         "disjunctive": "custom"
       },
       "uid": "zxCB)O4kv8G",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 23.6,
       "wordWrap": "WordWrap",
@@ -11509,7 +18049,7 @@
       "parent": "Demokratia - Krunde says... MARKER client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -11535,8 +18075,8 @@
         "activeTriggerMode": -10
       },
       "uid": "C32z0PqwhlT",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -11619,7 +18159,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -11638,8 +18178,8 @@
         }
       ],
       "uid": "RT9Jxjp99DC",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -11718,7 +18258,7 @@
       "parent": "Demokratia - Krunde says... FOCUS",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -11742,8 +18282,8 @@
         "activeTriggerMode": -10
       },
       "uid": "9H5D8HSD5lh",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -11855,7 +18395,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -11897,11 +18437,11 @@
         "disjunctive": "any"
       },
       "uid": "SusAqxilY9a",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -11986,7 +18526,7 @@
       "regionType": "group",
       "scale": 1,
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": [
@@ -12005,8 +18545,8 @@
         }
       ],
       "uid": "oY314P)VDx1",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "xOffset": 0,
       "yOffset": 0
@@ -12091,12 +18631,13 @@
           "multi": []
         },
         "use_group_leader": true,
-        "use_ingroup": true
+        "use_ingroup": true,
+        "use_never": false
       },
       "parent": "Demokratia - Krunde says... FOCUS client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -12122,8 +18663,8 @@
         "activeTriggerMode": -10
       },
       "uid": "(f)ywmemn74",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -12504,7 +19045,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "BOTTOM",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "shadowColor": [
         0,
         0,
@@ -12567,12 +19108,12 @@
         "disjunctive": "custom"
       },
       "uid": "CSrJKDUywY9",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
       "useTooltip": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 23.6,
       "wordWrap": "WordWrap",
@@ -12674,12 +19215,13 @@
         "talent": {
           "multi": []
         },
-        "use_ingroup": true
+        "use_ingroup": true,
+        "use_never": false
       },
       "parent": "Demokratia - Krunde says... FOCUS client GUI",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -12705,8 +19247,8 @@
         "activeTriggerMode": -10
       },
       "uid": "1IesNLZ2Wo1",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13097,7 +19639,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13357,8 +19899,8 @@
         "disjunctive": "any"
       },
       "uid": "Z30xx9n5fL6",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13470,7 +20012,7 @@
       ],
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [
         {
           "type": "subbackground"
@@ -13500,11 +20042,11 @@
         "disjunctive": "any"
       },
       "uid": "IDd61lqmHtQ",
-      "url": "https://wago.io/Tu1FwxLmF/235",
+      "url": "https://wago.io/Tu1FwxLmF/237",
       "useAdjustededMax": false,
       "useAdjustededMin": false,
       "useCooldownModRate": true,
-      "version": 235,
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13577,7 +20119,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13601,8 +20143,8 @@
         "activeTriggerMode": -10
       },
       "uid": "uiOj4Yh)KuP",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13676,7 +20218,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13700,8 +20242,8 @@
         "activeTriggerMode": -10
       },
       "uid": "VZ8ubF3f8Sq",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13773,7 +20315,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13797,8 +20339,8 @@
         "activeTriggerMode": -10
       },
       "uid": "mKl2MZWZdso",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13870,7 +20412,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13894,8 +20436,8 @@
         "activeTriggerMode": -10
       },
       "uid": "BsUYM6slbeX",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -13968,7 +20510,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -13992,8 +20534,8 @@
         "activeTriggerMode": -10
       },
       "uid": "0t6(mubORph",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -14065,7 +20607,7 @@
       "parent": "Demokratia - Krunde says...",
       "regionType": "empty",
       "selfPoint": "CENTER",
-      "semver": "1.0.234",
+      "semver": "1.0.236",
       "subRegions": [],
       "tocversion": 110205,
       "triggers": {
@@ -14089,8 +20631,8 @@
         "activeTriggerMode": -10
       },
       "uid": "7EsqLuZKmZX",
-      "url": "https://wago.io/Tu1FwxLmF/235",
-      "version": 235,
+      "url": "https://wago.io/Tu1FwxLmF/237",
+      "version": 237,
       "wagoID": "Tu1FwxLmF",
       "width": 200,
       "xOffset": 0,
@@ -14181,7 +20723,7 @@
     "regionType": "group",
     "scale": 1,
     "selfPoint": "CENTER",
-    "semver": "1.0.234",
+    "semver": "1.0.236",
     "subRegions": [],
     "tocversion": 110205,
     "triggers": [
@@ -14200,8 +20742,8 @@
       }
     ],
     "uid": "KsJiyc6zpSN",
-    "url": "https://wago.io/Tu1FwxLmF/235",
-    "version": 235,
+    "url": "https://wago.io/Tu1FwxLmF/237",
+    "version": 237,
     "wagoID": "Tu1FwxLmF",
     "xOffset": 130,
     "yOffset": 263
