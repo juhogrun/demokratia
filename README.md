@@ -1,6 +1,9 @@
 Documentation: https://demokratia.live
+
 Releases: https://wago.io/Tu1FwxLm
+
 Related Plater Profile: https://wago.io/bk6O00RkH
+
 Source: https://github.com/juhogrun/demokratia
 
 Combat UI mod that includes all the essential tools a PUG group needs in a Mythic+ dungeon. Includes a robust stop, silence and interrupt sequencer that can replace a group secretary staring at OmniCD timers and yelling to others what he sees.
