@@ -2,7 +2,13 @@ Documentation: https://demokratia.live
 
 Releases: https://wago.io/Tu1FwxLm
 
-Related Plater Profile: https://wago.io/bk6O00RkH
+Plater Profile: https://wago.io/bk6O00RkH
+
+Grid2 Profile: https://github.com/juhogrun/demokratia/blob/main/demokratia-grid2-profile.lua
+
+Grid2 Plugins: https://www.curseforge.com/wow/addons/grid2-dispellablerealtime
+
+OmniCD Profile: https://github.com/juhogrun/demokratia/blob/main/demokratia-omnicd-profile.lua
 
 Source: https://github.com/juhogrun/demokratia
 
