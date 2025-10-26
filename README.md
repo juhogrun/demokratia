@@ -1,6 +1,6 @@
 Documentation: https://demokratia.live
 
-Releases: https://wago.io/Tu1FwxLm
+Releases: https://wago.io/Tu1FwxLmF
 
 Plater Profile: https://wago.io/bk6O00RkH
 
